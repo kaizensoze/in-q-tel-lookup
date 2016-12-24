@@ -2,4 +2,4 @@
 
 Simple script to regex capture contents of url.
 
-theHarvester required. Add it to your PATH.
+theHarvester is required: https://github.com/laramies/theHarvester
