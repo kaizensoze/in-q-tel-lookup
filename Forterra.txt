@@ -1,0 +1,111 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Matt Brown
+Matthew Wayman
+Mark Carpenter
+Joel Fink
+Greg Snowman
+Jana Shook
+Rick Rhodes
+Dustin Kruger
+Darren Wise
+Arturo Chavarria
+Charles Rivera
+Scott Szwejbka
+Mike Shipley
+Jason Duncan
+Lori Martin Browne
+Plamen Jordanoff
+Stephen Harrison
+Brian Gregory
+Luis Santana
+Skip Swenson
+Gene Duvernoy
+fred Larson
+Sandy Theisen
+Grant Johnson
+Rob Clements
+Jeff Bradley
+Sunil Dudi
+Cassie Fowler
+Edward Sexe
+Elizabeth Johnston
+Charles Jordan
+Lindsay Fromme Hanna
+Jeff Killin
+Steve Barnes
+Sherry Prowda
+Jordan Rash
+Scott Manor
+Oliver Delery Jr
+Regina Fields
+Jason Klein
+Barry Cobb
+Joshua Fisher
+Andre Deveau
+Derrick Huntley
+Mike Holmberg
+Joe Tipton
+Randy Wilson
+Helen Newberry
+Corey Haeder
+Charles Ward
+Margaret Tyson
+Brian Boxley
+Monty Harrup
+Andy DesLoges
+Jill Scheffer
+Anna Malakoff
+Phillip Simpson
+Lacee Beasley
+Thad Cleckler
+Jason Bell
+Jim Wigley
+Hayes Swinney
+Courtney Westmoreland
+Ben Guyatt
+Matthew Pearson
+Rick Langguth
+Shatish Dasani
+Dan Markee
+Jason Lambert
+Lukas Salyer
+Terry Yamada
+Craig Hemerda
+Leda Chahim
+Marcus Barnett
+Jon Watte
+Jen McElmeel
+Brad Borst
+Todd Keppler
+Billy Wallin
+Sheila V Griffin
+Jason Hewatt
+Nick Bratton
+Ken Beul
+Barry Bauer
+Darren Schmidt
+Darcey Hughes
+Ashley Wilson
+George Stewart
+Max Fuller
+Ashok Kumar
+Judy Blanco
+Marco Mallia

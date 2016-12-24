@@ -1,0 +1,54 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Michael Warner
+P. Hartley Brown
+Piotr Kulczakowicz
+Jake Roberts
+Mick Amelishko
+vamsi krishna
+Michael Martak
+afrose khan
+Varun Sood
+Allan Miller
+Elaine Zuo
+David Stone
+Alpha Lau
+LifeCode Health Science Pvt. Ltd
+Robert Marzulli
+Darryl Israel
+Cynthia Reese
+Jocelyn Burnett-Parham
+Erma Duricko
+Danielle Deruise
+Robert Velardi
+Kristina Kljajic
+Hartley Brown
+Edgar Banuelos
+Maggie Goudsmit
+John Glenn
+Tes G
+Marjorie Walker
+Allan Miller
+Emma Woods
+Nathan Mak
+Seul-Gi Yang
+JIALIANG WANG
+Hasan Diwan
+JIALIANG WANG

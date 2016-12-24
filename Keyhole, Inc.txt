@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Brian McClendon
+Sue Cozzo
+Mathieu de Fayet
+Toni Wenks
+Avi Bar-Zeev
+Juan Carlos Cattaneo
+David Langlois
+Frank Robles
+Jessica Wei
+William Kilday
+W. Leon Smith
+Yashwanth Uppuluri
+Brad Cundy
+Michael Jones
+Ron Lodge
+Joseph Post
+Angus Dorbie
+Brandon Klimek
+Dr. Carole Inge
+Kevin Gough
+Shu Osada
+John Holland
+Kari Hakso
+Todd Crosby
+Christopher Tanner
+David Pitt
+Dean Enslinger
+Saif Ajani
+Tom Drozd
+Donna Beger
+Brad Hall
+Chikai Ohazama
+Chris Adema
+Jill Landin
+Mark Fricke
+Masiyang Luo
+Chris DeSalvo
+Chad Cundy
+Katie Pivik
+Ivan Fuller
+Dave Spaulding
+Ron Moddesette
+Roger Martin
+Dave Elton
+John Boardman
+Bruno Bowden
+John Hanke
+Quan Cho
+Jorge Paredes
+Ryan McCullough
+Susan Walsh
+Dr. Carole Inge
+Rob Painter
+Garrett Hopper
+Dave Lorenzini
+Shannon McElyea
+Abe Ankumah
+Mark McPartland
+Angus Dorbie
+James Bradley
+Jeff Haller
+Tracy Murphy
+Jeremie Lever
+Lisa Roh
+Matt McCandless
+JEAN BINGHAM
+Spike Watson
+Greg Greer
+Faith Marasco
+Adam Hegewald
+Jessica Wei
+Michelle Kaisersatt
+Julie LaFrance
+Josh Savage
+Robin Ziegler
+Wennie Tabib
+Sylvain Gross
+Chris Berry
+Tim Trapp
+Amir Banifatemi
+Michael Jones
+Megan J Smith
+Lou Mauget
+David Kelly
+Billy Posey
+Sara Arias-Steele
+James Kopec
+Timothy J. Maguire
+David Pitt
+Dillon Welch
+Wes Douglas
+Lawrence Chabela
+Wesley Norris
+Ryan LaRue

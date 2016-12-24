@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jason Kahn
+Mark Fedeli
+Chris Carlson
+Thomas Nguyen
+Jeoff Wilks
+Randy Wood
+Adam Edelman
+Mauricio Renzi
+Tanner Ezell
+Paul Tarau
+Harleen Sahni
+Bryan Brandt
+Dave Renouf
+Thomas Foughner
+Daniel Tower
+Mark Maleski
+Aileen Kara Hudspeth
+Innaya Kauser
+George Kirby
+Kris Gholson
+hayley gardner
+Suter Charles
+Keith Jenkins
+Chandra Neogy
+Mia Bonhomme
+Nick Goldsworthy
+Terrance MacGregor
+Warren Choi
+Chris Bradley
+wilson pietri
+James Kenney
+Bill Unverferth
+Greg Barrett
+Fabi Espino
+Hany Mina
+sameh hassan hassan
+Chris Walton
+Nick Bassiliades
+Esteban Aguilar
+Veronica Pastorino
+Christopher Surridge
+Travis Parsley
+Michelle Chow
+Michael Connor
+Fred Stoki
+Rineke Verbrugge
+Andrew Gouldey
+Frank McCabe
+Cloutier Robert
+Arun Majumdar
+Arth Shah
+ANKIT SHAH
+Suzanne Larkins
+Alex Zavorski
+Brian Lee
+Guido Governatori
+Cesar Maldonado
+Subrata Das
+Kevin Lochner
+Vivian Hanna Georgees
+Koen Hindriks
+Jia Tao
+Wally Lake
+Balaganesh Swaminathan
+Michael Winikoff
+Eric Metzker
+Filiz Kartal
+Daniel Rosser
+Jonathan Nesbitt
+Vu Lam Cao
+David Brooks
+Craig Elkin
+Kalliopi Kravari
+Anna Steffeney
+Heather Porter
+Douglas Miles
+Michael J Newton
+Adrian Stack
+Tim Matthew
+Guillaume Piolle
+Michael Crowther
+Lynn Mitchell
+Marc van Zee
+Keira Maguire
+Samuel Bucheli
+Adam Hahn
+Victor Havin
+Test Dummy
+Thomas Mason
+Shep McKee
+Simon Webb
+Rineke Verbrugge
+freddie mugisha
+Diane Marousek

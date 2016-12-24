@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Mark Palmer
+Eddie Galvez
+Jim Campbell
+Richard Tibbetts
+Justin Fry
+venkat reddy
+Alexander Lushnikov
+Steven Warwick
+Miguel Fuentes Buchholtz
+Emily Pan
+Hayden Schultz
+Barton Wright
+Kevin Higgins
+James Tomkinson
+Mark Karuzis
+Jonny Orton
+Arun Naik
+Wenbin Xiao
+Justin Weir
+Steve Barber
+Mark Bannon
+Jorge Cordero
+Naomi Seyfer
+Jim Mulcahey
+Alex Henson
+Terrence Kim
+Hui Zheng
+Nathaniel Mishkin
+Steven Yang
+Ruei-Hsin Hsiao
+Matt Fowles
+Edward Yang
+George Dragoi
+Deborah Tristao
+Hari Kilakkencherry
+Truls Ole Baklid
+Rick Tacelli
+John Partridge
+Satvinder Singh Panesar
+Juan Manuel Barrio Monte
+Anjan Kumar Das
+Eddie Galvez
+Alan Sutherland
+John Smart
+Dhairyasheel Shindepatil
+Jefferson Dias de Carvalho
+Jason Valenzano
+Mark Wolters
+Samuel Moore
+Jeffrey Paul Themanis
+Bill Hobbib
+Katherine Nelson
+John Giffin
+Paul Harmon
+Ignacio Goya Olivera
+Ian Ynda-Hummel
+David Rydzewski
+Alexander Taussig
+Darryn Ross
+Chris Risley
+Drew Zagieboylo
+Demetrio Molinero Mingorance
+Avi Tenzer
+Sandeep Dingria
+Tom Lloyd
+Paul Laight
+Nicholas Brown
+Maureen Condon
+Shailendra Mishra
+Alex Kozlenkov
+Mark Simons
+Joan Friedman
+Zhaokun Xue
+Sangamesh Watage
+Gary Limongello
+Amedeo Furno
+Mikeldi Latorre Monton
+Yuncheng Shen
+Patrick Gilligan
+Pradeep Gade
+Mark Baltier
+Aditya Verma
+Vy Nguyen
+Muhammad Khan
+Eddie Galvez
+Adrien Gracia
+Christoph Teufel
+Jeff Laretto
+Glen Carleton
+Ann Wald
+Serge Rizov
+Jennifer Kennedy
+Zafar Iqbal
+Andy Leung
+Erik Currin

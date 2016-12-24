@@ -1,0 +1,112 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Stevan Jovanovich
+Kevin Bebak
+David King
+Bobby White
+Roger McIntosh
+David White
+Mark Agloro
+Debara Lutkenhouse-Frost
+Jim Klevenberg
+Dennis Harris
+Ken Gilmore
+Roy Swiger
+Mattias Luukkonen
+David Smith
+Andrew McAllister
+Stefanie Gangano
+Charles Troup
+Justus Wunderle
+Omar El-Sissi
+Kaiwan Chear
+Corey Smith
+Charles Park
+Stephen Williams
+Nicholas Andrews
+Arni Barican
+Florence Miaolin
+Mattias Vangbo
+Gina Porsee
+Jacklyn Buscaino
+Robert Schueren
+Ariana Ramos
+Pat Cohan
+Carman Upshaw
+Nancy Stainton
+Jeff Hudson
+Rick Sykes
+Francesca Pearson
+Trish Silva
+Sally Smith
+Bob Barrett
+Jeff Heimburger
+Grace Lee
+Jay Therrien
+Chris Contonis
+James Gangwish
+Urosh Jovanovich
+Dan Murphy
+Brian Ciopyk
+John Buscaino
+Chris Church
+Neelima Mehendale
+Annette Saffeels
+Tony Tran
+John Murphy
+Nic Noome
+Jennifer Yoldi
+Lori K. Hennessy
+Alexander P. Kindwall
+Michael Recknor
+Scott Nelson
+Brett Corrie
+Deborah Long
+ezra van gelder
+Robert Courter
+Howard Goldstein
+Dean Tsou
+Timothy Look
+Mehrdad Nafisi
+Rudy S. Boleslav
+Helen Franklin
+Trish Silva
+Louis Grever
+Dino Valdecanas
+Mark Keller
+Kay Strohl
+James Ogg
+John Maher
+Yuan Li
+Kiptonui Chirchir
+Dieu Nguyen
+Jim Riker
+Hilda Danvers
+Frank Lin
+Larry Kopjak
+Brian Matthews
+Megan Liamos
+Robert Pringle
+Ross Guarnera
+Mimi Kent
+Iris Diaz
+Denise Holloway
+Peter Ashcroft
+Dave Oehler

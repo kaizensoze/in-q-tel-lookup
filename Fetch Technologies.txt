@@ -1,0 +1,109 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Greg Barish
+Yigal Arens
+John Seyfert
+Tyler Breisacher
+Mike Horowitz
+Michael Walker
+Anthony Mancinelli
+Rick Parker
+Sorin Ticrea
+Komal Wazir
+Tom Williams
+Daniel Franco
+Martha Pease
+Timo Kissel
+Steve Minton
+Bernadette Minton
+Bryan Pelz
+Zachary Miller
+Robert Landes
+Ryan Mulholland
+James Choi
+Scott Allison
+Jerry Thurber
+Jeffrey Hoffer
+Jon Simmons
+Jenson Crawford
+Nave Koren
+Neha Kansal
+Daniel W. Goldberg
+Crosby Steiner
+Gary Hirschhorn
+Ali Bandukwalla
+Ken Hanscom
+Jim Marczyk
+Michelle Kowalski
+Shivanand Kini
+Prabakaran Murugaiah
+Robert Sansom
+Craig Burns
+Heidi Wagner
+Jennifer Beach
+Audrey McCarthy
+Debra A. Hunter
+Gabriela LuGrain-Gray
+Dave Adam
+Gordon Myers
+Sangeetha Raman
+Nils Vinje
+Craig Knoblock
+Andrew Walker
+Jake Roach
+William Chen
+Gary MacKinnon
+Phouthon Siharat
+Joshua Lovett
+Pui Gazen
+John McGee
+Seema Tailor
+Melonee Wise
+David Refsland
+Aubrey Nash
+Scott Vanek
+Griswald Brooks
+Olena Hozdetska
+Kate Becker
+Cenk Gazen
+Grace Lin
+Madhura Deshmukh
+Jeeva Ratnathicam
+Sean M. Hawver
+Dan Davidow
+Elizabeth James
+Tyler Heinzelmann
+Dae Hee Hwang
+Grant Koeneke
+m.Michelle Mesh
+Jarad Medbery
+Muneeb Bokhari
+Shannon Foster
+Greg Hamilton
+Luke Fenstermacher
+Eric Odland
+Madeleine Pincu
+Mila Piedra
+Miki Kim
+Will Fike
+Muneeb Wasti
+Jean Oh
+Jay Cowan
+Frank Huybrechts

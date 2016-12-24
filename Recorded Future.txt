@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jason Hines
+Peter Luscko
+Glenn Wong
+Christopher Ahlberg
+Nagraj Seshadri
+Patrick Raymond
+Will Kidwell
+Levi Gundert
+Chris Holden
+Matt Kodama
+Scott Almeida
+Conor Mooney
+Tyler Bradshaw
+Bill Ladd
+Nicholas Espinoza
+Greg Barrette
+Jess E. Willard
+Julie Starnes
+Jeffrey Hamill
+Aaron Caballero
+Erin Byrne
+Justin Cleveland
+Jacklyn Schay
+Caroline Pugliesi
+Scott Donnelly
+Faith Oliver
+Garth Griffin
+Matt Bright
+Hayley Liebmann
+Chris Pace
+Dan Buckley
+Amanda McKeon
+Sam McGrail
+Zachary Flom
+Alexi Phillipson
+Jon Stephenson
+Bridget McCarthy
+David Sauer
+Daniel Langkilde
+Sarah Smith
+Hannah Marshall
+Jesse Fish
+Paul Hadgett
+Gili Gonczarowski
+Sandy Moloney
+Kaleigh Laventure
+Magnus Lundgren
+Eric Dikeman
+Dan Truitt
+Fredrik Eriksson
+Michael Mohler
+Derek Flodin
+Seth Whitten
+Elias Ladopoulos
+Vishal Doshi
+Morgan Palmer
+Erik Wistrand
+Monica Todros
+David Moon
+Drew Berghane
+Jim Bandanza
+Jim Clemens
+Alan Said
+Allison Myers
+Michel Edkrantz
+Michael O. DiBella
+Petter Eriksson
+Chris Wachel
+David Peduto
+Aubrey Walsh
+Taylor Berghane
+Christopher Ahlberg
+Rado Petsov
+Filip Reesalu
+Christopher Saltys
+Adam Craigie
+Jana Lind
+Wendy DeLuca
+Martin Olsson
+Andy Palmer
+Tanya Widen
+Aaron Ladd
+Marie Brattberg
+Peter Erhard
+CW Walker
+Matthew Swift
+Christopher Lynch
+Nils Munk Wirell
+Rich Miner
+Paul Hadgett
+Patrick Murphy
+Tara Dooley
+Leah Young
+Christopher Gusty
+Eric Severson

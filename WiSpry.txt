@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Shawn Cunningham
+Jeff Hilbert
+Art Morris
+Pete Good
+Vincent Cheung
+Andy V Tran
+Brad Nelson
+Jose Saucedo
+Dana DeReus
+Marten Seth
+Emmanuel Ngompe
+David Molinero Giles
+Mandy Cheung
+Ilija Vitomirov
+Saravana Natarajan
+Steve Watkins
+Cyndie Murphy
+Christophe Masse
+Samantha Caporal Del Barrio
+Victor Steel
+Peter Maimone
+Tan Luu
+Qizheng Gu
+Samira Aghaei
+Yvonne S.Y. Heng
+Li Sun
+Mark Becker
+Simon Stanev
+Jorgen Bojer
+Tung Vo
+John McKillop
+Maria Rosinski
+Mark Chapman
+David DeRoo
+Thomas Nguyenphuoc
+Joungsub Shin
+Kishore Singavarapu
+John Scott
+Michael Papesh
+Brian Hurst
+Mark Czepiel
+Jim Hartman
+Rameen Hadizadeh
+Peter Madsen
+Andy V Tran
+Roger Tay
+Russ Garcia
+Michael S. Wu
+Russ Johnsen
+Norlito Baytan
+Arthur Cappon
+Bruce Wilcox
+Randy Gumabong
+Bruce Wilcox
+Long Sam
+Wilska Kari-Pekka
+Alex Trandle
+Danny Yeap
+Thomas Nguyenphuoc
+Ulrik Riis Madsen
+James Smith
+Art Morris
+Ed Healy
+John Levy
+Kerrance Carpenter
+Dunham Williams
+Shane Igo
+Andy V Tran
+Javier R. De Luis
+Robert Adam
+Gernot Hueber
+Archana Krishnan
+Jorgen Bojer
+Rameen Hadizadeh
+Jin Qiu
+Renee Tafoya-Chrena
+Michelle Le
+Rita Trivedi
+Victor Wilkerson
+Frank Nicosia
+Flemming Boisen
+John Huang
+Dan Kagey
+Art Morris
+Nathan Krueger
+Amir Esmaili
+Christopher Steed
+Simon Stanev
+Jerry Laskowski
+Shawn Cunningham
+Tan Luu
+Christophe Masse
+David Molinero Giles
+Shawn Cunningham

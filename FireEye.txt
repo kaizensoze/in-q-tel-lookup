@@ -1,0 +1,111 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Julie Cullivan
+Ashar Aziz
+Zheng Bu
+Barbara Massa
+Vitor Souza
+Bret Brasso
+Alexa King
+Manish Gupta
+John McGee
+Jason Martin
+Kevin Mandia
+Richard Bejtlich
+Grady Summers
+Jeff Williams
+Bryce Boland
+Ken Gonzalez
+Mike Berry
+Dave Merkel
+Shane McGee
+Shweetha Krishna
+Dave DeWalt
+Rajiv Raghunarayan
+Joshua Goldfarb
+Michael Huynh
+Will Green
+Kara Wilson
+Tony Cole
+Vijaya Kaza
+Ryan Brichant
+Tony Lee
+Eric Hoh
+Richard Turner
+Kaushal Dalal
+Kelly Cody
+Berlyann Paz
+Dan Wire
+Nhien Le
+Craig Rosen
+Chul Yim
+Jen Weedon
+Darshna Kamani
+Christopher Lehman
+Jim Lawrence
+Ashley Murdock
+Marissa Arruda
+Christopher Porter
+John Chase
+Sarah Woods
+Amitha Alva
+Travis Reese
+Paul Canty
+Laura Galante
+Krista Gray
+Holly Rollo
+Adam Palmer
+John Quinn
+Helene Vieyra
+Michael Smith
+Frank Verdecanna
+Nart Villeneuve
+Aaron Cherrington
+Alex Lawrence
+Dan Cottrell
+Neeraj Kulkarni
+Christina Foley
+Alex Lanstein
+Jimmy Su
+Morgan Kyauk
+Rudolph Araujo
+Ali Mesdaq
+Alan Sanderson
+Arvind Ahuja
+Therese Coutermarsh
+Michael Montoya
+Bobby Guttikonda
+Kevin Bordlemay
+Varun Jain
+Steve Harris
+Mansi Singh
+Jason Meller
+James Bennett
+Nik Churchley
+Ramya Parashar
+Ruby Sharma
+Swarup Selvaraman
+Gauri Nigam
+Kate Patterson
+Stephanie Boo
+Paul Milton
+Gary Ross
+Craig Anthony
+Darien Kindlund

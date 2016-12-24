@@ -1,0 +1,68 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Dan Klevisha
+Stephen Senturia
+David Day
+Richard Crocombe
+Igor Nazarov
+Ashley Gelineau
+Duane Sword
+dan klevisha
+brian mitchell
+Frederick Haibach
+Chandra Mouli Ramani
+Dan Youngner
+Peter Mottla
+Igor Nazarov
+Suzanne Schreyer
+Eric Jahn
+Peter Mottla
+Suzanne Schreyer
+Bernd Guggolz
+Lily Kim
+Abraham McAllister
+Jim Knowles
+Malcolm Smith
+Martha Schermer
+Jon Tibbetts
+Brian Doherty
+Kristin Alexander
+Jeff Christian
+Grant Pritchard
+Christine Tong
+brian mitchell
+Luke McCaffrey
+Simon Watson
+Ken Nightingale nightingale
+James Smith
+David Enright
+Igor Nazarov
+CHAD WEBER
+Todd Rose
+Nancy Fauci
+Tracy Wang
+Julie Dimakou
+Igor Nazarov
+Abraham McAllister
+Chet Som
+Diego Henao
+Igor Nazarov
+Todd Rose
+Peter Mottla

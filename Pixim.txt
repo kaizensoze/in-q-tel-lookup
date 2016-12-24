@@ -1,0 +1,110 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Chris Adams
+John Monti
+Leslie Wat
+Joe Peery
+Casey McMullen
+James Carroll
+Bruce Johnson
+Daniel Shaul
+Ann Peng
+James Harden
+Jeannie Hiatt
+Bob Weinschenk
+James Harden
+Justin Reyneri
+Fred Brady
+Michael Montalbo
+Le Nguyen
+John Keller
+Siew Thomas
+Usha Friedrich
+Paul Perez
+David Jenne
+Vincent Ward
+Santiago Fernandez-Gomez
+Alfred Chou
+Vladimir Koifman
+Craig Robinson
+Craig Holden
+Junesoo Han
+Francis Tilmont
+Valorie Windsor
+Yacov Broit
+John Bernstein
+Jerry Goodwin
+Hui Tian
+Jennifer Martin
+Alfred Chou
+Naftaly Sharir
+Ricardo Motta
+Anel Dadlani
+Samantha Domville
+Siew Thomas
+Todd Rockoff
+Joe Devlin
+Valorie Windsor
+Christophe Gagneux
+David Hoff
+Sony Israel
+Brian P. Lowery
+Joe Souza
+Lee Hirsch
+Arie Gavriely
+Brian Carey
+Siew Thomas
+Zudun Tang
+William Bidermann
+Abhinav Nippuleti
+Benjamin Olding
+Juho Kim
+Steven M. Bidermann
+Mike Klein
+Robert Siegel
+Lavanya Jandhyala
+Tushar Malwankar
+Ariel Ben-Shem
+Terri Sawdon
+David Miller
+Qiang Li
+Ben R
+Robert Masik
+Bob Weinschenk
+Andrew Bailey
+Jeff Jones
+vinod reddy
+Zach ROUAULT
+Elton Sherwin
+Iris Nikas
+Joe Montalbo
+Todd Rumaner
+Paul Kramer
+Francis Gingras
+Gil Erlich
+Anne Banta
+Felix Abarca
+Jeannie Hiatt
+Paul Huntley
+Jan Biggs
+Maher Shenouda
+Vincent Trinh
+Gloria Reiss
+David Yang

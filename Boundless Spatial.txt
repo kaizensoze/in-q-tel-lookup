@@ -1,0 +1,110 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Andy Dearing
+Wes Richardet
+Sara Safavi
+Alison Drain
+Anthony Calamito
+Aaryn Olsson
+Brian Monheiser
+David Patrick
+Bernice E. Colyandro
+Zach Rouse
+Aaron Miller
+Red Curry
+Parker Spence
+Kalen Furrer
+Sean Sullivan
+Brody Stout
+Soumya Sengupta
+Jody Garnett
+Thomas Ingold
+Jon Hankes
+Reggie Beckwith
+Vanessa Hamer
+David Hemphill
+Betsy Emmons
+Dave Gibbon
+Daniel Berry
+Clarence Davis
+Brody Stout
+Joseph Miller
+Sean Brady
+Monty Kickert
+Marc Cenac
+Alyssa Wright
+Emily Ashley
+Quinn Scripter
+Elizabeth Thiry
+Megan Tosh
+Jeffrey Johnson
+Camille Acey
+Morgan Thompson
+Jason Rydberg
+Luigi Pirelli
+Ilya Rosenfeld
+Kevin Smith
+Ian Tangert
+Richard Crissup
+Alexis Rhote
+Chris Del Pino
+Eddie Pickle
+Frank Rowe
+William Nordmann
+John VonBokel
+Gretchen Peterson
+Christina Hupy
+Glynnis Ritchie
+Giovanni Manghi
+Devon Tucker
+Benjamin Trigona-Harany
+Dustin Turpin
+daniella birch
+Marc Vloemans
+Tyler Battle
+Andrew Curtis
+Mark Toups
+David Vick
+Nathan Woodrow
+Vanessa Hamer
+Stacey Berry
+Andy Dearing
+David Winslow
+Brian Spencer Martin
+Amiram Rahav
+Mark Conn
+pGNOSIS Consulting
+Alexandre Neto
+Tom Ingold
+James Meyer
+Susan Kraenzle
+Gopal Rajaraman
+Dave Kelsey
+Eva Shon
+Andrea Aime
+kishore vepuri
+Elizabeth Thiry
+Kayla Faust
+Cameron Testerman
+Gary Kindle
+Kathy Hoang
+Ryan Weichelt
+Richard Fichter
+David Hemphill

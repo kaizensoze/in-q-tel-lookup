@@ -1,0 +1,58 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Sara Zulkosky
+Adam Gutman
+Carter Lavin
+Jim Treptow
+Sean Finnegan
+Dimitri Alexopoulos
+Jeanine Andricosky
+James Treptow
+Nancy Etkin
+Nancy Etkin
+Marie Russell
+amir ejbar
+Matthew Carls
+James Marshall
+Susan Morris
+Michael Gayle
+James Smith
+Sarah Bever
+Mary McManmon
+CTC-Al Glickman
+Gary Pate
+David Kruczynski
+JAMES TREPTOW
+Nancy Etkin
+Francisco Flores
+Jim Treptow
+James Treptow
+Prem Vijay
+augustin oguere
+Virender Chaudan
+Elizabeth Heintz
+Michael Gayle
+Joni Miller
+Earl Curtis
+Lee Abbott
+Yulya Jacky
+roberto salbego
+Clifford Trood
+Clare Fancourt

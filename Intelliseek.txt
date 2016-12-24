@@ -1,0 +1,93 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Natalie Glance
+Mike Nazzaro
+Brian Schlessinger
+Jay Stockwell
+Jeff Busdieker
+Kurt Riegger
+Jay Rampuria
+Jim Savage
+Robyn Dow
+Andrew Ferrigno
+Vaidhyanathan Venkiteswaran
+itzhak fisher
+Becky Hudepohl
+David Silver
+Amanda Stastny
+Bill Miller
+Kim Starks
+Sue MacDonald
+Greg Bishop
+Harpreet Chopra
+Cecilly Sears
+Tad Schweikert
+Leonard Lee
+Brandon Applegate
+Frank Hufnagel
+Kurt Riegger
+Jim Richards
+David Porter
+Chuck Grayer
+Kevin Parker
+Douglas Widmann
+Adam Roddy
+Sara Bedinghaus
+Pete Blackshaw
+Rosalee Rester
+Doug Pierce
+David Miller
+Deborah Lieske
+Treenah Kight
+Tim Thompson
+David Turnbull
+Robert Zielinski
+Deborah Lieske
+Rich Nelson
+Jeremy Pepper
+Kim Busdieker
+Pete Blackshaw
+Ed Walton
+Antony Seppi
+Eric Tey
+Todd Shafer
+John Cunningham
+Gregory Mcintyre
+DeWitt Cook
+David Miller
+Howard Singer
+Sue MacDonald
+Mandy Silverman
+Neil Chestnutt
+Phil Freund
+Mark Bunney
+Vaidhyanathan Venkiteswaran
+Joe Connolly
+Bill Wilder
+Michael Young
+Beth Mullett
+Mihai Moga
+Tim Boemker
+Todd Shafer
+Frederick Potetz
+Fred Held
+Sujay V
+Knic Ebel
+Todd Garvin

@@ -1,0 +1,110 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Sathya Padmanabhan
+John Wood
+Jun Li
+Michael Montemagno
+Dan Bowler
+Simone Bastioli
+Dan Ralston
+Adam Winter
+Jessi Johnson
+Aaron Akel
+Ron Evans
+Andy Kwon
+Patrick Hindle
+Kirk Kjellberg
+Guy Ball
+Chip Kitzmiller
+Don Bradfield
+Brad Lindseth
+Rick Sturdivant
+Ed Liang
+Mark Weisz
+Yonghui Shu
+Steven Hurwitz
+Vahid Miraftab
+Sandy St.John
+Bill Rosas
+Tony Nguyen
+Dr. Ajay Kumar Poddar
+Carla Campbell
+Bob Schiffmann
+Joveth Manese
+John F Gerling
+Paul White
+Doug Snader
+Christopher Marki
+David Mann
+Kimberly Renee Alvarez
+Zai Feng Wang
+Jim Morgan
+Marek Antkowiak
+Mitch Salcido
+Ola Gustafsson
+Steve Van Dyke
+Alen Fejzuli
+Andy Cobin
+Joe Giesemann
+Paul Davidsson
+David Chambers
+Dominic Emilian
+Dan Swanson
+Raymond Pengelly
+Ashwini Datta
+John Hutchings
+Peter Sahjani
+Jake Bernstein
+ALLEN COTTEN
+John Guenard
+Henry H. Vo
+Fernando Aguirre
+Aaron Palacios
+Tom Birks
+Jim Rigsby
+Amin Momeni
+Duane Harvey
+Sharon David
+Tom Campbell
+Ernie DeVita
+Ed Godshalk
+Todd Cates
+Ron Barnett
+Diana Aristizabal
+Obie Johnson
+Scott Barker
+Keith Blaisdell
+Russell Alm
+William Nicklin
+Louis Seieroe
+Don Thinschmidt
+Carl Sheffres
+Phil Crouse
+Mehrdad Mehdizadeh
+Joseph Malaro
+Khaled Rashed
+Caroline McMahon
+Charles Lewis
+Lowell Hoover
+Don Wu
+Fredrich Lamprecht
+Jim Milligan
+Bob Hawkins
+ANICET GOSSAN

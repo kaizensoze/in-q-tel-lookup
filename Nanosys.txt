@@ -1,0 +1,110 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Andrew Filler
+Jason Hartlove
+Charlie Hotz
+Jeff Yurek
+Jared Lynch
+William Freeman
+Steve Gensler
+Jonathan Truskier
+Qing Song
+Oleg Grachev
+Jian Chen
+Bob Busse
+Daniel Barry
+Paul Altamirano
+Austin Smith
+Amanda Carpenter
+Zhongsheng Luo
+Aaron Baird
+Xiaofeng Zhang
+Nancy Raab
+Ashley Tantiwong
+Hugh Daniels
+Mara Brewer
+Shihai Kan
+Ophelia Skiver
+Veeral Hardev
+Michael Dooley
+David Pekarsky
+Martin Devenney
+Michael Niemeyer
+Jay Yamanaga
+Regis McKenna
+Adrienne van Haeften
+Bruce Berkoff
+Chris Alexander
+Tim Slugocki
+Christian Ippen
+Noland Granberry
+Christopher Sunderland
+Eileen Yi
+Jim Hildebrand
+Duyen Vu
+John Curley
+Anh Duong
+Ravisubhash Tangirala
+Cheri Pereira
+David Olmeijer
+Joshua Simmons
+Yan Li
+Heejae Kim
+Russell Kempt
+Madhuri Nallabolu
+Raj Khatri
+Tina Arruabarrena
+Bob Dubrow
+Kyle Shank
+Eric Wiggins
+Brian Yap
+Juergen Hoefler
+Baixin Qian
+Annie Chow
+Wally Parce
+Rose Beeler
+Stacey Chan
+Samuel Yeung
+Yimin Zhu
+Andrea Gonzales
+Steve Burton
+Donald Zehnder
+Benjamin Swain
+Erik Freer
+Jun Kang
+Jesse Manders
+Natalie Phanstiel
+Majid Ghafghaichi
+Matt Espinoza
+James Read
+Si Huynh
+Dalena Tran
+Michael Pachos
+Esther Li
+Victor Hsia
+Dave Stumbo
+Jacob Heaps
+Jagraj Singh
+Chunsheng Du
+Kao Saechao
+John Fowler
+Mona Perez
+Emma Tardiff
+Srikanth Ranganathan

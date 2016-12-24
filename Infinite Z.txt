@@ -1,0 +1,100 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Alan Altmann
+Justin Petro
+Mark Wilson
+Evelyne Mayritsch McCleland
+Leanne Refvik
+Ed Sesek
+Peter Dennis
+Hui Yang
+Joe Grover
+Yao Shen
+Martin Forbes
+Adib Jalal
+Zach Olsen
+Joe Don Shafer
+Steve Jaspar
+Cynthia Schmidt
+James Oby
+Scott Whitacre
+Jane Shi
+Warren Beck
+Bruce Bell
+Caleb Peterson
+Nman M.
+Cynthia Rath
+Nicholas Hamilothoris
+Al Willbrand
+Jeffrey Hoffman
+Maria Izdebska - Jul
+Kiley DeMond
+Bob Malitz
+Ireneusz Chudzik
+April Piercey
+Helen Alphaavid Walsh
+Scott Whitacre
+Lisa Montgomery
+Mariusz Sieraczkiewicz
+scott whitacre
+Joanna Mazur
+Anna Borowska-Szlaga
+Dariusz Wrona
+Przemyslaw Kreiser
+Anna Pietrzak
+Agata Zubala
+Eric Tripp
+Damian Pacek
+Carl Merritt
+Aneta Andruszkiewicz
+Diane Troyer
+Iryna Hryshchenko
+Marcin Solecki
+Krzysztof Szeniak
+Kenne Chisenga
+Tomasz Piotrowski
+Lixandra Hernandez
+Urszula Jakubczyk
+Joanna Mazur
+Brooke Curnutt Brooks
+Kevin Schroeder
+Matthew Black
+David Crawford
+Jose Maqueda
+Anjana Sahay Arora
+Kathy Rowell
+Halid Ziya Yerebakan
+Konrad Falkowski
+Meg Genoar
+Joanna Mazur
+Wrona Marcin
+Natalia Pietrowicz-Szopa
+Wendy Roberts
+Mateusz Twardowski
+Sophie Cikovsky
+Radek Gregorowicz
+Jacek Dudzik
+Piotr Synowiec
+Sabina Tokarczyk
+Robert Loomis
+Dariusz Malacki
+Katarzyna Panas
+Keith Williams
+Mariusz Batyra

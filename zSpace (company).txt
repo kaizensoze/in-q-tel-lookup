@@ -1,0 +1,117 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Mike Harper
+Amanda Austin
+Gregg Yedwab
+Alison Dykema
+Lisa Grippo
+Clifford Champion
+Ron Rheinheimer
+Scott Whitacre
+Pat Salstrand
+George Warren
+Ashley Alvarez
+David Chan
+Lance Vogler
+Jeff Kidd
+Kelly Empson
+Jennifer King
+Kristine George
+John Hochstatter
+Chaz Pillatsch
+Jonathan Harper
+Randy Ochs
+Alexandra Ellsworth
+Brooke Cashion
+Justin Smith
+Ed Baraf
+Christian Refvik
+Julia Petchey
+Karla Estrada
+Katherine Hartsell
+Florian Hunziker
+James Reeves
+Brett Johnson
+Katherine Andruha
+Patrick Polster
+Elizabeth Jean Poston
+Jason Benitez
+Elaine Leung
+Bill Mason
+Alex Lelievre
+Michael Albers
+Derrick Williams
+Mark Wilson
+Matthew Hamel
+David Cisneros
+Joe Powers
+J.R. Register
+Eric Musselman
+Sue Perpich
+Tom DuBois
+Tishiana Mann
+Rich Zhu
+Jon Therrien
+Dan Pechtol
+Johnnie Shuck
+Glenn R Esser
+Joseph Knight
+Riaz Rizvi
+James Faerron
+Leo Kuznetsov
+Dennis Kuznetsov
+Matt Sonic
+Leslie Oliver Karpas
+Amber Bryant
+Alan Gray
+Ashley Roland
+Angela Kargilis
+Katerina Wong
+Noah Fell
+Tania Gabbani
+Pia Rodil
+Glenn Anderson
+Nicole Aitken
+Benjamin Knoot
+Brendan Aanes
+Marcus D. Waters
+Stan Lim
+Anthony Ferguson
+Jack Liu
+John Ware
+Murugappan Venkat
+Jim Maricondo
+M.E. Francis
+Mitya Reznikov
+Kazuya Komon
+Zeb Hodge
+Joseph Powers
+Samira SADEGHI
+Adam Duncombe
+Lori Laqua
+Teri Engurasoff
+Mark Schreiber
+Stanley Katz
+John Holdener
+Eliot Bacon
+Barton Fiske
+Keenan Venuti
+Soumya Panda
+Dovie DeWeese

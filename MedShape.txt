@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jeremy Blair
+Jack Griffis
+Tim Nash
+Stephanie Smith
+Kurt Jacobus
+Doug Fee
+Helen Benedict
+Kathryn Smith
+Josh Ray
+Mateo Garcia
+David Safranski
+Ken Gall
+Don Griffin
+Chelsea Owen
+Clay Williams
+Christopher SD Lee
+Stephen Laffoon
+Chris Fair
+Stephanie Smith
+Katie Pitz
+April Nicole Thomas
+Hunter Strauss
+Dan Lange
+Jessica Hicks
+Shane Gizzi
+Roy Rusly
+Christopher Yakacki
+Boyd Wolf
+Nina Ybarra
+Edward Biehl
+Larry Brockhaus
+Sirisha Manam
+Taylor Robinson
+Harrison Jones
+Nathan Evans
+Christopher Roberts
+Jeff Tyber
+Reed Bartz
+Jhordan Gil
+Heidi Khalil
+Ariel Christensen
+Neil Bourgeois
+Jason Bourgeois
+Kelly Howard
+Sean Dixon
+Nicole Corey
+Ben Dease
+Geoffrey Higgs
+Roxanne Likos
+Katherine Parker
+Erin Cutts
+Caleb Voelkel
+Kyle Schadt
+M. Taylor Rose
+Victoria Geisler
+Kara Boucher
+Shelby White
+Rebecca Gabor
+Bill Zawrotny
+Emily Gregory
+Cecilia Lindqvist
+Faith Hindman
+Jennifer Gilyard
+Danny Guigou
+Gregory Ellson
+Winnie Cheng
+Jeremy Lim
+Katie Sassaman
+Wendy Arevalo-Kaylor
+Angelica Vega
+LaMesha Wren
+Charlina Kenney
+Nicole Jordan Lay
+Stephen Block
+Jaclyn Lock
+Marcellus Jackson
+Virginia Conger
+Matthew Martz
+Stephen Clawson
+Natalie A Lindsey
+Patricia Spence
+Dennis Stripe
+Jim Lorenzo
+Sherri Stola
+Sarthak Vaish
+Mike Williams
+Matthew Chambers
+Allen Chang
+Nikki Votaw
+Mariya Buharin
+Nicole Corey
+Mateo Garcia
+Nina Ybarra
+Jimmy Blanchard
+Cory Burdick

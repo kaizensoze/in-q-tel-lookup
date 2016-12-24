@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Bhana Grover
+Alexander Gizis
+Raj Haldar
+Damion Waltermeyer
+Brian Prodoehl
+Frank Pollard
+Kevin McCarthy
+Tiani Jones
+Michael Kane
+Nathan Gilbert
+David McCallister
+Jenny Marder
+Tushar Soni
+Samir Grover
+Andrew Lakata
+Cristian Miculi-Pop
+Scott Perkins
+Ryan Van Dongen
+Morgan Churchman
+Scott Ackerman
+Linda Pollard
+Demetrius Parker
+Darielle Brown-Davis
+Deep Shah
+Filip Larsson
+William McPherson
+Santosh Reddy
+Irish McIntyre
+Gaurav Sakhuja
+Ruud van Eck
+Mathias P. H. Christensen
+Abhishek Gupta
+Morgan Churchman
+Mark Tippin
+Ken Kim
+Raj Haldar
+Marygrace Blum
+Christopher Krook
+Pouguinipo Daniel WOAGOU
+Andrew Lakata
+Marcia Thompson-Preston
+Anurag Icici
+Dr. Henry Cole
+Abdul Aziz Alim
+Irene Fridman
+David Lewanda
+Yendou-Palu Kossi Lene
+Kenneth Bectell
+Yazmintile Totalmobile
+James Smith
+Rusty Roberts
+Daniel Pouguinipo WOAGOU
+Hanumant Ausare
+Dhaval Damniwala
+Elbeco Co
+Steven Partenio
+Michael Quatrani
+James Harker-Syren
+Pattawong Pansodtee
+Kapil Singh
+zakia sorgo
+Johnni Nikolajsen
+Yichi Li
+Yoga Loft
+Karim Hermes Ismael nguema adehan
+Agbessi Koshigan
+Linda Pollard
+Erika Maughan
+AMOUZOU Kodjovi Mawuli
+John Alessi
+Ashwin Manikandan
+Sanjul Singh
+Petraq Koka
+Luisa Contreiras
+Kimesh Gupta
+Ahmed Al-Badran
+Kristian Miculi
+Charise Green
+Demetrius Parker
+Faran Shah
+Mukhlis Zolkipli
+Joshua H. Coyne
+Ariadna Martinescu
+Melissa Gallo
+Tomas Rodriguez
+UMACHI ADIGHIBE
+Douglas Herman
+James Tabb
+yunhui wang
+Usman Ahmed
+Lesley Safer
+Stacy Kaczorowski
+Maquanda Davis
+Francis McInerney

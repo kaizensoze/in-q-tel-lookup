@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jordan Frank
+Gregory Lloyd
+Andrew Keller
+Lee Midgley
+Roger Fujii
+David Shepperton
+Christopher Nuzum
+Phillip Connaughton
+Norman Symcox
+Yuji Ohyama
+Jun Simmons
+Jonas Rosengren
+Michael Angeles
+Jordan Frank
+Greg Malpass
+Ahmad AlNaimi
+Tanuj Khandelwal
+Suk-Lee Winsor
+Benjamin Stell
+Chuck Lindgren
+Kellen Roach
+Gregory Lloyd
+Clay Upton
+John Chang
+Riley Strong
+Jordan Frank
+Eric Doberstein
+Paula Thornton
+Marco Gonzalez
+Taylor Ramsey
+Gopinath S
+Prashantha Krishna
+Scott Hoang
+Dave Hersh
+Kent Merrell
+Nader Sadeghi
+Stefan Suditu
+Ugur Keskin
+Brendan Eamer
+Christopher Karpyszyn
+Ludgi VINGATARAMIN
+James Montagna
+Tyson Verstraete
+Jason Wandersee
+Wayne Tomlinson
+Preet Minhas
+Steve Gonyea
+Karen Crow
+Daniel Bernard
+Jeremy Horan
+Nemanja Savic
+Adam Singer
+Brett Smentek
+Jennifer Wicklein
+Petr Malek
+Peter Dixon
+Thibaut Lafont
+Justin Mares
+Nicholas Pappagalo
+Helen Grace
+Zoe Cremin
+Lenn Kurtzman
+Lou Guercia
+Peter Wilmot
+Dana Harris
+Steven Challis
+Fahed Ismail
+Daniel Chait
+Luis Aburto
+Kevin Heflin
+Chris White
+Vikram Desai
+Brad Wilde
+Khurtsbold Tsoodol
+Faun Winter
+Apoorv Bansal
+Neil Kandalgaonkar
+Hans Feindt
+Rob Carpenter
+Dan Carabias
+Sirisha Gopisetty
+Madan Jalla
+Ellen Ashdown
+newt weiss
+Lloyd Gregory
+Jordan Frank
+Gavin Martin
+Sean Walter
+An-Lon Chen
+Asif Shariff
+Greg Lloyd
+Gregory Lloyd
+Chuck Bordman
+Ankur Kalra
+Greg Lloyd
+Slade Solobay

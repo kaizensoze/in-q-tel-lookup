@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jennifer Nguyen
+Jaime Galvan
+Alexander Landvater
+Kurt Carlson
+Chris Pontiga
+Kathleen Sorman
+Thinh Pham
+Fred Price
+Susie Sanchez
+Jeff Mack
+Richard DeMartini
+Michael Favet
+Ross Miller DDS MS
+Shawn Forsythe
+Kirsten Kozlovsky
+Lanna Tran
+Marisa Perales
+Thuy Huynh
+Greg Garfield
+Conny Barton
+Andrea L. Brown
+Arman Sidhu
+Richard Vicente
+Justin Favet
+Alexandra Marchetti
+David Hung
+Andrew Blair
+Trent Beagle
+Abi Basu
+Dan Longo
+Lynne Clarke
+Kamille Billings
+David McClung
+Mark Sobolik
+Mengjin Jin
+Mike Blanchard
+Danny Ha
+Jay Martin
+John Sadler
+Michelle Navarro
+Spencer Putnam
+Lila Raygoza
+Artin Sarraf
+Winnie Keller
+Naleen Lal
+Devin Anderson
+Anne Abreu
+Stephen Adams
+Genya Margulis
+Leah Ashley
+Jason Shelton
+Rich Vicente
+Stefania Blaga
+Brent Kelley
+Michael Hendricks
+Kajal Mathuria
+Richard Vicente
+John Farhat
+Jason Neuenschwander
+Aleksey Yeremin
+Tom Hannigan
+David Duszynski
+Nicole McCoig
+Elda Molina
+Maria Prado
+Abhijit Basu
+ABHIJIT BASU
+Frank Montez
+Josh Lucas
+Jason Mandic
+Francesca Centofanti
+Minh Tran
+Theo Ruijgh
+Alain Adam
+HP Park
+aaron zeff
+Lyle Lowder
+Jianchun Yi
+Andrew Johnson
+Ryan Lee
+Dina Bilsbury
+Thomas Nguyen
+Ricardo Uribe
+Rick Brosseau
+Laurie Dank
+Leonardo Lee
+Marin Favier
+Linda Galow
+Katherine Rinkes
+Amber Benson
+Ian Williams
+Chris Henderson
+Janet Segovia
+Jaime Galvan

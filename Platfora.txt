@@ -1,0 +1,116 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Peter Schlampp
+Mayank Pradhan
+Kevin Beyer
+Jason Zintak
+Ben Werther
+Beth Cole
+Denise Hemke
+Viviana Faga
+Hayden Hall
+Tim McGuire
+Robert DeMartino
+John Schuster
+Mike Liranzo
+Josh Och
+Jared Parker
+Raj Parmar
+Erik Schneider
+Yuri Daniels
+Tim Babcock
+Mike Asher
+Eric Rowell
+Genaro Rodriguez
+Sharon Cheung
+Molly Stamos
+Vignesh Sukumar
+Rob Rosen
+Wayne Like
+Misha Rutman
+Clark Brown
+Joe Ventura
+Brian Denker
+Courtney Johnson Anders
+James Mulholland
+Cris Domingo
+Duncan Paul
+Arslaan Shahid
+Prithvi Prabhu
+Andrew McNealy
+Andrey Balmin
+Kent Rubin
+Tim Sullivan
+Vu Nguyen
+Mark Melton
+Intekhab Nazeer
+Angelo Caruana
+Joseph Lee
+Jonathan Serencsa
+Edward Doyle
+Chris Riopel
+Usman Ghani
+Kendrick Heath
+Latha Colby
+Cynthia Fung
+Mustafa Rassiwala
+SHAN CHEN
+Ben Waltuck
+Ajay Mysore
+Ritu Tyagi
+David Fowler
+Bill Campbell
+Ronald Kaufman
+Deepa Prabhu
+David Littlewood
+Max Seiden
+Barry Tuthill
+Hans-Frederick Brown
+Bob Kelly
+Jo Lam
+Philip Kirk
+Darlene Sawyer
+Christopher Rak
+Aaron Klansek
+Jeremy Southers
+Eric Barre
+Christian Oshiro
+Rick Landry
+Angela Hickerson Hooper
+Tona Medina
+Chen Huang
+Honray Lin
+Mark Frigon
+Robin Adler
+Matt Van Zant
+Sive McDermott Kavanaugh
+Akon Dey
+John Herzog
+Joshua Barker
+Akshat Sharma
+Scott Ringwelski
+Yuqin Shao
+Stephanie Yuen
+srikanth bondalapati
+Hari Mahendrakumar
+Matt Chiasson
+Charles Sutton
+George Atkinson
+Naval Kumar Gupta

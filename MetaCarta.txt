@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Don Zereski
+Xavid Pretzer
+Brion Johnson
+Keith Baker
+Rax Dillon
+Steve Egan
+Grace Lang
+Areth Foster-Webster
+Geof Milstein
+Jeremy Greene
+Lonny Bedard
+Ron Matros
+Brian Major
+Lawrence Bedard
+John Donnelly III
+Andrew Conacher
+Ron Matros
+Roy Marvin
+Mark Eichin
+Joseph Malicki
+Claudine Bianchi
+Steve Zeoli
+Frank Pacione
+Robert Southard
+Roy Marvin
+Christopher Schmidt
+David Rolanti
+Rick Hutton
+Perry Stokes
+Neil Cahillane
+Todd Dixon
+David Baron
+Kay Sutter
+Beth Morrow
+Samuel Freilich
+Sreekrishnan Ramachandran
+John Gunshenan
+Chad Wagner
+Andrew Obermayer
+Jim Goodwin
+Steve Egan
+Houssem Eddine Bensalah
+Aseel Alber
+Mark Pagels
+Marc Meadows
+William Fisher
+Gregory A. Hulecki
+Josiah Strandberg
+Heidi Fox
+Schuyler Erle
+Mikel Maron
+Karl Wright
+Darren Cinti
+George Keith
+Mallory Nomack
+Keith Costorf
+Michael Itz
+Seth Gordon
+Jess Kozman
+Morgan Craft
+Ilya Sitnikov
+Payam Payandeh
+Andres Plaza
+Nisha Bhatt
+Kevin Jacques
+Kirk Lepke
+Joe Lind
+Rand Dusing
+Jen Selby
+Joe Turner
+Madeleine Thompson
+Winnie Henchey
+Greg Harris
+Preston Werntz
+Grace Lang
+Nicholas Pinney
+Zia Zaman
+Jay Eward
+Brian Snell
+Grace Lang
+Karl Ramm
+Scott Stroud
+Xavier Xia
+Jose Luis Serrano Castillejo
+Robbie Traube
+Kati Molnar
+Martin Luelmo
+Bill Rimmer
+Stephan Stipdonk
+Kali Pratt
+erik uzureau
+James Maupin
+Malima Wolf
+Rana Sherif
+Dave Cook

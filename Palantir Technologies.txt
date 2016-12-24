@@ -1,0 +1,117 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Juhi Heda
+Shyam Sankar
+William Ross Macrae
+Matt Long
+Craig Saperstein
+James Atkin
+Ankit Buddhiraju
+Jonty Kelt
+Eli Bingham
+William Barley
+Luong Hoang
+Sean Stenstrom
+Andrew Chang
+Peter Wilczynski
+Zack Sampson
+Michael Winlo
+Chip Emanuel
+Jesse Grodman
+Spencer Rivette
+John Wright
+Elena Cooper
+David Glazer
+Ryan Taylor
+Michael Reilly
+Bonnie McLindon
+Gautier Cloix
+Alex Smaliy
+Myles Recny
+Lawrence Jesper
+Evan Kelly
+Emanuel Ferm
+Pedro Sanzovo
+Vincent Bannister
+Emily Muhl
+Kristi Radzieta
+Ryan Xie
+Colleen E. Crawford
+Matthew Fedderly
+Travis Flittner
+Samuel Fendell
+Dan Moulton
+Bijan Moallemi
+Daniel Puller
+Adam Frank
+Derek Cicerone
+Robert Imig
+Josh Harris
+Andy Huang
+Kevin Kawasaki
+Shilpa Balaji
+Naytri Shroff
+Elaine Veksler
+David Skiff
+Matthew Steckman
+Karin Veltman Knox
+Burak Bekdemir
+Shreya Murthy
+Jason Kim
+Teng Fei Liao
+Thomas Bosco
+Gerard McAtamney  
+Michele Closs
+Arda Kara
+Akshay Krishnaswamy
+Steven Plunkett
+Van Le
+Winson Duong
+Laura Personick
+Nicole La Terza
+Corey Callahan
+Jacob Albertson
+Abby Lukacs
+Jana Flannery
+Andrew Lampert
+Lisa Brogan
+Ben Thomas
+Logan McClure
+Aditya Kumar
+Adrienne Murphy
+Antoine Llorca
+Paul Thoren
+Amy Cheung
+Jake W.
+Jessica Whitaker
+Gokul Subramanian
+Alexis McEvoy
+David Grimaldi
+Eric Rosenblum
+Clare Tully
+Brit Yonge
+Saad Abdali
+Callie Warren
+Andrew Higgins
+Raymond Brusca
+Akash Jain
+Margaret A. York
+ALEXANDER KARP
+Lily Sheung

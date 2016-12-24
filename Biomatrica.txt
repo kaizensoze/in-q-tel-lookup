@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Vasco Liberal
+Denise Mirabile
+Cecille Browne
+Michael Vengrow
+Greg Ford
+Shawn Lee
+Pankaj Singhal
+Rajeswari Ravichandran
+Nick Ecos
+Steven Wilkinson
+Fernando Gaspar
+Jeffrey Umotoy
+Lutfunnessa Shireen
+Paul Diaz
+Colin Powers
+Gerald Dodson
+Florence Lee
+Laetitia Richter
+Christine Kim
+Clifford McCarthy
+Joel Desharnais
+Marc Wycoco
+Robyn Raban
+Heath Balcer
+Matt Van Houten
+Jeff Whitmore
+Brian Baumann
+Andrew Lord
+Keith Bryant
+David Kulick
+Amber Murray
+Louis Chen
+Daniela Martino Roth
+Scott Whitney
+Dan Lu
+Ian Kerman
+Trisha Dowling
+Amber Hiranaka
+Judy Muller-Cohn
+Eran Levy
+Rolf Muller
+Jamie Romero
+Jenna Gould
+Tiffany Bazazzadegan
+Martin Latterich
+Lutfunnessa Shireen
+Marylinn Munson
+Vince Funari
+Neesha Patel
+Senait Ghirmai
+Brookelyn Haddock
+Gerald Dodson
+Albert Perez-Ladaga
+Knut Madden
+Brady Miller
+Phillip Nhan
+Kelly Paluch
+Toni Romo
+Andrew Lord
+Alec Johnson
+Pascal Bamford
+Angela Stassinopoulos
+Michael Vengrow
+Amy Uren
+William Whitney
+Massamba Sylla
+Lutfunnessa Shireen
+Gerald Dodson
+Sara Wirth
+John Henderson
+Bret Light
+Kai Brewer
+Joshua Bliesath
+Philip Ng
+Billy Law
+Mohamed Nabie Bayoh
+Francois Ferre
+Stephanie de los Rios
+Sapphire Realty
+Caitlin Worrell
+Victoria Arendt
+Mark Sarno
+Francois2 Marc
+Veronica Elder
+David Rubenson
+Joe Markee
+Todd Whiteford
+Bob Terbrueggen
+Keith Kolod
+Dan Wood
+Rosana Baird
+Yiwen Jan
+Sharron Ohgi
+Riccardo Pigliucci

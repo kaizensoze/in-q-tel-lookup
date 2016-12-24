@@ -1,0 +1,116 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Tim Estes
+Rob Metcalf
+Harry Schultz
+Jeff Rice
+Stephen M Epstein
+Roger Craig
+Jimmy Whitaker
+Matthew Russell
+Prakash Ramachandran
+Hal Andrews
+Jason Beck
+Kiran Narsu
+Adam Jaggers
+Sean Story
+Abe Danziger
+Charlie Penner
+John Moyer
+Johnny Kaye
+Eric Hansen
+Aaron Nelson
+Keith Massey
+Jeffrey Stansberry
+Kelly Collins
+Melanie Howard
+Kathleen DeKam
+Elizabeth Palmer
+Jason Yee
+Cristobal Conde
+Marten den Haring
+Jim Benton
+Christian Thomas
+Stefan Savov
+Liz Long
+Paul Alexander Clark
+Dorothy Currey
+Mike Higgs
+Dale Wilson
+Christopher Perro
+Andrew Trask
+Phillip Michalak
+Benjamen Brescka
+John Wagster
+Gary Llewellyn
+Patrick Brennan
+Mary Roberts
+Uday Reddy
+Mike Barretta
+George Chedzhemov
+Marlee Stevenson
+Eliot Brenner
+Dan Turner
+Alexi Tsonopoulos
+Jared Bunting
+Naomi Hilliard
+Catherine Gibson
+Clark Perkins
+Aji Janis
+Holly Gardner
+Cory Hughes
+Kenneth Graham
+Kayla Bringelson
+Christi L. French
+Joe Porter
+Paul Sibbald
+Michael McInerney
+Gary Llewellyn
+Brea Harrison
+Brian Akers
+Suzy Holmes
+Daniel Sulbaran
+Sarah Cannon
+Matthew Eby
+Bhavani Prasad
+Joe Dvornicky
+Jonathan Lord
+Mike Medley
+Michael Niv
+Gary Mann
+Farouk Althlathini
+Adam Barnhard
+Mike Miller
+Paul Gibson
+Scarlet Jones
+Brandon Carl
+Kyle Pinkston
+Jim Zamata
+James Ollerenshaw
+Jascha Swisher
+Josh Gieringer
+Adam Hammond
+Sam Tucker
+Ben Tedder
+Stephen Kunath
+Bob Marinaro
+Charles Jaynes
+Takashi Kanno
+Candi Rogers

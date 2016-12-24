@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Russell Kanjorski
+Helena Yee
+Steven Seel
+Brent Fisher
+Kanchan Ghosal
+Jim Carter
+Greg Jones
+Brian Cox
+Scott Burroughs
+Chris Bower
+John Wilson
+John Dick
+Jack Barry
+Earl Collins
+Miroslav Samarskiy
+Richard McNeill
+Carl Prevatte
+Jean Boisvert
+Justin Brown
+Matthew Meitl
+Rudy Bukovnik
+John Regan
+John Dick
+Doug Lilly
+Neil Robertson
+Nicole Gordon
+Kate He
+Greg Wolf
+rajendra reddy Narala
+Tom Glass
+Shannon Gamber
+Ling Cheng
+Cynthia Patterson
+Matthew Monroe
+Mark Ray
+prince Alexandre NSABIMANA
+Michael Whitehead
+Sean Connor
+Jeremia Thibeault
+Ivan Bukovnik
+Deborah Slagle
+Baron Kendrick
+Noah Hyte
+Etienne Menard
+Dave Halter
+Brian Cox
+Sylvain Tourangeau
+Misty Caffey
+Ming Gao
+Jacquelyn Parker
+Allen Gray
+Steven Seel
+John Gabriel
+Kevin Lucht
+Jeff VanGeest
+Timothy Ellerbe
+Eric Blalock
+Hila Wright
+Vishal Gupta
+Neil Kane
+Keith Mojarro
+Marco Hsu
+Kanchan Ghosal
+Wolfgang Wagner
+Adria E. Brooks
+Ranjani Subramanian
+Mark Panarusky
+Mark Perkins
+Karina Krawczyk
+David Gomez
+Tiffany Weeks
+Daniel Portales
+Sandeep Kumar
+Lane Wenner
+Seabury Thorp
+Doug Recher
+Kevin S Schneider
+Timothy Canavan
+Doug Lilly
+Howard Yu
+Anthony Lochtefeld
+Muhammad Anwar Ul Haq - ERP
+Craig Merrigan
+Brad Ives
+Hoon Kim
+Nathan Jenness
+Stewart Dickinson CEcD
+Sergiy Dets
+Pascal Barth
+Donna Hansborough
+Bob Zimmer
+RICHARD THOMPSON
+julie byczynski
+Steven Seel
+Syreeta Thomas

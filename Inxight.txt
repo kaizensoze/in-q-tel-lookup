@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Clark Breyman
+Steven Reeves
+Pete Yanker
+Andrew Ellixson
+Van Elelleh
+Hemant Puranik
+Gregory Holmberg
+George Chitouras
+Kim Starks
+Logan Johnson
+Jane Chiao
+Kevin Zimmerman
+Bill Miller
+Mark Holly
+Paul Norcini
+Alpha Luk
+David van den Akker
+Chris Riopel
+Robin Dieter
+Will Saso
+Tracy McIntyre
+Michael Wiesner
+Thomas Dreikauss
+Daniel Chai
+John Wondolowski
+Gerry Lee
+Raymond Dib
+Sarah Vasquez
+Joshua Johanson
+Karine Megerdoomian
+Jean-Pierre Dautricourt
+Khoa Phung
+Walter Pezzini
+Ray Moore
+Mike White
+Sabrina Kahn
+Greg Bishop
+Tony Fernandes
+Samir Derdek
+Amy Silveira
+Joey Johnson
+Linda Uyechi
+Howard Liu
+Christine Krsnik
+Dinesh Neelavar
+Catherine Woneis
+Mark Townsend
+Nathan Watt
+David Tauber
+Ed Aguirre
+Jeff Cadow
+Bruce Goldetsky
+sajith babu
+Veronica Gerassimova
+David Bultman
+Bob Abecasis
+Cathryn Donohue
+Peter Richards
+Anton Badra
+Grant Carter
+Mark Baz
+Amol S Deshmukh
+Fred Destin
+Valerie Do
+Sunil Mehta
+Gregory Mcintyre
+Robby Grossman
+Roman Scheiter
+John Saling
+Kimberly Anderson
+Brian Neumann
+SHALIN TREHAN
+Peter Bursell
+Scott Wang
+Emanuel Gaytant
+Meyleen Beichler
+Yevy Spivak
+Sean Kang
+Natasha Lloyd
+John Mackay
+Megan Schnaible
+Rich Shelley
+Michael Mun
+Naresh Kumar Rajkumar
+Sam Knox
+Trevor Tucker
+Steve Mullen
+Jingwen Lu
+Rennie Walker
+Helena Jerney
+Kirk True
+Igor Kopeikin
+David Spenhoff
+Randy Gobbel

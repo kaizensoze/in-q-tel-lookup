@@ -1,0 +1,94 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Igor Lasic
+Petar Dudukovski
+Joshua Mahoney
+Juraj Gospodaric
+David Fair
+John Hanratty
+Borko Jandras
+Mario Suvajac
+Vinko Buble
+Robert Anderson
+Mario Vuksan
+Jan Bzik
+Katja Pericin
+Goran Medic
+Nikola Ravnjak
+Bruno Soldo
+Drago Crnjac
+Lovro Prepolec
+Hrvoje Zeba
+Kresimir Skvorc
+Marina Bedran
+Maarten Boot
+Devin Andrews
+Bruno Humic
+Vedran Vukelic
+Viktor Kvaternjak
+Lana Krnic
+Daniel LaVoie
+Marko Pletikosa
+Linso van der Burg
+Marko Bekavac
+Josip Medic
+Vedran Sajko
+Kuzman Vuksan
+Zarko Ivic
+Matija Herceg
+Ray Grauer
+Igor Novkovic
+Jack Martin
+Vedran Novoselac
+Marko Bilic
+Katja Malvoni
+John Murgo
+Mario Suvajac
+Marijana Domazet
+Borna Skukan
+Goran Cvijanovic
+Ivan Saskor
+Vinko Kodzoman
+Kresimir Skvorc
+Kresimir Skvorc
+Juraj Gospodaric
+Zoran Kristo
+Marina Bedran
+Kristijan Novak
+Tomislav Maricevic
+Matt Clarke-Lauer
+Damir Palinic
+Bozidar Benko
+Matej Filkovic
+Filip Borovec
+Tanvi Gour
+Bruno Ratkaj
+Marin Smoljanic
+Marko Bacic
+Danny Lavoie
+Thomas Aidan Curran
+Aaron Eppert
+Marija Kalebota
+Mario Volf
+Marc Heberley
+sasa arezina
+Joseph Tufo
+Rishabh Munde
+Joe Sarkar

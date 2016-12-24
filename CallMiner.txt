@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Tom Wendt
+Mike Dwyer
+Scott Kendrick
+Daniel Beck
+Andrew Buckley
+Jeff Gallino
+Brian LaRoche
+Jeff Stroum
+Felix Lepa
+Adam Walton
+Marc Cataldo
+Paul Bernard
+Terry Leahy
+Misty Mastracco
+Aubrey Anderson
+John Crites
+Jack Collins
+Andrew Mishalove
+Rachel Daly
+Elena Benoit
+Drew Brumm
+Chris Cochran
+Chad Gibson
+Maureen Szlemp
+James Loeber
+Erik Strand
+Garrett Sinclair
+Bruce McMahon
+Cliff LaCoursiere
+Robert Stanley
+Karen Howe
+R. Todd Barber
+Rob Lane
+Brandon Franks
+Lauretta Campestre
+Yeliana Liman
+Courtney Lawton
+Suzy Riggins
+Anne Dawson
+Rob Kassel
+Craig Blake
+Chris Thomas
+Nicole Pirone
+Quincy Yuen
+Jennifer Buffaloe
+Jesse Yaneva
+Ezra Exposito
+Valerie Terrell
+David Morrell
+Debbie Peterson
+Mike Girouard
+Sean Hart
+Eddie McCoy
+Candice Cangialosi
+Shaoyu Xue
+Kristen Mikovich
+Conrad Liburd
+David Kiszka
+Gerald Sinclair
+Katharine Fowler
+Dave Megarry
+Michele Nylander
+Frank Sherlock
+Alan Hall
+Zac Maclean
+Ryan Carrigan
+Charles Felsberg
+Penny Rua
+Jeremy Vanden Branden
+Eduardo Von Borstel
+Joanna Lowry-Duda
+Anthony Zavala
+Brian Kolb
+Brian Kaufman
+Shane Lauber
+Brian Kim
+Edwin Lopez
+Brian Killion
+Alexis Kitchen
+Robin Plasse
+Leena Stride
+Mark Williams
+Misael Rodriguez
+Brandon House
+David Christopher
+Nick Rowe
+Scott Wolf
+Robin Gibbons
+Juan Quijada
+Anya Korneyeva
+Terrie Cochran
+Glenn Rieger
+Mindy Phillips
+Erald Cala
+Keith Connerly

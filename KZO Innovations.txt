@@ -1,0 +1,112 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Brett Rubin
+Wes Cruver
+Ben Williams
+Phil Cruver
+Cole Vulgamore
+Andrew Hauser
+Hooks Johnston
+Jeff Fissel
+Nathan McFarland
+John McKinney
+Eric Fletcher
+Brad Layman
+Randy Rolin
+Zachary Talley
+John Backus
+Kimberly Conquest
+Oscar Navarro
+Dave Chesebrough
+Steve Mullins
+Ryan Golasa
+Jon Salon
+Micah McFarland
+Anna Casey
+Jim Morentz
+Andrea Gutierrez-Roldan
+Saima Iqbal
+Kacie Kelly
+Peter Monahan
+Jordan Rzepka
+Maureen Kelley
+Erica Scott
+Michael Coupet
+Chris W Beach
+Rich Amons
+Joseph Ruiz
+Caleb Mcfarland
+Stu Shea
+Saima Iqbal
+Grant Griebel
+sharon parker
+Nathaniel Palmer
+David LaGarde
+Jeffrey Stone
+Richard Belanger
+Alex Perini
+Andries Schutte
+Brian Smith
+Jeff Held
+stephenson Bamidele
+Nate McFarland
+Nathan McFarland
+Robert Helvey
+Martin Christopher
+Nate McFarland
+Will Satterfield
+Alan Borough
+Nathan McFarland
+Robert Foster
+Evan King
+Gwen Weiss
+Sandra Boggs
+Jaime Ilundain
+Greg Bartlett
+Nathan McFarland
+Larry Kaplan
+Doug Ring
+Courtney Cromley
+Paul Demerly
+Charles Jones
+William D Rearden
+Clayton Kennamer
+Ann-Marie Neale
+Hugo Rodrigues
+Debbie Johnson
+Brett Rubin
+George Regnery
+Micah McFarland
+Terry Hunt
+Michael Strahlman
+Amy Malloy
+Harris Ayuk-Takor
+Mary Grace Gozon
+Alexandria Dames
+Darcy Paulsen
+Luke Persian
+Mannon Butt
+Snober Abbasi
+Andrzej Pengiel
+Cristin Jordan
+Faraz Mirza
+Stefan Lettig
+Sandy Fenton
+Andri Hinnen

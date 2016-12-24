@@ -1,0 +1,108 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+George Demmy
+Michael Gundling
+Scott Lee
+John Timar
+Felix Warren
+Megan McCarthy
+David Stokely
+Michael Bufkin
+Joshua Gunter
+Bryan Burns
+Jason Sams
+Rick Drexel
+Lance Wright
+Dave Gura
+Nathan Jones
+Jason Schloer
+Lorna Reddicks
+Renee Wagner
+Alan Stewart
+Lee Leonard
+Daniel Watkins
+John Pollard
+Tommy Lin
+Stacey Holleran
+Dwain Ruckel
+Patrick Graves
+Eric Fan
+Jessie Vangrofsky-Hillenbrand
+Jason Chen
+Chris Watson
+John Mueller
+Greg Hebron
+Jeff Young
+John Wolfe
+Lon Cornell
+Julie Haddon-Cook
+Stewart Brooks
+Jaime Davenport
+Jason Frye
+Mimi Vold
+Ryan Borland
+Gregory Taft
+Stuart Miller
+Kim Waas
+Anne Hale Miglarese
+Telli Bryan
+Mary Miller
+Ash Dupree
+Dave Maney
+Staley Floyd
+Jimmy Fields
+Patrick Kitchens
+Andrew L. Jackson
+Chris Drake
+Bill Timmins
+Phil Lee
+Anna Pierpoint
+Jim Sheen
+Guy Peeters
+Nathan Roberson
+Lars Osmerg
+Neil Quinn
+Latonya Deloach
+Janis Meyer
+Brad Ambrose
+Joe White
+Peter Herbert
+Richard McKay
+Paul Creaner
+Mandy Fiorenzo
+Dave Stokely
+Austin Logie
+Jacob Hut
+Matt Falter
+Daniel VanBrunt
+Michael Axelrod
+William Merry
+Jonathan Heinsius
+Andrew Mounib
+John Parrell
+Cyrus Shahabi
+Nakesha Smith
+Arya Roy Chowdhury
+Aleksey Vitebskiy
+Brian Kosem
+Jim Youker
+Greg Brooks
+Janet Johnson
+Jessica Kirk

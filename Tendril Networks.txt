@@ -1,0 +1,117 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Patricia DeBough
+Tim Enwall
+Casey Anderson
+Amy Marmolejo
+Joe McTee
+Chunfang Ye
+Jeff Sowders
+Kevin Workman
+Stephan Dolezalek
+Elijiah Townsend
+Mark Gately
+Mark Koch
+Collin Mariner
+Chris Black
+Piers Wells
+Patrick Sullivan
+Jason Litton
+Brian Schlatter
+Adrian Tuck
+Sue Gordon
+David Gold
+Erica Swanson
+Lisa Morgan
+Amelia Graycen
+Octavian Geagla
+Andrew Wheeler
+Bill Wright
+Carrie Zawistowski
+Brett Feldman
+Dan Jackson
+Carol L. Stimmel
+John Hungerford
+Marcel Casado
+Dwayne Schultz
+Ray Diaz
+Eric Sigler
+Rowell Belen
+Charlotte Bender
+Kevin McGovern
+Jonathan Van Eenwyk
+Bob Burnette
+Tim Hughes
+Matt Maccaux
+Chris Phelps
+Chad Tatom
+Travis Bybee
+Paul Dick
+Mark Pougnet
+Tom Karpeichik
+Ben Lieber
+Steve Jones
+David Tuohy
+Gowrishankar Bharadwaj
+Ashish Agarwal
+Lark Dunham
+Bernard Cummiskey
+Brent S. Clark
+Marcel Casado
+Marc Holt
+Michelle Abbott
+Brian Caffarelli
+Jeff Woodward
+David Grant
+Bernard Cummiskey
+Galen Leith
+Claire Khadakkar
+Damon Stewart
+Andrew Wheeler
+Reid Benes
+Harlan Blynn
+Natasha Achziger
+Arbin Khanal
+Vikram Shah
+Jeff Wahl
+Neeraj Khadakkar
+Ignacio De La Torre
+James Smith
+Justin Sousa
+Nicholas Burglin
+Kara Ireland
+Amy Wharton
+Catharine Merigold
+Tamara Drasny
+James Jackson
+Ivor Kusters
+Kyle Feldhus
+Don Stilwell
+James Risinger
+Chris Bechberger
+Gary Pulford
+Steve Pockross
+Paxton McVoy
+Tish Rowland
+Jordan Fannon
+Ken Bertelson
+Ken McNeil
+Virgil Ashlock
+Carol L. Stimmel

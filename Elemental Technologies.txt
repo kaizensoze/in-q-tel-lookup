@@ -1,0 +1,117 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jesse Rosenzweig
+Keith Wymbs
+Sam Blackman
+Steven Swanson
+Christine James
+Tom Gilman
+Laura Barber
+Lisa Epstein
+Joey North
+Lionel Bringuier
+Liz Scott
+Alyson Beck
+Emily Barrett
+Greg Truax
+Dan Wardle
+Kevin Moore
+Sara Felsenthal
+Dustin Encelewski
+Eli Blackman
+Greg Zwart
+Andy Bell
+Brandon Zupancic
+Paula Taylor
+Sabina Andersson
+David Montgomery
+Brooke Bano
+Benjamin Ferrentino
+Aslam Khader
+Lyn Pangares
+Kathy Thielen
+Amanda Marion Shore
+Brandon Kahler
+Varad Joshi
+Olaf Nielsen
+Dan Gaur
+Brian Enigma
+Devon Lee
+Gil McIntire
+Alicia Hunt
+Keith Hogan
+David Miller
+Mark Cousins
+Mark Horchler
+James Murphy
+Mike Schlesier
+Michelle Winnett
+Todd Hinders
+Bud Hann
+Khawaja Shams
+Nathan ODonnell
+Barry Lauer
+Mike Kale
+Robin Allbritton
+Manuel De Pena
+Lindy Anderson
+Kristen Gallagher
+Jon-Erik Svenson
+Leila Hrycyszyn
+Dwayne Brady
+Caleb Stelle
+Alan Spain
+Bert Mecham
+Roy Wyss
+Ray Meyers
+Lyman Potts
+Benjamin Defnet
+Shaun Lile
+John Nemeth
+Garrett Sparks
+Steve Crowder
+Adam Hill
+Erik Unverdruss
+Eddie Goynes
+Henry Canizares
+Dan Marshall
+Evan Statton
+Heidi Schulman Greenwald
+Lorne Vaught
+Scott Brisko
+David Rubin
+Ben Black
+Michael Powell
+Mary Jane Erdman
+Pete Simons
+Tom Quick
+Angela Wigmore
+Shannon N. Heim
+Holly Farmer
+Brian Flynn
+Jonathan Moore
+Zao Naegele
+Jason Ackman
+Greg Baumhover
+Matt Buk
+John Saxton
+Abbas NEMR
+Michele Harman
+Curtis Reilly

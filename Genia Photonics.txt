@@ -1,0 +1,98 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Alain Villeneuve
+Bryan Burgoyne
+Antoine Kasprzak
+Joseph Salhany
+Francis Marcogliese
+Rim Hfaiedh
+Mathieu Giguere
+Dominique Lemieux
+Alain Villeneuve
+christophe Christ.Jan
+Denis Ricard
+Maxime Joanis
+benoit lorrain
+Youngjae Kim
+Tullio Panarello
+Alexandre Dupuis
+richard langdeau
+Sina Naderi Shahi
+Vincent Rheaume
+Herve Lavoie
+Andre Archambault
+Guilmot Ernotte
+Jean-Francois Gagnon
+Arthur Plez
+Liah Fereydoonzad
+Rajeev Yadav
+rim hfaiedh
+Vinh N. Dang
+Maxime Duong
+Hadi Pouransari
+Brian Bourgoyne
+Joseph Salhany
+Eric Geoffrion
+OM MANI SINGH
+Sami Younes
+Yves Genereux
+Danny Gnocchi
+Antoine Ramier
+Jeffrey Drummond
+Alain Lavallee
+Eugene Shklovsky
+Gianna Cupido
+Frederic Doulcet
+Dinesh Uniyal
+Vincent Mercier
+Matt McMurter
+Francois Gonthier
+Laurence Duhaime-Gosselin
+Benoit Lorrain
+Antoine Kasprzak
+Sami Younes
+Alain Lavallee
+Dominique Lemieux
+sami younes
+Patrick Mascoe
+Alain Perreault
+Ahmad MOHADDES POUR
+Joseph Salhany
+Fai Lin Lam
+Steve Horne
+Eric Cloutier
+Kelly Yan
+Rishee Behl
+Sami Younes
+Mathieu Giguere
+Eros Roncaia
+John Bainbridge
+Olivier Daigle
+lorraine benoit
+Arnaud Marchese
+Mike McDermott
+Jeff Arnold
+Paul-Henri Rouleau
+Sylvain Gilbert
+Serge Forest
+Christian Michaud
+Daniel Potter
+Scott Vincent
+Megan Pennington

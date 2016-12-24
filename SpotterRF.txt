@@ -1,0 +1,112 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Robby Parker
+Logan Harris
+Glory Harris
+Dennis Steele
+Jared Johnson
+Brad Solomon
+Byron Garvin
+Hayden Huss
+Jameson Little
+Robert VanBibber
+Rodrick Cross
+Tyler Thomas
+Seth Gibelyou
+Jake Green
+Derek Felli
+Derek Nielson
+Eric Peterson
+Ben Dilsaver
+Cynthia Amador
+B. Farris Bush
+Dan Hilton
+Matthew Harris
+Jaron Ellingson
+Nick Smith
+Jamison Dance
+Jordan Oldroyd
+Jake Johnson
+Shae Henrie
+John Pilmer
+Eric Jacobs
+Logan Harris
+Mark Cutler
+Josue Rivera Aparicio
+Sam Mahana
+Benjamin Rockwell
+AJ ONeal
+Jefferson Forkner
+John Pilmer
+Brian Tecklenburg
+Christopher Decker
+Max Tarver
+Joshua C Elliott
+Jacob Jackson
+Derek Gurr
+Josh Jones
+Evan Hatch
+Beki Winchel
+Emrecan Ergin
+Dallin Christensen
+Logan Harris
+Andrei Zaharescu
+Bryan Davies
+Lauren Issar
+Tom Riggs
+B. Farris Bush
+Feranei Sooto
+Kelly McAbee
+Lauren Issar
+Jeff Zaugg
+Alex Creed
+Aimee Gilbert
+James Smith
+Anthony Mercado
+Natalie Easter
+Jay Vei
+Jeff Halbert
+Taylor Ipsen
+Kyle Weller
+Kevin Harcourt
+John S. Rowe
+Jaye Kuchman
+Anna Medaugh
+Annette Gaiotti
+Derek Nielson
+Edward Knoch
+Chase Palsson
+Jerry Klapak
+Nick Sorensen
+Jared Neil
+John Bertrand
+Cameron Sellers
+Sean Castellano
+Kyle Asay
+Brady Lester
+Logan Harris
+Amie Eder
+Derek Hancock
+Mark Meredith
+Peter Schleede
+Greg Owen
+Miranda Garcia
+Kiersten Cole
+Luke Baxter

@@ -1,0 +1,111 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Wayne Sawka
+Shae Williams
+Alexis Neel
+Tim Manship
+Michael McPherson
+Wayne Sawka
+Trisha Buescher
+Phillip Takahashi
+Jacqueline Ellis
+Kelly Gaworski
+Camille Labadie
+Jeff Ransdell
+Trevor Summerfield
+Gary Sawka
+Alma Valdivia
+Allison Horney
+Matt Glascock
+Nicholas Csik
+Michael Kamper
+Crystal Harvey
+Jason Thrasher
+Allen Yan
+Bob Affonso
+Dustin Barr
+Ivana Bahula
+Mike Ketring
+Joe Pylant
+Desiree Webster-Zuber
+Russell Gibson
+Brandon Gagne
+Don Jordan
+Shivani Negi
+Alexis Norton
+John Brooks
+Rodacker Muong
+frank storck
+Dean Bryson
+Brandon Yonko
+Neema Noori
+Todd Breuer
+David Behrend
+Celia Merzbacher
+Jason Thrasher
+Cody Geil-Crader
+Shae Williams
+Kris Henry
+Olga Polivkova
+Jeff Ransdell
+Jeff Ransdell
+Rick Nusser
+Tim Manship
+Rachel Durrant
+Jeff Ransdell
+Robert Lawrentz
+Phyllis A Burgin
+Mike Iseri
+Bob Marr
+Camille Labadie
+Christopher Petersen
+Philip Metcalfe
+Rachel Silva
+Jeff Ransdell
+Suzanne Wallace
+Dean Preston
+Alexis Neel
+Ruth Greg
+Brett Pearson
+Travis Bell
+Jonathan Jay
+Kolby Robinson
+Stephanie Morrison
+Monica Hirschberger
+Kylen Smith
+Edward Williams
+Robin Romano
+Jeff Ransdell
+Stephanie Gonzales
+Troy Barker
+Vatche Saadtjian
+Amy Wagner
+Curt Freeman
+Douglas Greisen
+Leo DiDomenico
+Erik Palitsch
+Peter Littlewood
+Corey Cochrane
+Julie Jester
+Michael Peng
+Klaus Dieter Raschke
+Edward Gonzales
+Nathan Brummel
+Erwin van Ooijen

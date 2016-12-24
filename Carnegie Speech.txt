@@ -1,0 +1,116 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Angela Kennedy
+David Oberlin
+Gary Pelton
+Paul Musselman
+James Baker
+Tasha Rohlfs
+Mosur Ravishankar
+Tom Neuendorffer
+Robert Olszewski
+Prasanna Kumar
+Tim Mulville
+Alex Rudnicky
+Won Kyum Lee
+Udhyakumar Nallasamy
+Brett Laquercia
+Edward Lin
+Richard Stern
+Bryan Holdsworth
+Chi Zhang
+Martin Loperena
+Vineet Apte
+Melanie Shivetts
+Erica Winesberry
+Erin Taylor
+Natalie Baker-Shirer
+Ziad Al Bawab
+Justin Chiu
+yun lei
+John Lucke
+Adil Majid
+Akshay Chandrashekaran
+Ben Lambert
+Robert Vickers
+Varoozhan Harikian
+Anuj Kumar
+Nikolas Wolfe
+Nia Peters
+Kim Warzinski
+Alison Huettner
+Qihong Wang
+Mark Harvilla
+Shirin Saleem
+Yifang Xu
+Andrew Jeske
+Andrew Maas
+Chaitanya Modak
+Amir Moghimi
+Long Qin
+Sonia Banerjee
+Chang-Qing Shu
+Jungsuk Kim
+Blair Rohring
+Marsal Gavalda
+Xie Shasha
+Ian Lane
+Prachi Laud
+Daniel Annankra
+Chintu Parikh
+Nikita Mostovoi
+Kyle Fulton
+Laura Dickey
+Stephen da Conceicao
+Kevin Lenzo
+James Lich
+James Salsman
+Ankur Gandhe
+Tao Yu
+Nia Peters
+Manaj Srivastava
+Xuedong Huang
+David Nadolski
+Ari Klein
+Daniel Galvez
+Kishore Prahallad
+Samjoo Doh
+Diana Dewey Emanuele
+Nguyen Bach
+Andrew Wilkinson
+Leanne Meyer
+Joseph Bates
+Edward Dryer
+Kshitiz Kumar
+Suyoun Kim
+Ashwini Hebbar
+Robert Graves
+Aasish Pappu
+Jeremie Kim
+Bhiksha Raj
+Seshadri Sridharan
+Jan Kaeo
+Ming Sun
+Seth Sherwood
+Mohammad Gowayyed
+Yi Qiu
+Jessica Sands
+Janet Baker
+Aaron Jaech

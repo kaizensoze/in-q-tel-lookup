@@ -1,0 +1,104 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Milton Chen
+Becky Wai
+Torrey Lyons
+James Yong
+Michael Vegas Mussman
+Steven Chang
+Sherie Soriano
+Penny Kooi Cia Ng
+Erika Chuang
+Fen Chang
+Samantha Khin
+Rhea Marie Cuay
+Juncheng Chen
+Simon Bruins
+James Davis
+Cong Bach
+Hrishikesh Deshpande
+Martin Neuteboom - Google AdWords professional
+Canovas Gem
+Roman Canovas
+Adrianne Mares
+Eric Angel
+Kevin Walker
+Laurence Girard
+Erik Beeson
+Jiaqiang Bai
+Harry Dang
+John Robinson
+colleen beeson
+Ruozhen Li
+Nikoleta Petkova
+Yin Yue Melody
+Julio Miles
+Frank Liauw
+Robert Suski
+Swetha Iyengar
+Fen Chang
+April Inciong
+Wei-Chih Wang
+Robert van Heerde - SEO specialist
+Christopher Herot
+Tom Luketich
+Jimmy Mariano
+Thomas Glucksman
+Vladislav Havalyov
+Nhung Luu
+Anton Tolkachiov
+Penny Kooi Cia Ng
+Roger Zhang
+Carolyn Foo
+Lizhi Liu
+Michael C Chang
+Madiha Tahir
+Kate Leslie
+Amy Berwick
+Colleen Beeson
+Gene Hermann
+Prema Jey
+Thomas Dao
+William Sarfati
+Wanda Dunn
+Ryan Calderoni
+Jaslyn Le
+Myrna L Frank
+Katherine L. Ziegler
+Josh Schubert
+Yuen-Lin Tan
+Samuel Ong
+Christina Ng
+Rona Rundle
+Richen De Castro
+Leo Liu
+Michael Mussman
+mathan regaye
+Dirk-Jan Dalhuisen
+Martin Dirks
+Song Yang
+Proselle Martinez
+Annemarieke Germeraad
+John Derwin Dizon
+Erik Joling
+Joshua Lee
+Mandar Apte
+Melvin Cordova
+Martin Dirks

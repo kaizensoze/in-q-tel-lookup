@@ -1,0 +1,106 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Peter LaCrosse
+Jochen Kohlhaas
+Ron Mazursky
+Pete Korpady
+Mike Strada
+Dan Wilcox
+Rob Keenan
+Rajive Chadha
+Todd Clark
+Peter Labrinos
+William Grecia
+Ryan Bailey
+Matthew Miller
+Kasey Kaplan
+Rajat Somany
+Faramarz Artman
+Michael Cebrick
+Manoj Thakore
+Christopher Yonavich
+Brian Riley
+Kevin Scott
+madeline aufseeser
+Chuck Cashman
+Ted Dargan
+Kristin H. Wallace
+Diane Cook
+Matthew Taylor
+Russell Mix
+Nandita Bakhshi
+Michele Schwappach
+Deborah Hendrix
+Bill Lacava
+Lauren Hayes
+Russ Van Dyke
+Don Deliz
+Ryan Selkis
+Ann Camarillo
+T. Jack Williams
+David Rudis
+Lorraine Fischer
+Ignacio Blanco
+Chris Womack
+Roy Heimowitz
+Nancy Didwell
+Brian Koehler
+Mia Mends
+Aravind Immaneni
+Blake Rosenthal-Herman
+Leanne Hughes
+Chris Lutes
+Maya Rao
+Art Roca
+Eugene DeSilva
+Mark Herbert
+Joan Nolan Lyons
+Paul Boge
+Bennett Woo
+Peter Olynick
+Kenneth Beirne
+Stephen Wooters
+Lillie Platko
+Joan McBride Christensen
+Jiang-Ming Yang
+Stephen Loucel
+Chris Beeler
+Danielle Binstock
+Stewart A. Stockdale
+Amber Johnson
+Padmini Venkataraman
+Anjee Sorge
+Troy McLean
+Dan German
+Jana Manley
+Tom Gandre
+Dennis Bache
+Mike Guhl
+Drew Porta
+Holly Henry
+Gary Pearcy
+Ashley McAlpine
+Joel Washington
+Mirza Berbo
+Tim Sherwood
+Franklin R. Mendieta
+David Mednick
+Dean Michaels
+Mark Goldin

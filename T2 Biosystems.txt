@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Kelley Morgan
+Frederic D. Sweeney
+Rahul K. Dhanda
+Lucius Fox
+Ashley MacDonald
+Lori Neely
+John McDonough
+Amy Crosby
+Tom Lowery
+Bill Standwill
+Lindsey Brown
+Steve Scampini
+Glenn Magnuson
+Randall Nielsen
+Bill Lyon
+Christopher Martin
+Michael Gibbs
+Roger Smith
+John Hughes
+Jessica Snyder
+Will Harris
+Moe Castonguay
+Christina Zani
+Danielle Sutherby
+Michael Lambert
+Daniella Plourde
+Justin Black
+Brad MacDonald
+Dottie Barr
+Kyle Ward
+Nanci Langhorst
+Sheri Jordan
+Dennis Pappas
+Julie Leary
+Bill Hahn
+Sam Assmann
+Ashley Norfleet
+Christine Griggs
+Rob Chaisson
+David Harding
+Chad Murray
+Bob Fressola
+Alex La Hurreau
+Mathew Duffy
+Alec Barclay
+Annalisa Giguere
+Joseph McAnaney
+Kumi Tatsukawa
+Dianne DePalma
+David Elsbree
+Matt Hubert
+Joanne Garver
+Michael Min
+Robin Barrett
+Matthew Lanchantin
+Jessica Townsend
+Brian Carney
+Brendan Manning
+Johanna Hemenway
+Casey Prior
+Shawn Lynch
+Billie Bentley
+Michael Francis
+Robert Toledo
+Adam Suchocki
+Matthew Rosi
+Jordy Schuller
+Ryan Casillo
+Brenda Kelly
+Joseph Marturano
+Timothy Kelleher
+Heather Lapp
+Adrienne Randall
+Sharon Timberlake
+Timothy Reif
+Stacey Schwamb
+Leo Robert Loughman
+Chris Devlin
+Derek Joesting
+Kristen Roberts
+Dana Svendsen
+Cate Curran
+Tom Cygan
+David Weiss
+David Polito
+Michael Cima
+Julie Garcia
+Charles Rittershaus
+Mark Kieras
+Jennifer Dodwell
+Danika Coaplin
+Chuck Rittershaus
+Ankit Gandhi
+Kim Foster
+James Monahan
+Tom Jump

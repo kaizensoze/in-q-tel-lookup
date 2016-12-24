@@ -1,0 +1,101 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Stevan Jovanovich
+Barney Saunders
+Joanne Horn
+Roger McIntosh
+Mattias Vangbo
+Mary Trounstine
+Terri Torke
+Seth Stern
+Kelly Jewett
+Danelle Watson
+Tom Armstrong
+Ben McIntosh
+Sally Smith
+Portia Serame
+Candy Ouyang
+Rodney Bone
+Iuliu Blaga
+Jason Kwa
+John Santini
+Alain Donzel
+Amy Cartwright
+Greg Nelson
+Steve Jovanovich
+Martina Boerner
+Luke Nguyen
+Candy Ouyang
+JEFFREY VINCENT
+Herbert Greenman
+SHERRIE RANSOM
+Garo Dekirmendjian
+Joshua Miller
+Natalie Nieman
+Timothy Look
+Iuliu Blaga
+Claudiu Capraru
+Frank Garcia
+Ellen Kuo
+Iuliu Blaga
+George Blat
+Carlton Brooks
+Angela Cruz
+Alain Donzel
+ezra van gelder
+Alain Donzel
+Vivian Le
+David Ownby
+David Ownby
+David Ownby
+Bruno Vanherberghen
+Sam Baldwin
+Nianzhen Li
+Rossana Naum-Stoian
+Chris Linder
+Haley Costigan
+Supriya Patwardhan
+Manish Singh
+David Ownby
+Cheryln Axline
+Heather Saxby
+Leslie Cahen
+Troy Speziale
+Cynthia Fung
+Nick Toriello
+Yu-Yen Huang
+Seth Stern
+Elisabet Fernandez
+Kieseok Oh
+Lucian Staicu
+Sabina Piccininni
+Serena Yao
+Regina Jenny Smith
+Peggy Chan
+Ryan Marchildon
+Rik Catthoor
+Carl Hemond
+Olivier Leprette
+Guillaume Nonglaton
+Thinesh Kumar
+Rebeca Alonso
+Dr. Dominic Agyei
+Lionel Chesnais
+Yekaterina Miroshnikova

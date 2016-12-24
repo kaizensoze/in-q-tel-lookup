@@ -1,0 +1,110 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Norah McDonald
+Mark Levitt
+Sean Carmichael
+John Elliott
+Jon A. Fredrickson
+Catherine Covington
+Stacey Fitch
+Elaine Chin
+Alph Bingham
+Renato Vasconcelos
+Graham Buchanan
+Michael Franklin
+David Cohen
+Jen-Ling Liu
+Gina Schroeder
+Craig A T Jones
+Dwayne Spradlin
+Robin Trei
+Naeem Yusuff
+Michael Albarelli
+Michael Michaud
+Steven Drew
+Robert Kinney
+Eric Herrero
+Daniel Buscini
+Harry Wilson
+Michael Hanson
+Rich Barletta
+Manal Khan
+Robert Mills
+deepak aghor
+Harvey Arbesman
+Alexis Shultz Forest
+Barbara Berardi
+Ted Ground
+Darren Carroll
+David M. Sample
+Ali Chousein
+Eugene Ivanov
+Gaurav Biraris
+Elly Madrigal
+M Toomey
+John F. Richards
+Simon Schneider
+Serge Pesetsky
+Rebecca Buchanan
+Steve Fennessey
+Jody Montague
+Leaf Jiang
+Jonathan Slater
+Rachael Monnin
+Ted Ground
+Jacqueline Felton
+Cesar Castro
+Lyndsey Stadtmueller
+Greg Eredics
+Diego Olalde
+Jay Stow
+Steven Drew
+Joseph Artese
+Kevin Kimberlin
+Peter Lohse
+Steve Bonadio
+Derek Tabor
+Amiel Kornel
+David Weisman
+richard barletta
+Georgia Mihalcea
+Patrick Grant
+Josh Miles
+Hugues Miel
+Robert McDonald
+Elizabeth DiCicco
+Bruce Ackman
+Christian Gampe
+Aleksey Oborin
+Andy Lindert
+Richard Ecklebarger
+Kai Rasmussen
+Steve Domeck
+Androu Arsanious
+Rachel Blankstein
+Veronique Baron
+Dmitriy Tipikin
+Peter Cannone
+Nandor Garamszegi
+Jace Sadowsky
+Alexander Koenig
+Bradley Parsons
+Grace Kepler
+Jim DeLillo

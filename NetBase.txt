@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Hope Nguyen
+Kevin K. Lau
+Christopher Leet
+Mark Bowles
+Ranjeet Bhatia
+Todd Giuntini
+Kelly Smith
+Paige R Leidig
+Steve Winters
+Melissa King
+Carolyn Trawinski
+Scott Cohen
+Andrew Johnson
+Emma Rae Ritter
+David Pefley
+Dave Cohen
+Bob Pape
+Erin Broday
+Tim Beagen
+Kasie Kap
+Bob Ciccone
+Robyn Medlin Lindars
+Ashley Nelson
+Peter Caswell
+Ken Holmes
+Jean Nicole Guerrero
+John Kelly
+Jami Blackburn
+Nani Saffer
+Cody Diefenderfer
+Pat Williams
+Pernille Bruun-Jensen
+Sean Chinski
+Jessica Moore
+Kelsee Wilson
+Leigh Nichols
+Erik Tropple
+Cassie S Clayton
+Wei Li
+Matthew Pierson
+Anna Startseva
+Justin Harvey
+Lei Li
+Cynthia Lopreto
+David Chaitt
+Mitchell DoQui
+David Aikman
+Jill Melin
+Kimberly Surico
+Leatrice Walker
+Laura Kegley
+Darlene Dami
+David Ko
+Karen Wade Allen
+Eve Osborne
+Joseph Williams
+Congmin Min
+Sean Chauhan
+Michael Baglietto
+John Tyrrell
+Cynthia Connors
+Arianna Bastianini
+Stan Bashmashnikov
+Garrett Albanesius
+Scott Wolk
+Dennis Rollinson
+John McMahon
+Deanna Leedberg
+George Erskine
+Carol Feigenbaum
+Ryan Taketa
+William Yu
+Alexander Nikolov
+Jens Tellefsen
+Michael Higashi
+Neil Versen
+Kalyn Soenksen
+Edward M. Lazzarin
+Kathy Villalobos
+Sean Wong
+Chris Parsons
+Patty Lomeli
+Jennifer Dambek
+Gretchen Hoffman
+TuAnh Do
+Anne Poindexter
+Robert Pugh
+Christopher McBurney
+Lorraine Rodvold
+Philip Berliner
+Michael Osofsky
+Kristina Du
+Amy Shen
+Ryan Rasmussen
+Lisa Joy Rosner

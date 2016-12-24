@@ -1,0 +1,62 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Scott Ryan
+Yijun Lu
+Trey Duskin
+Norman Henderson
+Utsav Kanani
+Karen Hazzah
+Sandeep Kakumanu
+Baihan Liang
+Joubert Berger
+Tracy Hernandez
+Khiem Lam
+Eric Champlin
+Bill Rosenbluth
+David Hu
+Pooja Vijayakumar
+Tabetha Motes
+Cody Garvin
+Yijun Lu
+Subbarayudu Talluri
+Martin Taylor
+Adam Bane
+Jay Robertson
+Shruti Sanadhya
+Stephen Fleming
+Joviano Dias
+vishal neel
+Jorge Sierra
+Anessia Foley
+Tracy Hernandez
+William Rosenbluth
+Cheng-Lin Tsao
+David B. Haines
+Joviano Dias
+Curtis Jordan
+amit dange
+Tabetha Motes
+Eric Fritzges
+Curtis Jordan
+Doryne Daihatsura
+Jorge Sierra
+Tabetha Motes
+William Rosenbluth
+Amy Derbyshire

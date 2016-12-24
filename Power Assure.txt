@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Brad Wurtz
+Thi Nguyen
+Jeff Boucher
+Alex Fielding
+Tony Montalban
+Ron Santa Elena
+Urvashi Reddy
+Frank Castaneda
+Victor Neeley
+Leah Paul
+Shawn Roberts
+Peter Maltbaek
+Mike Noe
+Emre Kulali
+Pete Malcolm
+Gari Pen
+Andrew Stickler
+Anne-Lise Laurain
+Ranjit Pillai
+sapna blesson
+Karen Whipple
+Chris Potter
+Svetlana Klinova
+Ivy Lui
+Michael Simpson
+James McCray
+Alex Logashov
+Ravi Parikh
+Larry Chorowski
+Tarun Joshi
+Greg Kats
+Rory Everitt
+Philippe Lasnier
+Alex Fielding
+Nicole Maulino
+Brea Melton
+Jek Ekdahl
+Thanh Nguyen
+S Suresh
+Duc Ng
+Bob Walstra
+Aparna Kalyanam
+Prudhvi Kakuru
+Tony Waldron
+Fin Vaisseaux
+Tom Ngo
+Sherriff Choi
+Howard Smalley
+Mike Ramirez
+Warren Vail
+Setiyo Murti
+Philip Luckhurst
+Jack Kurtz
+Silbit Jose
+Roman Wolchuk
+John West
+Stanley Cheng
+Marie Amoruso Jackson
+Daniel Robinson
+Mark Anstice
+Ludanyi Andras
+Graham Dwyer
+Clemens Pfeiffer
+Axel Falck
+Sara McCutcheon
+Haley Liu
+Samantha Collier
+Doreen Thomas
+Charles Wurl
+Mac Taylor
+Priya Munirathnam
+polo ravales
+Prasenjit Mazumder
+Shermon Shum
+Chris Brohl
+Bill Frost
+krishi reddy
+Sharon Law
+Erick Lui
+Greg Rauch
+Martin Doversten
+Steve Edwards
+Brendan McDade
+Sheron Ngai
+Brice Berg
+Nadia Faucette
+Susan Kingsbury-Ridgeway
+Kevin Petak
+Sherriff Choi
+Lilian Perez
+John Little
+Sherrain Ng
+Brian Burandt
+Elizabeth M. Kurth
+Amy Myers
+Claudio Montresor

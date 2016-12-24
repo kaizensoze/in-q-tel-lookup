@@ -1,0 +1,87 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Oleksiy Danikhno
+Frank Schneider
+Artyom Yukhin
+Ilya Fomin
+Eugene Vicknair
+Fred Palma
+Iouri Volodine
+Ryan Zlockie
+Anton Glozman
+Antonio Esposito
+Evgenia Tsagareli
+Mikhail Samokhvalov
+Steve Macdonald
+Peter Herzlinger
+Marc Vallhonesta
+Grant Evans
+Olivier Crochat
+Pavel Morozov
+Alexander Koval
+Bruce Bateman
+Alexey Ilyushin
+Craig Evans
+Sergey Suhovey
+Pavel Rozanov
+Vadim Panin
+Bruce Bateman
+Thomas Ormond
+Alexey Ilyushin
+Mauro Ruggeri
+Julia Bulakh
+Mikhail Minchenkov
+Konstantin Kartsev
+Vasily Titskiy
+German Baranov
+Pavel Rozanov
+Yury Brailov
+Alexey Biryukov
+Enzo Torresi
+Lisa Rutherford
+Anton Glozman
+Andrew Smit
+Mikhail Samokhvalov
+Artyom Yukhin
+Peter Herzlinger
+Oleg Olkhovets
+Dwayne Clayton
+Andrey Minkevitch
+Julia Bulakh
+Ryan Zlockie
+Oleg Olkhovets
+Bruce Bateman
+Pavel Morozov
+Josep Trabal
+Kavita Khanna
+Suzanne Matick
+Konstantin Kartsev
+Denis Volk
+Alexander Koval
+Sergey Suhovey
+Vitaly Makarov
+Sergey Suhovey
+Sergey Suhovey
+Alexander Koval
+Oleksiy Danikhno
+Polina Zubareva
+Ajit Kutty Nair
+Denis Volk
+Denis Zhuravlev

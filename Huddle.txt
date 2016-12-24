@@ -1,0 +1,97 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+John Quarles
+Andy McLoughlin
+Alastair Mitchell
+Dave Roberts
+Kunal Contractor
+Joey Thacker
+Craig Turman
+Alison Glenn Delaney
+Michael Abt
+Jennifer Spinelli
+John Vaughn
+James Pipe
+Brian Kendrick
+Katherine Malloy
+Amy Blume
+Jessica Ray
+Adam Rhodes
+Ahmad Bassouni
+Stuart Cochran
+Christina Chambers
+Tamika Stewart
+Melissa Weir
+Beckett Gue
+Jeff Sommer
+Shailendra Gupta
+Petrina Cruz
+B.J. Pilling
+Neil Ryland
+Jared Thompson
+Michelle Dailey
+Raj Agarwal
+Jeff L. Cook
+Swetha Amruthur
+Christianne Gonzalez
+Melissa Rothring
+Peter Golaszewski
+Tom Cossuto
+Alex Gue
+Andrea Baranowski
+Corey Ballard
+Cassidy Ford
+Nathan Ballard
+Tyrone Counts
+Troy Tracy
+Michael Daubert
+Adam Fentress
+Tim Deluca-Smith
+Aaron Morse
+Thomas Wood
+Adrian Dragomir
+Gregg Hansen
+Andrew Trimble
+Matthew Leonard
+Danielle Radu
+Rick Barnard
+Edward Saavedra
+R. Matthew Loovis
+Derek Paganini
+Melina Murray
+Wilson Ly
+Alissa Hawkins
+Phil Mullan
+Marina Vernik
+Joy Clevenger
+Jessica Martin
+Edward Gairdner
+Paul Siegel
+Ben Howell
+Steven Obergan
+Jason Morgan
+Jenn Townsend
+Taneli Potticary
+Charles McGregor
+Jon Landau
+Cam Incoll
+Ann-Marie Cooper
+Michelle Flynn
+Rawan Hantash

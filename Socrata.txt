@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Dan Wassel
+Kevin Merritt
+Clare Zimmerman
+Jessica Carsten
+Joel Baller
+Chris Metcalf
+Robin Rosenberg
+Marcus Louie
+Cam Caldwell
+Deep Dhillon
+Tony Jackson
+Bindu Venugopal
+Safouen Rabah
+Franklin Williams
+Ben McInnis
+Patrick Hasseries
+Rene Miller
+Christian Peratsakis
+Tyler Masterson
+Giacomo Ferrari
+Jeff Kaplan
+Chris Rieth
+Jackie Golden
+Steve Greenberg
+James Pratt
+Eric Eden
+Joe Pringle
+Ryan Mannion
+Patrick Lamphere
+Amy Winner
+Thomas Engstrom
+Jeffrey Press
+Kyle Hall
+Bill Cull
+Ewan Simpson
+Bill Lawler
+Bryant Lau
+Jovana Teodorovic
+Tim Miller
+Malinda Curtis
+Andrew Crow
+Kevin Donohue
+Jesse Romine
+Bill Goldman
+Elaine Chen
+Charlotte West
+Christine Robinson
+Urmila Nadkarni
+Katie Douglas
+Mark Silverberg
+Stuart Gano
+Valerie Moye
+Reid Serozi
+Julie Chase
+Athlan Lathan
+Erika Smith
+Jenae Ghassemieh
+Henry Hippely
+Christian Hoogerheyde
+John Zook
+Kenneth Melero
+Martha Young
+Daniel Moser
+Marc Millstone
+Jessica Locke
+Colin Spikes
+Ashley Devine
+Emily Rund
+Kathy Hsu
+Joe Barnett
+Joshua Oberwetter
+Daniella Kuttner
+Shawn Ahmadi
+Daniel Kirk
+Chris Duranti
+Cory Guillory
+Alicia Brown
+Elizabeth Crippen Allen
+Nathan Hymas
+Andrew Ho
+Ori Pleban
+Peter Moore
+Beth Blauer
+Jacob Simpson
+Kara Goetz
+Joah Iannotta
+Julie Mills
+Aditya Agrawal
+Steven Ellsworth
+Pilar Wienke
+Diana Post
+Karen Lang
+Xio Alvarez
+Brooke Bachesta
+Ankur Sharma
+Jordan Gilbertson

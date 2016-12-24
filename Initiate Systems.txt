@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Bill Conroy
+Angela Losacco
+Scott Schumacher
+Sean Cassidy
+Brad Jacobs
+Scott Ellard
+Michael Competiello
+Jean Smith
+Mike Robertson
+ronald galowich
+Jacqueline Davis
+Ajay Pattni
+Edward Esteva
+Vivek Kumar
+Kiran Darla
+Kc Rainbird
+Gordon Bockus
+Radhika Khanna
+Elias Avila
+Aldo Davidson
+Norman Adams
+Michael Previti
+Rehan Haque
+Monte Wilson
+Clarissa Cerda
+Michael Competiello
+Mary H. Kelly
+Tony Chambrovich
+Tim Kelley
+Deanna Matrecito
+Vineet Malik
+Elaine Hardie
+Chad Jones
+Jason Bihun
+Richard Clements
+Todd Wiese
+Jenny Luk
+Emily Garnell Lawson
+Will Johnson
+Christopher Bishop
+Pinkesh Kumar
+Michael Leslie
+Ron Weinstein
+Mike Pav
+Ron Galowich
+Peter McCormick
+Brett Norris
+Jonathan Spiggle
+Eric Raymer
+Linda Dorrel
+Chad Cosper
+Sam Domingo
+Jacinto Maquera
+Aaron Zornes
+Priya Krishnan
+Meg Cook
+Tony Crescenzo
+Marcin Konefal
+Nikhil Dhokale
+Raymond Chiang
+Khurram Bhatty
+James Wilkinson
+Mel Haynes
+Deanna Nole
+Corey Williams
+Irene Nathan
+Gary Midgley
+Eunsin Kim
+Bill Klaver
+Rajan Kanitkar
+Jeff Galowich
+Ken Im
+Hulda Hime
+Christopher Bishop
+Bill Liu
+John Dorney
+Preston Gregg
+Chris Buehrle
+Jessica Dunn
+John Hassing
+Billie Sudbrack
+Anthony Greenman
+Susan Grills
+Adrian Mitchell
+Arti Pandit
+Becky Szefc
+Brian Crooke
+Sidd Jagadish
+Clarissa Cerda
+Cherie Kennedy
+John Wenzel
+Cherie Kennedy
+Erhard Fleischer
+Odilio Abreu
+Jody Linick
+Gary Krasovic

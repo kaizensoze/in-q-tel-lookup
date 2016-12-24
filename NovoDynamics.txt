@@ -1,0 +1,95 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Sean McMillan
+Jade Glaze
+Fansheng Meng
+John Trenkle
+David Rock
+Mark Earles
+Jim Kinsherf
+Michael D. Robinson
+Peter Su
+Daniel Schultz
+Paul Olsztyn
+Gerald Tubbs
+Carl Grant
+Paul Bombach
+Robert R. Dennis Jr.
+Alan Vayda
+Matt Wickey
+Robert Clark
+Kristin Marsh
+Benedict Singer
+Michael Rowan
+Tim Dubes
+Michael Abbott
+Luke Carmichael
+Rob Vogt
+Nathan Daly
+Jim Beyer
+Shawn Pyle
+Holly Bielawa
+Mari Anna Wahr
+Stan Cavin
+Martina Schultz
+Cynthia Jessup Sewell
+ANNA TOMMASELLI
+Jon Oxtoby
+Matthew Potoff
+Tom Limperis
+Gregory B. Pepus
+Aziz Matar
+amy sunke
+Mary Koschnik
+Brent Schroeter
+Steve Schlosser
+Joseph McDermott
+Billy Layton
+Lee Hester
+Anthony Schirripa
+Lisa Stringo
+Simon Mormen
+John Trenkle
+Brent Schroeter
+John Trenkle
+Alan Vayda
+Jun Qian
+Vince Tornillo
+Jeanine Macetti
+Manali Surve
+Vince Tornillo
+Bill Cavnar
+Kathy Lorence
+Roger Dickinson
+David Smith
+John Bowker
+Scott Su
+Osama Khalil
+Scott Parris
+Joseph Thompson
+Rama Lakshmi
+Bill Janshego
+Daniel Miller-Sanchez
+Blake Trence
+Mohammad Hluchan
+Lars Rittel
+fausto Gallo
+Anton Tolken
+Sara Venditti

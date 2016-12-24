@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Michael Bell
+Daniel Oliver
+Karl D.D. Willis
+Jack Minardi
+Sarah Spear
+Avin Dhoble
+Carmen Graves
+Ariel Kule
+Scott Janousek
+Fernando Nunez
+Travis Busbee
+Stephanie Marzen
+Kasey Smart
+Phil Inagaki
+Drew Marschner
+Juan Carlos Noguera
+Jennifer Lewis
+Kyle Dumont
+John Kawola
+Daniel Thompson
+Sarah Ackley
+Justin Vega
+Owen McCarthy
+Kevin Murphy
+Max Eskin
+Andrew Mooney
+Kevin Nayer
+Nicholas Holmes
+Ian Gillerman
+Richard Rininger
+Michael Alexander Perrone
+Robert Weeks
+Andrew DeGonge
+Ryan Pembroke
+Jiaan Hyland
+Elliott Garlock
+Elizabeth Suitor
+Steve Kelly
+Scott Janousek
+Amanda Biliskis
+David Hedin
+Sean Troiano
+Nick Martin
+Charlotte Zhu
+Iain McDonald
+Emily TenCate
+weston Beecroft
+Mingnan Xu
+Jonathan Oster
+Daniel Oliver
+Gabriel Entov
+Anjali Krishnamachar
+Noah Collins
+Max Eskin
+Kasey Smart
+Scott Janousek
+Morris Vanegas
+Taran Ravindran
+Gurshan Deol
+Dave Herman
+Don Tappan
+Nicholas Herbert
+Daniel Oliver
+Ziwen Jiang
+Juan Carlos Noguera
+Jordan Birkland
+Ariel Kule
+Michael Holachek
+Anuj Pasricha
+Matthew Spaziani
+Jake Fisher
+Michelle Chao
+Elliott Garlock
+Alex Valentine
+Maxwell Zegans
+Avin Dhoble
+JJ Hernandez
+Bonnie Cheung
+Reed Horton
+Jeannie Nguyen
+Yifei Li
+Tal Ziv
+Chika-Dike Nwokike
+Eric Chan
+Jonathan Tran
+Travis Busbee
+S Brett Walker
+Joseline Morales
+Gavin Richards
+Ashley Pelzel
+Christina Wang
+Ritambhara Kumar
+weston Beecroft
+Elena Chong Loo
+Ivan Atochin
+Charlotte Zhu

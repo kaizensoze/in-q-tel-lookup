@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Carl Hoffman
+Aaron Bacon
+Gregor Stewart
+Eric von Eckartsberg
+Laurie Crist
+Brian Carrier
+Brian Sawyer
+Amy Silverstein
+David Murgatroyd
+Christopher Mack
+Benson Margulies
+Mark Turley
+Steve Cohen
+Yuval Merhav
+James Andrews
+Itai Rolnick
+Chris Biow
+Heather Phipps
+Richard Barnes
+Chris Brown
+Peter Harding
+Jennifer Flather
+Steve Kearns
+David Goldfarb
+Andrew McKay
+Ian Gilbert
+Jeanne Le Garrec
+Ali Duveen
+Ken Glidden
+Li Xu
+Chris Park
+Joe Ho
+Andrew Paulsen
+Tess Cliff
+Michael Veronis
+Joel Ross
+Jeff Godbold
+Christa Miller
+Jason Letourneau
+Bo Pang
+Keren Meltzer
+James Clarke
+Alex Mann
+Olly Bentley
+Christopher Manning
+Anand Raje
+Richard Cordovano
+Crystal Zhou
+Nathan Johnson
+Adla Pradeep Reddy
+Jody Holmes
+Martin Metcalf
+Ben Gregg
+Darren Thorpe
+Jennifer McCleary
+Eugene McGill
+Belinda Pimenta
+Phill Sly
+Yoko Lee
+Senthil Chokkalingam
+Wajid Mir
+Justin Palmer
+Jesus de Miguel
+James Barter
+Yueling Qin
+Tibor Kruska
+Paul Fassnacht
+Cesar Quezada
+Hannah MacKenzie-Margulies
+James Roberts
+Manas KV
+Kal Biradavolu
+Dave Rudo
+Navdeep Dharmak
+Tara Kovalik
+Srinivas Reddy Anugu
+David Padawer
+Manvendra Vikram
+Jachin Moore
+Chris Ray
+PR SRINIVAS
+Costas Philippou
+Hallie Hinckley
+Jeff Castle
+Michelle Levin
+John Marshall
+Heather Phipps
+Habiba Shaik
+Ian Redpath
+Preston White
+Chini Sinha
+Devender Goyal
+Gavish Mago
+Michelle Huang

@@ -1,0 +1,111 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Daniel Marcu
+William Wong
+Cody Saunders
+Dragos Munteanu
+Michael Potts
+Patrick Vanderper
+Bryce Benjamin
+Samad Echihabi
+Greg Fossheim
+Felix Lung
+Radu Soricut
+John Ferreira
+Peter Levy
+Markus Dreyer
+Jason Chin
+Stephen Coleman
+Mike MacKenzie
+joe lerer
+Georgia Gkegka
+Tagyoung Chung
+Ion Muslea
+David Savignac
+Kirti Vashee
+Pak Eli
+Sameer Menon
+Chuck Baker
+Swamy Viswanathan
+Michel Galley
+Sushant Narsale
+Vivek Beniwal
+Dakotta Alex
+Nguyen Bach
+Daniel Marcu
+Greg Langmead
+Don Kim
+Paula Silaghi
+Daniel Marcu
+Anamaria Ladar
+Rosalie Dalrymple
+Alyssa Simon
+Claude Walton
+Julie England
+Yassine Benjira
+Bryant Huang
+Da Xu
+Emmanuel Tonnelier
+Adeleh Jahedi
+da xu
+Adrian Gocan
+Arun Ramakrishnan
+Jing Lan
+Mark Hopkins
+Thomas Wieland
+Jeremy Fischer
+Adina Crozier
+Alex Leventhal
+Justyna Ragiel-Smith
+Andrew Wu
+Anders Richardson
+Kenji Yamada
+Vimal Earnest
+Nausica Popa
+Maria Lechner
+jer fid
+Kimberly Goodell
+Tai Vo
+Priyanka Savkar
+David Savignac
+Sandra Langer
+Alina Gheorghita - Romania
+Iulia Prodan
+Kai Ning
+Barbara Blankenship
+Christopher Frye
+Lee Levenson
+Cristina Lenart
+Dan Oprita
+Brice Buchanan
+Peggy Cheng
+Matthew Thomas
+Alteia Pavel
+carlien van de Kreeke
+Vivek Hungund
+Gert Van Assche
+Octavian Suciu
+Mark Rollins
+Laura Banarescu
+Dominic Kinnon
+Devon Hoenig
+Richard Roberts
+Rob Vickery
+Raul Crisan

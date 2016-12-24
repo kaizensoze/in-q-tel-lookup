@@ -1,0 +1,82 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Amanda Schmidt
+Gabriela Franco
+Jaimie Augustine
+Luisa Mella
+Silvio Lignarolo
+Norman Sharples
+Robert Farrington
+Rod Evans
+Scott Oliver
+William Dunaway
+Jennifer von Schwerin
+Nicola Arrighi
+Jordan Green
+Alberta Roversi
+Lorenzo Fumagalli
+Brandi Swartz
+Giorgio Martello
+Angelo Messa
+Laura Parker Young
+mark ward
+Davide Arrigo
+Julie Bosse
+Ross Allen
+Camilla Masneri
+Riccardo Metraglia
+Giorgio Triva
+Bruno Veronesi
+Vanessa Bonomi
+Antonio Del Mastro
+ASI Network
+Santina Castriciano
+Andrea Balzano
+Ginny Bell
+EMANUELA ZAPPA
+Maurizio Dusi
+Michele Rosso
+Vjoldi Danaj
+Martin Darling
+Phil Wickham
+Stefania Triva
+Pablo Gutierrez Falcon
+Michael J McConnell
+Juan Carlos Perez Calderon
+Dario Dominguez
+Aloke Guha
+Ryan Lee
+Isis Fabiola Hernandez Lopez
+Claudia Sanchez Alonso
+Knute Bidne
+Mark Filerman
+Davide Fania
+Laura Lacombe
+Carl Elliott
+Laura Stelson
+Jeffrey Hines
+Molly Fierer-Donaldson
+diogo rafael ribeiro
+Amy Sanders-Heppe
+Jacob Welch
+Alessia Tomasi
+Sonia Allibardi
+Alessandro Ferrari
+Irene Acerbi

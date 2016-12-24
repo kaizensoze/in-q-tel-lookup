@@ -1,0 +1,117 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+John Morris
+Russ Kennedy
+Nancy Bennis
+Niall McShane
+Rob McCammon
+Joseph Mitchell
+Pamela G. Nicastro
+Scott Horan
+Jeffrey Giannetti
+Alex Garwood
+Chris Cummings
+Mike Isely
+Peter Howard
+Sanjaya Kumar
+Steve Chaney
+Greg Papadopoulos
+James Sherer
+Amelia Lawrence
+Chris Woeppel
+Lindsey Caplet
+Crystal Gettemy Jones
+Peter Levy
+Dusty Hendrickson
+Tanner Morris
+Brian Ober
+Tim Kounadis
+Declan Stuart
+Adam Bane
+Gurdip Kalley
+Tom Shirley
+Wesley Ratliff
+Trent Johnson
+Adam Eggum
+Brian Murphy
+Kevin Whalen
+Martin Szymczak
+Wesley Leggette
+Tyler Reid
+John Shubeck
+Jason Resch
+Bob Schwartz
+Adam Micek
+Jim Lester
+Nate Klaphake
+Harsha Hegde
+Tom Cocagne
+Joseph Dorio
+Dave Bukiet
+Kris King
+Chad Monteith
+Teague Algie
+Jeff Harrah
+Jeffrey Barnett
+Chris Barnes
+Kevin Sullivan
+Yajur Parikh
+Kyle Hines
+Frank Borich
+Matthew Defiore
+Randy Pyle
+Yogesh Vedpathak
+Rob Joy
+Matt Bergman
+Jonathan Danzig
+Jaideep Joshi
+Manish Motwani
+Tim Simpson
+Anu Khera
+Randy Pfeifer
+Rick Villalobos
+Robert Coluccio
+Daniel Scholl
+Kumar Abhijeet
+Antonio Ibanez
+Lisa Gutierrez
+Ben Poston
+Reid Conklin
+Greg Palinckx
+Ben Greene
+Patrick Tamborski
+Matt Houghton
+Adam Siskin
+Asim Kazi
+Brian Ciborowski
+Tammy Manaseri
+Joe Loas
+Frank Diaz
+Brennan Trichardt
+Renar Narubin
+Scott Merkle
+Kyle Miller
+Fred McFadden
+Mark Ingolia
+Doug Bohrer
+Arthur Brown
+Petros Koutoupis
+Craig Zubchevich
+Jamie Brotherton

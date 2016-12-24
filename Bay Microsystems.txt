@@ -1,0 +1,116 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Stephen Ross
+harry carr
+Russ Davis
+Ira Madnick
+Bill Lozoff
+Randall Meals
+Gerry Jankauskas
+Rick Bleszynski
+Gunter Woytowitz
+Mark Bortman
+Bob Smedley
+Bill Weisinger
+Mike McDonald
+Robert Lawrentz
+I Jonatan Schmidt
+Tony Chiang
+John Alger
+Man Trinh
+Konstantin Litovskiy
+John Wolf
+Rick Smedley
+Danny Gur
+Steven Wentling
+Chuck Gershman
+Matt Vinkler
+Mike McDonald
+Mark Murdaca
+Tony Chiang
+Dan Eigenbrode
+Claudia Amendt
+Kathy Perone
+Brian Alleyne
+Pete Yamasaki
+Dave Blessing
+Robert Ordway
+Harry Carr
+Charles Matar
+Vikas Puri
+Suresh Shelvapille
+Soochon Radee
+Ash Dhar
+Stone Shih
+Alan Polizio
+Steve Chen
+Ron Fagnani
+Srikanth Narayanan
+Pravin Desale
+Kevin Barrett
+Richard Eggendorfer
+Chaoyu Yen
+Carey Mitchell
+Paul Letourneau
+Ken Junkins
+John Huang
+Al Mazloom
+Lew Bobbitt
+Steven Pan
+Hemant Bheda
+Shushan Wen
+Sathyamoorthy Gopinathan
+Kristy Thai
+Frank Lin
+Anunoy Ghosh
+Steve S. A. Wan
+Michael Epple
+Nathan Suresh
+Patrick Mullikin
+Jeff Wolf
+Kheng Ung
+Emilian Elefteratos
+Ilya L Ginzburg
+Rod Bartlett
+Janice Davis
+Brent Chism
+Carey Mitchell
+Michael Yan
+Jonathan Nickel
+Lisa Steele
+Tek Wei
+SHENGLIANG SONG
+Lauren Trapani
+Evan Eckstein
+Andy Uhlig
+Brian Jamrus
+Ashish Raina
+Paul Kaminski
+Shu-Ming Chuang
+Christy Castle
+Wiener Mondesir
+Harry Carr
+Li-Ming Chou
+Kevin Basner
+Tony Chiang
+Bob Smedley
+Rick Smedley
+Morris Skupinsky
+Geoff Maxson

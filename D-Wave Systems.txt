@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Bo Ewald
+Steve Reinhardt
+Susan Davis
+Vern Brownell
+Evgeny Andriyash
+Rene Copeland
+Mani Ranjbar
+Megan Richardson
+Dan Cohrs
+Aaron Lott
+Murray Thom
+Dominic Walliman
+Mark W Johnson
+Yanbo Xue
+Shelley Bubb
+Jeremy Hilton
+Warren Wall
+Tomas Cirip
+Tanya J. Rothe
+Jack Raymond
+Andrew King
+Suzanne Gildert
+Mohammad Amin
+Roslynn Drewitt-Lange
+Dave Bruce
+Jason Rolfe
+Jason Yao
+Lindsay Andrea
+Ilya Perminov
+Elena Tolkacheva
+Andy Mason
+Loren Swenson
+Jamie King
+Alexander Condello
+Yuki Sato
+steve Cakebread
+Nicolas Ladizinsky
+Aidan Roy
+Dr. Sergey Uchaikin
+Allison MacDonald
+Anatoly Smirnov
+Chris Rich
+Christopher Scott
+Diane Carr
+Danica Marsden
+Paul Bunyk
+Mauricio Reis
+Chunqing Deng
+Paula Gil
+Joel Gottlieb
+Jasbir Seehra
+Trevor Lanting
+Gabriel Poulin-Lamarre
+Mark Volkmann
+Peter de Buen
+Richard Neufeld
+Gaelen Marsden
+Richard Tsui
+Emile Hoskinson
+Rolf Dekleer
+Kenneth LAM
+Zhengbing Bian
+Travis Oh
+Catia Baron
+Peter Spear
+Mark Nissen
+Chris Hipp
+Silvia Corbellaro
+Greg Peregrym
+Andrew Berkley
+Fabian Chudak
+Fabio Altomare
+Amir Khoshaman
+Jasbir Seehra
+George Sterling
+Edward Sterpka
+Albert Monera
+Jed Whittaker
+Dmytro Korenkevych
+Reuble Mathew
+Sheir Yarkoni
+Gregory Citver
+Vlad Papish
+Dave Pires P. Eng.
+Christian Boily
+Mark Furtney
+Bob Parney
+Mike Booth
+Josiah Klassen
+Karthika Raghavan
+Sasha Gunn
+Craig Petroff
+Elizabeth Barnard
+Kevin Multani
+Robert Israel
+Neil Dickson
