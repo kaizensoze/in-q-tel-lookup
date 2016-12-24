@@ -11,7 +11,7 @@ my $contents=`curl -L -s $url`;
 
 my @matches = $contents =~ /\<a class=".*esgbox" href=".*?" lgtitle="(.*?)"\>Read More\<\/a\>/g;
 foreach (@matches) {
-    `python /Users/joegallo/dev/theHarvester/theHarvester.py -d "$_" -b linkedin > "$_.txt"`;
+    `python /Users/joegallo/dev/theHarvester/theHarvester.py -d "$_" -b linkedin > "companies/$_.txt"`;
 }
 
 # 205 files grabbed via primary
