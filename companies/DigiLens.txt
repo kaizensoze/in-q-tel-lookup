@@ -1,0 +1,117 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Kimberly Lokovic
+Alastair Grant
+Shibu Abraham
+Tiffany Pham
+Aditi Kanhere
+Esperanza Flores
+Chelsea Kim
+Rick Santos
+Richard Bergstrom
+Afshin Partovi
+Jonathan Waldern
+Caroline Eyre
+Loan Tran
+Jilin Yang
+Victor Tran
+Phuong Le
+Jack Tretton
+Thomas Luu
+Nicholas Smith
+Brooke Bayless
+Jenny Truong
+Derrick Luong
+Mana Moarrefzadeh
+Christopher Stables
+Jose Brizuela
+Elisabeth J. Sherry
+Kevin Duperret
+Joseph Consiglio
+Patrick Suel
+Kim Tran
+Baeddan Hill
+Samantha Flores
+Vincent Shieh
+Scott Mobley
+Mikala Evans
+Conrad Dante
+Jennifer Colegrove Ph.D.
+Daniel Gallardo
+David Jones
+Xina Quan
+Juanying Zhao
+Eric Hansotte
+Richard Holmes
+Subra Narayan
+Sajjad Ali Khan
+Edward Chan
+Suning Tang
+Lloyd Baatjes
+Gary Qian
+Yun Zhang
+Jin Zhang
+Jibing Lin
+Robert Cid
+Freya Petersen
+Erica Vega
+SHENGTONG CHEN
+Thanh Le
+Michael Adams
+Shibu Abraham
+Rafaela Rescolino
+HUONG LAI
+William Liu
+Evan Kim
+Ashkan Liaghat
+Michael Maser
+Gerald Buxton
+Mohammad Anis
+Casey Eng
+Ira Nydick
+Terrell Carothers
+Shibu Abraham
+Afshin Partovi
+Jonathan Waldern
+Kevin Thompson
+Eric Larkin
+Althea Tibbetts
+Arkis Yeung
+Loan Tran
+Parisa hassanvand
+Simon Prince
+Victor. Tran
+melanie johnson
+Cassandra Cacoq
+Abraham Berhane
+Jai Jaiprakash
+Alexander Greer
+Tahmina Imam
+Clive Towndrow
+Tianjiao Lei
+Humberto Gonzalez
+James Weitzel
+Thanh Tuyen Nguyen
+Rachel Mayl
+Wayne Sawka
+Daniel Gallardo
+Azar Kazemi
+Qingyong Ren
+Victor Tran

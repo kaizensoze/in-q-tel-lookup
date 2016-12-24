@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Michael Ellenbogen
+Anil Chitkara
+Michael Litchfield
+Sergey Bebenin
+Lorena Kreda
+M. Brendan McCord
+Jim Hamilton
+Steven Burger
+Michael Martin
+John Sanders
+Peter Conway
+Alec Rose
+Michael Harradon
+Ersel Karbeyaz
+Jun Xu
+Sandra Marcus
+Jennifer Doherty
+Nicholas Leary
+Brian Knoth
+Liza Knapp
+Scott MacIntosh
+Jake Jurewicz
+Chris McLaughlin
+Patrick J. Ennis
+Lauren McClellan
+Anatoliy Kats
+Bilal Zuberi
+Dennis Donahue
+Brandon Wolfe
+Olesya Peshko
+Allison MacHaffie
+Wayne Sawka
+Alexander Kiefer
+Hans Susilo
+Ben Porter
+Erdem Yilmaz
+Ian Reynolds
+Andrew Nordahl
+Edward Jung
+Artie Aaron
+Xiaojun Liu
+LeeAnn Levesque
+james zaker
+Steve Crummey
+Florence Ramonas
+Lindy Marcel
+Peter W. Shunney
+Bryan Hinzie
+Melissa Wolf
+Richie Abraham
+Mike Larson
+Robert Delforge
+Ray Serina
+Michael Ellenbogen
+Lori Louie
+Adriane McAda
+Michael Ellenbogen
+Thomas Boilard
+Peter Conway
+Brandon Wolfe
+Jared Zieche
+Richard Chen
+Michael Housman
+Sarah Keating
+Clare Madden
+Afrah Naik
+Kimberly Humphrey
+Tara Meekma
+Yiqun Xue
+Lisa Canty
+Nitai Gur
+Bill Nomikos
+Aj Ruiz
+Carol Trager
+Vinnie Mazzone
+Steven Burger
+Clint Gilbert
+Sadie Rebello
+Camden Lynn
+Gail Zwerling
+Taylor Oliver
+Frances Deutch
+Matthew C. Donahue
+Yana Soyfer
+Alain Llorente
+Bob Falk
+Justine Laugharn
+Steve Milt
+David Huibregtse
+Michael Litchfield
+Emmanuel Idi
+Arthur Khanlian
+Carl Beckett
+Charles Landry
+Richard Abraham

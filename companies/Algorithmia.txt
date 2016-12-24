@@ -1,0 +1,116 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Diego Oppenheimer
+Kenny Daniel
+Stephanie Kim
+John Combs
+Jonathan Word
+Kyle Gonzales-Leitch
+Matt Kiser
+Liz Rush
+James Sutton
+Ahmad AlNaimi
+Anthony Nowell
+Patrick McQuighan
+Saemin Ahn
+Mark Heimann
+Zeynep Su Kurultay
+James Athappilly
+Jamie Polackwich
+Besir Kurtulmus
+James Hoover
+W. Austin Webb
+Carolyn Takacs
+esha raina
+Stephanie Kwak
+Kyle Sandell
+Ahmad AlNaimi
+isha raina
+Jeffrey Sanchez
+Munjal Budhabhatti
+John Combs
+Lisa Dawn
+Liz Rush
+Jason Tyler
+May Saetern
+Erix Xu
+Shaheen Sharifian
+Kyle Gonzales
+Abdulaziz Al-Sulaim
+Paul Sanford
+Ahmet Guroglu
+David McShea
+Wilson Mar
+John Hammink
+John Hammink
+Chris Hannam
+Steph Kim
+John Combs
+Liz Fulton
+Ahmet Arslancan
+Arash Egh
+Stephanie Kim
+Yeskendir Kassenov
+Sajit Rao
+Christophe Courtois
+Rebecca Faery
+John Combs
+Alecia Harris
+JOHN COMBS
+Ahmet Baran
+Ahmet EXT-Arslancan
+Alex Afanasyev
+Kenneth Daniel
+Kenneth Daniel
+John Combs
+Katie Ellison
+Dr. Christopher Brennan
+Edward Doane
+James Sutton
+Donald Cowling
+Evan Frawley
+Kevin Haro
+Stephanie Kwak
+Mohammad Al-Moumen
+Jacob Samuelson
+Peter Hu
+Turki Ayed
+Hamza Talhouni
+Stephanie Kim
+Marwan Sledge
+Ben Ganz
+Nick Verity
+Jennifer Rubinovitz
+Lena Barinova
+Abel Folch-Fortuny
+Martha Burwell
+Jeanne Egar
+Kenny Daniel
+Denny Chapin
+John Thompson
+Alexey Kalinin
+Alex Nowlin
+Stacy Duhon
+Nathaniel Gates
+Paul Bassett
+Sandeep Phadke
+Stephanie Kim
+TARIQ ALATEEQ
+Jeremy Moseley

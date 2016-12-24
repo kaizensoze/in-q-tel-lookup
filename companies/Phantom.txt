@@ -1,0 +1,85 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Tony Sparks
+Oliver Friedrichs
+Eric Hoffman
+David Smith
+Russell Hubby
+Ryan Goldman
+Patrice Montpetit
+Eric Rogers
+Esther Lim
+Michael May
+Ralph Frisina
+Ryan Russell
+Robert Truesdell
+Richard Poole
+Ryne Tacker
+Tim Martin Gleason
+Sheldon Schwartz
+Courtney Liu
+CP Morey
+Robert Anthoney
+Nick Savander
+Ryan Campbell
+Chris DeArmitt
+Gabriel Mendoza
+Christopher Piedmonte
+Cristel Baiu
+T.J. Holzapfel
+Neha Sinha
+Sourabh Satish
+Brian Hillis
+Dana Kenn
+Darwyn Metzger
+Polly Baird
+Chris Simmons
+Priyashu Agarwal
+Gregory Livoti
+Dan Ramaswami
+Ronald Will
+Michael Weinberger
+Henry Timm
+sam byrd
+Romain Deguy
+Jamie Moreno
+Paul Whiteley
+Jennifer Caruso
+Aaron Schurman
+Albert Mita
+Heather Chockley
+Julie Ouellette
+Silvio Scambone
+Laurie Volny Langdon
+Satomi Hofmann
+Farshid Farrokhnia
+Tina Walsh
+Ken Schar
+Adam Langley - Technical Director
+Matt Mezick
+Adrian Wydra
+Holly Mitchell
+John Landino
+Lawrence Anderson
+Matthew Troy
+Frank Scholl
+Rob Wentz
+Aditya Sehgal
+Kaitlyn Davis

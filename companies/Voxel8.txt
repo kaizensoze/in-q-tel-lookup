@@ -23,28 +23,28 @@ Karl D.D. Willis
 Jack Minardi
 Sarah Spear
 Avin Dhoble
-Carmen Graves
-Ariel Kule
-Scott Janousek
 Fernando Nunez
+Carmen Graves
 Travis Busbee
+Scott Janousek
 Stephanie Marzen
-Kasey Smart
 Phil Inagaki
-Drew Marschner
+Kasey Smart
 Juan Carlos Noguera
+Drew Marschner
 Jennifer Lewis
 Kyle Dumont
 John Kawola
 Daniel Thompson
-Sarah Ackley
 Justin Vega
+Sarah Ackley
 Owen McCarthy
 Kevin Murphy
 Max Eskin
 Andrew Mooney
 Kevin Nayer
 Nicholas Holmes
+Ariel Kule
 Ian Gillerman
 Richard Rininger
 Michael Alexander Perrone
@@ -56,8 +56,8 @@ Elliott Garlock
 Elizabeth Suitor
 Steve Kelly
 Scott Janousek
-Amanda Biliskis
 David Hedin
+Amanda Biliskis
 Sean Troiano
 Nick Martin
 Charlotte Zhu
@@ -81,6 +81,7 @@ Don Tappan
 Nicholas Herbert
 Daniel Oliver
 Ziwen Jiang
+Andrew Mooney
 Juan Carlos Noguera
 Jordan Birkland
 Ariel Kule
@@ -96,9 +97,9 @@ Avin Dhoble
 JJ Hernandez
 Bonnie Cheung
 Reed Horton
+Tal Ziv
 Jeannie Nguyen
 Yifei Li
-Tal Ziv
 Chika-Dike Nwokike
 Eric Chan
 Jonathan Tran
@@ -107,9 +108,8 @@ S Brett Walker
 Joseline Morales
 Gavin Richards
 Ashley Pelzel
-Christina Wang
 Ritambhara Kumar
+Christina Wang
 weston Beecroft
-Elena Chong Loo
 Ivan Atochin
 Charlotte Zhu

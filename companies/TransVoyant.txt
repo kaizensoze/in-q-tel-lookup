@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Heather Crotty
+Dennis Groseclose
+Jim Clautice
+David Panitz
+Timothy Williamson
+Scott Byrnes
+Kevin Kasiborski
+Shelly Stanley
+Tim Fleischer
+Bob Hoover
+Jason Fortner
+Kim Gimble
+Rick Shaffer
+Matt Fry
+Stephen Minakovic
+Austin Thomas
+Lucas Balsley
+Shari Shahidi
+Dan Grubb
+Michael Grochol
+Tyson Leal
+Craig Priest
+Helen Nowacki
+Martin Pedersen
+Nicholas Harscher
+Whitney Missig
+Kirk Bloomquist
+Rob Levy
+Jim Sutton
+Wayne Jackson
+Shelena Cofield
+Graycloud Rios
+Lenval Logan
+Celena Schaddelee
+Mitch Logan
+Carl Pridmore
+Randy Grolemund
+David Kozak
+Joseph Galiano
+Aaron Loes
+Harry Goodnight
+Annie Neligh
+Phil Leibold
+Lucian Grigoriu
+Phil Leavold
+Ernesto Flores
+Tom Fontana
+Dawn Murat
+Andrian Belinski
+Ben Boller
+Max Schmidt
+William Eberle
+Steele Hays
+Jon Liversedge
+Tom Champ
+Christopher Schmitt
+Shelly Stanley
+Rachel Fleischer
+R. P. Ruiz
+Darryl Murdock
+Varinia Frias
+Michael Rushin
+Benjamin Kerschberg
+Joe McKinney
+Tim Fleischer
+Wayne Chesley
+Shelena Cofield
+Daniel Clarahan
+Shelly Stanley
+Blaine Schultz
+Robin Toth
+Dan Clarahan
+Jerrod Harvey
+AKSHAY NAVALE
+Joey Ray Francisco
+Paul Reiners
+Randy Grolemund
+Darius Gatlin
+Milquiades Walther-Rodriguez
+Digisha Jain
+Lakshmi Maddali
+Bob Sturm
+Steven Phillips
+Angela Chappell
+Bob Hoover
+Brent Ramsey
+Maria Gebbink
+Kaleigh Devine
+Kirk Bloomquist
+William Warren
+Shashi Palani
+Stacey Gardebrecht
+Kris Liebold
+Llarna Burnett
+Jason Gygi

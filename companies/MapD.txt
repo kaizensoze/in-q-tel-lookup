@@ -1,0 +1,97 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Manik Gupta
+Sravan Puttagunta
+Steven Benson
+Brian McClendon
+Chris Campbell
+Paul G. Lego
+Christina Collada
+Eddie Godshalk
+Fabien Chraim
+Raj Shah
+Jonathan Paisner
+Jeff Cohn
+Anuj Gupta
+Scott Harvey
+Bennett Moe
+Chris Targett
+James Potter
+Michael Siliski
+David Hodge
+Sophia Lin
+Rawleigh Smith
+Ron Patulski
+Soumen Mukherjee
+Rich Durante
+Richard Hurlock
+Michael Desrosiers
+John Dex
+Nathaniel Vaughn Kelso
+Alexander Zolotarev
+Jason Creadore
+Natalie Lyla Ginsberg
+Dave Lopes
+Frank Biasi
+David Wiggins
+Eric Albert
+Allison Feduccia
+Mara Harris
+Loren Paulsen
+Alexander Braunstein
+Andrew Woodruff
+Anil Saraogee
+Ryan Peterson
+Ajay Chandru Hemnani
+Marty Schnure
+Kevin Dougherty
+Siana Jannesari
+Bobby Shackelton
+Kynthia Brunette
+Daniel Dykstra
+Ken Athaide
+Chris Brown
+Dan Ortiz
+Cara LaChance
+Megan Tang
+Brad Moore
+Curtis Galloway
+Travis Rind
+Christina Wong
+Peter Davie
+Shanni Weilert
+Ross Donihue
+Jane Yu
+James Shaw
+Allison Vanderby
+Matt Forrest
+Alexandra Weinman
+Kent Marten
+Murray Hudson
+Jay Remley
+Michael Antonio
+Ashley Smith
+Michelle Chen
+Eric Riback
+Gina Le
+Kelley Ross
+Bruce Daniel
+Nat Case
+Vikas Sood

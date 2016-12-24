@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Malcolm Harkins
+Jon Miller
+Ryan Permeh
+Chad Skipper
+Glenn Chisholm
+Nicholas Warner
+Braden Russell
+Joel Bauman
+Matt Stephenson
+Matt Wolff
+Greg Fitzgerald
+Brady Berg
+Rich Angulo
+Sean Jelveh
+Vina Leite
+Xuan Zhao
+Keith Palumbo
+Rob Bathurst
+Jeffrey Ishmael
+Scott Scheferman
+Michael Baker
+Edward Preston
+Renee Beckloff
+Bryan Gale
+Jonathan Fitzgerald
+Evan Davidson
+John McClurg
+Robert Dyer
+Cynthia Abbott
+Arthur Hathaway
+Chris Walery
+Didi Dayton
+Stuart McClure
+Todd Benshoof
+Ron Talwalkar
+Ken Bruehl
+Brian Wallace
+Nicole Prybula
+Lana Atchley
+Justin Clarke
+Clayton Fields
+Cody Anderson
+Mike Moorhead
+Gabe Deale
+Jen Winters
+Cynthia Siemens
+Christopher Ries
+Bridget Phelps
+Raj Rajamani
+Gabriel Acevedo
+Daniel Bernard
+Dan Satinoff
+Chris Zimmerman
+Steve Mancini
+Ana Gallastegui
+Denise Tcheng
+Katie Faust
+Sean H. Heyboer
+Drew Hoffman
+Martha Goebel
+Jason Carpenter
+Marc Davis
+Mark Thompson
+Ryan Golden
+Jason Green
+Brian Turnage
+Tusdi Vopat
+Sunny Volkert
+Andrew Davis
+Brad Russell
+Eric Cornelius
+Ben Denkers
+Sue Teague
+Scott Henning
+Stuart Hoffmann
+Mason Spaunburg
+Ian Hughes
+Alex Doll
+Louise Cooke
+Tracy Deschenes-Perlongo
+Athena Yur
+Mike Viruso
+Marek Vass
+Shaun Walsh
+Stephen Baker
+Sean Quinn
+Jim Barry
+Brad Arndt
+Gary Golomb
+Warren Hinton
+Abigail Maines
+Eric Milam
+Ali Heidari
+Isaac Sanders
+Jesse Theodore
+Andy Solterbeck

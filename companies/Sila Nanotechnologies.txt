@@ -1,0 +1,118 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Gleb Yushin
+Gene Berdichevsky
+Alex Jacobs
+Kathryn Daniel
+Michelle Chang
+Alper Nese
+Justin Yen
+Alishah Merchant
+Damian Harris
+Justin Doane
+Zoran Milicev
+Nick Meyer
+Alex Fritzinger-Pittman
+Scott Lynn
+George Gomes
+Kayla Weston
+Adam Kajdos
+Craig Weich
+Eerik Hantsoo
+Matthew DiNitto
+Nhung Pham
+Richard Crowley
+Libu Philip
+Kelsey Kinzy
+Justin Sawkin
+Jens Steiger
+John Shen
+Christian Fesenmaier
+Jeff Wan
+Bogdan Zdyrko
+Scott Sadlon
+Sergei Klochkov
+Gary Jones
+Ransomed Adebayo
+Austin Clark
+Christopher Fesenmyer
+Kristen Hansen
+Laura Gerber
+Nicole Schauser
+Ash Ward
+Hyea Kim
+Angela Barrett
+Daniel Gordon
+Alan Mohr
+Mike Speiser
+Alan Landers
+Vojtech Svoboda
+Dana Chue
+Dave Lyons
+Lindsey Rackett
+Katie Berdichevsky
+Gauri Vilash
+Naoki Nitta
+Matthew DiNitto
+Wes Herman
+Vincent Paglioni
+Anne Marie Barrett
+Alexander Usyatinsky
+Anselm Griffin
+Peter Frischmann
+Gleb Yushin
+Iurii Bandera
+Anna Olson
+Sarah Dominy
+Martin Eberhard
+Arvind Kalidindi
+Colin Granger
+Nicholas Ingle
+Brett Helms
+Bogdan Zdyrko
+Karl-Magnus Persson
+Silvia Turner
+Joy Zeng
+Shengzhao Cao
+Careers at Xilectric
+Kathy Yu
+Camila Lee
+Georges Nassif
+Rosario Viernes
+Ryan Purington
+Sarah Warkander
+Adam Kajdos
+Alan Mohr
+Martha Soltani
+Ketan Kapur
+Changyi Li
+Hannah Dillon
+Alice Greider
+Greg Grebennik
+Josh Raimist
+Rosalie Norair
+Arianna Golden
+Anastassia Lyn
+McKay Allen
+Maria Weber
+Petrus Nguyen
+Christopher Pierce
+Sezai Bayrak
+Richard Crowley

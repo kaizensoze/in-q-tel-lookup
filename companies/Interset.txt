@@ -1,0 +1,90 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Bill Kistner
+Si Chen
+Daniel Gottlander
+Petra Cross
+Hartman Nissle
+Praveen Korapaty
+John Herrmann
+Bouchra Ezzahraoui
+Kal El-Wahab
+Matthew Hornbach
+Gilbert Chua
+Tiecheng Liu
+Andrew Clurman
+John McMurray
+Valerie Cerasuolo
+Matthew Cushman
+Edythe Kuhn
+Derek Svoren
+Hilary Curran
+Peter H. Miller Hon. AIA
+Yubing Luo
+Jeff Steltzer
+Veena Raju
+Justin Roth
+Mark Zaguskin
+Arrak Bhattacharyya
+Bertrand Rossert
+Kelly Chin
+Christian Saarbach
+Rex Evans
+Lee Williams
+Jonathan Shulman
+Dwyer Fleming
+Nick Brophy
+Geoff Sharp
+Morgan Alcalay
+Larry Lefkowitz
+Shengqiang Xu
+Shengnan Nancy Li
+Douglas McGee
+Dave Ford
+Xiaoyu Zhang
+Deborah Daniel
+Steve Adie
+Stephen Berkley
+David Hirvonen
+Tammy Tallant
+Dion Chen
+Ben Werther
+David Martinelli
+Arshi Chetal
+Jeff Wang
+John Allen Gay
+Steven Harris
+Siddhartha Jha
+David Ader
+Isaac Chang
+Thomas A. Russo
+Scott Wilson
+Richard Chambers
+Ali Shafei
+Snehal Kanakia
+Tong Zhan
+Wilson Huang
+Christopher Rahmlow
+Ankit Raj
+Joshua Xingzhi zhang
+Cemal Dikmen
+Nicolas Cojocaru-Durand
+Paul Brewer
+Robin Schurman

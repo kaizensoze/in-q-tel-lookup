@@ -1,0 +1,64 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Leo Meyerovich
+Quinn Johnson
+Paden Tomasello
+Alain Mayer
+Paul Taylor
+Thibaud Hottelier
+Andy Chou
+Brian Rice
+Kevin Zeng
+Joshua Patterson
+Matt Torok
+Quinn Johnson
+Quinn Johnson
+Joseph Napoli
+Yen Yang Lim
+Quinn Johnson
+Quinn Johnson
+Binyamin Lewis
+Jennylee Wright
+Tim Williamson
+Quinn Johnson
+Nicholas R. Staal
+Clayton Olson
+John Milone
+Matthew Torok
+Mike Bobak
+raju chittimalla
+claire speedie
+David Rust-Smith
+Brian Suda
+Keith Kraus
+David Beeler
+Kyle Kelly
+Kevin Lee
+Joshua Mak
+Ryan Campbell
+Diana Richardson
+Craig Heneveld
+Quinn Johnson
+Caroline Butler
+John Giannakos
+Paolo Di Meo
+Dave Dice
+walter gerber
+Quinn Johnson

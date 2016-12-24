@@ -1,0 +1,91 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Adam Broun
+Adam Broun
+Sam Shleifer
+Patrick Wood
+Samantha Whitmore
+RJ Assaly
+Matt Taylor
+Peter Wojda
+Kat Feldmann
+Kate Caputo
+James Esdaile
+Bhavesh Dayalji
+Mark Zhang
+Bruno Faviero
+Qibo Chen
+Hyunyoung Choi
+Leonid Taycher
+Colin Carroll
+Martin Camacho
+Zhanna Rozenbaum
+Justin Whitehead
+Stephane Prunet
+Whitney Melford
+Michael Shulman
+Matt Willian
+Caleb Howe
+Schuyler Laird
+Gleb Bahmutov
+John van Moyland
+Carolyn Ranti
+Ivan Zlatar
+Parham Negahdar
+Kate Minette Chapman
+Rishabh Dua
+Lindsey Raymond
+Alvaro Almanza
+Alec Schmidt
+Vadym Barda
+Leigh Jennings
+Nikhil Mutalik
+Tim McLaughlin
+Tara Merrigan
+Eugene Yurtsev
+Matt Neary
+Greg Safran
+Paul Rosa
+Samantha Throsby
+Andrew Mauboussin
+Nicolai Krakowiak
+Anthony Liu
+Daniel Silberwasser
+Eli Rosen
+Eric Lee
+Toph Tucker
+Adity Dokania
+Brad Armstrong
+Matthew Goral
+Georg Kucsko
+Alex Rivas
+Ian Brady
+Diana Shapiro
+Everett Wetchler
+Michael Kessler
+Billy Janitsch
+Courtney Radcliff
+Joseph Ong
+Daniel Dijkgraaf
+Kevin Krim
+Daniel P Petrozzo
+Ashok Rao
+Michail Takkos
+Aleksandar Stojkovic
