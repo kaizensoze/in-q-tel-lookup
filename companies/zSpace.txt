@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+George Warren
+Amanda Austin
+Pete Johnson
+Mike Harper
+Kristine George
+Pat Salstrand
+David Chavez
+Lisa Grippo
+Jeff Kidd
+Ashley Alvarez
+Thessa Monaco
+Karen Beshak
+David Chan
+Paul Kellenberger
+Gregg Yedwab
+Sam Lucchese
+Elizabeth Lytle
+Jennifer King
+Clifford Champion
+Jason Railey
+Katherine Hartsell
+Stephen Allison
+Julia Petchey
+Steve Yeung
+Chris Sherman
+Lance Vogler
+Kelly Empson
+Mark Wilson
+Alexandra Ellsworth
+Patrick Polster
+Brian Farmer
+Able Hsu
+Jonathan Harper
+Leo Kuznetsov
+Justin Smith
+Chaz Pillatsch
+Nick Pinchok
+Alison Dykema
+Karla Estrada
+Stan Lim
+Ron Rheinheimer
+Ron Kiser
+David Cisneros
+Johnnie Shuck
+Jill Donnelly
+Angela Kargilis
+Mark Flynn
+Baifang Lu
+Brooke Cashion
+Dawn Khatami
+Shawn Lee
+Scott Whitacre
+Kevin Judge
+Jennifer Janes
+Christian Refvik
+Alan Gray
+Yamuna Ramasubramaniyan
+Cisco Lopez-Fresquet
+Amie Souder
+Jason Benitez
+Michael Albers
+Ken Smart
+Holly Uber
+Steve Kingsley-Jones
+Glenn Christensen
+Alan Cheng
+Holly Peng
+Tim Jardine
+Ed Baraf
+Hamid Farhani
+Jerry Tu
+Florian Hunziker
+Andy Bushnell
+Allen Yeung
+Eric Tripp
+Dennis Kuznetsov
+Brett Johnson
+Malcolm Cameron
+Jonathan Hosenpud
+Jack Liu
+Randy Ochs
+Dawn Khatami
+Trevor Mifsud
+David Borel
+James Oby
+Vincent Toscano
+Alex Lelievre
+John Hochstatter
+Jon Therrien
+Scott Dolim
+Adam Magleby
+Laura Kitagawa
+Derrick Williams
+Kirk Anthony Law II
+Alan Romanowicz

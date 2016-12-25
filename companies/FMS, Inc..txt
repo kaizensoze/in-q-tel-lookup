@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Luke Chung
+Nicole Lake
+Dennis Hammarquist
+Paul Rongey
+Dan Wasser
+Tracy Brown
+John Smith
+Terry White
+Michael Casady
+Forrest Towry
+Jim Ferguson
+Elizabeth Cruse
+Lisa Gillilan
+Andrew Dykman
+Mark Gourley
+John Litchfield
+Harmony Mallory
+David Matherly
+Butch Mcbride
+Michele Evangelista-Lehnus
+James Lawson
+Christine Hill
+Ron Fredericks
+Nicole Hardee
+Matt Lapin
+Ric Burns
+Karrie Rainey-Fisher
+Beth Gomez
+Creston Harris
+Chris Svenson
+Gary Winner
+Daniel Doiron
+Steve Blumin
+Jaison Lecount
+Nick Moore
+Trissy Evangelista
+Mitchell Tsai
+Frank Strasek
+Bob Graybill
+Michael Wolfer
+Jason Hogg
+Brad Stevens
+Jeremy Blumin
+Matthew Crow
+Julia Williams
+Fun Magic Style
+alfredo ibarra
+Jeff Gillian
+meosha sheppard
+Hamid Shirkhan
+Fran Moran
+Frank Rizzo
+Anthony Reyes
+Maurice Heilberg
+Jorge Vazquez
+Robert Pigozzi
+Keenan Colquitt
+Eric Doig
+Jerry Kelly
+Brenda Fanguy Sonier
+Dana Bradd
+Traci Forrester
+Adam Pollard
+Michael Luft
+Kate Matties
+Lance Margolin
+Vernon Nelson
+Jessica Blackburn
+Ramesh Shrivastav
+William C. Wyatt
+Laura-Bozhydara Farrell
+Therese Watson
+Sam Hadad
+Ray Pecor
+Myriam Stunkard
+Don Helms
+Victor Batchelor
+Kathryn L. Martin
+Dan Haught
+Brendan Burk
+Tonya Maupin
+Michelle Parker
+Madan Achuri
+Tony Damalas
+Harold Cameron
+Nickolas Narczewski
+Michael Phillips
+Jenny Boone Sappington
+Tom Hall
+Mellenie Runion
+Tripp Davenport
+Karen Benoit
+Philip Germansderfer
+Christopher Buckley
+Dan Wasser

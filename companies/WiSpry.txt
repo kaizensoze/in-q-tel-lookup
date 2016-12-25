@@ -24,9 +24,9 @@ Pete Good
 Vincent Cheung
 Andy V Tran
 Brad Nelson
+Marten Seth
 Jose Saucedo
 Dana DeReus
-Marten Seth
 Emmanuel Ngompe
 David Molinero Giles
 Mandy Cheung
@@ -54,8 +54,8 @@ David DeRoo
 Thomas Nguyenphuoc
 Joungsub Shin
 Kishore Singavarapu
-John Scott
 Michael Papesh
+John Scott
 Brian Hurst
 Mark Czepiel
 Jim Hartman
@@ -75,9 +75,9 @@ Long Sam
 Wilska Kari-Pekka
 Alex Trandle
 Danny Yeap
-Thomas Nguyenphuoc
 Ulrik Riis Madsen
 James Smith
+Thomas Nguyenphuoc
 Art Morris
 Ed Healy
 John Levy

@@ -26,17 +26,17 @@ David White
 Mark Agloro
 Debara Lutkenhouse-Frost
 Jim Klevenberg
-Dennis Harris
 Ken Gilmore
-Roy Swiger
 Mattias Luukkonen
-David Smith
 Andrew McAllister
 Stefanie Gangano
 Charles Troup
 Justus Wunderle
-Omar El-Sissi
+David Smith
+Roy Swiger
+Dennis Harris
 Kaiwan Chear
+Omar El-Sissi
 Corey Smith
 Charles Park
 Stephen Williams
@@ -44,23 +44,22 @@ Nicholas Andrews
 Arni Barican
 Florence Miaolin
 Mattias Vangbo
-Gina Porsee
 Jacklyn Buscaino
 Robert Schueren
+Gina Porsee
 Ariana Ramos
 Pat Cohan
 Carman Upshaw
 Nancy Stainton
+Francesca Pearson
 Jeff Hudson
 Rick Sykes
-Francesca Pearson
 Trish Silva
 Sally Smith
 Bob Barrett
 Jeff Heimburger
 Grace Lee
 Jay Therrien
-Chris Contonis
 James Gangwish
 Urosh Jovanovich
 Dan Murphy
@@ -71,18 +70,19 @@ Neelima Mehendale
 Annette Saffeels
 Tony Tran
 John Murphy
-Nic Noome
-Jennifer Yoldi
 Lori K. Hennessy
+Jennifer Yoldi
+Nic Noome
 Alexander P. Kindwall
+Chris Contonis
 Michael Recknor
 Scott Nelson
 Brett Corrie
 Deborah Long
 ezra van gelder
 Robert Courter
-Howard Goldstein
 Dean Tsou
+Howard Goldstein
 Timothy Look
 Mehrdad Nafisi
 Rudy S. Boleslav
@@ -91,12 +91,12 @@ Trish Silva
 Louis Grever
 Dino Valdecanas
 Mark Keller
-Kay Strohl
 James Ogg
 John Maher
 Yuan Li
-Kiptonui Chirchir
+Kay Strohl
 Dieu Nguyen
+Kiptonui Chirchir
 Jim Riker
 Hilda Danvers
 Frank Lin
@@ -107,6 +107,6 @@ Robert Pringle
 Ross Guarnera
 Mimi Kent
 Iris Diaz
-Denise Holloway
 Peter Ashcroft
 Dave Oehler
+Vivian Le

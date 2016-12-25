@@ -47,7 +47,6 @@ Nadeem Vellore
 Megan Assarrane
 Riccardo Baron
 Phil Libin
-Corey Smith
 Paul DeCrisantis
 Ben Erwin
 Jeffrey Seifer
@@ -57,22 +56,22 @@ Mira Alden
 Heather Wilde
 Nizam Ali
 Andrew Modzelewski
+Maren Perry
 Andy LeClair
 Chris Dahl
 Slava Zatuchny
-Maren Perry
-Marcello Tortorici
-James Ward
-Lynn Chien
 Pathway to Potential
+Lynn Chien
+James Ward
+Marcello Tortorici
 Isaac Nichelson
 Ghanshyam Upadhyay
 Nathalie McKean
 James Robertson
 Bill Markel
 Birpal Virdee
-Elesha Santos
 John Bys
+Elesha Santos
 Edward McLaughlin
 Rob Cryan
 Sven Rajala
@@ -88,8 +87,8 @@ peg feldt
 Emma Polini
 Kiyota Sage
 Fanuel T Hagos
-Leonard Goldstein
 Avierinos Jean-Robert
+Leonard Goldstein
 Siarra T. Mong
 Marie DeLorenzo
 Julie Mather
@@ -101,3 +100,4 @@ Krishna Zivraj
 Chris Dahl
 Aaron Bender Ph.D.
 Chase Dafnis
+Lara Dildy

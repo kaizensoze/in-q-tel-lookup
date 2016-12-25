@@ -21,8 +21,8 @@ Chris Adams
 John Monti
 Leslie Wat
 Joe Peery
-Casey McMullen
 James Carroll
+Casey McMullen
 Bruce Johnson
 Daniel Shaul
 Ann Peng
@@ -40,8 +40,8 @@ Usha Friedrich
 Paul Perez
 David Jenne
 Vincent Ward
-Santiago Fernandez-Gomez
 Alfred Chou
+Santiago Fernandez-Gomez
 Vladimir Koifman
 Craig Robinson
 Craig Holden
@@ -50,30 +50,31 @@ Francis Tilmont
 Valorie Windsor
 Yacov Broit
 John Bernstein
-Jerry Goodwin
 Hui Tian
 Jennifer Martin
+Jerry Goodwin
 Alfred Chou
 Naftaly Sharir
-Ricardo Motta
 Anel Dadlani
-Samantha Domville
+Ricardo Motta
+Brian P. Lowery
 Siew Thomas
+Samantha Domville
 Todd Rockoff
-Joe Devlin
 Valorie Windsor
+Joe Devlin
 Christophe Gagneux
 David Hoff
 Sony Israel
-Brian P. Lowery
 Joe Souza
-Lee Hirsch
 Arie Gavriely
+Lee Hirsch
 Brian Carey
 Siew Thomas
 Zudun Tang
 William Bidermann
 Abhinav Nippuleti
+Shirley Cheng
 Benjamin Olding
 Juho Kim
 Steven M. Bidermann
@@ -89,8 +90,8 @@ Ben R
 Robert Masik
 Bob Weinschenk
 Andrew Bailey
+Ray Johnson
 Jeff Jones
-vinod reddy
 Zach ROUAULT
 Elton Sherwin
 Iris Nikas
@@ -107,4 +108,3 @@ Jan Biggs
 Maher Shenouda
 Vincent Trinh
 Gloria Reiss
-David Yang

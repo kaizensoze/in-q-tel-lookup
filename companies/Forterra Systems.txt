@@ -1,0 +1,111 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jon Watte
+Michael Macedonia
+Tony Pelham
+Val Hopkins
+Laura Kusumoto
+Todd Griffith
+David Shorrock
+Victor Penman
+James Dedmon
+Willy Chua
+Gary Arnold
+Joshua Panton
+Jim Anderson
+Ray Giroux
+Amit Joshi
+Andrew de Laix
+Eric Hohenstein
+Ben Chess
+Seiji Powell
+Solomon Norman
+Keelan Stuart
+Gregory Gosnell
+Colin Gunn
+Mike Ziegenhagen
+Justin Handville
+Justin Hang
+Michael Sivret
+Nassar Stoertz
+Sabine Wallis
+Travis Miller
+Jason Norgaar
+Matthew Wilson
+Wade Spires
+Laurie Coppersmith
+Kura Shepard
+Noel E. Esporo
+Matt Kaufman
+Heidi Poulin
+Kirby Zhang
+Kira Snyder
+William Harmsworth Bodt
+Victor Penman
+George Rawlins
+Cathy Slay
+Jason Duncan
+Numan Hammoudeh
+Barry Bauer
+Mamatha Pooskur
+Donna Goldberg
+Juli Walwyn
+Ian Lahaye
+Brian Anderson
+Dave Rolston
+Peter Kapoor
+Satyen Sheth
+Chee Siong Chiu
+fred Larson
+Joe Straitiff
+Teddy Renkiewicz
+Edward Sexe
+Erica Driver
+Jana Shook
+Anne Derryberry
+Thomas Aschenbrenner
+Joseph Knight
+vamshi singam
+Zach Kent
+Mimi Matossian
+Jill Scheffer
+Jim White
+Laura Kusumoto
+Charles Ward
+Doug Cooper
+Scott Manor
+John Dodson
+Joel Fink
+Randy Nelson
+Sunil Dudi
+Marvin Tellez
+Jody duRand
+Lukas Salyer
+Brad Hunemuller
+Charles Rivera
+Nathaniel Castor - Full Stack Web Developer
+Udi Lazimy
+Kassie Coverdale
+Randy Wilson
+Jeff Killin
+Travis Miller
+Justin Handville
+William Harris
+Ed Coccari

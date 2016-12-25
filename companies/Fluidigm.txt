@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Chris Linthwaite
+Marc Unger
+Peilin Chen
+Katica Ilic
+Gajus Worthington
+Naveen Ramalingam
+Paul Steinberg
+Jay West
+Tammy Kim
+John L. Corliss
+Brian Fowler
+Jing Wang
+Dave Ruff
+Jason McKinney
+Ramesh Ramakrishnan
+Steven Hoffman
+Manisha Ray
+Kristina E. Lebeda
+Massimo Carli
+Mark Lynch
+Gang Sun
+Fred Walder
+Steven Collier
+Pedja Sekaric
+Kevin Farrell
+Kae Saechin
+Richard Fekete
+Camila Egidio
+Ilona Holcomb
+Elizabeth Benas
+Dwayne Bisgrove
+Howard High
+Vikram Jog
+Melissa Leone
+Greg Bauer
+Ofir Goldberger
+Todd Lee
+Nick Khadder
+Stephanie Lapuz
+Mary-Kay Lippert
+Ryan Cua
+Jessamine Toh
+Robert Ellis
+Filomena DiPierdomenico
+Esther Kim
+Kyle Hukari
+Narges Rashidi
+Luke Stewart
+Chandana Haque
+Nancy Ngo
+James Kane
+Ted Young
+Stacey Lofgren
+Michaeline Bunting
+Tze Howe Charn
+John Stark
+Alexandre Bouzekri
+Christian Gawronski
+Aik Ooi
+Annie Lester
+Yuliya Vrubel
+Mario Hernandez
+Larry Xi
+Julie Alipaz
+Douglas Hinerfeld
+Honrado Lopez
+Hoa Truong
+Xiangxu Kong
+Clare Rogers
+Amy Hamilton
+Anne Leyrat
+Lisa White
+Candia Brown
+Theresa J Royer
+Michelle Garred
+Bryan Crawford
+Jonathan Bibliowicz
+Matt Kirtley
+Mo Tehrani
+Sandy Cheng
+Wendell Smith
+Chad Alexander
+Dmitry Bandura
+John Lynch
+Sarah Whaley
+Pam Delucchi
+Matt Anstett
+Eric Swanson
+Phuong Thuy Menchavez
+Kevin Brown
+Shiva Natarajan
+Hana Gage
+Robert Nale
+Christian Reece
+Benjamin Lacar

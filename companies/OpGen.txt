@@ -26,15 +26,15 @@ Terry Walker
 Charles Thornton
 Tim Dec
 Chris Sullivan
-David Hoekzema
 Clayton Collier
+David Hoekzema
 Fran Astore - Shay
 Tim Howe
 Evan Jones
 Doug White
 Chris Carlin
-Rossio Kersey
 Mary Jane Vaswani
+Rossio Kersey
 Tony Rockweiler
 Eric Winzer
 Timothy Thornton
@@ -55,14 +55,14 @@ Kelly Frye
 Larry Wellman
 Mary Ann Allen
 Alex Saeed
-Valerie Darling
+Stephen Higgins
 Bin Zhu
 Jason Troxell
 Wenlong Jiang
+Valerie Darling
 Noel Doheny
-Stephen Higgins
-Ken Pachkowsky
 Joy Sheng
+Ken Pachkowsky
 Erin Sobanski
 Steve Summers
 Richard Tsai
@@ -81,7 +81,6 @@ Jo Resnick
 Brad Packard
 Joseph Shaw
 Erin Newburn
-Ronald Burggrave
 Mark Puopolo
 Jonathan Hufton
 Azzouz Bencheikh
@@ -90,6 +89,7 @@ Bob McKiel
 Christy Cole
 Randy Dorning
 Steve Eicher
+Ronald Burggrave
 Ric Galle
 Joy Sheng
 Nikhil Toraskar

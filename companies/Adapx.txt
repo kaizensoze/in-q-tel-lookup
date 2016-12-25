@@ -45,8 +45,8 @@ Paul Estridge
 Kurt Bunselmeyer
 Andy Quinn
 Timothy Meese
-Robert Waldrup
 Brian Turley
+Robert Waldrup
 Paul Estridge
 Ken Schneider
 Mark Shapland
@@ -56,7 +56,6 @@ Dave Swensen
 Nate Brown
 Robert Carlson
 Steven Weber
-Sabra Goldick
 Marc Pierre
 Phil Cohen
 Edward Kaiser
@@ -68,26 +67,27 @@ Phil Cohen
 Kelly Mills
 Ben McAllister
 Colin Swindells
+Sabra Goldick
 Ira Smith
 Jeremy Knudson
 David Scott
 Sumithra Bhakthavatsalam
-M. Cecelia Buchanan
 Timothy Meese
 Sam Brenner
 Charles Roper
 Alex Arthur
 Jason Frye
 LaDonna Kearney
+M. Cecelia Buchanan
 Rajah Annamalai Subramanian
 Robert Waldrup
 Sammamish High School Alumni
 Ronald Melendez
 Xiao Huang
+Zach Munroe
 Jada Wendt
 Ken Webb
 Paul Estridge
-Zach Munroe
 Ashleigh Early
 Guy Holliday
 Daniel Shue
