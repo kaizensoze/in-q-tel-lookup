@@ -1,5 +1,5 @@
 # in-q-tel-lookup
 
-Simple script to parse in-q-tel companies.
+Simple script to lookup in-q-tel companies.
 
-theHarvester is required: https://github.com/laramies/theHarvester
+NOTE: If you forgot to `clone --recursive`, just run `git submodule update --init` to grab the theHarvester submodule dependency.
