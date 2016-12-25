@@ -1,0 +1,113 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Rick Emery
+Troy Suttle
+Erin Orsulak
+Robert Balgley
+Stephen Webb
+Burt L. Feldman
+Scott Ruff
+Christopher Jaynes
+Lewis Roetto
+Connie Bolt
+Matthew Dennis
+Clinton Jenkins
+Tyler McCollum
+Christine Owens
+Nicholas Sutton
+Jessica Flowers
+Melissa Koltes
+Duane Whitcomb
+Michael Tolliver
+Ali Norouzinia
+Ariane Barragan
+Thomas Ruge
+Justin Norman
+John Razes
+Sirun Wang
+Kevin Egan
+Joel Dice
+Tanner Howard
+Thomas Giarratana
+Peter Di Sessa
+Rob Balgley
+Thomson Comer
+Nic Chandler
+Sally Bevis
+Dustin Forster
+Nicholas Diesel
+Garrett Schmidt
+Mark Spoto
+Peter Kelly
+Elizabeth Benz
+Phyllis Stewart
+Gark Tan
+Ariane Barragan
+Matt McCue
+Rob Painter
+Davis Balgley
+Mark Bossard
+mat corrado
+Ethan Brown
+David Desormeaux
+Byron Bertram
+Anzu Nagumo
+Mike Perlmeter
+Luke Dixon
+Colby Toland
+Tobias Jahn
+Danning Song
+Paul Guerin
+Malin Hallbeck
+Gabe Johnson
+Sally Bevis
+Ewa A. Treitz
+Danny Crasto
+Rick Emery
+David Levy
+Robyn Alcorn
+Rick Winde
+Braxton Campbell
+Garrett Schmidt
+Klaus Dimmler
+Ross Leher
+Garrett Schmidt
+Michael Van Grouw
+Toby Daschbach
+Josh Richau
+Marty showen
+Danielle Drier
+Anne Marie McDermott
+Zhijian Fei
+Kathleen Manly
+Ian Fleming
+Elaine Nunn Schoch
+RHONA KLINGHOFER
+Tyler McCollum
+Abby Ferguson
+Rick Karden
+Laurie Gallagher
+aese white
+John Razes
+Carlos F. Carrillo
+Brittany Padilla
+Marcela Montalvo
+Lindsay Alguire
+Jasmun Hendrick

@@ -1,0 +1,118 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Eric Cross
+Eric Cross
+Chet Kapoor
+Ed Anuff
+Stacey Giamalis
+Denise Persson
+Anurag Wadehra
+Steve Rowland
+Anant Jhingran
+Dino Chiesa
+Alan Ho
+Scott Regan
+Paul E. DuCharme
+Bryan Kirschner
+Jordan Wyatt
+Shankar Ramaswamy
+Chris von See
+Shubhra Sinha
+Brian Mulloy
+Gregory Brail
+Srinivasa Gandhi Sampath
+Chris Arisian
+David Allen
+Sanjeev Srivastav
+Shailaja Pittie
+Barry Lieberman
+Rob Taylor
+Bala Kasiviswanathan
+Ashley Phan
+Sarthak Gangopadhyay
+Sriram Padmanabhan
+Martin Nally
+Shreya Krishnan
+Chris Latimer
+Sandeep Murusupalli
+Maruti Chowdavarapu
+Brian Coulter
+Pooja Jain
+Prithpal Bhogill
+Eszter Szikora
+Anil Sagar
+Don Dixon
+Prabhat Jha
+Martha Jager
+Joshua Norrid
+Bob Glass
+Angel Oberoi
+Steve Richardson
+Alex White
+Hansel Miranda
+Ricardo de Andrade
+Reet Mand
+Sam Ramji
+Martin Borowsky
+Helen Whelan
+Konrad App
+Ashley Austin
+Peter Cutler
+Pranav Parekh
+Erin Parker
+David Andrzejek
+Layne Bro
+Joy Thomas
+Michael Leppitsch
+Brinda Lovely
+Arun Kumar
+Maudrit Martinez
+Sanjoy Bose
+Marc Schreuder
+Diego Zuluaga
+Harsh Chevuru
+Pablo Kenney
+Waqar Hasan
+Oscar Ponce
+Chris Novak
+Chris Vogel
+Karthik Nair
+Marsh Gardiner
+Kurt Kanaskie
+Rajesh Jadhav
+Denis Dorval
+Dino Petrakis
+Brian Pagano
+Dave Roberts
+Sri Vidya Annapragada
+Matthew Dobson
+Joe Black
+John Rethans
+Brian McNamara
+Morgan Hall
+Alan Languirand
+Scott Saxon
+Leanne Moir
+Jeremy Anticouni
+Rajesh Bhargava
+David MacDonald
+Dave Hurlbrink
+Cass Obregon
+Olaf de Senerpont Domis

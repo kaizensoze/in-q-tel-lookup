@@ -1,0 +1,117 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Paul Osenar
+Phil Robinson
+Christopher R. Schuster
+Beth Stewart
+Nate Palumbo
+Julie Fiore
+My Lac
+Ray Summers
+Dave Long
+Sally Brown
+James Sisco
+Brendan Heinig
+John Mahoney
+David Ierardi
+Tyler Cote
+Chris Bonni
+Ryan Bussett
+Matthew Otis
+Joshua Persky
+Kevin Pham
+Patricia Stone
+Forrest Harrington
+Rich Flathers
+Jim Kazmierczak
+John Wescott
+Christian Olson
+Alex Lessard
+Mohammad Enayetullah
+Jeff Stravato
+Lori Beauregard
+Taylor Long
+Seth Dziengeleski
+Dave Edlund
+Christine Martin
+Robert Hennemuth
+Courtney Jones
+George Kiwada
+Jessica Yttredahl
+Zachary Carter
+Ron Rezac
+Pete Rezac
+Oren Bernstein
+Michael J. Skinkle
+Alex Merlino
+Andrew McKenzie
+Greg Cipriano
+Edmund Jacinto
+Bill Fiske
+John Connolly
+Greg McConnell
+Christian Twyman
+Michael McCarthy
+George Tsiropoulos
+Brian Nardone
+Dave Edlund
+Beth Stewart
+Matthew Zubler
+Peter F. Simpson
+Stuart Foster
+Corey Mooney
+Robert Barry
+Mark Hahn
+Caine Finnerty
+Mohammad Enayetullah
+Andrew Daniels
+Alex Jordan
+megan haase
+Joe Stadtmiller
+Joshua Filgate
+Seth Avis
+Glenn Wachter
+Chuck Booten
+Brett Connal
+ijeoma anichebe
+Sarah Kapelner
+Tristan Brawn
+Steven Touch
+Beth Stewart
+Brendan Heinig
+Ha Neul On
+Farnoosh Fadiani
+James McCarthy
+James Pilczak
+Siddhant Singhal
+Dimitris Chatzichristoforou
+Joseph Lavoie
+Darrell Holigan
+Andrew Gawlak
+Attila Herczeg
+David Ierardi
+Kerry Aculina
+Kara Gibson
+Christopher R. Schuster
+Joseph Heelan
+Steven Bennett
+Lauren Rosier
+Paul DeWald
+Greg Kleen

@@ -1,0 +1,118 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Andrew Erlichson
+Michael Gordon
+Alan Chhabra
+Eliot Horowitz
+Dev Ittycheria
+Stacy Ferranti
+Shannon Bradshaw
+Richard Kreuter
+Dan Pasette
+Francesca Krihely
+Kelly Stirman
+Carlos Delatorre
+Mat Rider
+Meghan Gill
+Andrew Davidson
+Cailin Nelson
+Shraya Ramani
+Ron Avnur
+Sheena Badani
+Andrew Stephens
+Kirsten Rowland
+Meg Goetsch
+Jennifer Tyrseck
+Norberto Leite
+Asya Kamsky
+Niyati Shah
+Dwight Merriman
+Mat Keep
+Samuel Weaver
+Sarah Branfman
+Andrew Morrow
+JP Bolen
+Rick Daley
+Joe Morrissey
+Amanda Marshall
+Dan Sullivan
+Dina Jacobson
+Sigfrido Narvaez
+Stuart Jones
+Mark Helmstetter
+Dave Gallo
+Dylan Olson
+Samuel Akiba
+Alex Varel
+Leo Zheng
+Chad Carlisle
+Jason Saunders
+Danielle James
+Buzz Moschetti
+Jason Ma
+Vijay Vijayasankar
+Graham Moreno
+Melissa Kathryn Wong
+Graham Neray
+Adam Comerford
+John Yu
+Giuseppe Incitti
+Doron Greenspan
+Hilary Phillips
+Austin Holland
+Louisa Berger
+Jared Rosoff
+Barrie Segal
+John Cox
+Patrick McCluskey
+Seong Park
+Brandon Calley
+Hannah Lee
+Mrinal Sarkar
+Sean Andrew
+Osmar Olivo
+Jason Paquette
+Daniel M. Farrell
+William Cross
+Brandon Sligh
+David Storch
+Jeremy Powers
+Valeri Karpov
+Rajiv Thapar
+Vigyan Jain
+Scott Buell
+Sandeep Parikh
+Brandon Newell
+Bernie Hackett
+Patrick Connell
+Jason Chen
+Ayo Akintilo
+Jacqueline Piratello
+Tom Bull
+Emily Cardner
+Kevin Ryan
+Kerry Finn
+Justin Dignelli
+Sarah Dart
+Ramon Fernandez-Marina
+Pat Sheehan
+Max Schireson
+Nicholas Tang
+Conor Buckley

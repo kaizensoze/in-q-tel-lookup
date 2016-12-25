@@ -1,0 +1,112 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+John Lindner
+Reed Taussig
+Ofer Mizrach
+Mike Cichon
+Dean Weinert
+Armen Najarian
+Dan Tauber
+Alisdair Faulkner
+Lizzie Clitheroe
+Pascal Podvin
+Andreas Baumhof
+Matthias Baumhof
+George Tubin
+Ted Egan
+Brandon Carr
+Daniel Zamani
+Tom Trembois
+Ilan Krayn
+Jaci Robbins
+Nate Kharrl
+Eamon Murphy
+Stephanie Wehrung
+Tony Larks
+Billy Ho
+Rhonda Bunch
+Tom Ruggeri
+Larry Venter
+Dany Kurian
+Gagan Sekhon
+Rhonda MacLean
+Steve Jones
+C. David Ader
+David Jones
+Robert Birnie
+Frank Erf
+Himanshu Bari
+Patrick Chen
+Laura Kirkham
+Daniel Yorkey
+Victor Thornton
+Stephanie T. Eng
+Lyubov Molodikova
+Justin Black
+Jonathan Muise
+Frank Teruel
+Alex Andrews
+Dan Rampe
+Wesley Spowhn
+Ken Lam
+Albert Nguyen
+DC Cullinane
+Vince Lau
+Nick Blievers
+George Oberle
+Aidan Herbert
+Marc Lee
+Robert Pistor
+Howard Yu
+Jean-Bernard Dumerc
+Jun Zhang
+May Calceta
+Zach Watkins
+Kevin Watkins
+Michael Lee
+Jim Seymour
+Chuck Buffum
+Jody Freedman
+John B. Marra
+Katherine Decina
+Kyle Rohrs
+Sean-Michael Holman
+Nick Maggipinto
+Cameron Church
+Richard Dobber
+Damien Henriksen
+Carmen Honacker
+Ben Reback
+Alejandra Gallastegui
+Chad Scott
+Fred Krauss
+Eric Negler
+Andy Swett
+Lenny Winsel
+Rosalina Liszikam
+Maria Louca
+Rob J. Dorney
+Tracy Hsu
+Alex Forss
+Max Hufft
+Dennis Vogt
+alan yin
+Samira Kerdoun
+Bert Rankin

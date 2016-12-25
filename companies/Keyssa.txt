@@ -22,11 +22,11 @@ Gordon Almquist
 Sunder Palaniraj
 Bhupendra Sarhad
 Steve Venuti
-ArunPrasad Ramiya Mothilal
 Eric Almgren
+ArunPrasad Ramiya Mothilal
 Dhileepan Thamotharam
-Mariel van Tatenhove
 Roger Isaac
+Mariel van Tatenhove
 Nick Antonopoulos
 Srikanth Gondi
 Felix Mbairi
@@ -103,5 +103,5 @@ Philippe Fournet-Fayat
 Mostafa Naguib Abdulla
 Katrina Estrella
 Philippa Ushio
-Ken Kveton
 Aaron Buchwald
+Jeff Park

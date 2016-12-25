@@ -1,0 +1,106 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Kalen Furrer
+Rachael Wahlgreen
+Noel Garcia
+Melissa Snyder
+Andy Dearing
+Nick Ducoff
+Nicole McNamee
+Alison Drain
+Anthony Calamito
+Nancy Grimes
+Cecil Banhan
+Annette Hawkins
+Mark Lopez
+Aaron Miller
+Parker Spence
+Graham Robbins
+Jason Broadhead
+Morgan Lancaster
+Zach Rouse
+Wade McMahon
+Rasmus Wendt
+Daniel Berry
+Scott Stewart
+Paul Keck
+Linda Allen
+Jody Garnett
+Steve Morton
+Simon Donato
+Amber George
+David Hemphill
+Dave Gibbon
+Aaron White
+Steve Ernst
+Esther Johnson
+Katie Wixon
+Nikki Kay
+Jon Hankes
+James Robertson
+Wanza Madrid
+Austin Morledge
+Ed Sallie
+Jennifer Purcell
+Sean Sullivan
+Brittney Dinan
+Brian Monheiser
+Soumya Sengupta
+Thomas Ingold
+Chris Piper
+Jacob Elder
+Michele Demers
+Robyn Dettmer
+Henrik Johansson
+Lauren Gannon
+Melissa Rusk
+Catherine McCarthy
+Sarah Radin
+Erik Soulek
+Darren Milton
+Theresa Roberts
+Betsy Emmons
+Hunter Janda
+Karden Rabin
+Kathy Chapski
+Steven Cohen
+Ashley Fontenot
+Brandee Scott
+Linda Stevens
+Morgan Wilks
+Bruce Neumann
+Anuj Kale
+Lisa Anderson
+Elizabeth Vudhiwat
+Donna Pearce
+Andrea Lakos MCIPD
+Sean McColl
+Talia Michelle
+Tim Craig
+Iman Cornwall
+Pat Barry
+Vanessa Hamer
+John Petersen
+Larry Rogers
+Chris Bewley
+David Burns
+Nick Liberati
+Haven Bey
+Molly Lindsay

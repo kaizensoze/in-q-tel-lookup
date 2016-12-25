@@ -40,8 +40,8 @@ Giacomo Ferrari
 Jeff Kaplan
 Chris Rieth
 Jackie Golden
-Steve Greenberg
 James Pratt
+Steve Greenberg
 Eric Eden
 Joe Pringle
 Ryan Mannion
@@ -72,12 +72,12 @@ Valerie Moye
 Reid Serozi
 Julie Chase
 Athlan Lathan
-Erika Smith
 Jenae Ghassemieh
 Henry Hippely
 Christian Hoogerheyde
 John Zook
 Kenneth Melero
+Erika Smith
 Martha Young
 Daniel Moser
 Marc Millstone
@@ -101,10 +101,10 @@ Ori Pleban
 Peter Moore
 Beth Blauer
 Jacob Simpson
+Aditya Agrawal
 Kara Goetz
 Joah Iannotta
 Julie Mills
-Aditya Agrawal
 Steven Ellsworth
 Pilar Wienke
 Diana Post

@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+David C. Duffy
+David H. Wilson
+Elisabeth Colunio
+Kevin Hrusovsky
+Purvish Patel
+Susan Hillman
+Martin Madaus
+Erica Frew
+Mingwei Zhao
+David Hanlon
+Julien Bradley
+David Kulick
+David Rissin
+Melissa Gardel
+Devon Campbell
+Brian Pink
+Sean Sullivan
+Seth Cohen
+Linan Song
+Andreas Jeromin
+Kalin Kantchev
+John Murphy
+Lei Chang
+Lisa Costa
+David Fournier
+Ernie Orticerio
+Divya Rao
+Jeremy Lambert
+Bruce Bal
+Derek DuPont
+Carlos Cabrera
+Yao Chen
+Paul Chapman
+Monica Errico
+Tomasz Piech
+Ryan Smith
+Brittany Melanson
+Jennifer Geldart Flashman
+Matt Fishburn
+Ryan Cleland
+Cheuk W Kan
+Ginny Mulcahy Richard
+David Rice
+Donna Callery
+Dusty Whittemore
+Dipika Gemani
+Jeffrey Randall
+Beverly Lowrey
+Laurel Provencher
+Brian Gregor
+Richard Dennis
+Walt Segl
+Pamela Gifford - Isaacson
+Shawn Schantz
+Scott Cannistraro
+Alex Calder
+David Montoya
+Ray Meyer
+Derek Baker
+Brian Smith
+Christine Vitkauskas
+Rohit Anand
+Shuai Nie
+Muriel Mendes
+Huy Le
+Dusty Walter
+Kaitlin Minnehan
+Danielle Svancara
+Eliseo Veras
+Jaclyn Hamwey
+Steve Klose
+Gary Kershner
+Brett Flaherty
+Adam Shepro
+Julie Coughlan
+Leo Mitchell
+Jialu Liu
+David R. Waltz
+Nick Naclerio
+Ariel Vonk
+Nathan Estochen
+Andrew Rivnak
+Stephanie Schubert
+CASTRO Amelie
+Katie Beauregard
+Marcus Madaus
+Kristin Manfredi
+Jason Beltz
+Nick Picca
+Kenneth Lerma
+Dave Marr
+Bryan Klekota
+Julie Coughlin
+James Nahirny
+Curt Fischer

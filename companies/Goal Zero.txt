@@ -1,0 +1,116 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+James Atkin
+Clint Eastman
+Ryan Baylis
+Andy Earl
+Jay Zynczak
+Russell Thurgood
+Nick Taylor
+Stacie Larsen
+Jaremy Butler
+Pitt Grewe
+Kirsten Woods
+Alex Henry
+Emily Ziegler
+Mike Skousen
+Adam Petersen
+Aaron Barker
+Scott Sorensen
+Dale Wood
+William Harmon
+Robert Workman
+Lisa Janssen
+Nathan Baker
+Hank Howell
+Crystal deGreef
+Adam Nicosia
+Bart Miller
+Morgan Lawson
+Grant Smith
+David Grayson
+Kevin Klein
+Cari Boyer
+Sterling Robison
+Keyvan Vasefi
+David Samuel Smith
+Norm Krantz
+Sus Edmundson
+Nick Mathis
+Rob Gardner
+Lee Fromson
+David Bullock
+Jonathan Heinzen
+Amorette Figueroa
+Jared Anderson
+Bryce Robinson
+Ryan Weese
+Karen Probst
+Edmundson Sus
+Susie Anderson
+Lauren Kwasniewski
+Robert Peay
+Gale Kalmi
+Walker Ford
+Kristen Makanoa
+Catherine Voutaz
+Ryan Shepherd
+Cody Thomas
+Kevin Buckner
+Rick Evans
+Alexandra Larson
+Alex Stout
+Hayley Adamson
+Chad Eastman
+Matt Larsen
+Stephen Groseta
+Dave Pruetz
+Jeff Mower
+Robbie Kerback
+Conrad Liebowitz
+Alex Johnson
+Joe Newsum
+David DaGloria
+AJ Heil
+Nancy Blake
+Evan Price
+Halen Seevinck
+Travis Smith
+Fred Lillywhite
+Chris Abbruzzese
+prum oum
+JoyLyn Densley
+Tony Valadez
+Rebecca Litchfield
+Stefano Pagliai
+Elmont Mark
+Michael Roner
+Corinne Sa
+Emily Adams
+Todd Switzler
+Christopher Meek
+Kristen Fowler
+Jared Preston
+Kayla Bizek
+Joey Coomer
+Kimberly Knighton
+David I
+Kimberly Hall
+Charity Apsley

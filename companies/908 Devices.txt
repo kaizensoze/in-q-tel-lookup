@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Chris Petty
+Alyssa Ludvino
+Gary Paul
+Cicely George
+Joe Griffith
+Scott Mellors
+Trey Sieger
+Brendan Powers
+W Craig Wall
+Kevin J. Knopp
+Glenn A. Harris
+Steve Araiza
+Christopher Brown
+Kevin McCallion
+John W. Kenneweg
+Kerin Gregory
+Bob Green
+Scott Miller
+Michael Jobin
+Mark Norman
+Patrick Farrell
+Kevin Chaves
+Erin Finelli
+Stephen Mills
+Michael Goodwin
+Kevin Schultze
+Gwen Bone
+Sean Vote
+Matt Aernecke
+J. Michael Ramsey
+Kenion Blakeman
+Tony Liepert
+Kevin Keen
+Shirley Hoenigman
+Graham Shelver
+Erin Redman
+Evgeny Krylov
+Phil Gardella
+Nick Randall
+Chris Carpita
+Nicholas Setzer
+John Ranson
+Robert Kukla
+Carol Faiola
+Dave Massingham
+Kelly Haley
+Luc Davidson
+Rith Prum
+John Czajkowski
+Ji Young Anderson
+Drew Blouch
+Lorenzo Grasso
+Peter Sullivan
+Joshua Guerrette
+Hendrick Melo
+Devin Walker
+Kevin Hrusovsky
+Ken Junkins
+Mahdi Abdullahi
+Mitch Gallerstein
+Serena Dao
+Aura Ammenhauser
+Nancy Corbett
+Angela Bubier
+Tom Goodson
+Andrew Browning
+Mark Spoto
+Steven Pomerantz
+Haley Foster
+James Roush
+Colin Delorme
+Napassorn Lerdsudwichai
+Cory Steffek
+Peter Swett
+Chris Udall
+Bob Risse
+Gary Paul
+Christina Karapataki
+Mark Whitney
+Rick Clermont
+Kevin J. Knopp
+Becky Verryt
+Yuliya Cherapukha
+Davor Dvanajscak
+Mitchell Gallerstein
+Juliana Rubinova
+Joseph Mayr
+Craig Cavanaugh
+Andrew Hampton
+Laurent Menard
+trey steiger
+Chris Petty
+Julia Ravalski
+Hiva Hosseini
+John Perry
+Michael Tolocka

@@ -1,0 +1,117 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Alan Hoffman
+Derek Schoettle
+Alan Hoffman
+Mike Miller
+Mike Broberg
+Ryan Carrier
+G. Adam Cox
+John Harrison
+Sunanda Nair
+Jake Epstein
+Raj Singh
+Adam Kocoloski
+Nate Parsons
+Chris Glew
+Dave Evans
+Matt White
+Robert Genova
+Dongsheng Wang
+Ryan Millay
+Greg Hobson
+Keith Lohnes
+David Pitera
+Shawn Brennan
+Justin Campbell
+Glynn Bird
+Kyle Snavely
+Balakrishna Reddy Kolla
+Jake LeBlanc
+Mike Elsmore
+Robin Smith
+Al Finkelstein
+Michael Rhodes
+Daniel Mannarino
+Brad Noble
+Brad Bonn
+Bilal Ahmed
+Dan DeMichele
+Benjamin Anderson
+Benjamin Bastian
+Rob Allen
+Sara Strope
+Bobby Bouthillette
+Sam Bisbee
+Kevin Wolf
+Eric Appelt
+Ben Perlmutter
+Samantha Scharr
+Jeffrey Marks
+Pete Vander Giessen
+Mike Rioux
+Claudius Li
+Melissa Tobin
+Jose Zapata
+Casey Tutill
+Jordan Counts
+Rohit Agarwal
+Timothy Sharkey
+Perry Stoll
+Pardees Safizadeh
+Rhys Short
+Robert Silvagni
+Jeff Li
+Anthony Abdulla
+Andy Kipp
+Sam Smith
+Travis White
+Rachel Zeeman
+Joanna Varvoutis
+Patrick Coughlin
+Mike Westlein
+Ferris Erica
+Kent Kjaer
+Sean Hudgston
+Skyla Loomis
+Kim Stebel
+Prakash Dhoot
+Simon Metson
+Tom Blench
+John Murphy
+Jeff Cunningham
+Chad Collins
+Christopher Bienko
+Margriet Groenendijk
+Justin McDavid
+Chad Barraford
+Darek Czapinski
+Holger Kache
+Andy Ellicott
+Andy Palmer
+SURAJIT ROY
+Ayodele Adesola
+Jim Redmon
+Harmanas Chopra
+Lynnette Nolan
+Wayne Deleo
+Sharyn Richard
+Jon Mead
+Jose Vargas

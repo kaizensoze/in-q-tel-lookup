@@ -1,0 +1,118 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jill King
+Dave Jackson
+Alan Taylor
+Rob Clyde
+Lane Franks
+Dave Moore
+David Beer
+Jared Bristow
+Marty Smuin
+Scott Hurst
+Michael Jackson
+Joseph Pratt
+Emily Davies
+Trev Harmon
+Jason Booth
+Daniel Hardman
+Wil Wellington
+Virginia Tate
+Wolfgang Dreyer
+Mike Lovell
+James Messina
+Brian Saville
+Rick McKay
+Ken Nielson
+John David Harmon
+Paul Anderson
+Lee Carter
+Becky Heugly
+Joel Meriwether
+Chad Harrington
+Nick Ihli
+Jonathan Ryskamp
+Nate Seeley
+Janna Penrose
+Scott Hansen
+David Handy
+Ian Cartwright
+Luis Miguel Silva
+Lars Stenstedt
+Mark Kenton
+Corin Kochenower
+Nathan Burton
+Dewayne Adams
+Tim Shaw
+Todd Rupper
+Aaron Gibson
+Dean Ormsby
+Christopher Hess
+Alan Nugent
+Ian Nate
+Tammy Johnson
+Jason Coari
+Ron Yorgason
+Gary Brown
+Benjamin Schmuhl
+Dan Croft
+Michael Hollingshaus
+Brady Kimball
+David Litster
+William Lim
+Chris Calder
+Troy W. Smith
+Brian Schott
+Joshua Butikofer
+George Spanoudakis
+Raymond Hardy
+Meng-Shiou Wu
+Nathan Wells
+Jeff Porcaro
+Peter ffoulkes
+Don DuRousseau
+Christos Kloukinas
+Mark Norton
+Wesley Emeneker
+Colin Whitbread
+Jaime Cummins
+Ken A Baldwin
+Daniel Bray
+Sean McAuliffe
+Paul H Cook
+Isaac Tobler
+Janice Perry
+Glen Beane
+Shawn Hoopes
+Golden Murray
+Craig Laurence
+Jeff Dayley
+Rick Josephsen
+Sergey Grigorev
+Mike Kelley
+Sam Michie
+Tim Molter
+Vishal Mishra
+zhikun Lin
+Scott Brown
+todd rupper
+L. Raine Curtis
+Jonathan Dye
+Chris Lamb

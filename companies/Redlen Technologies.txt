@@ -57,11 +57,11 @@ Amir Afshar
 Rolf Dekleer
 John Loyola
 Gerry S Thompson
-Peng Wang
 Michele Moss
 Viola Langley
 Amir Salar Salehi
 Daniel Williams
+Peng Wang
 Denene Dahl
 Richard Gilmour
 Amin Cheraghi
@@ -98,7 +98,6 @@ Mike Rozler
 Lisa Bethell
 Sundeep Patria
 Doug Robinson
-David Raudabaugh
 Fraser Harris
 Eugene Siklos
 Christina Schulte
@@ -106,6 +105,7 @@ Chris Allen
 Wenzhi Chen
 Nur Kasem
 Chris Erickson
+David Raudabaugh
 David Cheeke
 Carly Philbrick
 Lyndon Liepert

@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Bill Pardue
+Christopher Skarinka
+Jordan Foley
+Parker Mitchell
+Tom Cecere
+Jay Rustine
+Benjamin Calder
+John L Keller
+Wallace Hogsett
+Paul Walsh
+Ellen Cousins
+Lacy Thomas
+Benjamin Williams
+Nathan Fullerton
+Kyle Anderson
+Sarah Levy
+Jeffrey Hughes
+Kevin Worley
+Krystal Repoff
+Mike Sperry
+Mark York
+Benjamin Coons
+Emmett Soldati
+Raphael Rogers
+Scott Merrick
+Daniel Febrer
+John Crowley
+Jason Levit
+Ganesh Kannan
+Beverly Parker
+Tom Aley
+Kristen Crawford
+Douglas Stolz
+Mark Dumas
+Thomas Woolston
+Liz Mason
+Sean Daigneault
+Nick Elliott
+Travis Hite
+Matthew Souders
+Stefan Cecelski
+Cyrena-Marie Arnold
+Julianna Brunini
+Adam Moyer
+James Banasik
+Bradley Sherwin
+John MacMillan
+Hannah Kent
+Domenic Venuto
+Andrew Odins
+Matthew Post
+Renny Vandewege
+John Breen
+Jeff R Noel
+Shaun Pammenter
+Leigh Munchak
+Chuck Khuen
+Andrew Larson
+Melissa Hartsock
+Rochelle Linsenbigler
+Andy Rice
+Michael Ferrari
+Shylesh Muralidharan
+Dennis Groseclose
+Gregory Scott
+Michael Reese
+George Lauro
+Phil Jung
+Olga Hogan
+Craig Mroczka
+Michael Francis
+Bryan Levenson
+Michael Peeler MS MBA
+Ben Herbert
+Tim Marquis
+Beth Kaplan
+Karen Braun
+Lynette Flinn
+Perry Rotella
+Sarah Boots
+David Gold
+Georg Isola
+Alexandra Sammon
+John Opatz
+Steve Miller
+melissa slabbert
+Paul Kesaris
+Rob Purser
+Katharine Kobylt
+Robbie Strickland
+Flor Brosnan
+Sage Hiller
+Dr. Arindam Samanta
+Alexander Engell
+Ashlea Parrish
+Don Berchoff
