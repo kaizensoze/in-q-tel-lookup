@@ -1,0 +1,118 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Scott Merritt
+Peter Johnson
+Eric Musser
+Anurag Agrawal
+Ric Ya
+Lee Kayne
+David Brunner
+Damon Lockwood
+Salina Wuttke
+Charyle Gandee
+Ellen Ray
+Paul Sewell
+Stephen Jacobs
+Christopher Jenkins
+Sohit Kapadia
+Aabhas Bhardwaj
+Peter Hall
+Thomas Sasnett
+Michael Chandler
+Praveen Medisetti
+Larry Braswell
+Ujjwal Khare
+Danny McDougald
+Bill Pritchard
+Aaron Constable
+Nathan Jones
+Scott Cantwell
+Francis Carden
+Josh Walker
+Michael Lambert
+Juan Navarro
+Stephen Fox
+Manish Patel
+Jennifer Gaffney
+Joseph Huang
+Michael Carothers
+Andrew Fitzgerald
+Chris Clarke
+Derek McDowell
+Jim Roton
+Matthew White
+Jeffrey Gibeau
+Celia Baker
+Phil Shaffer
+Dylan Sharp
+Stephen Beckett
+Rod Dunlap
+Becky Blackwell
+Michelle Velazquez
+Noel Lavery
+Peter Whitaker
+Cynthia Bearden
+Shailender Tamta
+Aditya Sharma
+Brian Norman
+Leigh Varnham
+Rick Marquardt
+Chris Wolfe
+Henry Zara
+Martin Macnair
+Phillip Moussakhani
+Mrinal Bhasin
+Antara Chatta
+Susan Foster
+Patricia Brinton
+Bill Ogden
+Thomas Rieck
+Hiren Patel
+Anna Convery
+Becky Eldridge
+Chuck Miller
+Akarsh Saxena
+Jeff Badger
+Paul Lomeo
+Nabil Aref
+Clarence Waldrop
+Ron Alber
+Dan Burcher
+Les Singleton
+Larry Edwards
+Grant Carden
+Kara Potente
+David Norman
+Chris Thorne
+Patrick Stieger
+Dave Stamm
+Christine Arnold Peart
+Simon Rainbow
+Tony Castagno
+Marco Maini
+Charles Davis
+Kartik Malik
+Aqib Javed Khan
+Guy Tweedale
+Michael Norton
+Brian Kelleher
+Ashley Pruitt
+Jason Caruncho
+Alissa Dettelbach

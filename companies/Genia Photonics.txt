@@ -48,7 +48,6 @@ Vinh N. Dang
 Maxime Duong
 Hadi Pouransari
 Brian Bourgoyne
-Joseph Salhany
 Eric Geoffrion
 OM MANI SINGH
 Sami Younes
@@ -63,6 +62,7 @@ Frederic Doulcet
 Dinesh Uniyal
 Vincent Mercier
 Matt McMurter
+Ahmad MOHADDES POUR
 Francois Gonthier
 Laurence Duhaime-Gosselin
 Benoit Lorrain
@@ -72,27 +72,27 @@ Alain Lavallee
 Dominique Lemieux
 sami younes
 Patrick Mascoe
-Alain Perreault
-Ahmad MOHADDES POUR
 Joseph Salhany
 Fai Lin Lam
 Steve Horne
 Eric Cloutier
 Kelly Yan
+Matthew Slater
 Rishee Behl
 Sami Younes
 Mathieu Giguere
-Eros Roncaia
 John Bainbridge
 Olivier Daigle
 lorraine benoit
+Eros Roncaia
 Arnaud Marchese
 Mike McDermott
 Jeff Arnold
+Youngjae Kim
 Paul-Henri Rouleau
 Sylvain Gilbert
+Daniel Potter
+Keith Hoege
 Serge Forest
 Christian Michaud
-Daniel Potter
 Scott Vincent
-Megan Pennington

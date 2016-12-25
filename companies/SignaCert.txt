@@ -1,0 +1,115 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Toney Jennings
+Greg Valentine
+Brian Davis
+Jake Westerfeld
+JT Keating
+John Murgo
+Bart Lauwers
+Bob Glowienke
+Josh Tippett
+Gerry Kelley
+Mike LaPeters
+Paul Nadeau
+Jeff McMahon
+Gene Spafford
+Joey Rousseau
+Mark Allers
+Patrick Woodworth
+Sol Cates
+Susanne Byram
+Milt Smith
+Ramesh Nagul
+Stephen Maysonave
+Drew R.
+Kim Bailey
+Wyatt Starnes
+Alan Forsythe
+David Bleckmann
+Bart Lauwers
+Bob Glowienke
+Ken Gengler
+Hugh Mackworth
+Marshall Cowden
+Ryan McMahon
+Kristin McKinney
+Chris Lawless
+Geary Mclaughlin
+Chris Schilling
+Jim Belton
+Josh Tippett
+Pat Woodworth
+Fit Mom Diet
+Jessica Barth
+Patrick Woodworth
+Wally Giernoth
+Joe Mama
+Patrick Woodworth
+stayce cavanaugh
+Joshua Tippett
+Drew R.
+Doug White
+Adam Fischer
+Marta Betts
+Nanci Del Pico
+Debbie Brailsford
+Doug Fitts
+Matthew Tycksen
+danielle cartright
+Robert Ochoa
+Newton Hamlin
+Irene Voskamp
+Stan Burnett
+Brad Andersen
+Kevin Burke
+Brian Machen
+Dave Shields
+Jana Connolly
+Lindsay Nelson
+Rob Coles
+Nancy Mandl
+Sean Hallahan
+Paul Maddaluno
+Joseph Rousseau
+James Petillo
+Mike Pierce
+Andre Limarenko
+L Mario Mascioli
+Peter Cowan
+Steve Allegretti
+Michael Mayer
+Jill Cheilik
+Patrick Woodworth
+Wade LaForce
+Tim Schafer
+John Koenig
+Michael Scarpato
+Slavisa Danilovic
+Khasai Ramsey
+Mike Bellows
+Michael Thomas
+Jerry Dearing
+Rob Verboon
+Josh Tippett
+Pat Bitton
+Daniel Teal
+Tim Sherburne
+Joseph Miksch

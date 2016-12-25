@@ -1,0 +1,112 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Paul Runkle
+Peter Shargo
+Levi Kennedy
+Frank Shorter
+Jonathan Woodworth
+Jessee McClelland
+Scott Lowe
+Mark Jacobsohn
+Ryan Seick
+Evan Parvis
+Mark Rockley
+Ken Dyer
+David Dye
+Rex Ballard
+Jason Eller
+Kevin Kingsbury
+Xianyang Zhu
+Amber Groopman
+Nicholas Bell
+Mike Barnes
+Amit Bhatia
+Joshua Robinson
+Matt Welborn
+Rakesh Taori
+Joseph Decker
+Rita Trehan
+Wlamir Mello
+Ajay Ramachandran
+Amanda Zuzolo
+Michael Diamond
+James Tan
+Upkar J. S. Dhaliwal
+Lenny Rayzman
+Rick Eads
+Dave Herrington
+Paul Grant
+Shahram Mehraban
+Jan Medvesek
+Andrew Estrada
+Tao Wu
+Siddharth Khullar
+John Reykjalin
+Jaime Nelson
+Mike Duguid
+Milind Naphade
+Jonathan Wasilewski
+Deep Dhillon
+Jim Lansford
+Dave Vanyek
+David Lane
+Kelly Dempski
+Eyal Ofek
+Michael Kinnally
+Learie Hercules
+Phil Naylor
+Lalan Mishra
+Garland Straub
+Philippe Piernot
+Nick Thomas
+Craig White
+Neil Kubica
+Bruce Young
+Sanjay Krishnan
+Dimitri Diakopoulos
+David Crais CMPE PMP CGBP
+Doug Manchester
+Shaunta Hendking
+Han Chen
+Brock LaPorte
+Malin Hollmark
+Jeff Drake
+Zahid Ghadialy
+Tahji Roamartinez
+Pavan Singh
+Dari Trendafilov
+Alden Fuchs
+Pankaj Agarwal
+Joanne Luciano
+Adam Gilbert
+Claude Gauthier
+Carolyn Buser
+Ronald Young S. Cha
+Jack Kang
+RaviKiran Gopalan
+Hoang Nhu
+Julian Hicks
+Chuck Heimann
+Nawzer Mehta
+Bill Drake
+Christopher Miller
+Brett Lindsley
+Rob Yang
+Pierre-Jean Cobut

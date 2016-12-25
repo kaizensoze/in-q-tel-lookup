@@ -25,13 +25,13 @@ Greg Ford
 Shawn Lee
 Pankaj Singhal
 Rajeswari Ravichandran
-Nick Ecos
-Steven Wilkinson
 Fernando Gaspar
+Steven Wilkinson
+Nick Ecos
 Jeffrey Umotoy
 Lutfunnessa Shireen
-Paul Diaz
 Colin Powers
+Paul Diaz
 Gerald Dodson
 Florence Lee
 Laetitia Richter
@@ -45,15 +45,15 @@ Matt Van Houten
 Jeff Whitmore
 Brian Baumann
 Andrew Lord
+Amber Murray
 Keith Bryant
 David Kulick
-Amber Murray
 Louis Chen
 Daniela Martino Roth
 Scott Whitney
 Dan Lu
-Ian Kerman
 Trisha Dowling
+Ian Kerman
 Amber Hiranaka
 Judy Muller-Cohn
 Eran Levy
@@ -62,12 +62,13 @@ Jamie Romero
 Jenna Gould
 Tiffany Bazazzadegan
 Martin Latterich
-Lutfunnessa Shireen
 Marylinn Munson
+Lutfunnessa Shireen
 Vince Funari
 Neesha Patel
-Senait Ghirmai
+Rajeswari Ravichandran
 Brookelyn Haddock
+Senait Ghirmai
 Gerald Dodson
 Albert Perez-Ladaga
 Knut Madden
@@ -76,12 +77,13 @@ Phillip Nhan
 Kelly Paluch
 Toni Romo
 Andrew Lord
-Alec Johnson
 Pascal Bamford
+Alec Johnson
 Angela Stassinopoulos
 Michael Vengrow
 Amy Uren
 William Whitney
+Joshua Bliesath
 Massamba Sylla
 Lutfunnessa Shireen
 Gerald Dodson
@@ -89,10 +91,9 @@ Sara Wirth
 John Henderson
 Bret Light
 Kai Brewer
-Joshua Bliesath
+Mohamed Nabie Bayoh
 Philip Ng
 Billy Law
-Mohamed Nabie Bayoh
 Francois Ferre
 Stephanie de los Rios
 Sapphire Realty
@@ -110,4 +111,3 @@ Dan Wood
 Rosana Baird
 Yiwen Jan
 Sharron Ohgi
-Riccardo Pigliucci

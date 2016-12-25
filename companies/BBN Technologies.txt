@@ -1,0 +1,116 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Xiaodan Zhuang
+Ed Campbell
+Mark Berman
+Ram Ramanathan
+Dan McCarthy
+Abhimanyu Gosain
+Jason Redi
+Rohit Prasad
+Senni Perumal
+Stephen Milligan
+Heather Biehl
+Jack Marin
+David Jeffries
+Craig Partridge
+Ryan Agnew
+Eric Wu
+Rich McNeil
+John Makhoul
+Bonan Min
+David Lintz
+Steve Weeks
+James Ching
+Jake Beal
+Robin Ingalls
+David Perry
+Saikat Guha
+Kathryn Carson
+Joshua Edmison
+Ralph Weischedel
+David Bruce Cousins
+Jim Freebersyser
+Amit Srivastava
+manish gaurav
+Katherine Studzinski
+Michael Thome
+Kerri Hayes
+Mark Sherman
+Michael Nicoletti
+David Levin
+Richard Lazarus
+Richard Hansen
+Rich Schwartz
+Krishna Subramanian
+Edward Loper
+Derrick Kong
+George Moses
+BIll Earle
+Long Nguyen
+Alice Leung
+Dzul Scherber
+Nate Soule
+Alex Jordan
+Ali Sydney
+Jennifer LeBlanc
+Rabih Zbib
+Ian Emmons
+Brian VanVoorst
+Bob Kanyuck
+James Schneider
+Tom Mitchell
+Armando Caro
+Stephen Kent
+Owen Kimball
+Liz Libby
+David Mandelberg
+Mike Neff
+Isidro Castineyra
+Zhuolin Jiang
+Gregory Lauer
+Barbara MacKay
+Patrick Bidigare
+Gene Tighe
+Matthew Vincent
+Michael Crystal
+Wheeler Howard
+Alison Laferriere
+Damianos Karakos
+Regina Hain
+Alexander Heinricher
+R Shapiro
+Marshall Brinn
+Jason Holmes
+Shankar Ananthakrishnan
+Stavros Tsakalidis
+Derek Eggiman
+Huaigu Cao
+Richard Markeloff
+Aaron Adler
+Matthew Allen
+Will Dron
+J.F. Mergen
+Carol Petersen
+Niky Riga
+Tim Upthegrove
+Kyle Usbeck
+Charles Obranovich
+Scott Novotney

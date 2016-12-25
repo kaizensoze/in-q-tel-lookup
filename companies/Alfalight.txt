@@ -22,19 +22,19 @@ Toby Garrod
 Richard Lu
 Gene Tsvid
 Christopher Theisen
-Carter Hand
 Erich Multhauf
 Michael Martin
 Mark Zager
 Ryan Durepo
 Megan Hughes
+Carter Hand
 Tom Baillies
 Michael Klaus
+Nicholas Proite
 Rob Williamson
 Yan Xiao
 Tom Steele
 Craig Cheney
-Nicholas Proite
 Clayton Bennett
 Brian McGee
 Manoj Kanskar
@@ -48,12 +48,12 @@ Tom Steele
 Srivatsa Govindan Kutty
 Ruxandra Bantoiu
 Brian Taylor
-Iara Santos
-Richard Murison
 Mohan Warrior
+Richard Murison
 Shelley Raaths
 Cindy Ballweg
 David Forbes
+Iara Santos
 Patrick Chaopricha
 Tom Theisen
 Cristian Cretu
@@ -73,8 +73,8 @@ Bernard PAUL
 Robert Mitchell
 Linda Thao
 Haiyan An
-Gregg Plummer
 Michael Nesnidal
+Gregg Plummer
 John Ochsner
 Christian Galstad
 Ingrid Geerinckx
@@ -102,7 +102,6 @@ Carlos Humberto Regalado Orellana
 Nicholas Proite
 Emad Shaarawy
 isabelle payette
-Stephen Ross
 Ghislain Lamothe
 Justin Lemke
 Patrick Corbett
@@ -110,3 +109,4 @@ Ryan Louzati
 Mark Demos
 Arkadi Goulakov
 Bimal Vyas
+Brenda Coto Lazo

@@ -23,10 +23,10 @@ Daniel Ji
 Craig Knoblock
 Congxing Cai
 Robert Landes
-Craig Burns
 Cyrus Shahabi
-Ricky Manriquez
+Craig Burns
 Simon Sellick
+Ricky Manriquez
 Shashank Garg
 Yao-Yi Chiang
 Craig Knoblock

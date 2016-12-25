@@ -1,0 +1,114 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Chuck Anderson
+Kurt Muller
+Douglas Larmour
+Steven Schreiber
+Wendy Silvers
+Dan Servian
+Bob Pliszka
+Kelly Barkhurst
+Matthew Seese
+Jay Watrous
+Ryan Shenk
+Mark Hockley
+Aaron Barkhurst
+Barry DeBoard
+Brian Hamilton
+Jeff Simcoe
+Robert Garland
+Michelle LaRue
+Micah Fisher
+Jessica Miller
+Rajvi Shah
+Conrad Melanson
+Jeff Kowell
+Wendy Silvers
+christina hammond
+Larry Fuller
+Brandon Johnson
+George Fulton
+Sumita Balhara
+sumit chakravarty
+Philip Spangler
+Micah Fisher
+Jeffrey Labonski
+Deborah Coter-Emmanuel
+John Grant
+Eileen Dibartolo
+Sara Marsden-Shreeve
+Rob Miller
+Lake Kowell
+Jon Darling
+Ted Boone
+Scott Nissenbaum
+Brittany Dennison
+Jeff Kowell
+Darren Speedie
+Jeff Kowell
+Paul Smyth
+Chad Prescher
+Brandon Bolarinho
+Sonnet Jones
+Floris Scheplitz
+Jones Sharon
+Hayward Singletary
+Sumit Chakravarty
+Jon Darling
+Gustaw Laskowicz
+Cassidi Young
+Laurie Eldridge-Shanaman
+Jennifer Connolly
+Stephen Placial
+Aimee Dupuis
+Erin Davis
+Heidi Suri
+Cory Campbell
+Kermie S. Bledsoe
+Craig Chiswell
+Raj Vasisht
+Laurie Eldridge-Shanaman
+Stephen Truchan
+Tamara Pettypiece
+Sara Shreeve
+Hannan Mian
+Sumit Chakravarty
+Shelley Heinrich
+Andy Zalay
+Mike McGowan
+Jon Darling
+Michel Gamache
+Christie Zimmer
+Victoria Evans
+Robert Garland
+Marie Brown
+Devon Veillette
+sumit chakravarty
+Kyna Moser
+David Gabriel
+Renata Del Luongo
+Brian Lapin
+Tony Flood
+Claire Smith
+Sara Marsden
+Seb Chiffers
+Stuart McKay
+Charlotte Tucker
+Adam Diminic

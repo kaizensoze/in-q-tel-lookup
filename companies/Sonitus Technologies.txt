@@ -1,0 +1,118 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Chris Pontiga
+Kurt Carlson
+Oren Levy
+Peter Hadrovic
+Michael Pare
+Patrick Suel
+Frank Slovenec
+Richard DeMartini
+Jaime Galvan
+Richard Talmage
+Michael Pare
+Ross Miller DDS MS
+Jennifer Nguyen
+Nick Gebhart
+Greg Garfield
+Heather Chapa
+Rashel Cramer
+Benjamin St. Clair
+Tony Tran
+Lynne Clarke
+Isaiah Kacyvenski
+Hamid Sadrzadeh
+Colin Dignam
+Jackie Nguyen
+Julie Day
+Bob Fowler
+Unique Travels
+Jacqueline Davis
+Ryan Lee
+Samantha Vo
+Leah Ashley
+Vijay Ramakrishnan
+Brooke Nowicki
+Manny Maderazo
+Jonathan Wong
+Leonardo Lee
+Jarrod Bradford
+John Stefani
+Greg Gdowski
+Ken Gott
+Tom Holly
+John Higgins
+John Vassar
+Betty Ann Talmadge Talmadge
+Valene Carter
+Gerald Mitchell
+Steve Nunes
+Raje Srinivasan
+Mat Kanno
+James Rose
+Quanh Le
+Mirissa Tarver
+Greg Garfield
+Michael Pare
+Heather Chapa
+Jacinto Amante
+Beth Martinelli
+Rick Talmage
+Nick Gebhart
+Tony Linnert
+Marin Favier
+Gregory Irwin
+Tor Anderson
+amir mokaberi
+Theo Ruijgh
+Patrick Suel
+Reed Cypriano
+Todd Geiser
+Lori Quinn
+Jeff King
+Mackenzie Edens
+Lisa Kovalevsky
+Joseph Wetmore
+Nick Gebhart
+Fahim Azimy
+Parker Willis
+Banchamlak Mossie
+Jennifer Avila
+Mimi Wong
+Vonny Tran
+Aaron Bloom
+Justine Matison
+Mark Cowan
+Greg McGiffney
+Isaiah Beiser
+Megan K Farrelly Hughes
+Michael Pare
+Mary Cheung
+Balbir Lally
+Missy Fata
+Michael Pare
+Mary Lou LeDane
+Zari Otedola
+bree hardwick
+Michael Pare
+Heather Chapa
+Kirsten Kozlovsky
+Kelly Martin
+Tim Boot

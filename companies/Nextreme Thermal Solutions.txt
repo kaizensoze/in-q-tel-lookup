@@ -1,0 +1,100 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Seri Lee
+Seri Lee
+Carl Prevatte
+Rafael eSilva
+Katherine Welch
+Bob Vaudo
+Karl von Gunten
+John T. Goehrke
+Robert J Wiggins
+Armando Martinez
+Ramaswamy Mahadevan
+GEZA DEZSI
+Michael S. Wu
+Rama Venkatasubramanian
+Seri Lee
+Laurie Sylvester
+Philip Deane
+Jayesh Bharathan
+Jesko von Windheim
+Jim Mundell
+Gina Tkach
+Dave Suich
+Lauren Powell
+Joe Williamson
+Christopher Nyagah
+Mark Marcucci
+David Koester
+Jeff Baker
+Michael Rose
+Richard Harris
+Neha Girish
+Gary Bulman
+linda mcmanus
+Ryan Wiitala
+James Summers
+Edward Siivola
+Jim Summers
+Ronnie Tassin
+Thomas Schneider
+James Smith
+Seri Lee
+Jim Mundell
+Stephen Brooks
+Jessica Lamb
+Jon Pierce
+David Myers
+Mindaugas Macijauskas
+Todd Hayes
+Joseph Ingram
+Herbert House
+Julie McGann
+Duane Spears
+Anil J. Reddy
+Herbert House
+David Skwerer
+Ali-Reza Asarizadeh
+Brent Ward
+Jim Gibson
+Inbal Dror
+Heather Moir
+michael heywood
+David Posner
+Brenda Williams
+Ali-Reza Asarizadeh
+Stewart Walker
+Terrence Leopold
+catherine ward
+john smith
+Joanne Cooper
+Katherine Welch
+Christopher Hatfield
+Matt Hancock
+cts-cooling Ltd
+Douglas Ivers
+Kathy Cole
+Ligia Fernandes
+Linda Audet
+Samreen Jatana
+Ronnie Tsang
+Paul Magill
+Robert Collins

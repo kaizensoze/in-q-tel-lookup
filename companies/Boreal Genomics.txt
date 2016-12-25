@@ -20,24 +20,24 @@ Users from Linkedin:
 Andre Marziali
 Dan Hanson
 David Broemeling
+Hau-Ling Poon
 Matthew Wiggin
 Miti Isbasescu
-Hau-Ling Poon
 Nitin Sood
-Peter Eugster
+Thomas Lum
 Stephanie Walsh
+Peter Eugster
 Patrick Davies
 Valentina Vysotskaia
-Kareem Fakhfakh
 Jason Thompson
-Thomas Lum
 Mark Lee
-Gosuke Shibahara
-Meikwan Poon
-Milenko Despotovic
+Kareem Fakhfakh
 Joel Pel
+Meikwan Poon
 Laura Mai
 John L. Corliss
+Milenko Despotovic
+Gosuke Shibahara
 Silkie Wong
 Aparna Natarajan
 Kamaljit Dosanjh
@@ -98,7 +98,6 @@ Linda Nessim
 Tamara mango
 Ranesh Saha
 Daniel Lewis
-Athena Berloui
 Sina Habibian
 Bonney McDowell
 Mary Lou Donkersloot
@@ -113,3 +112,4 @@ Ryan Shultzaberger
 Abdimalik Khalif
 Kevin Simmons
 David Seccombe
+Carl Hansen

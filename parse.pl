@@ -12,7 +12,7 @@ my $contents=`curl -L -s $url`;
 my @matches = $contents =~ /\<a class=".*esgbox" href=".*?" lgtitle="(.*?)"\>Read More\<\/a\>/g;
 my $i = 0;
 foreach (@matches) {
-    if ($i >= 45 && $i <= 90) {
+    if ($i >= 140 && $i <= 190) {
         print "$i\n";
         `python /Users/joegallo/dev/theHarvester/theHarvester.py -d "$_" -b linkedin > "companies/$_.txt"`;
     }
