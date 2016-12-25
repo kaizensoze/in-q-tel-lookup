@@ -24,9 +24,9 @@ Dragos Munteanu
 Michael Potts
 Patrick Vanderper
 Bryce Benjamin
-Samad Echihabi
 Greg Fossheim
 Felix Lung
+Samad Echihabi
 Radu Soricut
 John Ferreira
 Peter Levy
@@ -40,8 +40,8 @@ Tagyoung Chung
 Ion Muslea
 David Savignac
 Kirti Vashee
-Pak Eli
 Sameer Menon
+Pak Eli
 Chuck Baker
 Swamy Viswanathan
 Michel Galley
@@ -54,17 +54,17 @@ Greg Langmead
 Don Kim
 Paula Silaghi
 Daniel Marcu
+Alyssa Simon
 Anamaria Ladar
 Rosalie Dalrymple
-Alyssa Simon
-Claude Walton
 Julie England
 Yassine Benjira
 Bryant Huang
+Claude Walton
 Da Xu
-Emmanuel Tonnelier
-Adeleh Jahedi
 da xu
+Adeleh Jahedi
+Emmanuel Tonnelier
 Adrian Gocan
 Arun Ramakrishnan
 Jing Lan
@@ -89,6 +89,7 @@ Sandra Langer
 Alina Gheorghita - Romania
 Iulia Prodan
 Kai Ning
+Octavian Suciu
 Barbara Blankenship
 Christopher Frye
 Lee Levenson
@@ -97,15 +98,16 @@ Dan Oprita
 Brice Buchanan
 Peggy Cheng
 Matthew Thomas
-Alteia Pavel
 carlien van de Kreeke
 Vivek Hungund
 Gert Van Assche
-Octavian Suciu
-Mark Rollins
-Laura Banarescu
 Dominic Kinnon
+Mark Rollins
 Devon Hoenig
+Laura Banarescu
+Thomas Wieland
 Richard Roberts
 Rob Vickery
 Raul Crisan
+Andrei Schwartz
+Mona Toader

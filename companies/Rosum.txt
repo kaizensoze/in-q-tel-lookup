@@ -1,0 +1,81 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Jim Murashige
+Matthew Lewis
+Dimitri Rubin
+Ragnhildur Fjeldsted
+Todd Young
+Jon Metzler
+Sree Raman
+kam oza
+Michal Bobosik
+Ken Okutake
+Vinay Simha
+Bill Stanley
+David Terry
+Amish Shah
+Richard Li
+Yann Ngongang
+Harvind Samra
+John Lezada
+Marco Thompson
+Matthew Pierce
+Juraj Nevolnik
+Eric Berglund
+George T. Williams Jr.
+Deborah Tellez
+John Beckmann
+Robert Mitro
+Mary Placido
+Ray Busick
+Bradford Anderson
+Todd Young
+Jorge Arroyo Arnaiz
+David Tomanek
+John Lezada
+David Burgess
+Allen Rossum
+Patrick Maloney
+Ije Osuagwu
+Brett Wilson
+Alice Constance Newton
+Bryan Monson
+Carly Gravely
+Dave Stodola
+Joe Coelho
+jack kindberg
+Garry Servinsky
+Jean Cronin
+Jessica Lee
+Annabelle Cervera
+Mark Gaucher
+Deborah Tellez
+Jonathan Baker
+Feben Habte
+Amy Wong
+Artur Sawa
+Juraj Puchel
+Pavel Weisz
+Jeremy Knoll
+Eloni Feliciano
+Nikki Peill
+Simon Purohit
+Randy Harmon
+Dr. Jennifer McGehee

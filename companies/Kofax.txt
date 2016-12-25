@@ -1,0 +1,120 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+Users from Linkedin:
+====================
+Richard Petersen
+Richard Petersen
+Reynolds Bish
+Danny Ha
+Art Quintero
+Anthony Macciola
+Kevin McGrath
+Elias Abdo
+Wayne Ford
+John Brideweser
+Audrey Low
+Winston Leong
+Peter Lawrence
+Anna Marie Crook
+Stanley Chia
+Alan Gordon
+Diane Morgan
+Surya Gobi
+Sarah Smith
+Nicole Scheid
+Brad Hamilton
+Art Sarno
+Phillip Jones
+David Caldeira
+Nita Patel
+Srinivas Reddy
+Mike Brantley
+Israel Bello
+Michelle Walter
+Grant Johnson
+Raj Hindocha
+Pat Johnson
+Venkatesh Subramanian
+dimitri seneca snowden
+Tracy Barr
+John Cowley
+Nathalie Benoit
+Rory Byrne
+Ben Smith
+Greg Witter
+Shawn Davis
+Tom Ullman
+Corey Wick
+Keith Reed
+Brian Monroe
+Bob Benton
+Blessy Varghese
+John Gilbert
+Anthony Carpinelli
+Rita Lewis
+Joseph Rayfield
+Don Foster
+Jim Alcina
+Byron Hudson
+Dragutin Ivaci
+Matt Finch
+Chee Khang Low
+Carl Hillier CIP
+Tyler Hair
+Charles Randall
+Sean Alger
+Aaron S. Cole
+Doug Brock
+Christine Liang
+Jennifer Schutz
+Cort Townsend
+Jeff Meyers
+Nautam Thakkar
+Colleen Edwards
+Todd Bradfield
+Jamie Delgado
+Reed Larson
+Ramon Canales
+Gregory Davis
+Lyn MacLeod
+Jeff Colket
+Michael Stearns
+Andrew Oldham
+Andrew Rootes
+Dave Reese
+Stephen Lee
+Wayne Hooper
+Cecilia Hsu
+Chris Maertz
+Lynne Scheid
+Yannis Tzonos
+Paul Smith
+Richa sardana
+Andrew Robinson
+Anurag Srivastava
+Al Aflleje
+Tamim Aziz
+Rick Tolan
+Sabrina Stratford
+Ali Cetinkol
+Sameer Samat
+Christine Johnson
+Glenn Evans
+Marco Sanchez
+Bryan Zheng
+Daniel Watson

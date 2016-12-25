@@ -34,9 +34,9 @@ Jason McKinney
 Ramesh Ramakrishnan
 Steven Hoffman
 Manisha Ray
-Kristina E. Lebeda
 Massimo Carli
 Mark Lynch
+Kristina E. Lebeda
 Gang Sun
 Fred Walder
 Steven Collier
@@ -48,9 +48,9 @@ Camila Egidio
 Ilona Holcomb
 Elizabeth Benas
 Dwayne Bisgrove
-Howard High
 Vikram Jog
 Melissa Leone
+Howard High
 Greg Bauer
 Ofir Goldberger
 Todd Lee
@@ -62,6 +62,7 @@ Jessamine Toh
 Robert Ellis
 Filomena DiPierdomenico
 Esther Kim
+Ryan Mancilla
 Kyle Hukari
 Narges Rashidi
 Luke Stewart
@@ -93,17 +94,17 @@ Candia Brown
 Theresa J Royer
 Michelle Garred
 Bryan Crawford
-Jonathan Bibliowicz
 Matt Kirtley
+Jonathan Bibliowicz
 Mo Tehrani
 Sandy Cheng
 Wendell Smith
 Chad Alexander
 Dmitry Bandura
 John Lynch
+Matt Anstett
 Sarah Whaley
 Pam Delucchi
-Matt Anstett
 Eric Swanson
 Phuong Thuy Menchavez
 Kevin Brown
@@ -111,4 +112,3 @@ Shiva Natarajan
 Hana Gage
 Robert Nale
 Christian Reece
-Benjamin Lacar
