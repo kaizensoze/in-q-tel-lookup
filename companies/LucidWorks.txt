@@ -1,119 +1,98 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Ravi Krishnamurthy
-Reade Frank
-Paul Stark
-Austin Baik
-Gerald Kanapathy
-Darrow Wehara
-Will Hayes
-Kiran Chitturi
-Nick Aliotti
-Grant Ingersoll
-Evan Sayer
-Joshua Goldstein
-Al Cole
-Cassandra Targett
-Keith Messick
-Christina Bethurem Connolly
-Yann Yu
-Ted Sullivan
-Andy Wibbels
-Jay Gandhi
-Brian W. Smith
-Mark Bennett
-Alea Abed
-Chris McKay
-Trey Grainger
-Matt Mitchell
-Shalin Shekhar Mangar
-Varun Thacker
-Timothy Potter
-Steven Rowe
-Jeff Depa
-Sonja Heikkinen
-Nevin Taneja
-Ariel Isaacs
-Carlos Valcarcel
-Mark Brewer
-Raymond Dib
-Connor Haas
-Greg Harris
-David Arthur
-Erik Hatcher
-Khoi Bui
-Ericka Boyle
 Abhishek Mehta
-Fran Lukesh
-Joel Westberg
-Andrew C. Oliver
-alan eugenio
-Andrew Fleming
-William Tseng
-Mitzi Morris
-Andy Tran
-Robert Lucarini
-Caitlyn Andrews
 Adam Johnson
-Miles Meekhof
-Scott Shearer
-Avi Raju
-Craig Perrin
-Noble Paul
-Tushar Shah
-Anshum Gupta
-Joel Bernstein
-Andrew Pinkerton
-Ishan Chattopadhyaya
-Jon Baer
-Matt Hoffman
-Stephanie Giovannetti
-Tony Collier
-Sarath Jarugula
-Asheesh Mangla
-Ganesh Kumar
-Jon Napoli
-David Murphy
-Jeremy Hollander
-Nate Maynard
-Kevin Luu
-Daniel L. Brooks
-Jonathan Wong-Lam
-Gitanjali Palwe
-Esther Quansah
-Mark Miller
-Rajani Maski
-Erick Erickson
-Jon Scherry
-Dario Gomez
-Arijit Dasgupta
-Michael Hunn
-Ted Sullivan
-Lance Norskog
-Mark Brewer
-Yonik Seeley
-Amrit Sarkar
-David Lutz
-Justin Elrod
+Al Cole
 Alain Tsai
-sean kesterson
-Spencer Tall
-Steve Drane
+Alea Abed
+Amrit Sarkar
+Andrew C. Oliver
+Andrew Fleming
+Andrew Pinkerton
 Andrew Thanalertvisuti
+Andy Tran
+Andy Wibbels
+Anshum Gupta
+Ariel Isaacs
+Arijit Dasgupta
+Asheesh Mangla
+Austin Baik
+Avi Raju
+Brian W. Smith
+Caitlyn Andrews
+Carlos Valcarcel
+Cassandra Targett
+Chris McKay
+Christina Bethurem Connolly
+Connor Haas
+Craig Perrin
+Daniel L. Brooks
+Dario Gomez
+Darrow Wehara
+David Arthur
+David Lutz
+David Murphy
+Erick Erickson
+Ericka Boyle
+Erik Hatcher
+Esther Quansah
+Evan Sayer
+Fran Lukesh
+Ganesh Kumar
+Gerald Kanapathy
+Gitanjali Palwe
+Grant Ingersoll
+Greg Harris
+Ishan Chattopadhyaya
+Jay Gandhi
+Jeff Depa
+Jeremy Hollander
+Joel Bernstein
+Joel Westberg
+Jon Baer
+Jon Napoli
+Jon Scherry
+Jonathan Wong-Lam
+Joshua Goldstein
+Justin Elrod
+Keith Messick
+Kevin Luu
+Khoi Bui
+Kiran Chitturi
+Lance Norskog
+Mark Bennett
+Mark Brewer
+Mark Miller
+Matt Hoffman
+Matt Mitchell
+Michael Hunn
+Miles Meekhof
+Mitzi Morris
+Nate Maynard
+Nevin Taneja
+Nick Aliotti
+Noble Paul
+Paul Stark
+Rajani Maski
+Ravi Krishnamurthy
+Raymond Dib
+Reade Frank
+Robert Lucarini
+Sarath Jarugula
+Scott Shearer
+Shalin Shekhar Mangar
+Sonja Heikkinen
+Spencer Tall
+Stephanie Giovannetti
+Steve Drane
+Steven Rowe
+Ted Sullivan
+Timothy Potter
+Tony Collier
+Trey Grainger
+Tushar Shah
+Varun Thacker
+Will Hayes
+William Tseng
+Yann Yu
+Yonik Seeley
+alan eugenio
+sean kesterson

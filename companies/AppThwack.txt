@@ -1,78 +1,52 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Pawel Wojnarowicz
-Andrew Hawker
-Trent Peterson
-Darren St. Amour
-Charles Voloshin
-Jacob Norman
-Vidya Spandana
-Bharti Kodwani
-Lakshmi Jagannathan
-Luca Eisenstecken
-Khaleed Oyewo
-Trent Peterson
-Daniel Tolbert
-Tiyani Nghonyama
-Muhammad Waleed
-Matthew Wilson
-Trent Peterson
-Trent Peterson
-Trent Peterson
-Trent Peterson
-Sridevi Mullapudi
-Daniel Pittman
-Luis Ramos
-Wilfred Rector
-Noam Manory
-David Campbell
-Manjula Neppalli
-Rahul Janagouda
-Darren St. Amour
-Bryant Zhu
-B.K. Chaurasia-EC85
-Pooja Moduguru
-Job Dulo
-Fernando Crosa
-Lloyd Bell
-Rakesh Paliwal
-Santiago Hollmann
-Umar Cheema
-Peggy Smart
-Tran Lam
-Derrick Lam
-Muhammad Kashif
-kapil soni
-Romain Potier
-Darick Dang
-Trent Peterson
-Deepika Tadakhe
-Daniel Sebagh
-Ben Reichert
 Amit Rawat
+Andrew Hawker
+B.K. Chaurasia-EC85
+Ben Reichert
+Bharti Kodwani
+Bryant Zhu
+Charles Voloshin
+Daniel Pittman
+Daniel Sebagh
+Daniel Szulc
+Daniel Tolbert
+Darick Dang
+Darren St. Amour
+David Campbell
+Deepika Tadakhe
+Derrick Lam
+Emir Ozer
+Erik Blanken
+Fernando Crosa
 Fox Wong
 Idan Shalev
-Rosana Ruiz
-Panupan Sriautharawong
-Daniel Szulc
+Jacob Norman
+Job Dulo
+Khaleed Oyewo
+Lakshmi Jagannathan
+Lloyd Bell
+Luca Eisenstecken
+Luis Ramos
+Manjula Neppalli
 Mariusz Przydatek
-Emir Ozer
+Matthew Wilson
+Muhammad Kashif
+Muhammad Waleed
+Noam Manory
 Oleg Vusiker
-Erik Blanken
+Panupan Sriautharawong
+Pawel Wojnarowicz
+Peggy Smart
+Pooja Moduguru
+Rahul Janagouda
+Rakesh Paliwal
+Romain Potier
+Rosana Ruiz
+Santiago Hollmann
+Sridevi Mullapudi
+Tiyani Nghonyama
+Tran Lam
+Trent Peterson
+Umar Cheema
+Vidya Spandana
+Wilfred Rector
+kapil soni

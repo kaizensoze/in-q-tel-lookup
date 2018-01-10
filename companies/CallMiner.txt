@@ -1,114 +1,95 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Tom Wendt
-Mike Dwyer
-Scott Kendrick
-Daniel Beck
-Andrew Buckley
-Jeff Gallino
-Brian LaRoche
-Felix Lepa
-Jeff Stroum
 Adam Walton
-Marc Cataldo
-Paul Bernard
-Misty Mastracco
-Terry Leahy
-Aubrey Anderson
-John Crites
-Rachel Daly
-Jack Collins
+Alan Hall
+Alexis Kitchen
+Andrew Buckley
 Andrew Mishalove
-Elena Benoit
-Drew Brumm
-Chris Cochran
-Chad Gibson
-Maureen Szlemp
-James Loeber
-Erik Strand
-Garrett Sinclair
-Cliff LaCoursiere
-Robert Stanley
-Bruce McMahon
-Karen Howe
-R. Todd Barber
-Rob Lane
-Brandon Franks
-Yeliana Liman
 Anne Dawson
-Lauretta Campestre
-Courtney Lawton
-Suzy Riggins
-Rob Kassel
-Craig Blake
+Anthony Zavala
+Anya Korneyeva
+Aubrey Anderson
+Brandon Franks
+Brandon House
+Brian Kaufman
+Brian Killion
+Brian Kim
+Brian Kolb
+Brian LaRoche
+Bruce McMahon
+Candice Cangialosi
+Chad Gibson
+Charles Felsberg
+Chris Cochran
 Chris Thomas
-Nicole Pirone
-Jennifer Buffaloe
-Jesse Yaneva
-Ezra Exposito
-Quincy Yuen
-Valerie Terrell
+Cliff LaCoursiere
+Conrad Liburd
+Courtney Lawton
+Craig Blake
+Daniel Beck
+Dave Megarry
+David Christopher
+David Kiszka
 David Morrell
 Debbie Peterson
-Mike Girouard
-Sean Hart
+Drew Brumm
 Eddie McCoy
-Candice Cangialosi
-Shaoyu Xue
-Kristen Mikovich
-Conrad Liburd
-David Kiszka
-Gerald Sinclair
-Katharine Fowler
-Dave Megarry
-Michele Nylander
-Frank Sherlock
-Alan Hall
-Zac Maclean
-Ryan Carrigan
-Charles Felsberg
-Penny Rua
-Jeremy Vanden Branden
 Eduardo Von Borstel
-Joanna Lowry-Duda
-Anthony Zavala
-Brian Kolb
-Brian Kaufman
-Shane Lauber
-Brian Kim
 Edwin Lopez
-Brian Killion
-Alexis Kitchen
-Robin Plasse
-Leena Stride
-Mark Williams
-Misael Rodriguez
-Brandon House
-David Christopher
-Nick Rowe
-Scott Wolf
-Robin Gibbons
-Juan Quijada
-Anya Korneyeva
-Terrie Cochran
-Glenn Rieger
-Mindy Phillips
+Elena Benoit
 Erald Cala
+Erik Strand
+Ezra Exposito
+Felix Lepa
+Frank Sherlock
+Garrett Sinclair
+Gerald Sinclair
+Glenn Rieger
+Jack Collins
+James Loeber
+Jeff Gallino
+Jeff Stroum
+Jennifer Buffaloe
+Jeremy Vanden Branden
+Jesse Yaneva
+Joanna Lowry-Duda
+John Crites
+Juan Quijada
+Karen Howe
+Katharine Fowler
 Keith Connerly
+Kristen Mikovich
+Lauretta Campestre
+Leena Stride
+Marc Cataldo
+Mark Williams
+Maureen Szlemp
+Michele Nylander
+Mike Dwyer
+Mike Girouard
+Mindy Phillips
+Misael Rodriguez
+Misty Mastracco
+Nick Rowe
+Nicole Pirone
+Paul Bernard
+Penny Rua
+Quincy Yuen
+R. Todd Barber
+Rachel Daly
+Rob Kassel
+Rob Lane
+Robert Stanley
+Robin Gibbons
+Robin Plasse
+Ryan Carrigan
+Scott Kendrick
+Scott Wolf
+Sean Hart
+Shane Lauber
+Shaoyu Xue
+Suzy Riggins
+Terrie Cochran
+Terry Leahy
+Tom Wendt
+Valerie Terrell
+Yeliana Liman
+Zac Maclean

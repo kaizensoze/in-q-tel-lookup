@@ -1,110 +1,90 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jon A. Fredrickson
-Norah McDonald
-Sean Carmichael
-Mark Levitt
-Stacey Fitch
-John Elliott
-Catherine Covington
-Elaine Chin
-Alph Bingham
-Jen-Ling Liu
-Renato Vasconcelos
-David Cohen
-Graham Buchanan
-Michael Franklin
-Craig A T Jones
-Gina Schroeder
-Dwayne Spradlin
-Robin Trei
-Michael Michaud
-Naeem Yusuff
-Michael Albarelli
-Steven Drew
-Robert Kinney
-Eric Herrero
-Daniel Buscini
-Harry Wilson
-Michael Hanson
-Rich Barletta
-Robert Mills
-Manal Khan
-Harvey Arbesman
-deepak aghor
-Alexis Shultz Forest
-Barbara Berardi
-Darren Carroll
-David M. Sample
-Ali Chousein
-Eugene Ivanov
-Ted Ground
-Gaurav Biraris
-Elly Madrigal
-M Toomey
-John F. Richards
-Simon Schneider
-Serge Pesetsky
-Rebecca Buchanan
-Jody Montague
-Steve Fennessey
-Leaf Jiang
-Jonathan Slater
-Rachael Monnin
-Jacqueline Felton
-Cesar Castro
-Lyndsey Stadtmueller
-Greg Eredics
-Diego Olalde
-Jay Stow
-Steven Drew
-Joseph Artese
-Kevin Kimberlin
-Peter Lohse
-Steve Bonadio
-Derek Tabor
-Amiel Kornel
-David Weisman
-richard barletta
-Georgia Mihalcea
-Patrick Grant
-Josh Miles
-Hugues Miel
-Robert McDonald
-Kai Rasmussen
-Elizabeth DiCicco
-Christian Gampe
-Jace Sadowsky
 Aleksey Oborin
-Andy Lindert
-Richard Ecklebarger
-Steve Domeck
-Androu Arsanious
-Rachel Blankstein
-Veronique Baron
-Peter Cannone
-Dmitriy Tipikin
-Nandor Garamszegi
 Alexander Koenig
+Alexis Shultz Forest
+Ali Chousein
+Alph Bingham
+Amiel Kornel
+Androu Arsanious
+Andy Lindert
+Barbara Berardi
 Bradley Parsons
-Grace Kepler
-Jim DeLillo
+Catherine Covington
+Cesar Castro
+Christian Gampe
 Christine Costello
 Cliff Edwards
+Craig A T Jones
+Daniel Buscini
+Darren Carroll
+David Cohen
+David M. Sample
+David Weisman
+Derek Tabor
+Diego Olalde
+Dmitriy Tipikin
+Dwayne Spradlin
+Elaine Chin
+Elizabeth DiCicco
+Elly Madrigal
+Eric Herrero
+Eugene Ivanov
+Gaurav Biraris
+Georgia Mihalcea
+Gina Schroeder
+Grace Kepler
+Graham Buchanan
+Greg Eredics
+Harry Wilson
+Harvey Arbesman
+Hugues Miel
+Jace Sadowsky
+Jacqueline Felton
+Jay Stow
+Jen-Ling Liu
+Jim DeLillo
+Jody Montague
+John Elliott
+John F. Richards
+Jon A. Fredrickson
+Jonathan Slater
+Joseph Artese
+Josh Miles
+Kai Rasmussen
+Kevin Kimberlin
+Leaf Jiang
+Lyndsey Stadtmueller
+M Toomey
+Manal Khan
+Mark Levitt
+Michael Albarelli
+Michael Franklin
+Michael Hanson
+Michael Michaud
+Naeem Yusuff
+Nandor Garamszegi
+Norah McDonald
+Patrick Grant
+Peter Cannone
+Peter Lohse
+Rachael Monnin
+Rachel Blankstein
+Rebecca Buchanan
+Renato Vasconcelos
+Rich Barletta
+Richard Ecklebarger
+Robert Kinney
+Robert McDonald
+Robert Mills
+Robin Trei
+Sean Carmichael
+Serge Pesetsky
+Simon Schneider
+Stacey Fitch
+Steve Bonadio
+Steve Domeck
+Steve Fennessey
+Steven Drew
+Ted Ground
+Veronique Baron
+deepak aghor
+richard barletta

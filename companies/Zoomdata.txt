@@ -1,118 +1,97 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Tom Ulrich
-Farzad Aref
-Justin Langseth
-Robyn Forman
-Nick Halsey
-Yusuf Abediyeh
-Kurt Hall
-Ravi Ramanathan
-Ron Kunze
-Anurag Tandon
-Matthew Weber
-Ruhollah Farchtchi
-Christopher Weber
-Liv Longley
-Percy Darkwah
-Ramin Jahanbani
-Olivier Meyer
-Dan Mascenik
-Matthew Keating
-William Lindner
-Roberto Neyra
-Samuel I. Diener
-Dean Fox
-Brett Antonides
-Jorge Alarcon
-Anna Yudkovsky
-Nick Damiano
-Ellen Guglielmo
-Paul Seaman
-Mark Wilson
-Erik Schultz
-Omar Sial
-Vanessa Simpson
-Ryan Haber
-Andrew Tsao
-Tony Ayaz
-Justin Boyd
-Arjun Mehta
-Mukul Kalia
-Irvin Mateo
-Reza Salour
-Lisa Claridge
-David Rosenblum
-Chris McGill
-Ashley Harding
-Quan Luu
-David Hackett
-Arlene Capsimalis
-Jonathan Avila
-Matt Higgins
-Corey Fritz
-Junaid Khan
-Ian Fyfe
-Daniel Freundel
-Burton Yount
-George Atkinson
-Eva Nahari
-Cassie Bell
-Erin Veasey
-Igor Semenko
-Maksym Polevchuk
-Qi Zheng
-Ryan Tucker
-Kevin Conaway
-Zafer Bilaloglu
-Spitsyn Ievgenii
-Denis Skorobogatov
-Brianna Lempesis
-Cyril Ponomaryov
-Mike McCarty
-Roman Terentiev
-Matthew Barrett
-Viktor Kolomiiets
-Chris Flynn
-James Lowman
-Maxim Tereschenko
-Hemang Gadhia
-Nick Yaculak
-Dmitriy Morozov
-Mike Allen
-Eugene Chepurniy
 Andrew MacGregor
-Punit Rathore
-Brian Smith
-Hung Lin
-Pavel Borshchagovskyy
-Ivan Diptan idy
-Yuri Makhno
-Iurii Zaporozhets
+Andrew Tsao
+Anna Yudkovsky
+Anurag Tandon
 Arianna Chen
-Dmytro Morozov
-Michelle Phung
-Mykhailo Kozik
-James Lowman
+Arjun Mehta
+Arlene Capsimalis
+Ashley Harding
 Bob Nelson
+Brett Antonides
+Brian Smith
+Brianna Lempesis
+Burton Yount
+Cassie Bell
 Chris Clabaugh
-Tracey Katz
+Chris Flynn
+Chris McGill
+Christopher Weber
+Corey Fritz
+Cyril Ponomaryov
+Dan Mascenik
+Daniel Freundel
+David Hackett
+David Rosenblum
+Dean Fox
+Denis Skorobogatov
+Dmitriy Morozov
+Dmytro Morozov
+Ellen Guglielmo
+Erik Schultz
+Erin Veasey
+Eugene Chepurniy
+Eva Nahari
+Farzad Aref
+George Atkinson
+Hemang Gadhia
+Hung Lin
+Ian Fyfe
+Igor Semenko
+Irvin Mateo
 Iurii Zaporozhets
+Ivan Diptan idy
+James Lowman
+Jonathan Avila
+Jorge Alarcon
+Junaid Khan
+Justin Boyd
+Justin Langseth
+Kevin Conaway
+Kurt Hall
+Lisa Claridge
+Liv Longley
+Maksym Polevchuk
+Mark Wilson
+Matt Higgins
+Matthew Barrett
+Matthew Keating
+Matthew Weber
+Maxim Tereschenko
+Michelle Phung
+Mike Allen
+Mike McCarty
+Mukul Kalia
+Mykhailo Kozik
+Nick Damiano
+Nick Halsey
+Nick Yaculak
+Olivier Meyer
+Omar Sial
+Paul Seaman
+Pavel Borshchagovskyy
+Percy Darkwah
+Punit Rathore
+Qi Zheng
+Quan Luu
+Ramin Jahanbani
+Ravi Ramanathan
+Reza Salour
+Roberto Neyra
+Robyn Forman
+Roman Terentiev
+Ron Kunze
+Ruhollah Farchtchi
+Ryan Haber
+Ryan Tucker
+Samuel I. Diener
+Spitsyn Ievgenii
+Tom Ulrich
+Tony Ayaz
+Tracey Katz
+Vanessa Simpson
+Viktor Kolomiiets
 Wes Marziano
+William Lindner
+Yuri Makhno
+Yusuf Abediyeh
+Zafer Bilaloglu

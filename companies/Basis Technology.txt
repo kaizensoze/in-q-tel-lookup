@@ -1,115 +1,95 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Carl Hoffman
 Aaron Bacon
-Gregor Stewart
-Eric von Eckartsberg
-Brian Carrier
-Brian Sawyer
-Amy Silverstein
-David Murgatroyd
-Christopher Mack
-Benson Margulies
-Mark Turley
-Laurie Crist
-Steve Cohen
-Yuval Merhav
-James Andrews
-Itai Rolnick
-Chris Biow
-Heather Phipps
-Richard Barnes
-Chris Brown
-Peter Harding
-Jennifer Flather
-Steve Kearns
-David Goldfarb
-Andrew McKay
-Ian Gilbert
-Jeanne Le Garrec
-Ali Duveen
-Tess Cliff
-Ken Glidden
-Li Xu
-Brian Goldman
-Chris Park
-Joe Ho
-Andrew Paulsen
-Lauren Plummer
-Michael Veronis
-Joel Ross
-Jeff Godbold
-Keren Meltzer
-Christa Miller
-Jason Letourneau
-Bo Pang
-James Clarke
-Alex Mann
-Olly Bentley
-Richard Cordovano
-Christopher Manning
-Anand Raje
-Crystal Zhou
-Jason Olson
-Nathan Johnson
 Adla Pradeep Reddy
-Kyle Raprager
-Jody Holmes
-Martin Metcalf
-Ben Gregg
-Darren Thorpe
-Manas KV
-Jennifer McCleary
-Eugene McGill
+Alex Mann
+Ali Duveen
+Amy Silverstein
+Anand Raje
+Andrew McKay
+Andrew Paulsen
 Belinda Pimenta
+Ben Gregg
+Benson Margulies
+Bo Pang
+Brian Carrier
+Brian Goldman
+Brian Sawyer
+Carl Hoffman
+Cesar Quezada
+Chini Sinha
+Chris Biow
+Chris Brown
+Chris Park
+Chris Ray
+Christa Miller
+Christopher Mack
+Christopher Manning
+Costas Philippou
+Crystal Zhou
+Darren Thorpe
+Dave Rudo
+David Goldfarb
+David Murgatroyd
+David Padawer
+Devender Goyal
+Ed Kenschaft
+Eric von Eckartsberg
+Eugene McGill
+Gregor Stewart
+Habiba Shaik
+Hallie Hinckley
+Hannah MacKenzie-Margulies
+Heather Phipps
+Ian Gilbert
+Ian Redpath
+Itai Rolnick
+Jachin Moore
+James Andrews
+James Barter
+James Clarke
+James Roberts
+Jason Letourneau
+Jason Olson
+Jeanne Le Garrec
+Jeff Castle
+Jeff Godbold
+Jennifer Flather
+Jennifer McCleary
+Jesus de Miguel
+Jody Holmes
+Joe Ho
+Joel Ross
+Justin Palmer
+Kal Biradavolu
+Ken Glidden
+Keren Meltzer
+Kyle Raprager
+Lauren Plummer
+Laurie Crist
+Li Xu
+Manas KV
+Manvendra Vikram
+Mark Turley
+Martin Metcalf
+Michael Veronis
+Michelle Levin
+Nathan Johnson
+Navdeep Dharmak
+Olly Bentley
+PR SRINIVAS
+Paul Fassnacht
+Peter Harding
 Phill Sly
-Yoko Lee
+Preston White
+Richard Barnes
+Richard Cordovano
 Robert Eberheissinger
 Senthil Chokkalingam
-Justin Palmer
-Jesus de Miguel
-Yueling Qin
-James Barter
-Tibor Kruska
-James Roberts
-Paul Fassnacht
-Hannah MacKenzie-Margulies
-Cesar Quezada
-Ed Kenschaft
-Kal Biradavolu
-Dave Rudo
-Manvendra Vikram
-Navdeep Dharmak
-Tara Kovalik
 Srinivas Reddy Anugu
-David Padawer
-Habiba Shaik
-Jachin Moore
-Chris Ray
-PR SRINIVAS
-Costas Philippou
-Heather Phipps
-Hallie Hinckley
-Jeff Castle
-Michelle Levin
-Ian Redpath
-Preston White
-Chini Sinha
-Devender Goyal
+Steve Cohen
+Steve Kearns
+Tara Kovalik
+Tess Cliff
+Tibor Kruska
+Yoko Lee
+Yueling Qin
+Yuval Merhav

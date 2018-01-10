@@ -1,116 +1,97 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Barry Mainz
-Jared Lucas
-Raj Mallempati
-Fran Thorpe
-Sean Ginevan
-Danny Fields
-Greig Patton
-Vittorio Viarengo
-Elaine Chao
-Swetha Kolli
-Christopher Dobrec
-Ojas Rege
-Ajay Mishra
-Gautam Shivnani
-Mike Raggo
-Bob Tinker
-Yogesh Kapoor
-Pearce Aurigemma
-Alistair Mutch
-Josh Sirota
-David Barkovic
-John Spencer
-Scott Morris
-Jesse Lindeman
-James Plouffe
-Laurel Finch
-John Morgan
-Cathleen Garrigan Anderson
-Stephen Gomann
-David Clarke
-Klaus Moser
-Vijay Pawar
-Jian Liu
-Ryan Giles
-Brian Walsh
-Clarissa Horowitz
-Joshua Flood
-Mark Tinker
-Dessi Vatcheva
-Shawn Ayers
-Ain Indermitte
-Andy Wright
-Craig Ryan
-Gunjan Gupta
-Tshaka Campbell
-Archana Karehalliraju
-Carl Spataro
-Manuel Ruiz
-Susan Watkins
-Alexander Romero
-Kelsey Browning
-Aditi Pendse
-Michael French
-Josh Broch
-Jonathan Andresen
-Tim Youm
-Andie Hyndman
-Sean Frazier
-Andy Weir
-Matt Sullivan
-James Rose
-Sudheer Chittireddy
-Abhishek Desai - Always Hiring
-Luke Knowles
-Hendrik Van De Velde
-Rahul Mehta
-Vikram Kumar
-Gaurav Kamra
-Stacy Chen
-Simon Biddiscombe
 Abby Guha
-Vishal Chauhan
-Jake Woodhams
-Suresh Batchu
-Kyle Thomure
-Damian Artt
-Nimish Amin
-Kumar Karunakaran
-Todd Ford
-Linda Vu-Nguyen
-Parnaz Rafatjou
-Carter Busse
-Kate Dietrich
-Amy Cooper
-Mike Morrissey
-Paul Chou
-Namrata Verma
-JD Kuchinski Jr.
-Jeff Ratzlaff
-Chris J Coleman
-Wendy C. Phillips
-Alexander Mead
-Michael J. Coci
+Abhishek Desai - Always Hiring
+Aditi Pendse
+Ain Indermitte
+Ajay Mishra
 Alex Mercer
-Pavel Zeman
-Jessica Valdez
+Alexander Mead
+Alexander Romero
+Alistair Mutch
+Amy Cooper
+Andie Hyndman
+Andy Weir
+Andy Wright
+Archana Karehalliraju
+Barry Mainz
 Betty Lee
+Bob Tinker
+Brian Walsh
+Carl Spataro
+Carter Busse
+Cathleen Garrigan Anderson
+Chris J Coleman
+Christopher Dobrec
+Clarissa Horowitz
+Craig Ryan
+Damian Artt
+Danny Fields
+David Barkovic
+David Clarke
+Dessi Vatcheva
+Elaine Chao
+Fran Thorpe
+Gaurav Kamra
+Gautam Shivnani
+Greig Patton
+Gunjan Gupta
+Hendrik Van De Velde
+JD Kuchinski Jr.
+Jake Woodhams
+James Plouffe
+James Rose
+Jared Lucas
+Jeff Ratzlaff
+Jesse Lindeman
+Jessica Valdez
+Jian Liu
+John Morgan
+John Spencer
+Jonathan Andresen
+Josh Broch
+Josh Sirota
+Joshua Flood
+Kate Dietrich
+Kelsey Browning
+Klaus Moser
+Kumar Karunakaran
+Kyle Thomure
+Laurel Finch
+Linda Vu-Nguyen
+Luke Knowles
+Manuel Ruiz
+Mark Tinker
+Matt Sullivan
+Michael French
+Michael J. Coci
+Mike Morrissey
+Mike Raggo
+Namrata Verma
+Nimish Amin
+Ojas Rege
+Parnaz Rafatjou
+Paul Chou
+Pavel Zeman
+Pearce Aurigemma
+Rahul Mehta
+Raj Mallempati
+Ryan Giles
+Scott Morris
+Sean Frazier
+Sean Ginevan
+Shawn Ayers
+Simon Biddiscombe
+Stacy Chen
+Stephen Gomann
+Sudheer Chittireddy
+Suresh Batchu
+Susan Watkins
+Swetha Kolli
+Tim Youm
+Todd Ford
+Tshaka Campbell
+Vijay Pawar
+Vikram Kumar
+Vishal Chauhan
+Vittorio Viarengo
+Wendy C. Phillips
+Yogesh Kapoor

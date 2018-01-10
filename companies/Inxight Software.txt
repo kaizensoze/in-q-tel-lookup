@@ -1,117 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Steven Reeves
-George Chitouras
-Jeff Cadow
-Paul Norcini
-Bill Miller
-Andrew Ellixson
-Chris Riopel
-Van Elelleh
-Will Saso
-Hemant Puranik
-Roman Scheiter
-Daniel Chai
-Kim Starks
-Rich Shelley
-Logan Johnson
-Robin Dieter
-Gregory Holmberg
 Alpha Luk
-Robby Grossman
-Sabrina Kahn
-Bruce Goldetsky
-David Tauber
-Jane Chiao
-Khoa Phung
-Nathan Watt
-Everett Oliven
-Clark Breyman
-Greg Bishop
-Mike White
-Tracy McIntyre
-John Wondolowski
-Natasha Lloyd
-Brian Neumann
-Howard Liu
-Dinesh Neelavar
-Karine Megerdoomian
-Sarah Vasquez
-Bill Jackson
-Pete Yanker
-Walter Pezzini
-Sunil Mehta
-Mark Holly
-Ray Moore
-Valerie Do
-Yevy Spivak
-Anton Badra
-David van den Akker
-Meyleen Beichler
-Randy Gobbel
-Ed Aguirre
-Amy Silveira
-Grant Carter
-Peter Bursell
-Joey Johnson
-Linda Uyechi
-Helena Jerney
-Thomas Dreikauss
-Kimberly Anderson
-Michael Mun
-Sam Knox
-Catherine Woneis
-Christine Krsnik
-David Spenhoff
-Paul Schnetlage
-Kevin Zimmerman
-Trevor Tucker
-Mike Leary
-Arthur Chen
-Kevin Underriner
-Harini Vallabhaneni
-Jigar Desai
-Cathryn Donohue
-Mike Wilkens
-Igor Kopeikin
-Douglas Bloom
-Justin Martinson
-Jingwen Lu
-Will Saso
-Jean-Louis Casabonne
-Rick Lougee
-Kevin Saxe
 Amol S Deshmukh
-Devesh Kumar
-Stephan Dolezalek
-Masayo Iida
-Paul Jusko
-Dan Hedstrom
-Steve Bernstein
-Sanford Cameron
-Mike White
-Rodger Weismann
-Stacey Louie
-Jean-Pierre Dautricourt
-Emanuel Gaytant
-William Traenkle
-Jonathan Conta
-Samuel Hu
+Amy Silveira
+Andrew Ellixson
+Anton Badra
+Arthur Chen
 Badis Ben Hamida
+Bill Jackson
+Bill Miller
+Brian Neumann
+Bruce Goldetsky
+Catherine Woneis
+Cathryn Donohue
+Chris Riopel
+Christine Krsnik
+Clark Breyman
+Dan Hedstrom
+Daniel Chai
+David Spenhoff
+David Tauber
+David van den Akker
+Devesh Kumar
+Dinesh Neelavar
+Douglas Bloom
+Ed Aguirre
+Emanuel Gaytant
+Everett Oliven
+George Chitouras
+Grant Carter
+Greg Bishop
+Gregory Holmberg
+Harini Vallabhaneni
+Helena Jerney
+Hemant Puranik
+Howard Liu
+Igor Kopeikin
+Jane Chiao
+Jean-Louis Casabonne
+Jean-Pierre Dautricourt
+Jeff Cadow
+Jigar Desai
+Jingwen Lu
+Joey Johnson
+John Wondolowski
+Jonathan Conta
+Justin Martinson
+Karine Megerdoomian
+Kevin Saxe
+Kevin Underriner
+Kevin Zimmerman
+Khoa Phung
+Kim Starks
+Kimberly Anderson
+Linda Uyechi
+Logan Johnson
+Mark Holly
+Masayo Iida
+Meyleen Beichler
+Michael Mun
+Mike Leary
+Mike White
+Mike Wilkens
+Natasha Lloyd
+Nathan Watt
+Paul Jusko
+Paul Norcini
+Paul Schnetlage
+Pete Yanker
+Peter Bursell
+Randy Gobbel
+Ray Moore
+Rich Shelley
+Rick Lougee
+Robby Grossman
+Robin Dieter
+Rodger Weismann
+Roman Scheiter
+Sabrina Kahn
+Sam Knox
+Samuel Hu
+Sanford Cameron
+Sarah Vasquez
+Stacey Louie
+Stephan Dolezalek
+Steve Bernstein
+Steven Reeves
+Sunil Mehta
+Thomas Dreikauss
+Tracy McIntyre
+Trevor Tucker
+Valerie Do
+Van Elelleh
+Walter Pezzini
+Will Saso
+William Traenkle
+Yevy Spivak

@@ -1,116 +1,97 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Peter Schlampp
-Mayank Pradhan
-Kevin Beyer
-Jason Zintak
-Ben Werther
-Beth Cole
-Denise Hemke
-Viviana Faga
-Hayden Hall
-Tim McGuire
-Robert DeMartino
-Mike Liranzo
-Raj Parmar
-Josh Och
-Tim Babcock
-Jared Parker
-Yuri Daniels
-Erik Schneider
-John Schuster
-Mike Asher
-Wayne Like
-Eric Rowell
-Genaro Rodriguez
-Sharon Cheung
-Molly Stamos
-Rob Rosen
-Vignesh Sukumar
-Misha Rutman
-Joe Ventura
-Clark Brown
-Brian Denker
-Courtney Johnson Anders
-Duncan Paul
-Cris Domingo
-Arslaan Shahid
-Prithvi Prabhu
+Aaron Klansek
+Ajay Mysore
+Akon Dey
+Akshat Sharma
 Andrew McNealy
 Andrey Balmin
-Kent Rubin
-Tim Sullivan
-Vu Nguyen
-Mark Melton
-Intekhab Nazeer
-Angelo Caruana
-Joseph Lee
-Edward Doyle
-Chris Riopel
-Kendrick Heath
-Usman Ghani
-Latha Colby
-Mustafa Rassiwala
-SHAN CHEN
-James Mulholland
-Cynthia Fung
-Ben Waltuck
-Ajay Mysore
-Ritu Tyagi
-Jonathan Serencsa
-David Littlewood
-Bill Campbell
-David Fowler
-Deepa Prabhu
-Max Seiden
-Ronald Kaufman
-Barry Tuthill
-Hans-Frederick Brown
-Bob Kelly
-Jo Lam
-Philip Kirk
-Darlene Sawyer
-Christopher Rak
-Aaron Klansek
-Jeremy Southers
-Eric Barre
-Christian Oshiro
-Rick Landry
 Angela Hickerson Hooper
-Chen Huang
-Honray Lin
-Tona Medina
-Robin Adler
-Matt Van Zant
-Akon Dey
-Mark Frigon
-John Herzog
-Joshua Barker
-Scott Ringwelski
-Sive McDermott Kavanaugh
-Akshat Sharma
-Yuqin Shao
-Stephanie Yuen
-srikanth bondalapati
-Hari Mahendrakumar
-Matt Chiasson
+Angelo Caruana
+Arslaan Shahid
+Barry Tuthill
+Ben Waltuck
+Ben Werther
+Beth Cole
+Bill Campbell
+Bob Kelly
+Brian Denker
 Charles Sutton
-John Sheaffer
+Chen Huang
+Chris Riopel
+Christian Oshiro
+Christopher Rak
+Clark Brown
+Courtney Johnson Anders
+Cris Domingo
+Cynthia Fung
+Darlene Sawyer
+David Fowler
+David Littlewood
+Deepa Prabhu
+Denise Hemke
+Duncan Paul
+Edward Doyle
+Eric Barre
+Eric Rowell
+Erik Schneider
+Genaro Rodriguez
 George Atkinson
+Hans-Frederick Brown
+Hari Mahendrakumar
+Hayden Hall
+Honray Lin
+Intekhab Nazeer
+James Mulholland
+Jared Parker
+Jason Zintak
+Jeremy Southers
+Jo Lam
+Joe Ventura
+John Herzog
+John Schuster
+John Sheaffer
+Jonathan Serencsa
+Joseph Lee
+Josh Och
+Joshua Barker
+Kendrick Heath
+Kent Rubin
+Kevin Beyer
+Latha Colby
+Mark Frigon
+Mark Melton
+Matt Chiasson
+Matt Van Zant
+Max Seiden
+Mayank Pradhan
+Mike Asher
+Mike Liranzo
+Misha Rutman
+Molly Stamos
+Mustafa Rassiwala
+Peter Schlampp
+Philip Kirk
+Prithvi Prabhu
+Raj Parmar
+Rick Landry
+Ritu Tyagi
+Rob Rosen
+Robert DeMartino
+Robin Adler
+Ronald Kaufman
+SHAN CHEN
+Scott Ringwelski
+Sharon Cheung
+Sive McDermott Kavanaugh
+Stephanie Yuen
+Tim Babcock
+Tim McGuire
+Tim Sullivan
+Tona Medina
+Usman Ghani
+Vignesh Sukumar
+Viviana Faga
+Vu Nguyen
+Wayne Like
+Yuqin Shao
+Yuri Daniels
+srikanth bondalapati

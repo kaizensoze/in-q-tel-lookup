@@ -1,104 +1,80 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Dale Wilson
-Ricardas Vadoklis
-Parvathy Venkatasubramanian
-Vytautas Sagaitis
-Robin Miller
-Ebrahim Bushehri
-Srdjan Milenkovic
-Dusan Grujic
-Zydrunas Tamosevicius
-Carlos Sanchez
-Jimmy chin
-Benediktas Laurinavicius
-Dan Miller
-Andrew Back
-Ignas Skudrickas
-Alon Alex Gross
-Mihajlo Bozovic
-Nick Stables
-Angelina Lazarevic
-Darko Tasovac
-Karolis Kiela
-billy beckman
-Ignas Jarusevicius
-Djordje Glavonjic
-Lexi Hatziharalambous
-Urmil Upadhyay
-Kyle Smith
-Clayton Depue
-Philippe Roux
-Ed Camarillo
+Aivaras Godliauskas
 Alan Duncan
+Alon Alex Gross
+Andrew Back
+Angelina Lazarevic
 Ariela Terner
-Ugnius Kavaliauskas
-Kieron Branagan
-Noelle Yau
+Bahman Nikzad
+Baniulis Tomas
+Benediktas Laurinavicius
+Bosko Bojovic
+Carlos Sanchez
+Ceslovas Matuzonis
+Clayton Depue
+Dale Wilson
+Dan Miller
+Darko Tasovac
+Djordje Glavonjic
+Dongxu Shen
+Dragana Vasiljevic
+Dusan Grujic
+Dusan Krcum
+Ebrahim Bushehri
+Ed Camarillo
+Egidijus Sadauskas
+Feng Yu
+Gina Ribaudo
+Gintautas Mickus
+Ignas Jarusevicius
+Ignas Skudrickas
+Igor Janjatovic
+Jamil J. Weatherbee
 Jill Kinney
-Teresa Godfrey
+Jimmy Chin
+Jimmy chin
 Josh Blum
 Karen Santelli-Corey
+Karolis Kiela
 Kelly Painter
-ayoub sesar
+Kieron Branagan
+Kyle Smith
+Lazar Kovacevic
+Lexi Hatziharalambous
 Mahdi Sadeghi
-Urmil Upadhyay
-Jamil J. Weatherbee
-anton horwitz
-Sava Smiljanic
-Ceslovas Matuzonis
-Benediktas Laurinavicius
-Maroof Choudhury
-Bosko Bojovic
-Aivaras Godliauskas
-Steve Lyon
-Patrick Long
-Owen Thomas
-Dusan Krcum
-Feng Yu
-Baniulis Tomas
-Milan Savic
-Bahman Nikzad
-Samad siahpoosh
-Egidijus Sadauskas
+Mantas Andriekus
 Mark Jaffray
-Igor Janjatovic
-Dongxu Shen
-Dusan Grujic
-Siwaves Technologies
-Milan Savic
-Gintautas Mickus
-Veljko Crnadak
-Pavle Jovanovic
+Maroof Choudhury
+Mehran Najmabadi
+Mihajlo Bozovic
 Milan Savic
 Mirjana Videnovic-Misic
-Zorana Stefanovic
-Lazar Kovacevic
-Gina Ribaudo
-Zlatko Ignjatovic
-Peter Flores
 Nemanja Kundovic
+Nick Stables
+Noelle Yau
+Owen Thomas
+Parvathy Venkatasubramanian
+Patrick Long
+Pavle Jovanovic
+Peter Flores
+Philippe Roux
+Ricardas Vadoklis
 Richardas Jonaitis
-Mantas Andriekus
+Robin Miller
+Samad siahpoosh
+Sava Smiljanic
+Siwaves Technologies
+Srdjan Milenkovic
+Steve Lyon
+Teresa Godfrey
+Ugnius Kavaliauskas
+Urmil Upadhyay
+Veljko Crnadak
+Vytautas Sagaitis
+Zlatko Ignjatovic
 Zlatko Velickovic
-Jimmy Chin
-Dragana Vasiljevic
+Zorana Stefanovic
+Zydrunas Tamosevicius
+anton horwitz
+ayoub sesar
+billy beckman
 milan savic
-Mehran Najmabadi

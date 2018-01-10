@@ -1,117 +1,98 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Chris Fuller
-Gabriel Martinez
-Rachael Favela
-Matthew Yeh
-Marco Aurelio
-Joanne Chen
-Mark Boullie
-Debbie Kalember
-Alex Kleiman
-Julie Anoshechkina
-Adam Bowen
-Jes Breslaw
-Tiffany T. Nguyen
-Prairie Sims
-Daniel B. Graves
-Srini Dandu
-Neil Batlivala
-Amanda Merriweather
-Kyle Hailey
-Rick Caccia
-Vinay Srihari
-Matt Singer
-Dan Kimmel
-Jenny Lee Thompson
-Marc Aronson
-Steve Carbone
-Cheng Li
-Tim Gorman
-Eric Schrock
-Paul Deppmeier
-Michael Lohmann
-Jude Seth
-Ira Hall
-Jordan Place
-Juan-Roberto Ortiz
-Charles Moore
-Ted Girard
-Christopher Poulos
-Heidi Lim
-Jason Binder
-Woodrow Evans
-Kim Luu
-Elizabeth Liu
-Chris Cook
-Matthew Ahrens
-Thomas C. Todd
-Cliff Conklin
-Jennifer Walker
-John Mitschrich
-Chris Kast
-Kevin Greene
-Peng Dai
-Jedidiah Yueh
-Cassie Stover
-Travis Binen
-Richie Niu
-Rick Greene
-Marc Odenweller
-Jose Martins
-Seema Desai
-Ankur Sarin
-Doug Smith
-Viral Shah
-Brian Reich
-Jaclyn Schoof
-Tom Beedy
-Karyn Ritter
-Louis Evans
-Samir Qureshi
-Karthik Rau
-Michael Brown
-Brandon Baker
-Bob Lepesh
-Benjamin Long
 Aaron Garvey
-Nga Nguyen
-Eric Weiss
-Nima Vazindel
-Mauro Trione
-Rahul Nair
-Kristyn Ha
-Frank Salzmann
-Joel Harrison
-Nathan Burnett
-Paul Dagnelie
-Ryan Wong
-Dan Bidwell
-Todd Blatti
-Annirudh Prasad
-Ryan Ham
-Becca Sheridan
-Vikram Kulkarni
-Brett Stevens
-Michael Logan
-Morgan Onuorah
-Adam Leventhal
-Christine Singletary
 Aaron Shoffa
+Adam Bowen
+Adam Leventhal
+Alex Kleiman
+Amanda Merriweather
+Ankur Sarin
+Annirudh Prasad
+Becca Sheridan
+Benjamin Long
+Bob Lepesh
+Brandon Baker
+Brett Stevens
+Brian Reich
+Cassie Stover
+Charles Moore
+Cheng Li
+Chris Cook
+Chris Fuller
+Chris Kast
+Christine Singletary
+Christopher Poulos
+Cliff Conklin
+Dan Bidwell
+Dan Kimmel
+Daniel B. Graves
+Debbie Kalember
+Doug Smith
+Elizabeth Liu
+Eric Schrock
+Eric Weiss
+Frank Salzmann
+Gabriel Martinez
+Heidi Lim
+Ira Hall
+Jaclyn Schoof
+Jason Binder
+Jedidiah Yueh
+Jennifer Walker
+Jenny Lee Thompson
+Jes Breslaw
+Joanne Chen
+Joel Harrison
+John Mitschrich
+Jordan Place
+Jose Martins
+Juan-Roberto Ortiz
+Jude Seth
+Julie Anoshechkina
+Karthik Rau
+Karyn Ritter
+Kevin Greene
+Kim Luu
+Kristyn Ha
+Kyle Hailey
+Louis Evans
+Marc Aronson
+Marc Odenweller
+Marco Aurelio
+Mark Boullie
+Matt Singer
+Matthew Ahrens
+Matthew Yeh
+Mauro Trione
+Michael Brown
+Michael Logan
+Michael Lohmann
+Morgan Onuorah
+Nathan Burnett
+Neil Batlivala
+Nga Nguyen
+Nima Vazindel
+Paul Dagnelie
+Paul Deppmeier
+Peng Dai
+Prairie Sims
+Rachael Favela
+Rahul Nair
+Richie Niu
+Rick Caccia
+Rick Greene
+Ryan Ham
+Ryan Wong
+Samir Qureshi
+Seema Desai
+Srini Dandu
+Steve Carbone
+Ted Girard
+Thomas C. Todd
+Tiffany T. Nguyen
+Tim Gorman
+Todd Blatti
+Tom Beedy
+Travis Binen
+Vikram Kulkarni
+Vinay Srihari
+Viral Shah
+Woodrow Evans

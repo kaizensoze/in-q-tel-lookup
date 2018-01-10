@@ -1,113 +1,94 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Brian de Haaff
-Chris Waters
-Sylvia L. Vu
-Stewart Fox
-Gary Ramah
-Jon Baer
-Mark Bunnage
-Andrew Phillips
-Alan Northrup
-Nick Kelsey
-Neil Reimer
-Jacob Cox
-russell schwartz
-Mike Budelli
-Tomi Sawyer
-Raj Kadam
-Mike McClure
-Aurora Walshe
-Jason Mihalic
-Heather Hamilton
-Zachary Bartley
-Judy Giordan
-Sarah Hobbs
-Mark Vreeke
-Jeff Strank
-Brent Finkelstein
-Thomas King
-Bruce Wellman
-Tom McKamey
-Rebecca Wood
-Rob Adams
 Adam Johnson
-Scanner Luce
-Jeremy Bennett
-Jason Burch
-Matthew Bio
-Eric Mitchell
-Igor V. Tetko
-Shixin Deng
-Warren Weiner
-Jay Larrow
-Rush Johnson
-Pal Arjunan
-Mark Bilodeau
-William Bawden
-James Edwards
-Peter Fuller
-Benjamin Davis
-Dr. Peter Clark
-David Lau
-Alexander Co
-Joshua Bruner
-Francis Gosselin
-Catherine White
-James Mumby
-Jay Amarasekera
-Walter Fender
-Vikram Bhat
-Mike Lancaster
-James Bruno
-Matt Lucas
-Dr. Christopher Fenoli PhD
-Danail Bonchev
-Edward Greer
-Joris De Schutter
-Maksim Fomin
-Yvonne Armitage
-Peter T. Kissinger
-Giovambattista Depietra
+Alan Northrup
 Alex Dickson
-Siwan Smith
-Rita La Spina
-Cory Valente
-Fred Good
-Mark Bassett
-Jason Harris
-Petr Vachal
-Mona Bavarian
-Michael Dillon
-Trevor Ewers
-Vishal Sankhla
-Sean McGinn
-Frank L. Slejko
-Xavier Pillai
-Jonathan Rogers
-Greg Hughes
-Vinodh Rajendra
-Steven Krupinski
-Jeff Dimmit
-Jovana Grbic
-Yuliang Wang
-N. Sukumar
+Alexander Co
 Andrea Zuhl
+Andrew Phillips
+Aurora Walshe
+Benjamin Davis
+Brent Finkelstein
+Brian de Haaff
+Bruce Wellman
+Catherine White
+Chris Waters
+Cory Valente
+Danail Bonchev
+David Lau
+Dr. Christopher Fenoli PhD
+Dr. Peter Clark
+Edward Greer
+Eric Mitchell
+Francis Gosselin
+Frank L. Slejko
+Fred Good
+Gary Ramah
 Gene Williams
+Giovambattista Depietra
+Greg Hughes
+Heather Hamilton
+Igor V. Tetko
+Jacob Cox
+James Bruno
+James Edwards
+James Mumby
+Jason Burch
+Jason Harris
+Jason Mihalic
+Jay Amarasekera
+Jay Larrow
+Jeff Dimmit
+Jeff Strank
+Jeremy Bennett
+Jon Baer
+Jonathan Rogers
+Joris De Schutter
+Joshua Bruner
+Jovana Grbic
+Judy Giordan
+Maksim Fomin
+Mark Bassett
+Mark Bilodeau
+Mark Bunnage
+Mark Vreeke
+Matt Lucas
+Matthew Bio
+Michael Dillon
+Mike Budelli
+Mike Lancaster
+Mike McClure
+Mona Bavarian
+N. Sukumar
+Neil Reimer
+Nick Kelsey
+Pal Arjunan
+Peter Fuller
+Peter T. Kissinger
+Petr Vachal
+Raj Kadam
+Rebecca Wood
+Rita La Spina
+Rob Adams
+Rush Johnson
+Sarah Hobbs
+Scanner Luce
+Sean McGinn
+Shixin Deng
+Siwan Smith
+Steven Krupinski
+Stewart Fox
+Sylvia L. Vu
+Thomas King
+Tom McKamey
+Tomi Sawyer
+Trevor Ewers
+Vikram Bhat
+Vinodh Rajendra
+Vishal Sankhla
+Walter Fender
+Warren Weiner
+William Bawden
+Xavier Pillai
+Yuliang Wang
+Yvonne Armitage
+Zachary Bartley
+russell schwartz

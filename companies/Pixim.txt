@@ -1,110 +1,84 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Chris Adams
-John Monti
-Leslie Wat
-Joe Peery
-James Carroll
-Casey McMullen
-Bruce Johnson
-Daniel Shaul
-Ann Peng
-James Harden
-Jeannie Hiatt
-Bob Weinschenk
-James Harden
-Justin Reyneri
-Fred Brady
-Michael Montalbo
-Le Nguyen
-John Keller
-Siew Thomas
-Usha Friedrich
-Paul Perez
-David Jenne
-Vincent Ward
+Abhinav Nippuleti
 Alfred Chou
-Santiago Fernandez-Gomez
-Vladimir Koifman
-Craig Robinson
+Andrew Bailey
+Anel Dadlani
+Ann Peng
+Anne Banta
+Arie Gavriely
+Ariel Ben-Shem
+Ben R
+Benjamin Olding
+Bob Weinschenk
+Brian Carey
+Brian P. Lowery
+Bruce Johnson
+Casey McMullen
+Chris Adams
+Christophe Gagneux
 Craig Holden
-Junesoo Han
+Craig Robinson
+Daniel Shaul
+David Hoff
+David Jenne
+David Miller
+Elton Sherwin
+Felix Abarca
+Francis Gingras
 Francis Tilmont
-Valorie Windsor
-Yacov Broit
-John Bernstein
+Fred Brady
+Gil Erlich
+Gloria Reiss
 Hui Tian
+Iris Nikas
+James Carroll
+James Harden
+Jan Biggs
+Jeannie Hiatt
+Jeff Jones
 Jennifer Martin
 Jerry Goodwin
-Alfred Chou
-Naftaly Sharir
-Anel Dadlani
-Ricardo Motta
-Brian P. Lowery
-Siew Thomas
-Samantha Domville
-Todd Rockoff
-Valorie Windsor
 Joe Devlin
-Christophe Gagneux
-David Hoff
-Sony Israel
-Joe Souza
-Arie Gavriely
-Lee Hirsch
-Brian Carey
-Siew Thomas
-Zudun Tang
-William Bidermann
-Abhinav Nippuleti
-Shirley Cheng
-Benjamin Olding
-Juho Kim
-Steven M. Bidermann
-Mike Klein
-Robert Siegel
-Lavanya Jandhyala
-Tushar Malwankar
-Ariel Ben-Shem
-Terri Sawdon
-David Miller
-Qiang Li
-Ben R
-Robert Masik
-Bob Weinschenk
-Andrew Bailey
-Ray Johnson
-Jeff Jones
-Zach ROUAULT
-Elton Sherwin
-Iris Nikas
 Joe Montalbo
-Todd Rumaner
-Paul Kramer
-Francis Gingras
-Gil Erlich
-Anne Banta
-Felix Abarca
-Jeannie Hiatt
-Paul Huntley
-Jan Biggs
+Joe Peery
+Joe Souza
+John Bernstein
+John Keller
+John Monti
+Juho Kim
+Junesoo Han
+Justin Reyneri
+Lavanya Jandhyala
+Le Nguyen
+Lee Hirsch
+Leslie Wat
 Maher Shenouda
+Michael Montalbo
+Mike Klein
+Naftaly Sharir
+Paul Huntley
+Paul Kramer
+Paul Perez
+Qiang Li
+Ray Johnson
+Ricardo Motta
+Robert Masik
+Robert Siegel
+Samantha Domville
+Santiago Fernandez-Gomez
+Shirley Cheng
+Siew Thomas
+Sony Israel
+Steven M. Bidermann
+Terri Sawdon
+Todd Rockoff
+Todd Rumaner
+Tushar Malwankar
+Usha Friedrich
+Valorie Windsor
 Vincent Trinh
-Gloria Reiss
+Vincent Ward
+Vladimir Koifman
+William Bidermann
+Yacov Broit
+Zach ROUAULT
+Zudun Tang

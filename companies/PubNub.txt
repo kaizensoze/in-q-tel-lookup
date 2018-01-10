@@ -1,117 +1,97 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Stephen Blum
-Stephen Blum
-Todd Greene
-Geremy Cohen
-Craig Conover
-Rohini Pandhi
-Olivier Coutand
-Assaf Barnir
-Joe Hanson
-Jason Wimp
-Marc Friend
-Michael Conway
-Dave Nugent
+Adam Bavosa
 Adam Heller
-Girish Dusane
-Wendy Schott
-Madison Smith
-Jonas Gray
-Ariel Zach
-Rob Sampson
-Patrick Drenker
-George Gong
-Mohan Krishnan
-Martin Lagrange
-Derek Frome
-Heidi Hale
-David Atmaram Satterwhite
-Kristen Furtado
-Seth Edwards
-ambert ho
-Grace McLane
-Frank Mak
-Ayush Kumar
-Rongchao Fan
-Jay Oster
-Andrew Johnson
-Matt Andrews
-Cody Massin
-Thomas Merritt
-Sandra Ha
-Doron Sherman
-Jordan Shaw
-Tomomi Imura
-Jaime Lapena
-Harlan Iverson
-Jochen Roth
-Max Brasseal
-Dannel Shanker
-Bryan Wade
-Frederick Brock
-W. James Hamilton III
-Julia Elwood
-Robert Tosti
+Ajan Jayant
 Alexander Spotnitz
-Eric Grossman
-Bianca Widmark
-Zack Urlocker
-Jordan Zucker
-Jared Waxman
-Ian Jennings
-Zack Dzanko
-Ganesh RK
-Dave Lacy
-Joshua Marinacci
-Craig Baumgarten
-Jai Singh
-Katherine Rincon
-Bhavana Srinivas
-Dara Kong
-Yigal Jacobson
+Amit Chaturvedy
+Andrew Johnson
+Anshu Sharma
+Anshul Pundir
+Ariel Zach
+Assaf Barnir
+Ayush Kumar
 Bhagat Nainani
-Max Presman
-David Hegarty
-Rebecca Metz
-KEVIN LI
+Bhavana Srinivas
+Bianca Widmark
+Brian Barnard
 Brittany McBride
-Nate Starrett
+Bryan Wade
+Chuong Do
+Cody Massin
+Craig Baumgarten
+Craig Conover
+Dannel Shanker
+Dara Kong
+Dave Lacy
+Dave Nugent
+David Atmaram Satterwhite
+David Hegarty
+Derek Frome
+Doron Sherman
 Elisabeth Elrod-Clark
 Emma Rose Wirshing
-Brian Barnard
-Chuong Do
-Ajan Jayant
-Keith Bickers
-Anshu Sharma
-Amit Chaturvedy
+Eric Grossman
 Eric Theis
-Rahul Vyas
-Stephen Zocchi
-McKenzie Abdon
-Lisa McEachern
-Adam Bavosa
-Thomas Burger
-Rachel Wurzbach
-Kevin Gleason
-Anshul Pundir
-Medha Gerhardt
-Keith Martin
+Frank Mak
+Frederick Brock
+Ganesh RK
+George Gong
+Geremy Cohen
+Girish Dusane
+Grace McLane
+Harlan Iverson
+Heidi Hale
+Ian Jennings
+Jai Singh
+Jaime Lapena
+Jared Waxman
+Jason Wimp
+Jay Oster
+Jochen Roth
+Joe Hanson
 John Occhipinti
+Jonas Gray
+Jordan Shaw
+Jordan Zucker
+Joshua Marinacci
+Julia Elwood
+KEVIN LI
+Katherine Rincon
+Keith Bickers
+Keith Martin
+Kevin Gleason
+Kristen Furtado
+Lisa McEachern
+Madison Smith
+Marc Friend
+Martin Lagrange
+Matt Andrews
+Max Brasseal
+Max Presman
+McKenzie Abdon
+Medha Gerhardt
+Michael Conway
+Mohan Krishnan
+Nate Starrett
+Olivier Coutand
+Patrick Drenker
+Rachel Wurzbach
+Rahul Vyas
+Rebecca Metz
+Rob Sampson
+Robert Tosti
+Rohini Pandhi
+Rongchao Fan
+Sandra Ha
+Seth Edwards
+Stephen Blum
+Stephen Zocchi
+Thomas Burger
+Thomas Merritt
+Todd Greene
+Tomomi Imura
+W. James Hamilton III
+Wendy Schott
+Yigal Jacobson
+Zack Dzanko
+Zack Urlocker
+ambert ho

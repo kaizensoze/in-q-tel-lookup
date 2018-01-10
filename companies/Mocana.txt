@@ -1,113 +1,94 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jon Mills
-Ranjeet Vidwans
-Bill Diotte
-Peter Graham
-Heidi Funai
-James Blaisdell
-Alan Panezic
-Gigi Reyes
-jeff greenberg
-Sandy Taylor
-Jean-Max Vally
-James Isaacs
-Tom Heckman
-Roubinder Singh
-Jason Tiet
-Tushar Patel
-Yeri Chang
-Mike Zhang
-Srinivas Kumar
-Christopher Duenas
-Lars Klumpes - CISSP
-Scott Bonnell
-Ken Wante
-Raymond Luong
-Tim McAllister
-Dan Murphy
-Jim Hurley
-John Aisien
-Mike Musson
-Derek Johnson
-Mike Pontillo
-Shawn Lorenz
-Leena Soman
-Ed Marcotte
-Yvette Hu
-Michelle Elaine Pham-Crepps
-Robert Dunn
-Sara Tuohey
-Ivonne McLaughlin
-Brandon Webb
-Brian Pescatore
-Fabrice Ferino
-Paul Flanagan
-Shawn-Lin Dzeng
-Adam Veres
-Gregory McNulty
-Nehal Odedra
-Caroline Yao
-Brian Douglas
-Tim Champagne Jr
-Bharat Somani
 Abhijit Chougule
-Hung Huynh
-Larry Thorner
-Paul Fulton
-Steve Burnett
-Kevin Fox
-Michael Rovero
-Celena Tanguay
-Karen Chernoff
-Christopher Miranda
-Kyle Mueller
-Swarna Podila
-Philip Masleid
-Patricia Renovato
-Kurt R Stammberger CISSP PMC
-Ruslan Ulanov
-Jemina Zhao
-Doug Rossie
-Moehsin Maretti
-Michael Adler
-Mike Sherman
-Greg Cobb
-Alan Robertson
-Chet Ersoy
 Adam Jacobs
+Adam Veres
+Alan Panezic
+Alan Robertson
 Asher Greenberg
-Jennifer Ciaccio
-Joel Davis
-Damien Eastwood
-Hunter Li
-Naveen Neelakanta
-Colter Carambio
-Sanjay Kalyanasundaram
-Linda Wu
 Bernardo Carnero
-Paresh Sawant
-Monique Semp
-Phil Montgomery
-Virginia Watkins
-Swapnil Waichal
-Reuel Warkov
-Tim Champagne
+Bharat Somani
+Bill Diotte
+Brandon Webb
+Brian Douglas
+Brian Pescatore
+Caroline Yao
+Celena Tanguay
+Chet Ersoy
+Christopher Duenas
+Christopher Miranda
+Colter Carambio
+Damien Eastwood
+Dan Murphy
+Derek Johnson
 Doug Boreham
+Doug Rossie
+Ed Marcotte
+Fabrice Ferino
+Gigi Reyes
+Greg Cobb
+Gregory McNulty
+Heidi Funai
+Hung Huynh
+Hunter Li
+Ivonne McLaughlin
+James Blaisdell
+James Isaacs
+Jason Tiet
+Jean-Max Vally
+Jemina Zhao
+Jennifer Ciaccio
+Jim Hurley
+Joel Davis
+John Aisien
+Jon Mills
+Karen Chernoff
+Ken Wante
+Kevin Fox
+Kurt R Stammberger CISSP PMC
+Kyle Mueller
+Larry Thorner
+Lars Klumpes - CISSP
+Leena Soman
+Linda Wu
+Michael Adler
+Michael Rovero
+Michelle Elaine Pham-Crepps
+Mike Musson
+Mike Pontillo
+Mike Sherman
+Mike Zhang
+Moehsin Maretti
+Monique Semp
+Naveen Neelakanta
+Nehal Odedra
+Paresh Sawant
+Patricia Renovato
+Paul Flanagan
+Paul Fulton
+Peter Graham
+Phil Montgomery
+Philip Masleid
+Ranjeet Vidwans
+Raymond Luong
+Reuel Warkov
+Robert Dunn
+Roubinder Singh
+Ruslan Ulanov
+Sandy Taylor
+Sanjay Kalyanasundaram
+Sara Tuohey
+Scott Bonnell
+Shawn Lorenz
+Shawn-Lin Dzeng
+Srinivas Kumar
+Steve Burnett
+Swapnil Waichal
+Swarna Podila
+Tim Champagne
+Tim Champagne Jr
+Tim McAllister
+Tom Heckman
+Tushar Patel
+Virginia Watkins
+Yeri Chang
+Yvette Hu
+jeff greenberg

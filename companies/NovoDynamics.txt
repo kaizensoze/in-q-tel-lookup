@@ -1,97 +1,73 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Sean McMillan
-Jade Glaze
-Fansheng Meng
-John Trenkle
-Mark Earles
-David Rock
-Gerald Tubbs
-Jim Kinsherf
-Michael D. Robinson
-Peter Su
-Paul Olsztyn
-Daniel Schultz
-Carl Grant
-Robert R. Dennis Jr.
-Alan Vayda
-Matt Wickey
-Robert Clark
-Kristin Marsh
-Benedict Singer
-Michael Rowan
-Tim Dubes
-Luke Carmichael
-Rob Vogt
-Michael Abbott
-Nathan Daly
-Jim Beyer
-Paul Bombach
-Shawn Pyle
-Mari Anna Wahr
-Holly Bielawa
-Stan Cavin
-Martina Schultz
-Cynthia Jessup Sewell
 ANNA TOMMASELLI
-Jon Oxtoby
-Matthew Potoff
-Tom Limperis
-Gregory B. Pepus
-Aziz Matar
-amy sunke
-Mary Koschnik
-Brent Schroeter
-Steve Schlosser
-Joseph McDermott
-Billy Layton
-Lee Hester
-Anthony Schirripa
-Lisa Stringo
-Simon Mormen
-John Trenkle
-Brent Schroeter
-John Trenkle
 Alan Vayda
-Jun Qian
-Vince Tornillo
-Jeanine Macetti
-Manali Surve
-Vince Tornillo
-Bill Cavnar
-Kathy Lorence
-Charles Torbert
-Roger Dickinson
-David Smith
-Randy Heiser
-John Bowker
-Scott Su
-Osama Khalil
-Scott Parris
-Joseph Thompson
-Rama Lakshmi
-Bill Janshego
-Daniel Miller-Sanchez
-Blake Trence
-Mohammad Hluchan
-Lars Rittel
-fausto Gallo
+Anthony Schirripa
 Anton Tolken
+Aziz Matar
+Benedict Singer
+Bill Cavnar
+Bill Janshego
+Billy Layton
+Blake Trence
+Brent Schroeter
+Carl Grant
+Charles Torbert
+Cynthia Jessup Sewell
+Daniel Miller-Sanchez
+Daniel Schultz
+David Rock
+David Smith
+Fansheng Meng
+Gerald Tubbs
+Gregory B. Pepus
+Holly Bielawa
+Jade Glaze
+Jeanine Macetti
+Jim Beyer
+Jim Kinsherf
+John Bowker
+John Trenkle
+Jon Oxtoby
+Joseph McDermott
+Joseph Thompson
+Jun Qian
+Kathy Lorence
+Kristin Marsh
+Lars Rittel
+Lee Hester
+Lisa Stringo
+Luke Carmichael
+Manali Surve
+Mari Anna Wahr
+Mark Earles
+Martina Schultz
+Mary Koschnik
+Matt Wickey
+Matthew Potoff
+Michael Abbott
+Michael D. Robinson
+Michael Rowan
+Mohammad Hluchan
+Nathan Daly
+Osama Khalil
+Paul Bombach
+Paul Olsztyn
+Peter Su
+Rama Lakshmi
+Randy Heiser
+Rob Vogt
+Robert Clark
+Robert R. Dennis Jr.
+Roger Dickinson
 Sara Venditti
+Scott Parris
+Scott Su
+Sean McMillan
+Shawn Pyle
+Simon Mormen
+Stan Cavin
+Steve Schlosser
+Tim Dubes
+Tom Limperis
+Vince Tornillo
+amy sunke
+fausto Gallo

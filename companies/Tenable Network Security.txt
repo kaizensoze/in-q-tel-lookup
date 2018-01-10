@@ -1,116 +1,97 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Space Rogue
-Christi Fox
-Matt Duren
-Shruti Shah
-Christine Abraham
-Ron Gula
-Ann Burns
-Sean Mitchell
-Manoj Srivastava
-Andrew Flick
-Renaud Deraison
-Glen Pendley
-Jamie Beck
-Brad Pollard
-michael kirby
-David Duncan
-Mark Zuckerman
-Brittany Anderson
-Dale Luke
-Andy Gabor
-Brian Sheridan
-Joanne Rasch
-Eric Johnson
-Jessica Cruse
-Jason Henderson
-Chris Jaeger
-Jack Huffard
 Adam Aghion
-Kent Meyer
-David Korba
-Simon Harper
-Lou Serlenga
-Christine Tee
-Jack Daniel
-Stacey Fatica
-Stephen Riddick
-Hunter Cole
-Donal McRae
-Joel Fossett
-Steve Vintz
-Jennifer Tomko
-Samuel Gaudet
-Greg Cain
-Alice Nickel
-Jonathan Hughes
-Kathy LeNoir
-Mike Davidson
-Lucas Tamagna-Darr
-Kevin Herrett
-Jana Marshall
-Paul Fuller
-Serena Chen
-Maegan McLaughlin
-LaMont Price
-Coleen Greco
-John Liadakis
-Gavin Millard
-Philippe Moore
-Kerry Davis
 Adam Gaswirth
-Amy Bolton
-Vatsal Sonecha
-Ashlyn McLean
-Patrick Meister
-Chris Fritz
-Raquel Lopez
-David Poynter
-Betsy Budorick
-Patrick Doherty
-Stephen Eberhardt
-Mike Danforth
-Kevin Bailey
-Garrett Matthews
-Marcin Cupial
-Chris McCarron
-Megan Anderson
-Tim Teeling
-Steve Hall
-John Lampe
-Mandy Kelley
-Jalanee Dineshraj
-Dave Cole
-Jessica Rolfe
-Matt Alderman
-Rachel Greifzu
-Faizah Ansari
-Nicholas Parry
-Corey Bodzin
-Kari Yent
-Chris Moran
-Susan Corbin Brown
-Christopher Bosdal
-David Seeman
 Adam Winter
+Alice Nickel
+Amy Bolton
+Andrew Flick
+Andy Gabor
+Ann Burns
+Ashlyn McLean
+Betsy Budorick
+Brad Pollard
+Brian Sheridan
+Brittany Anderson
+Chris Fritz
+Chris Jaeger
+Chris McCarron
+Chris Moran
+Christi Fox
+Christine Abraham
+Christine Tee
+Christopher Bosdal
+Coleen Greco
+Corey Bodzin
+Dale Luke
+Dave Cole
+David Duncan
+David Korba
+David Poynter
+David Seeman
 Diane Garey
+Donal McRae
+Eric Johnson
+Faizah Ansari
+Garrett Matthews
+Gavin Millard
+Glen Pendley
+Greg Cain
+Hunter Cole
+Jack Daniel
+Jack Huffard
+Jalanee Dineshraj
+Jamie Beck
+Jana Marshall
+Jason Henderson
+Jennifer Tomko
+Jessica Cruse
+Jessica Rolfe
+Joanne Rasch
+Joel Fossett
+John Lampe
+John Liadakis
+Jonathan Hughes
+Kari Yent
+Kathy LeNoir
+Kent Meyer
+Kerry Davis
+Kevin Bailey
+Kevin Herrett
+LaMont Price
+Lou Serlenga
+Lucas Tamagna-Darr
+Maegan McLaughlin
+Mandy Kelley
+Manoj Srivastava
+Marcin Cupial
+Mark Zuckerman
+Matt Alderman
+Matt Duren
+Megan Anderson
+Mike Danforth
+Mike Davidson
+Nicholas Parry
+Patrick Doherty
+Patrick Meister
+Paul Fuller
+Philippe Moore
+Rachel Greifzu
+Raquel Lopez
+Renaud Deraison
 Robbin Paper
+Ron Gula
+Samuel Gaudet
 Sarah Gowing
+Sean Mitchell
+Serena Chen
+Shruti Shah
+Simon Harper
+Space Rogue
+Stacey Fatica
+Stephen Eberhardt
+Stephen Riddick
+Steve Hall
+Steve Vintz
+Susan Corbin Brown
+Tim Teeling
+Vatsal Sonecha
+michael kirby

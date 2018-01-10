@@ -1,66 +1,41 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Bill Anderson
+Adam Schafer
 Art Shulenberger
+Barbara Tierney
+Ben Lenington
+Ben Petro
+Bill Anderson
+Bonnie Weasner
+Chris Rivers
+Christian Kepner
+Christopher Sheridan
+Darryl Garrett
+David Franklin
+Feng Wang
+James Fabrizio
+Jennifer Fetting
+Jill Andrews
+Jiyeong Kim
+Karl Schmidt
+Kristin Smith
+Lou Kertesz
+Mary Shulenberger
+Matt McDaniel
+Nichol Miller
+Pall Johannesson
+Peg Rickard
+Rachel Larder
+Ryan Fay
+Scott Pember
+Stephen Kalman
 Steve Kalman
 Steve Turner
-Matt McDaniel
-Jill Andrews
-Adam Schafer
 Steven Kalman
-Stephen Kalman
-Christian Kepner
-Tony DiChiara
-Mary Shulenberger
-Ryan Fay
-Steve Kalman
-Steve Kalman
 Steven Pujia
-Chris Rivers
-Tony Dichiara
-Peg Rickard
-Christopher Sheridan
-Jiyeong Kim
+Susan Tran
 Tony DiChiara
-Steve Kalman
-Karl Schmidt
-Lou Kertesz
-David Franklin
-sandeep saroha
-William Tang
-Barbara Tierney
-Scott Pember
-Ben Petro
-Peg Rickard
-Yang Yang
-Darryl Garrett
-Ben Lenington
-Nichol Miller
-Susan Tran
-Susan Tran
-Bonnie Weasner
-Kristin Smith
-James Fabrizio
+Tony Dichiara
 Vernon Keith Dailey
-Jennifer Fetting
+William Tang
+Yang Yang
 Ziwar Al Nouri
-Rachel Larder
-Pall Johannesson
-Feng Wang
+sandeep saroha

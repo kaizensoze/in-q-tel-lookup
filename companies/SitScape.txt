@@ -1,87 +1,60 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Kelley Hu
-Kevin Yin
+Alejandro Levins
+Andrew Gleeson
+Anuroop Ranjan
+Ashley Amann
+Barton Jarnagin
 Bobby Polis
-Sarith Khlot
-Sopheap Chhin
-John Dickinson
+Channa Leang
+Chin Darinet
+Chris Miller
+Chris Schroeder
+Chris Zanardi
+Chuck Walser
+Curtis Frye
+Dan Boulden
 Daniel Gottlieb
+Dave Maxwell
+Derek Finch
+Don Lee
+Dustin Glidden
+Erin Corey
+Greg Bardwell
+Hongda Lin
+Huanbiao Mo
+James Nist
+James Sondel
+Jamie Jamison
 Jason Hu
 Jeffrey Heubusch
 Jim Fischer
-Chris Zanardi
-Channa Leang
-Joe Marinich
-Joseph Marinich
-Zachary McGonigal
-Kristen Novak Morgan
-Ping Xia
-Dustin Glidden
-kevin yin
-Kevin Yin
-Ashley Amann
-John Kelvie
-Stephen Strong
-Alejandro Levins
-Curtis Frye
-Kevin Yin
-Kelley Hu
-James Nist
-James Sondel
-Millicent Carroll
-Kevin Yin
-Derek Finch
-bijan fathi
-Scott Kelso
-Stewart Johnston
 JoEllen Adkins
-Huanbiao Mo
-Chuck Walser
-Majid Motevalli
-Kathy Marconi
-Dave Maxwell
-Kevin Yin
-kevin yin
-Paul Vieira
-Chris Schroeder
-Ronak Arora
-Chin Darinet
-Greg Bardwell
-suzette prasatek
-Anuroop Ranjan
-Hongda Lin
-Chris Miller
-Tom Dougherty
+Joe Marinich
+John Dickinson
+John Kelvie
 Joseph Fitzgerald
-Don Lee
-Scott Samborn
-Andrew Gleeson
-Ryan McGrath
-Suryakanta Tripathi
-chris shertzer
+Joseph Marinich
+Kathy Marconi
+Kelley Hu
 Kevin Yin
-Barton Jarnagin
-Jamie Jamison
+Kristen Novak Morgan
+Majid Motevalli
 Michael Henton
-Dan Boulden
-Kevin Yin
+Millicent Carroll
+Paul Vieira
 Peter McBeath.
-Erin Corey
+Ping Xia
+Ronak Arora
+Ryan McGrath
+Sarith Khlot
+Scott Kelso
+Scott Samborn
+Sopheap Chhin
+Stephen Strong
+Stewart Johnston
+Suryakanta Tripathi
+Tom Dougherty
+Zachary McGonigal
+bijan fathi
+chris shertzer
+kevin yin
+suzette prasatek

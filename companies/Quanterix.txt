@@ -1,114 +1,95 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-David C. Duffy
-David H. Wilson
-Elisabeth Colunio
-Kevin Hrusovsky
-Purvish Patel
-Susan Hillman
-Martin Madaus
-Erica Frew
-Mingwei Zhao
-David Hanlon
-Julien Bradley
-David Kulick
-David Rissin
-Devon Campbell
-Melissa Gardel
+Adam Shepro
+Alex Calder
+Amy Achorn
+Andreas Jeromin
+Andrew Rivnak
+Ariel Vonk
+Beverly Lowrey
+Brett Flaherty
+Brian Gregor
 Brian Pink
+Brian Smith
+Brittany Melanson
+Bruce Bal
+Bryan Klekota
+CASTRO Amelie
+Carlos Cabrera
+Cheuk W Kan
+Christine Vitkauskas
+Danielle Svancara
+Dave Marr
+David C. Duffy
+David Fournier
+David H. Wilson
+David Hanlon
+David Kulick
+David Montoya
+David R. Waltz
+David Rice
+David Rissin
+Derek Baker
+Derek DuPont
+Devon Campbell
+Dipika Gemani
+Divya Rao
+Donna Callery
+Dusty Walter
+Dusty Whittemore
+Elisabeth Colunio
+Eliseo Veras
+Erica Frew
+Ernie Orticerio
+Gary Kershner
+Ginny Mulcahy Richard
+Huy Le
+Jaclyn Hamwey
+Jason Beltz
+Jeffrey Randall
+Jennifer Geldart Flashman
+Jeremy Lambert
+Jialu Liu
+John Murphy
+Julie Coughlan
+Julie Coughlin
+Julien Bradley
+Kaitlin Minnehan
+Kalin Kantchev
+Katie Beauregard
+Kenneth Lerma
+Kevin Hrusovsky
+Kristin Manfredi
+Laurel Provencher
+Lei Chang
+Leo Mitchell
+Linan Song
+Lisa Costa
+Marcus Madaus
+Martin Madaus
+Matt Fishburn
+Melissa Gardel
+Mingwei Zhao
+Monica Errico
+Muriel Mendes
+Nathan Estochen
+Nick Naclerio
+Nick Picca
+Pamela Gifford - Isaacson
+Paul Chapman
+Purvish Patel
+Ray Meyer
+Richard Dennis
+Rohit Anand
+Ryan Cleland
+Ryan Smith
+Scott Cannistraro
 Sean Sullivan
 Seth Cohen
-Linan Song
-Andreas Jeromin
-Kalin Kantchev
-David Fournier
-Lisa Costa
-Lei Chang
-John Murphy
-Divya Rao
-Ernie Orticerio
-Jeremy Lambert
-Bruce Bal
-Derek DuPont
-Carlos Cabrera
-Yao Chen
-Paul Chapman
-Tomasz Piech
-Monica Errico
-Ryan Smith
-Brittany Melanson
-Jennifer Geldart Flashman
-Matt Fishburn
-Ryan Cleland
-Cheuk W Kan
-Ginny Mulcahy Richard
-David Rice
-Donna Callery
-Dusty Whittemore
-Dipika Gemani
-Jeffrey Randall
-Todd Campbell
-Beverly Lowrey
-Laurel Provencher
-Brian Gregor
-Richard Dennis
-Walt Segl
-Pamela Gifford - Isaacson
 Shawn Schantz
-Scott Cannistraro
-Alex Calder
-David Montoya
-Ray Meyer
-Derek Baker
-Brian Smith
-Christine Vitkauskas
-Rohit Anand
 Shuai Nie
-Muriel Mendes
-Huy Le
-Dusty Walter
-Kaitlin Minnehan
-Danielle Svancara
-Eliseo Veras
-Jaclyn Hamwey
-Steve Klose
-Gary Kershner
-Brett Flaherty
-Adam Shepro
-Leo Mitchell
-Julie Coughlan
-Jialu Liu
-David R. Waltz
-Nick Naclerio
-Ariel Vonk
-Nathan Estochen
-Andrew Rivnak
 Stephanie Schubert
-CASTRO Amelie
-Katie Beauregard
-Marcus Madaus
-Kristin Manfredi
-Jason Beltz
-Nick Picca
-Kenneth Lerma
-Dave Marr
-Amy Achorn
-Bryan Klekota
-Julie Coughlin
+Steve Klose
+Susan Hillman
+Todd Campbell
+Tomasz Piech
+Walt Segl
+Yao Chen

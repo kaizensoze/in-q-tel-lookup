@@ -1,89 +1,43 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jerome Pereira
-Ron Callison
-Michael Shiu
-Sojan P R
-Michelle Tudor
-Katrina Glerum
-Bill Scott
-Chanh Nim
-Sukhpreet Sembhi
-Sasikumar Gandhi
 Jack Moran
-William Becker
-Sujesh Pulikkal
-David Fleck
-Mark Searles
-Vivek Pathak
-Eric Larsen
-Brian MacDonald
-Sharon Fong
-Romulus Pereira
-Erik Newton
-James Whitsett
-Ted Scott
-Dharti Patel
-Nita Nair
-Devin Aldama
-Parul M
-Dave Olson
-Jay Mojnidar
-Sharae Gunn
-Jithin Jose
-Annamarie Barlaan
-Richard Marquez
-Michelle Tudor
-Marychris Fees
-GAIL DICKS
-Ralph Nunez
-Sharon Fong
-arun arul
-Don Cloney
-Michelle Tudor
-Dan Gherasim
-Roger Merrill
-Ron Callison
-James Rhetta
-Tim Hargrove
-Anthony Newcomer
-Phani Veeranki
-Julie A. Renalds
-Daraine Harris
-James Tress
-William Becker
-Simon Yi
-Michelle Tudor
-Glen Cantrell
-Ray Ranga
-Turbo-X d.o.o.
-Rom Pereira
-joe squillo
-arun arul
-KRISHNA NORU
-shaheen shaikh
-Asiya Shaikh
-Amanda Margozzi
-Jack Moran
-Alex Young
 James Jordan
-michelle tudor
-Luis Araquistain
+James Rhetta
+James Tress
+James Whitsett
+Jay Mojnidar
+Jerome Pereira
+Jithin Jose
+Julie A. Renalds
 Justin Boland
+KRISHNA NORU
+Katrina Glerum
+Luis Araquistain
+Mark Searles
+Marychris Fees
+Michael Shiu
+Michelle Tudor
+Nita Nair
+Parul M
+Phani Veeranki
+Ralph Nunez
+Ray Ranga
+Richard Marquez
+Roger Merrill
+Rom Pereira
+Romulus Pereira
+Ron Callison
+Sasikumar Gandhi
+Sharae Gunn
+Sharon Fong
+Simon Yi
+Sojan P R
+Sujesh Pulikkal
+Sukhpreet Sembhi
+Ted Scott
+Tim Hargrove
+Turbo-X d.o.o.
+Vivek Pathak
+William Becker
+arun arul
+joe squillo
+michelle tudor
+shaheen shaikh

@@ -1,107 +1,68 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Bill Donovan
-Jim MacIntyre
-Nick Lavezzo
-Chris Koehler
-Jeff Lunsford
-Sean W. Kennedy
-Aaron Bird
-David Pillath
-Tim Benhart
-Michelle Chizek
-Lisa Howe
-Greg Hare
-Dru Greenhalgh
-John Hentrich
-Bill Harris
-Maureen McCall
-Bill Donovan
-RAHiM BABAREZA
-R.V. Paul Chan
-Natasha G
+Dave Walsh
 David McCartney MD
-Anthony Carabajal
-Yair Rajwan
-Ana de la Mata Sampedro
-Jared Robbins
-susmita banerjee
-Nancy Vitale
-Kumar Rao
-Claire Barnes
-Angela Davis
-Mark Koopman
-Richard F. Borrelli
-Jacoby Shelton
-Avigael Aizenman
-Katelyn Gianino
-Florian Safner
+David Pillath
+Debbie Pan Waterman
+Denise Rettig
 Dr Mark Woolf
-Michael D Abramoff
+Dru Greenhalgh
+Eli Covell
+Emma Luo
+Eva Philippaki
+Fatimah Mohammad
+Florian Safner
+Frank Snedecor
+Greg Hare
+Hanifah Haamid
+Hannah Webber
 Helene Gussin
 Ithar Beshtawi
-Niloofar Piri
-Tara Farrell
-Seyed-Farzad Mohammadi
-Mark Rosenblatt
-Peter Shum
-Michela Montecchi-Palmer
-Theresa Locklear
-Michael Myers
-Silvia Fanny Lara-Moses
-Melinda Serrato
-Richard Nepomuceno
-Mehrak Marzban
-Leslie France
-Andrew Calderas
-DILLYS AMEGA
-Alexander Pleet
-Frank Snedecor
-Dave Walsh
-Mark Kleinman
-Allen Crane
-Hannah Webber
-N Andrew Browning
-Joseph Baker
-Bob Dulay
-Algis Kasniunas
-Adriana Schoenhaut
-Hanifah Haamid
-Eva Philippaki
-Emma Luo
-Fatimah Mohammad
-Meg Deangelis
 JM Marino
 Jackie Anderson
-Bruno Fidalgo
-Denise Rettig
-Maureen Plaumann
+Jacoby Shelton
+Jared Robbins
+Jeff Lunsford
+Jim MacIntyre
+John Hentrich
+Joseph Baker
+Katelyn Gianino
+Kumar Rao
+Leslie France
+Lisa Howe
 Lucinda Camras
-SHUO BI
-Tracy Perkins
-Boaz Super
-Nathan Ravi
-Eli Covell
-Ryan Schryver
-Charles Wright
+Mark Kleinman
+Mark Koopman
+Mark Rosenblatt
+Maureen McCall
+Maureen Plaumann
+Meg Deangelis
+Mehrak Marzban
+Melinda Serrato
+Michael D Abramoff
+Michael Myers
+Michela Montecchi-Palmer
+Michelle Chizek
 Minhee Jo
-Thomas Crowley
-Debbie Pan Waterman
+N Andrew Browning
+Nancy Vitale
 Nasim Jamali
+Natasha G
+Nathan Ravi
+Nick Lavezzo
+Niloofar Piri
+Peter Shum
+R.V. Paul Chan
+RAHiM BABAREZA
+Richard F. Borrelli
+Richard Nepomuceno
+Ryan Schryver
+SHUO BI
+Sean W. Kennedy
+Seyed-Farzad Mohammadi
+Silvia Fanny Lara-Moses
+Tara Farrell
+Theresa Locklear
+Thomas Crowley
+Tim Benhart
+Tracy Perkins
+Yair Rajwan
+susmita banerjee

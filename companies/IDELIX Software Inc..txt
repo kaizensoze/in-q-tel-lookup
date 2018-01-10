@@ -1,48 +1,25 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
+Andrea Paterson-Till
 Andrew Carlisle
+Andrew Skiers
+Arjun Yogeswaran
+Brad Zaytsoff
+Doug Fraser
+Eric Simmons
 Garth Shoemaker
+Jamie Chong
+Jason Lyons
+Jerry Bauer
+Kate Tremills
+Kylee Sabados
+Marie Whelan
 Michael Doyle
+Michel Navarro
+Philip Mansfield
+Pragya Khare
+Stacy Gorkoff
 Terry McColl
 Tim Lochner
-Brad Zaytsoff
 Vincent Ting
-Stacy Gorkoff
-Doug Fraser
-Andrew Skiers
-Jamie Chong
-Kate Tremills
-Marie Whelan
-Jerry Bauer
-Andrea Paterson-Till
-Eric Simmons
-Philip Mansfield
-Garth Shoemaker
-Doug Fraser
-ameer haq
-Jerry Bauer
-Kylee Sabados
-Jason Lyons
-Vincent Ting
-Arjun Yogeswaran
-Pragya Khare
-gerald irwin
-Michel Navarro
 Vrebosch Mathieu
+ameer haq
+gerald irwin

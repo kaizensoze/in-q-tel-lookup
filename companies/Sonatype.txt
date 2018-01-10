@@ -1,117 +1,42 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Mike Hansen
-Jason Aizenman
 Justin Young
-Bill Smith
-David Rudolph
-Curtis Yanko
-Brian Fox
-Ravi Lachhman
-Mark Miller
-Matthew Howard
-Paul Volkman
-Derek E. Weeks
-Bruce Mayhew
-Dalton Menhall
-Andy Loyd
-Wayne Jackson
-Scott Stockton
-Ilkka Turunen
-Jessica Dodson
-Jason Dillon
-Chris Carlucci
-Manfred Moser
-Kristin Williams
-Nancy Beckman
-Cliff Sotnick
-Ericka Caslin
-Dave Ody
-Shannon King
 Karen Gardner
-Dariush Griffin
-Michael Prescott
-Richard Seddon
-Jeffrey Wayman
-Jordan Duggan
-Hans Morris
-Wally Beaver
-Michael Davey
-Iga Turowska
-Yu-Chen Hsueh
-Nick Coombs
-Chip Digirolamo
-Jason Green
-Joshua Corman
-Michael Worthington
-Kevin Witten
-Jason Swank
-Vivi Botogan
-Dave Hale
-Damian Bradicich
-Dave Miller
-Ann Winblad
-Joel Orlina
-Wai Man Yau
-Peter Lynch
-Michael Donovan
-Jeffry Hesse
-Andrew McCoy
-Will Smith
-Brett Lee
-Stuart McCulloch
-Daniel Sauble
-Joe Fritsch
-Cameron Townshend
-Otis Barnes
-Jason McAllister
-Pamela Sutela
-Anderson Howells
-Paul Bosco
-Jamie Whitehouse
-Dan Pacious
-Michael Filosa
-Bradley Beck
-John Casey
 Katy Hiller
-Matthew Barker
-Timothy Hurt
-Viktoria Ben Gal
-Andrey Marushkevych
-Richard Gilchrist
-Christopher Tolo
-Brian Demers
-Shane Close
-Hall McMillan
-Mark Kilby
-Ryan Sheldrake
-Charles Gold
-April Burghardt
-Damian Bradicich
-Debbie Rosen
-Jason van Zyl
-John Baqar
-Varsha Raju
-Wes Wannemacher
-Gary Little
-Alberto Avritzer
+Kevin Witten
+Kristin Williams
 Mahendra Surani
-Brian Fitzgerald
-David Jones
+Manfred Moser
+Mark Kilby
+Mark Miller
+Matthew Barker
+Matthew Howard
+Michael Davey
+Michael Donovan
+Michael Filosa
+Michael Prescott
+Michael Worthington
+Mike Hansen
+Nancy Beckman
+Nick Coombs
+Otis Barnes
+Pamela Sutela
+Paul Bosco
+Paul Volkman
+Peter Lynch
+Ravi Lachhman
+Richard Gilchrist
+Richard Seddon
+Ryan Sheldrake
+Scott Stockton
+Shane Close
+Shannon King
+Stuart McCulloch
+Timothy Hurt
+Varsha Raju
+Viktoria Ben Gal
+Vivi Botogan
+Wai Man Yau
+Wally Beaver
+Wayne Jackson
+Wes Wannemacher
+Will Smith
+Yu-Chen Hsueh

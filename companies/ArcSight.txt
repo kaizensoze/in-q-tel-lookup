@@ -1,112 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Haiyan Song
-Haiyan Song
-Mike Armistead
-Rick Caccia
-Christian Beedgen
-Nellie W
-Suresh Venkataraman
-Hugh Njemanze
-Brian Wolff
-Greg Martin
-Rhydham Joshi
-Dustin Tanner
-Steven Taylor
-Balahasan V
-satish kumar boddikuri
-Tram Phi
-Tracy Barella
-Laura Menicucci
-Jay Heidecker
-David Ryan Hawley
-Gail Boddy
-Richard Johnson
-Joseph Benjamin
-Howard Miller
-Doron Keller
-MATHEW VARGHESE
-Javier Inclan
-Siddarth Talupula
-Louis Ong
 Alexei Suvorov
-Tammy Torbert
-Aravind Mudunuri
-Peter Evans
-Farzad Emami
-Rahul Ramesh
-Jason French
-Stewart Grierson
 Amir Einav
-Marylou Orayani
-Mark De Rijk
-Richard Bowen
-Steven Cooke
-Sean Moore - CISSP
-Robert McGinley
-Michelle Boucher
-sureshkumar srinivasan
-Emily Nguyen
-Karlo Luiten CRISC CISSP
-Stacy Hong
-Angelo Cappelli
-Josh DeFrain
-Bryan White
-Lakshmi Kunisetty
-amaleswar Botla
-Ronald Stamper
-Armen Boursalian
-Jan Clairmont
-Nick Wilson
-Derk Visser
-Ruben Bailey
-Carrie Payne
-Vivek Venugopal
-Heidi Gerken
-Lisa Kost
-Christopher Smith
-Naveen Kumar Kyamaji
-Lee Ivy
-Chuan Liu
-Bhuphinder Mangal
-Mark Boullie
-Tom West
-Joe Mazzon
-Grant Sales
-Brook Watson
-Ben Chambers
-Rob Block
-Joshua Hampton
-Mohammed Yahiya Siddiqui
 Anand Didwania
-Ricky Fisher
-Mario Rosado
-Rick Vosteen
-Tim Wenzlau
-Kavita Varadarajan
-Mary Cordova
 Anastasios Kolliniatis
-Mark Platt
-David Harris
-Craig Brown
+Angelo Cappelli
+Aravind Mudunuri
+Armen Boursalian
+Balahasan V
+Ben Chambers
+Bhuphinder Mangal
 Brent Miller
-Sandeep N
-Kamalraj Ramraj
+Brian Wolff
+Brook Watson
+Bryan White
+Carrie Payne
+Christian Beedgen
+Christopher Smith
+Chuan Liu
+Craig Brown
+David Harris
+David Ryan Hawley
+Derk Visser
 Dhiraj Sharan
+Doron Keller
+Dustin Tanner
+Emily Nguyen
+Farzad Emami
+Gail Boddy
+Grant Sales
+Greg Martin
+Haiyan Song
+Heidi Gerken
+Howard Miller
+Hugh Njemanze
+Jan Clairmont
+Jason French
+Javier Inclan
+Jay Heidecker
+Joe Mazzon
+Joseph Benjamin
+Josh DeFrain
+Joshua Hampton
+Kamalraj Ramraj
+Karlo Luiten CRISC CISSP
+Kavita Varadarajan
+Lakshmi Kunisetty
+Laura Menicucci
+Lee Ivy
+Lisa Kost
+Louis Ong
+MATHEW VARGHESE
+Mario Rosado
+Mark Boullie
+Mark De Rijk
+Mark Platt
+Mary Cordova
+Marylou Orayani
+Michelle Boucher
+Mike Armistead
+Mohammed Yahiya Siddiqui
+Naveen Kumar Kyamaji
+Nellie W
+Nick Wilson
+Peter Evans
+Rahul Ramesh
+Rhydham Joshi
+Richard Bowen
+Richard Johnson
+Rick Caccia
+Rick Vosteen
+Ricky Fisher
+Rob Block
+Robert McGinley
+Ronald Stamper
+Ruben Bailey
+Sandeep N
+Sean Moore - CISSP
+Siddarth Talupula
+Stacy Hong
+Steven Cooke
+Steven Taylor
+Stewart Grierson
+Suresh Venkataraman
+Tammy Torbert
+Tim Wenzlau
+Tom West
+Tracy Barella
+Tram Phi
+Vivek Venugopal
+amaleswar Botla
+satish kumar boddikuri
+sureshkumar srinivasan

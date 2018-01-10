@@ -1,113 +1,87 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Vasco Liberal
-Denise Mirabile
+Albert Perez-Ladaga
+Alec Johnson
+Amber Hiranaka
+Amber Murray
+Amy Uren
+Andrew Lord
+Angela Stassinopoulos
+Billy Law
+Bob Terbrueggen
+Brady Miller
+Bret Light
+Brian Baumann
+Brookelyn Haddock
+Caitlin Worrell
 Cecille Browne
-Michael Vengrow
-Greg Ford
-Shawn Lee
-Pankaj Singhal
-Rajeswari Ravichandran
-Fernando Gaspar
-Steven Wilkinson
-Nick Ecos
-Jeffrey Umotoy
-Lutfunnessa Shireen
-Colin Powers
-Paul Diaz
-Gerald Dodson
-Florence Lee
-Laetitia Richter
 Christine Kim
 Clifford McCarthy
-Joel Desharnais
-Marc Wycoco
-Robyn Raban
-Heath Balcer
-Matt Van Houten
-Jeff Whitmore
-Brian Baumann
-Andrew Lord
-Amber Murray
-Keith Bryant
-David Kulick
-Louis Chen
-Daniela Martino Roth
-Scott Whitney
+Colin Powers
 Dan Lu
-Trisha Dowling
-Ian Kerman
-Amber Hiranaka
-Judy Muller-Cohn
+Dan Wood
+Daniela Martino Roth
+David Kulick
+David Rubenson
+Denise Mirabile
 Eran Levy
-Rolf Muller
+Fernando Gaspar
+Florence Lee
+Francois Ferre
+Francois2 Marc
+Gerald Dodson
+Greg Ford
+Heath Balcer
+Ian Kerman
 Jamie Romero
+Jeff Whitmore
+Jeffrey Umotoy
 Jenna Gould
-Tiffany Bazazzadegan
+Joe Markee
+Joel Desharnais
+John Henderson
+Joshua Bliesath
+Judy Muller-Cohn
+Kai Brewer
+Keith Bryant
+Keith Kolod
+Kelly Paluch
+Knut Madden
+Laetitia Richter
+Louis Chen
+Lutfunnessa Shireen
+Marc Wycoco
+Mark Sarno
 Martin Latterich
 Marylinn Munson
-Lutfunnessa Shireen
-Vince Funari
-Neesha Patel
-Rajeswari Ravichandran
-Brookelyn Haddock
-Senait Ghirmai
-Gerald Dodson
-Albert Perez-Ladaga
-Knut Madden
-Brady Miller
-Phillip Nhan
-Kelly Paluch
-Toni Romo
-Andrew Lord
-Pascal Bamford
-Alec Johnson
-Angela Stassinopoulos
-Michael Vengrow
-Amy Uren
-William Whitney
-Joshua Bliesath
 Massamba Sylla
-Lutfunnessa Shireen
-Gerald Dodson
-Sara Wirth
-John Henderson
-Bret Light
-Kai Brewer
+Matt Van Houten
+Michael Vengrow
 Mohamed Nabie Bayoh
+Neesha Patel
+Nick Ecos
+Pankaj Singhal
+Pascal Bamford
+Paul Diaz
 Philip Ng
-Billy Law
-Francois Ferre
-Stephanie de los Rios
-Sapphire Realty
-Caitlin Worrell
-Victoria Arendt
-Mark Sarno
-Francois2 Marc
-Veronica Elder
-David Rubenson
-Joe Markee
-Todd Whiteford
-Bob Terbrueggen
-Keith Kolod
-Dan Wood
+Phillip Nhan
+Rajeswari Ravichandran
+Robyn Raban
+Rolf Muller
 Rosana Baird
-Yiwen Jan
+Sapphire Realty
+Sara Wirth
+Scott Whitney
+Senait Ghirmai
 Sharron Ohgi
+Shawn Lee
+Stephanie de los Rios
+Steven Wilkinson
+Tiffany Bazazzadegan
+Todd Whiteford
+Toni Romo
+Trisha Dowling
+Vasco Liberal
+Veronica Elder
+Victoria Arendt
+Vince Funari
+William Whitney
+Yiwen Jan

@@ -1,116 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Doug Chapman
-David Deacon
-John Boesen
-Nick Wilson
-Scott Stratford
-Philip Williams
-Peter Stephens
-Peter Mcafee
-Paul Bouchier-Hayes
-Cyril Desouza
-Philip Carter
-Christy Turner
-Philip Taylor
-Nikita Petrovs
-Nathan Coates
-Peter Jiang
-Maksym Galemin
-Mensure Chang
-Adam Richards
-Brad Dolphin
-Sajj Farahani
-Anna Squires
-Alessandro Bertoneri
-Paul Ludvik
-Mohammed Billoo
-Scott Henderson
-Tzachi Shachar
-Jonathan Boles
-Scott W Minehane
-Rod Wilks
-Jeremy Davies
-Larry Andreotti Andreotti
-Tanya Murphy
-Eileen Wang
-John Vodopic
-Peter Gravelle
-Magnus Ernstsson
-Jordan Christodoulou
-Doug Chapman
-James Smith
-Christopher Mencel
-Tim Dormer
 Adam Dove
-Arvin Panwar
-Edwin Lee
-Paul Secker
-Theo Dorotheos
-Attila Kiss
-Joseph Overacker
-Lingaraja Marimuthu
-Poornima Kemparaju
-Ross Newman
-James Husband
-Bo Fan
-Jules Baumann
-David Carter
-Jonas Falk
-John Youkhana
-Michael Ung
-Richard Llewhellyn
-Jason Chou
-David Boyd
-Peter Quarmby
-Tage Andersson
-Clive Beasley
-Shea Goyette
-Tong Wang
-Diego Sancho
-Rurik Peterson
-Tong Wang
-David Balloch
-Arlene Erro Librada
-Alex Green
-Matthew Brice
-Raphael Speyer
-Narendra Patel
-Grant Wensor
-Morio Taneda
-martin Codognotto
-Glenn Shirley
-amir raiz
-Peter Stephens
-Bud DeCesare
-Molly Pigott
-Joanna Frost Maidment
-Simon Delaney
-Roger Webber
-Hanika Patel
-Mary Shalala
-Eileen Wang
+Adam Richards
 Adrian Ware
+Alessandro Bertoneri
+Alex Green
+Anna Squires
+Arlene Erro Librada
+Arvin Panwar
+Attila Kiss
+Bo Fan
+Brad Dolphin
+Bud DeCesare
+Christopher Mencel
+Christy Turner
+Clive Beasley
+Cyril Desouza
+David Balloch
+David Boyd
+David Carter
+David Deacon
+Diego Sancho
+Doug Chapman
+Edwin Lee
+Eileen Wang
 George Nissen
-Ulrike Houston
 Gerard Millar
+Glenn Shirley
+Grant Wensor
+Hanika Patel
+James Husband
+James Smith
+Jason Chou
+Jeremy Davies
+Joanna Frost Maidment
 John Boesen
-Tracy Hedges
+John Vodopic
+John Youkhana
+Jonas Falk
+Jonathan Boles
+Jordan Christodoulou
+Joseph Overacker
+Jules Baumann
+Larry Andreotti Andreotti
+Lingaraja Marimuthu
+Magnus Ernstsson
+Maksym Galemin
+Mary Shalala
+Matthew Brice
+Mensure Chang
+Michael Ung
+Mohammed Billoo
+Molly Pigott
+Morio Taneda
+Narendra Patel
+Nathan Coates
+Nick Wilson
+Nikita Petrovs
 PETER STEPHENS
+Paul Bouchier-Hayes
+Paul Ludvik
+Paul Secker
+Peter Gravelle
+Peter Jiang
+Peter Mcafee
+Peter Quarmby
+Peter Stephens
+Philip Carter
+Philip Taylor
+Philip Williams
+Poornima Kemparaju
+Raphael Speyer
+Richard Llewhellyn
+Rod Wilks
+Roger Webber
+Ross Newman
+Rurik Peterson
+Sajj Farahani
+Scott Henderson
+Scott Stratford
+Scott W Minehane
+Shea Goyette
+Simon Delaney
+Tage Andersson
+Tanya Murphy
+Theo Dorotheos
+Tim Dormer
+Tong Wang
+Tracy Hedges
+Tzachi Shachar
+Ulrike Houston
+amir raiz
+martin Codognotto

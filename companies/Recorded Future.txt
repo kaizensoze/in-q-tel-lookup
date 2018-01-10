@@ -1,114 +1,93 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jason Hines
-Glenn Wong
-Nagraj Seshadri
-Peter Luscko
-Christopher Ahlberg
-Patrick Raymond
-Levi Gundert
-Will Kidwell
-Matt Kodama
-Scott Almeida
-Conor Mooney
-Chris Holden
-Tyler Bradshaw
-Bill Ladd
 Aaron Caballero
-Nicholas Espinoza
-Greg Barrette
-Jess E. Willard
-Julie Starnes
-Caroline Pugliesi
-Jacklyn Schay
-Erin Byrne
-Justin Cleveland
-Jeffrey Hamill
-Scott Donnelly
-Faith Oliver
-Garth Griffin
-Matt Bright
-Hayley Liebmann
-Chris Pace
-Dan Buckley
-Amanda McKeon
-Sam McGrail
-Zachary Flom
+Aaron Ladd
+Adam Craigie
+Alan Said
 Alexi Phillipson
-Jon Stephenson
+Allison Myers
+Amanda McKeon
+Andy Palmer
+Aubrey Walsh
+Bill Ladd
 Bridget McCarthy
-Daniel Langkilde
-David Sauer
-Sarah Smith
-Hannah Marshall
-Jesse Fish
-Paul Hadgett
-Gili Gonczarowski
-Sandy Moloney
-Kaleigh Laventure
-Magnus Lundgren
-Eric Dikeman
+CW Walker
+Caroline Pugliesi
+Chris Holden
+Chris Pace
+Chris Wachel
+Christopher Ahlberg
+Christopher Gusty
+Christopher Lynch
+Christopher Saltys
+Conor Mooney
+Dan Buckley
 Dan Truitt
-Fredrik Eriksson
-Derek Flodin
-Michael Mohler
-Seth Whitten
-Elias Ladopoulos
-Vishal Doshi
-Morgan Palmer
-Erik Wistrand
-Monica Todros
+Daniel Langkilde
 David Moon
+David Peduto
+David Sauer
+Derek Flodin
 Drew Berghane
+Elias Ladopoulos
+Eric Dikeman
+Erik Wistrand
+Erin Byrne
+Faith Oliver
+Filip Reesalu
+Fredrik Eriksson
+Garth Griffin
+Gili Gonczarowski
+Glenn Wong
+Greg Barrette
+Hannah Marshall
+Hayley Liebmann
+Jacklyn Schay
+Jana Lind
+Jason Hines
+Jeffrey Hamill
+Jess E. Willard
+Jesse Fish
 Jim Bandanza
 Jim Clemens
-Alan Said
-Michel Edkrantz
-Allison Myers
-Rado Petsov
-Petter Eriksson
-Chris Wachel
-David Peduto
-Taylor Berghane
-Christopher Ahlberg
-Aubrey Walsh
-Michael O. DiBella
-Filip Reesalu
-Christopher Saltys
-Adam Craigie
-Jana Lind
-Wendy DeLuca
-Martin Olsson
-Andy Palmer
-Tanya Widen
-Aaron Ladd
-Marie Brattberg
-Peter Erhard
-CW Walker
-Matthew Swift
-Christopher Lynch
-Nils Munk Wirell
-Paul Hadgett
-Rich Miner
-Patrick Murphy
-Nelson Imade
-Tara Dooley
+Jon Stephenson
+Julie Starnes
+Justin Cleveland
+Kaleigh Laventure
 Leah Young
-Christopher Gusty
+Levi Gundert
+Magnus Lundgren
+Marie Brattberg
+Martin Olsson
+Matt Bright
+Matt Kodama
+Matthew Swift
+Michael Mohler
+Michael O. DiBella
+Michel Edkrantz
+Monica Todros
+Morgan Palmer
+Nagraj Seshadri
+Nelson Imade
+Nicholas Espinoza
+Nils Munk Wirell
+Patrick Murphy
+Patrick Raymond
+Paul Hadgett
+Peter Erhard
+Peter Luscko
+Petter Eriksson
+Rado Petsov
+Rich Miner
+Sam McGrail
+Sandy Moloney
+Sarah Smith
+Scott Almeida
+Scott Donnelly
+Seth Whitten
+Tanya Widen
+Tara Dooley
+Taylor Berghane
+Tyler Bradshaw
+Vishal Doshi
+Wendy DeLuca
+Will Kidwell
+Zachary Flom

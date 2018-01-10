@@ -1,112 +1,88 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Simon Jones
-Michael Ang
-Louis Lupo
-Joe Fisher
-Maurice Gunderson
-Wilson Ng
-Ned Hill
-LC Chiu
-Jason Hsu Feng Cheng
-Joseph Carcone
-Maksudul M. Alam
-Arunkumar Tiruvannamalai
-Zeiad Muntasser
-Joe McMenamin
-Maksudul M. Alam
-Joe Fisher
-Andrew Stewart
-Thieu Duc Tho
-Du Li
-Yazid Saidi
-John Ruiz
+- YULIANA
 A. J. Dalola
-Cambis Joseph Farahmandi
-Demetrio Batac
-Simon Lee - Overy
-Rachid Yazami
-Uma Sampathkumaran
-Clayton Sneider
-Jeff Arias
-Gloria Bau
-Hongjin Tan
-Prasad R
-Sohrab Hossain
-Rebecca Davis
-Jacques Benkoski
 Adrian Hightower
-James Rosenberg
-Isabelle Darolles
-Trina Harding
-Mahesh Patel
-james heidmous
-Maksudul Alam
-yanpeng Fu
-Diego Gonzalez
-XIAOMIN FEADOR
-Anne Nowlin
-Fuming CHEN
-Charlesetta Fountain CAC CSP
-Daniel Saleh
-Joannes Hsuean
-Maksudul Alam
 Alejandro Parga
-Eyon Ali
-Dave Wood
-Rico Bradley
-Ivan Wong
-Dave Wood
+Andrew Stewart
+Ang Chwee Seng
+Anna Hyzopski
+Anne Nowlin
 Annette Martin
-Maksudul Alam
+Ara Hovsepyan
+Arunkumar Tiruvannamalai
 Avinash Raju Vadapalli
 Brian Moon
+Cambis Joseph Farahmandi
 Cathy DeLaPena
-Prashant Anand
-Matt Peak
 Cedric Weiss
-S R Sami
-KiHong Park
-Zhidong Chua
-Kevin Gallagher
-J. Seth Williams
-Nithya Baburajendran
+Charles Kojo Bucknor
+Charlesetta Fountain CAC CSP
 Chong Sheng
-Ponnusamy Balakrishnan
-Ang Chwee Seng
-Shankar Ram Thyagarajan
-Rohit Sharma
-Ramanathan Chandrasekaran
-- YULIANA
-nethaji nagarajan
-Roopsekhar Karanam a p
-Palla Murali
-Mike Jesse
-Suchand Sangeeth.C.S
+Clayton Sneider
+Daniel Saleh
+Daniella Rough
+Dave Wood
+Demetrio Batac
+Diego Gonzalez
 Divya Kurthakoti
-Trevor McManamon
+Du Li
 Elijah Wei An Ang
 Eugene Fitzgerald
+Eyon Ali
+Fuming CHEN
+Gloria Bau
+Hongjin Tan
+Isabelle Darolles
+Ivan Wong
+J. Seth Williams
+Jacques Benkoski
+James Rosenberg
+Jason Hsu Feng Cheng
+Jeff Arias
+Joannes Hsuean
+Joe Fisher
+Joe McMenamin
+John Ruiz
+Joseph Carcone
+Kevin Gallagher
+KiHong Park
 Kittipong Methaprayoon
-Ara Hovsepyan
-Charles Kojo Bucknor
+LC Chiu
+Louis Lupo
+Mahesh Patel
+Maksudul Alam
+Maksudul M. Alam
+Matt Peak
+Maurice Gunderson
+Michael Ang
+Mike Jesse
+Ned Hill
+Nithya Baburajendran
+Palla Murali
+Ponnusamy Balakrishnan
+Prasad R
+Prashant Anand
 Priysham NUNDAH
-Anna Hyzopski
-Daniella Rough
+Rachid Yazami
+Ramanathan Chandrasekaran
+Rebecca Davis
+Rico Bradley
+Rohit Sharma
+Roopsekhar Karanam a p
+S R Sami
+Shankar Ram Thyagarajan
+Simon Jones
+Simon Lee - Overy
+Sohrab Hossain
+Suchand Sangeeth.C.S
+Thieu Duc Tho
+Trevor McManamon
+Trina Harding
+Uma Sampathkumaran
+Wilson Ng
+XIAOMIN FEADOR
+Yazid Saidi
+Zeiad Muntasser
+Zhidong Chua
+james heidmous
+nethaji nagarajan
+yanpeng Fu

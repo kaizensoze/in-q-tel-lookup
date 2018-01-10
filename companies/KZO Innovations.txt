@@ -1,111 +1,85 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Wes Cruver
-Brett Rubin
-Phil Cruver
-Ben Williams
-Andrew Hauser
-Cole Vulgamore
-Hooks Johnston
-Jeff Fissel
-Nathan McFarland
-John McKinney
-Eric Fletcher
-Brad Layman
-Randy Rolin
-Kimberly Conquest
-John Backus
-Dave Chesebrough
-Zachary Talley
-Oscar Navarro
-Ryan Golasa
-Micah McFarland
-Jon Salon
-Anna Casey
-Jim Morentz
-Andrea Gutierrez-Roldan
-Kacie Kelly
-Maureen Kelley
-Peter Monahan
-Jordan Rzepka
-Steve Mullins
-Michael Coupet
-Chris W Beach
-Erica Scott
-Rich Amons
-Joseph Ruiz
-Saima Iqbal
-Caleb Mcfarland
-Stu Shea
-Saima Iqbal
-Grant Griebel
-sharon parker
-Nathaniel Palmer
-David LaGarde
-Jeffrey Stone
-Richard Belanger
-Alex Perini
-Andries Schutte
-Brian Smith
-Jeff Held
-stephenson Bamidele
-Nate McFarland
-Nathan McFarland
-Robert Helvey
-Martin Christopher
-Nate McFarland
-Will Satterfield
 Alan Borough
-Nathan McFarland
-Robert Foster
-Evan King
-Gwen Weiss
-Sandra Boggs
-Jaime Ilundain
-Greg Bartlett
-Nathan McFarland
-Larry Kaplan
-Doug Ring
-Courtney Cromley
-Paul Demerly
-Charles Jones
-Kathleen Dahill
-William D Rearden
-Clayton Kennamer
-Ann-Marie Neale
-Hugo Rodrigues
-Debbie Johnson
-Brett Rubin
-George Regnery
-Micah McFarland
-Terry Hunt
-Asim Mahar
-Harris Ayuk-Takor
-Amy Malloy
+Alex Perini
 Alexandria Dames
+Amy Malloy
+Andrea Gutierrez-Roldan
+Andrew Hauser
+Andries Schutte
+Andrzej Pengiel
+Ann-Marie Neale
+Anna Casey
+Asim Mahar
+Ben Williams
+Brad Layman
+Brett Rubin
+Brian Smith
+Caleb Mcfarland
+Charles Jones
+Chris W Beach
+Clayton Kennamer
+Cole Vulgamore
+Courtney Cromley
+Cristin Jordan
 Darcy Paulsen
+Dave Chesebrough
+David LaGarde
+Debbie Johnson
+Doug Ring
+Eric Fletcher
+Erica Scott
+Evan King
+Faraz Mirza
+George Regnery
+Grant Griebel
+Greg Bartlett
+Gwen Weiss
+Harris Ayuk-Takor
+Hooks Johnston
+Hugo Rodrigues
+Jaime Ilundain
+Jeff Fissel
+Jeff Held
+Jeffrey Stone
+Jim Morentz
+John Backus
+John McKinney
+Jon Salon
+Jordan Rzepka
+Joseph Ruiz
+Kacie Kelly
+Kathleen Dahill
+Kimberly Conquest
+Larry Kaplan
 Luke Persian
 Mannon Butt
-Snober Abbasi
-Andrzej Pengiel
-Cristin Jordan
-Faraz Mirza
-Stefan Lettig
+Martin Christopher
+Maureen Kelley
+Micah McFarland
+Michael Coupet
+Nate McFarland
+Nathan McFarland
+Nathaniel Palmer
+Oscar Navarro
+Paul Demerly
+Peter Monahan
+Phil Cruver
+Randy Rolin
+Rich Amons
+Richard Belanger
+Robert Foster
+Robert Helvey
+Ryan Golasa
+Saima Iqbal
+Sandra Boggs
 Sandy Fenton
+Snober Abbasi
+Stefan Lettig
+Steve Mullins
+Stu Shea
+Terry Hunt
+Wes Cruver
+Will Satterfield
+William D Rearden
+Zachary Talley
+sharon parker
+stephenson Bamidele

@@ -1,114 +1,91 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jeremy Blair
-Jack Griffis
-Tim Nash
-Stephanie Smith
-Doug Fee
-Kurt Jacobus
-Helen Benedict
-Kathryn Smith
-Josh Ray
-Mateo Garcia
-David Safranski
-Ken Gall
-Don Griffin
-Chelsea Owen
-Clay Williams
-Christopher SD Lee
-Stephen Laffoon
-Chris Fair
-Stephanie Smith
-Katie Pitz
-April Nicole Thomas
-Hunter Strauss
-Dan Lange
-Shane Gizzi
-Jessica Hicks
-Roy Rusly
-Christopher Yakacki
-Boyd Wolf
-Nina Ybarra
-Larry Brockhaus
-Sirisha Manam
-Edward Biehl
-Taylor Robinson
-Harrison Jones
-Nathan Evans
-Christopher Roberts
-Jeff Tyber
-Reed Bartz
-Jhordan Gil
-Heidi Khalil
-Ariel Christensen
-Neil Bourgeois
-Jason Bourgeois
-Kelly Howard
-Sean Dixon
-Nicole Corey
-Ben Dease
-Geoffrey Higgs
-Roxanne Likos
-Katherine Parker
-Erin Cutts
-Caleb Voelkel
-Kyle Schadt
-M. Taylor Rose
-Victoria Geisler
-Kara Boucher
-Shelby White
-Rebecca Gabor
-Bill Zawrotny
-Emily Gregory
-Cecilia Lindqvist
-Faith Hindman
-Jennifer Gilyard
-Danny Guigou
-Gregory Ellson
-Winnie Cheng
-Jeremy Lim
-Katie Sassaman
-Tom Essex
-Wendy Arevalo-Kaylor
-Angelica Vega
-Charlina Kenney
-Marcellus Jackson
-Virginia Conger
-Jaclyn Lock
-Matthew Martz
-Nicole Jordan Lay
-Stephen Clawson
-Natalie A Lindsey
-LaMesha Wren
-Patricia Spence
-Stephen Block
-Dennis Stripe
-Jim Lorenzo
-Sherri Stola
-Sarthak Vaish
-Mike Williams
-Matthew Chambers
-Nicole Corey
 Allen Chang
-Nikki Votaw
-Mateo Garcia
-Nina Ybarra
+Angelica Vega
+April Nicole Thomas
+Ariel Christensen
+Ben Dease
+Bill Zawrotny
+Boyd Wolf
+Caleb Voelkel
+Cecilia Lindqvist
+Charlina Kenney
+Chelsea Owen
+Chris Fair
+Christopher Roberts
+Christopher SD Lee
+Christopher Yakacki
+Clay Williams
+Dan Lange
+Danny Guigou
+David Safranski
+Dennis Stripe
+Don Griffin
+Doug Fee
+Edward Biehl
+Emily Gregory
+Erin Cutts
+Faith Hindman
+Geoffrey Higgs
+Gregory Ellson
+Harrison Jones
+Heidi Khalil
+Helen Benedict
+Hunter Strauss
+Jack Griffis
+Jaclyn Lock
+Jason Bourgeois
+Jeff Tyber
+Jennifer Gilyard
+Jeremy Blair
+Jeremy Lim
+Jessica Hicks
+Jhordan Gil
+Jim Lorenzo
 Jimmy Blanchard
+Josh Ray
+Kara Boucher
+Katherine Parker
+Kathryn Smith
+Katie Pitz
+Katie Sassaman
+Kelly Howard
+Ken Gall
+Kurt Jacobus
+Kyle Schadt
+LaMesha Wren
+Larry Brockhaus
+M. Taylor Rose
+Marcellus Jackson
 Mariya Buharin
+Mateo Garcia
+Matthew Chambers
+Matthew Martz
+Mike Williams
+Natalie A Lindsey
+Nathan Evans
+Neil Bourgeois
+Nicole Corey
+Nicole Jordan Lay
+Nikki Votaw
+Nina Ybarra
+Patricia Spence
+Rebecca Gabor
+Reed Bartz
+Roxanne Likos
+Roy Rusly
+Sarthak Vaish
+Sean Dixon
+Shane Gizzi
+Shelby White
+Sherri Stola
+Sirisha Manam
+Stephanie Smith
+Stephen Block
+Stephen Clawson
+Stephen Laffoon
+Taylor Robinson
+Tim Nash
+Tom Essex
+Victoria Geisler
+Virginia Conger
+Wendy Arevalo-Kaylor
+Winnie Cheng

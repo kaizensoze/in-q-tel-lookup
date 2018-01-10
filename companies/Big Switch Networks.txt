@@ -1,115 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Greg Orr
-Nichole Delp
-Gregg Holzrichter
-Rajeev Gupta
-Dean Sheffield
-Douglas Murray
-Prashant Gandhi
-Sunit Chauhan
-Sandip Shah
-Guido Appenzeller
-Bala Ramachandran
-Su Murthy
-Syed Ghayur
-Steve Noble
-Andrew Shaw
-Shudong Zhou
-Halit Ustundag
-Shaun Page
-Rob Sherwood
-Matthew Russo
-Gavin McChesney
-Barbara Fiske-Nyland
-Rajneesh Bajpai
-Srinivasan Ramasubramanian
-Sridhar Selvarangam
-Venkat Tamilraj
-Howie Xu
-Mansour Karam
-Judy Ash
-Arkadiy Shapiro
-Jeffrey Townsend
-Wendell Laidley
-Salman Zahid
-Dileep Varma Bairraju
-Kanzhe Jiang
-Cedric Hobbs
-Paul Cummins
-Thoa Vu
-Cliff DeGuzman
-Roland Gonzalez
-Xin Wu
-Carl Roth
-Tomasz Klimczyk
-Tara Reeve
-Angeline Serrano
-Luke Turner
-Joe Palazola
-Ken Herzog
-Alok Ranjan
-Jason Parraga
-Mostafa Mansour
-Paul Zablotski
-Aruna Sai Prasad Mallina
-Mike Hoffman
-Ronald Li
-Erik Freeland
-Harshmeet singh
-Sudeep Modi
-Jamie McKenna
-Prashanth Padubidry
-Rich Lane
-Shrinivasa Kini
-Ryan Izard
-Patrick Kane
-Animesh Patcha
-Christopher Berger
-Justin Jancaric
 Aditya Vaja
+Alok Ranjan
 Alok Shankar
-Ganapathi Bhat
-George Woodford
-Vishnu Emmadi
+Andrew Shaw
+Angeline Serrano
+Animesh Patcha
+Arkadiy Shapiro
+Aruna Sai Prasad Mallina
+Bala Ramachandran
+Barbara Fiske-Nyland
+Carl Roth
+Cedric Hobbs
+Christopher Berger
+Cliff DeGuzman
 David Erickson
-Gregor Maier
-Mei Yang
-Ranga Rao
-Matthew Cain
-Praful Bhaidasna
-Ning Song
-Larry Dombrowski
-Mari Mineta Clapp
-Robert Adams
-Sakshi Kalra
-Theodore Elhourani
-michael stolarchuk
-Jeff Doyle
-Jacqueline Yu
-Mario Vecchio
-Vui Le
-Samuel Sandigo
-William Tan
+Dean Sheffield
+Dileep Varma Bairraju
 Don Jayakody
-Patrick Dailey
-Mingtao Yang
-Gary J. Morgenthaler
+Douglas Murray
 Duc Pham
+Erik Freeland
+Ganapathi Bhat
+Gary J. Morgenthaler
+Gavin McChesney
+George Woodford
+Greg Orr
+Gregg Holzrichter
+Gregor Maier
+Guido Appenzeller
+Halit Ustundag
+Harshmeet singh
+Howie Xu
+Jacqueline Yu
+Jamie McKenna
+Jason Parraga
+Jeff Doyle
+Jeffrey Townsend
+Joe Palazola
+Judy Ash
+Justin Jancaric
+Kanzhe Jiang
+Ken Herzog
+Larry Dombrowski
+Luke Turner
+Mansour Karam
+Mari Mineta Clapp
+Mario Vecchio
+Matthew Cain
+Matthew Russo
+Mei Yang
+Mike Hoffman
+Mingtao Yang
+Mostafa Mansour
+Nichole Delp
+Ning Song
+Patrick Dailey
+Patrick Kane
+Paul Cummins
+Paul Zablotski
+Praful Bhaidasna
+Prashant Gandhi
+Prashanth Padubidry
+Rajeev Gupta
+Rajneesh Bajpai
+Ranga Rao
+Rich Lane
+Rob Sherwood
+Robert Adams
+Roland Gonzalez
+Ronald Li
+Ryan Izard
+Sakshi Kalra
+Salman Zahid
+Samuel Sandigo
+Sandip Shah
+Shaun Page
+Shrinivasa Kini
+Shudong Zhou
+Sridhar Selvarangam
+Srinivasan Ramasubramanian
+Steve Noble
+Su Murthy
+Sudeep Modi
+Sunit Chauhan
+Syed Ghayur
+Tara Reeve
+Theodore Elhourani
+Thoa Vu
+Tomasz Klimczyk
+Venkat Tamilraj
+Vishnu Emmadi
+Vui Le
+Wendell Laidley
+William Tan
+Xin Wu
+michael stolarchuk

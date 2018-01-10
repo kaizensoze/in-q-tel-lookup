@@ -1,115 +1,88 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Javier Soltero
-JJ Zhuang
-Kevin Henrikson
-Nick Escallon
-Andreas Bezamat-Homer
-Elisabeth Miles
-Jennifer DiPietro
-Ogden Kent
-Sarang Vyas
 Abhinav Mishra
-Mike Deeks
-Swapnil Jadhav
-Kee Heywood
-Vipul Solanki
-Keith Lazuka
-Prakash Thombre
+Ainslie Daws
+Alan Magnuson
 Alan Williams
-Tamara Steffens
-Jongyoon Lee
-Peter Farago
-Prakash Thombre
-Brett Jasper
-Patrick Brennan
-Kenny Bailey
-Eddie Kim
-Mark Sully
+Aldin Ong
+Alex LOUIS--MORLEVAT
+Amit Raut
+Andreas Bezamat-Homer
+Andrew Torre
+Anthony Belanger
+Avneesh Kohli
+Benjamin Arome Ejiga
 Benjamin Ross
-Tracey Gould
+Brady Pasemann
 Brett Jasper
 Bryan Sawler
-Joe Malpas
-Damien Peverill
-Ke Wang
-Peter Leith-Wybrow
-Mark Sully
-Lillian Oh
-Mario Vidal
-Eileen Mac Donagh
-Francisco Brito
-Natasha Hathaway
-Mike Freeman
-Saleem Clarke
-Rohan Kanekar
-Maxine Reschke
-Muhammadali Abdullaev
-Kevin Lee
-Kah Wai Hew
-Avneesh Kohli
-Georgina Kovacs
-James Colgan
-Tracey Gould
-Swapnil Jadhav
-Nicholas Zubic
-Vidyaranya L
-David Gorelik
-Brady Pasemann
-Doug Kent
-Aldin Ong
-Sarang Vyas
-Paxton Schwarz
-Jonathan Lau - Looking for new opportunity
-Alex LOUIS--MORLEVAT
-Jasmine Rellis
-Joseph Malpas
 Candra Adams
-Corey Cahill
-Reece Perry
-Lynne Stevens
-andrew leece
-Harkare Kartik
-Tracey Gould
-Ainslie Daws
-Andrew Torre
-Malena Keys
-Erin Egan
-Terry Goodes
-Natasha Hathaway
 Christopher Chan
-Shrisha S Bhat
-chris fang
-Benjamin Arome Ejiga
-Lisa Godwin
+Corey Cahill
 Craig Fowler
-Kathryn Howes
-Nitin Kadam
-Jennifer Hudson-Taylor
-Amit Raut
-Anthony Belanger
-Kuldeep Ghildiyal
-Alan Magnuson
-tracy gould
+Damien Peverill
+David Gorelik
+Doug Kent
+Eddie Kim
+Eileen Mac Donagh
 Ekta Binwani
+Elisabeth Miles
+Erin Egan
+Francisco Brito
+Georgina Kovacs
+Harkare Kartik
+JJ Zhuang
 Jacinta Lobato
-Shalee Fuller
+James Colgan
+Jasmine Rellis
+Javier Soltero
+Jennifer DiPietro
+Jennifer Hudson-Taylor
+Joe Malpas
 Joe Wolfson
+Jonathan Lau - Looking for new opportunity
+Jongyoon Lee
+Joseph Malpas
+Kah Wai Hew
+Kathryn Howes
+Ke Wang
+Kee Heywood
 Keith Hockley
+Keith Lazuka
+Kenny Bailey
+Kevin Henrikson
+Kevin Lee
+Kuldeep Ghildiyal
+Lillian Oh
+Lisa Godwin
+Lynne Stevens
+Malena Keys
+Mario Vidal
+Mark Sully
+Maxine Reschke
+Mike Deeks
+Mike Freeman
+Muhammadali Abdullaev
+Natasha Hathaway
+Nicholas Zubic
+Nick Escallon
+Nitin Kadam
+Ogden Kent
+Patrick Brennan
+Paxton Schwarz
+Peter Farago
+Peter Leith-Wybrow
+Prakash Thombre
+Reece Perry
+Rohan Kanekar
+Saleem Clarke
+Sarang Vyas
+Shalee Fuller
+Shrisha S Bhat
+Swapnil Jadhav
+Tamara Steffens
+Terry Goodes
+Tracey Gould
+Vidyaranya L
+Vipul Solanki
+andrew leece
+chris fang
+tracy gould

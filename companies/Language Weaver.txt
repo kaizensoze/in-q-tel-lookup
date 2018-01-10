@@ -1,113 +1,90 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Daniel Marcu
-William Wong
-Cody Saunders
-Dragos Munteanu
-Michael Potts
-Patrick Vanderper
-Bryce Benjamin
-Greg Fossheim
-Felix Lung
-Samad Echihabi
-Radu Soricut
-John Ferreira
-Peter Levy
-Markus Dreyer
-Jason Chin
-Stephen Coleman
-Mike MacKenzie
-joe lerer
-Georgia Gkegka
-Tagyoung Chung
-Ion Muslea
-David Savignac
-Kirti Vashee
-Sameer Menon
-Pak Eli
-Chuck Baker
-Swamy Viswanathan
-Michel Galley
-Sushant Narsale
-Vivek Beniwal
-Dakotta Alex
-Nguyen Bach
-Daniel Marcu
-Greg Langmead
-Don Kim
-Paula Silaghi
-Daniel Marcu
+Adeleh Jahedi
+Adina Crozier
+Adrian Gocan
+Alex Leventhal
+Alina Gheorghita - Romania
 Alyssa Simon
 Anamaria Ladar
-Rosalie Dalrymple
-Julie England
-Yassine Benjira
-Bryant Huang
-Claude Walton
-Da Xu
-da xu
-Adeleh Jahedi
-Emmanuel Tonnelier
-Adrian Gocan
-Arun Ramakrishnan
-Jing Lan
-Mark Hopkins
-Thomas Wieland
-Jeremy Fischer
-Adina Crozier
-Alex Leventhal
-Justyna Ragiel-Smith
-Andrew Wu
 Anders Richardson
-Kenji Yamada
-Vimal Earnest
-Nausica Popa
-Maria Lechner
-jer fid
-Kimberly Goodell
-Tai Vo
-Priyanka Savkar
-David Savignac
-Sandra Langer
-Alina Gheorghita - Romania
-Iulia Prodan
-Kai Ning
-Octavian Suciu
+Andrei Schwartz
+Andrew Wu
+Arun Ramakrishnan
 Barbara Blankenship
-Christopher Frye
-Lee Levenson
-Cristina Lenart
-Dan Oprita
 Brice Buchanan
-Peggy Cheng
-Matthew Thomas
-carlien van de Kreeke
-Vivek Hungund
-Gert Van Assche
-Dominic Kinnon
-Mark Rollins
+Bryant Huang
+Bryce Benjamin
+Christopher Frye
+Chuck Baker
+Claude Walton
+Cody Saunders
+Cristina Lenart
+Da Xu
+Dakotta Alex
+Dan Oprita
+Daniel Marcu
+David Savignac
 Devon Hoenig
+Dominic Kinnon
+Don Kim
+Dragos Munteanu
+Emmanuel Tonnelier
+Felix Lung
+Georgia Gkegka
+Gert Van Assche
+Greg Fossheim
+Greg Langmead
+Ion Muslea
+Iulia Prodan
+Jason Chin
+Jeremy Fischer
+Jing Lan
+John Ferreira
+Julie England
+Justyna Ragiel-Smith
+Kai Ning
+Kenji Yamada
+Kimberly Goodell
+Kirti Vashee
 Laura Banarescu
-Thomas Wieland
+Lee Levenson
+Maria Lechner
+Mark Hopkins
+Mark Rollins
+Markus Dreyer
+Matthew Thomas
+Michael Potts
+Michel Galley
+Mike MacKenzie
+Mona Toader
+Nausica Popa
+Nguyen Bach
+Octavian Suciu
+Pak Eli
+Patrick Vanderper
+Paula Silaghi
+Peggy Cheng
+Peter Levy
+Priyanka Savkar
+Radu Soricut
+Raul Crisan
 Richard Roberts
 Rob Vickery
-Raul Crisan
-Andrei Schwartz
-Mona Toader
+Rosalie Dalrymple
+Samad Echihabi
+Sameer Menon
+Sandra Langer
+Stephen Coleman
+Sushant Narsale
+Swamy Viswanathan
+Tagyoung Chung
+Tai Vo
+Thomas Wieland
+Vimal Earnest
+Vivek Beniwal
+Vivek Hungund
+William Wong
+Yassine Benjira
+carlien van de Kreeke
+da xu
+jer fid
+joe lerer

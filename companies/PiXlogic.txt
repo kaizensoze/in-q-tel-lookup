@@ -1,89 +1,62 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Joe Santucci
-Xavier Nicolas
-Nick Ushio
-Evgeniya Bautina
-Maria Rogulenko
-Phil Parkman
-Arthi Bakkiyarajan
-Nathan Van Poppel
-Reza Niasari
-Gregory B. Pepus
-Orina DCosta
-Grete Santucci
 Akankshi Rastogi
-Marcia Feitel
-Bob McKee
-Heather Gwynn
-Mike Ivanov
-Nathan Van den Bosch
-Jordan Howard
-Xavier Nicolas
-David Steinman
-Jay Lapointe
-Csaba Koller
-Sam Mayer
-Vicky Li
-Robert Bowen
-Guillaume Michel
-nageswararao vaali
-Xavier Nicolas
-FRED ORINA
-Lori Homsher
-SungHyup Cho
-Subah Trehan
-Michael Sinkowitsch
-Tim Van den Broeck
-Dina Gringauz
-Andrew Maksimovich
-Wim Puissant
-Noura Bouzid
-Tim De Boeck
-Sergey Medvedev
-Andrey Krivonogov
-Deborah Yu
-Kevin Kennes
-Jackson Liu
-Guillaume Michel
-Evgeniya Bautina
-Ananya Misra
-Johan Van Olmen
-Philip Van der Walt
-Timothy Verellen
-John Lobrano
-Arnaud Frechet
-Timothy Verellen
-Oleg Zheltonozhko
-Mattea Rosa Quaranta
-Tim Van den Broeck
-Christopher Harrison
-Christopher Harrison
-Domingo Erick Castro
-Simon Sandvoll
-Anna Ambrozyak
-Timothy Verellen
 Aminev Evarist
-Marius Abalaru
-Guillaume Berthelom
+Ananya Misra
+Andrew Maksimovich
+Andrey Krivonogov
+Anna Ambrozyak
+Arnaud Frechet
+Arthi Bakkiyarajan
+Bob McKee
+Christopher Harrison
+Csaba Koller
+David Steinman
+Deborah Yu
+Dina Gringauz
+Domingo Erick Castro
+Evgeniya Bautina
+FRED ORINA
 Florian CUCHOT
-Stef Van Oevelen
 Goedele Schevernels
+Gregory B. Pepus
+Grete Santucci
+Guillaume Berthelom
+Guillaume Michel
+Heather Gwynn
+Jackson Liu
+Jay Lapointe
+Joe Santucci
+Johan Van Olmen
+John Lobrano
+Jordan Howard
 Jose Luis Pous
+Kevin Kennes
+Lori Homsher
+Marcia Feitel
+Maria Rogulenko
+Marius Abalaru
+Mattea Rosa Quaranta
+Michael Sinkowitsch
+Mike Ivanov
+Nathan Van Poppel
+Nathan Van den Bosch
+Nick Ushio
+Noura Bouzid
+Oleg Zheltonozhko
+Orina DCosta
+Phil Parkman
+Philip Van der Walt
+Reza Niasari
+Robert Bowen
+Sam Mayer
+Sergey Medvedev
+Simon Sandvoll
+Stef Van Oevelen
+Subah Trehan
+SungHyup Cho
+Tim De Boeck
+Tim Van den Broeck
+Timothy Verellen
+Vicky Li
+Wim Puissant
+Xavier Nicolas
+nageswararao vaali

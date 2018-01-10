@@ -1,116 +1,49 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jack Weiss
-David Riker
-Edward Brailovsky
-Matthew Melton
-Jill Saddic Yorke
-Vasyl Kutishchev
-Fiona McFarland
-Michael Mancuso
-Simon Fox-Rabinovitz
-Juan Carlos Francheschini
-NAZIM SHAIK
-Shad Ratliff
-Debby Lomax
-Neil Anderson
-Sharmin Promi
-Daniel Geske
-Jordan Joyner
-Matthew Melton
-Jeff Barton
-Jeff Frazier
-Mark Mullen
-Melanie Riker
 Jeff Yorke
-John Harms
-Jack Weiss
+Jill Saddic Yorke
 John French
-Caitlin Matheny
-Michael Stearman
-Rachel Rothman
-Don Peterkofsky
-Brian Bagdasarian
-Michael Krauchuk
-Kim Dedmon
-Nick Dimichino
-Jack Weiss
-Tsia Robinette
-Richard Pepe
-Andras Szentmiklosy
-Jack Weiss
-David Riker
-Camila McFarland
-Ron Wiggins
-Patrick Hazel
-david riker
-Jon Tudor
-JW Auzenne
-Zakia Begum
-Alexei Tyrtychnyi
-Anne Winston
-harshita ahuja
-Thomas Waldman
-Serguei Joukov
-Aimee Fraser
-Mary Ann Maus
-Jack Weiss
-Dave Riker
-Alfonzo Dixon
-Matt Roselli
-Diana Dennis Cabrera Cedillo
-John Radko
-jack weiss
-Michael Wezel
-Mark Nollinger
-Rachel Rothman
-Michael Masut
-Jeff Peddar
-Steve Friddle
-Rachel Rothman
-Brook Baker
-Preeti Gaur
-Pam Ackley
-Julie Wong
-Caitlin Matheny
-Adrian Murphy
-Bernadine Bednarz
-ed brail
-Arvind Bhoj
-Jack Weiss
-David Lynch
-Keenan Sperry
-Molly McElrath
-Jay Mcknight
-Daniel Green
-Elliott Levenson
-David Moyers
-Jeff Kelley
-Vijay Dashore
-Matthew Melton
 John Graf
+John Harms
+John Radko
+Jon Tudor
+Jordan Joyner
+Juan Carlos Francheschini
+Julie Wong
+Keenan Sperry
+Kim Dedmon
+Mark Mullen
+Mark Nollinger
+Mary Ann Maus
+Matt Roselli
+Matthew Melton
+Melanie Riker
+Michael Krauchuk
 Michael Landesman
-Adam Salem
-Jason Benjamin
-Rakshak Talwar
-Brendan Phillips
+Michael Mancuso
+Michael Masut
+Michael Stearman
+Michael Wezel
+Molly McElrath
+NAZIM SHAIK
+Neil Anderson
+Nick Dimichino
+Pam Ackley
+Patrick Hazel
+Preeti Gaur
 Rachel Rothman
-Danielle Schuh
-Devin Goyal
+Rakshak Talwar
+Richard Pepe
+Ron Wiggins
+Serguei Joukov
+Shad Ratliff
+Sharmin Promi
+Simon Fox-Rabinovitz
+Steve Friddle
+Thomas Waldman
+Tsia Robinette
+Vasyl Kutishchev
+Vijay Dashore
+Zakia Begum
+david riker
+ed brail
+harshita ahuja
+jack weiss

@@ -1,115 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
+Aaron Davis
+Adam Wooten
+Allan Ramirez
+Andrew Isch
+Blake Anderson
+Brad Ross
 Brandon Watson
-Kirk Langston
-Kent Bridges
-Jeffrey K Labrum
-Calvin Scharffs
-Fernando Ribeiro
-Kathleen Ladner
-Joshua Solomon
-Rob Vandenberg
-Clark Fuller
+Brian Cusick
+Brian Isle
+Bryce Young
 Bryson Duncan
 Bull Weber
-Tyson Shelley
-Steven Sorenson
-Seth Shearer
-Edward Richards
-Noel Gibbons
-Matt Smith
-Aaron Davis
-David Hansen
-Mike Lynch
-Romina Castroman
-Martin Gomez
-Valerie Mariana
-Robert Bailey
-Eric Lamoreaux
-Gina Sakievich
-Larry Furr
-Rod Parker
-Mike Roberts
-Rich Kroll
-Scott Jacobs
-Brad Ross
-Michael Douma
-Laura White
-Shirley Collins
-Joseph Hovik
-Seth White
-Gary Sintay
-Suzie Guerrero
-Richard Adair
-Nathan Serrano
-Lauren Vandenberg
-Derek Roy
-Monica Haines
-Brian Cusick
-Dale Eggett
-Tim Hunt
-Andrew Isch
-Snehal Mahajan
-Rachel Palmer
-Matt Valley
-Marti Elliott
-Nathan Overlin
-Bryce Young
-Silvia Carvalho
-Stewart Sintay
-Kelly Haney
+Calvin Scharffs
+Clark Fuller
 Clint Peterson
-Brian Isle
-Matt Brown
-azam lingo.4455
-Steven C. Larsen
-Marat Gataullin
-Dave King
-Paul Fowler
-Jane Mazur
-Jonghyun Choi
-Thomas Hansen
-Nathan Serrano
-Paula Titel
-Adam Wooten
-Holly Garmonsway
-Jessica Judd
-Allan Ramirez
-Michael Kiemel
-Darina Dziuba
 Connor Holmes
-Kent Bridges
-Michelle Pan
-Blake Anderson
-Kelly Haney
-Kurt Tietz
-Dwayne Hale
-Tyler Barber
+Dale Eggett
 Dan de Grazia
-Spencer Olsen
-Michael Kozlowicz
+Darina Dziuba
+Dave King
+David Hansen
+Derek Roy
+Dwayne Hale
+Edward Richards
+Eric Lamoreaux
+Fernando Ribeiro
+Gary Sintay
+Gina Sakievich
+Holly Garmonsway
+Jane Mazur
+Jeffrey K Labrum
 Jeremy Foote
-Lynn Jarman
-Parker Williams
-Lloyd Conway
-Sandy Alfaro
+Jessica Judd
+Jonghyun Choi
+Joseph Hovik
+Joshua Solomon
+Kathleen Ladner
+Kelly Haney
+Kent Bridges
 Kevin Maryott
+Kirk Langston
+Kurt Tietz
+Larry Furr
+Laura White
+Lauren Vandenberg
+Lloyd Conway
+Lynn Jarman
+Marat Gataullin
+Marti Elliott
+Martin Gomez
+Matt Brown
+Matt Smith
+Matt Valley
+Michael Douma
+Michael Kiemel
+Michael Kozlowicz
+Michelle Pan
+Mike Lynch
+Mike Roberts
+Monica Haines
+Nathan Overlin
+Nathan Serrano
+Noel Gibbons
+Parker Williams
+Paul Fowler
+Paula Titel
+Rachel Palmer
+Rich Kroll
+Richard Adair
+Rob Vandenberg
+Robert Bailey
+Rod Parker
+Romina Castroman
+Sandy Alfaro
+Scott Jacobs
+Seth Shearer
+Seth White
+Shirley Collins
+Silvia Carvalho
+Snehal Mahajan
+Spencer Olsen
 Steven Briggs
-Bryson Duncan
+Steven C. Larsen
+Steven Sorenson
+Stewart Sintay
+Suzie Guerrero
+Thomas Hansen
+Tim Hunt
+Tyler Barber
+Tyson Shelley
+Valerie Mariana
+azam lingo.4455

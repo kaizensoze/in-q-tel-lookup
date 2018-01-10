@@ -1,108 +1,89 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Martin G. Klein
-Mike Eskra
-Tony Feather
-Lew Schildkraut
-Michael Reed
-Dave Lucero
-Andrew James Manning
-Mitko asenov
-shaikh shadab
-Samir Alagic
-Mahnaz N
-Michael Nyce
-David Atherton
-Victor Chong
-Umed Nazarov
-Jamie Landi
-simone reardon
-Eric Fitz
-Frederik Foglmann
-Micki Djekic
-Konstantinos Blazakis
-Michael Olsen
-Esben Bech
-Daniel Rickert
-Aslonov Aslon
-Zafar Kamalov
-Jozef Grepiniak
-Marco Terruzzin
-Clark Gellings
-Don Rickey
-Kaj Birch Hansen
-HARSHAD JOSHI
-Sotir Mitrikeski
-Robert Hamlen
-Anwar Muhe
-Dean Somer
-Hamidul Hassan
-Stephen Cordova
-Frank Elias
-Assiya A
-Eric Deschenes
-Fangxiao Guan
-George Mkrtchyan
-Marko Okjan
-Mengjia Xiao
-Adem Hajdini
-Francois van Niekerk
-Krassimir Vlachkov
-Mohammed A.Yehya
-Daniel H. Khoury
-gholamali shahryari
-Roman Minkowski
-Andrei Ionita
-Shawn Dorsey
-Liyao Wu
-Mark Nelson
-Hannu Kinnunen
-Michael Liu
-Roman Myslikovjan
-Sudipta Dutta
-Jacob Eriksen
-Paige Studer
 Adam Wawrzynowicz
-Santo Iaconetti
-Bart Kolodziejczyk
-akram ayara
-Faridun Goibov
-Van Duc HOANG
-Boris Golub
-Philippe Azar
-Soekhlal S
-John Dailey
-Brian Lennan
+Adem Hajdini
 Alice Ivanescu
-Cristian Mitea
-Dora Nakafuji
-Sonja Patterson Chartered Engineer
+Andrei Ionita
+Andrew James Manning
+Anwar Muhe
 Arcadio Miranda
-Kazi Moyeen ul Huq
-Jeff Hayden
 Arianna Abram
+Aslonov Aslon
+Assiya A
+Bart Kolodziejczyk
+Boris Golub
+Brian Lennan
+Clark Gellings
+Cristian Mitea
+Daniel H. Khoury
+Daniel Rickert
+Dave Lucero
+David Atherton
+Dean Somer
 Dejan Nikolic
+Don Rickey
+Dora Nakafuji
+Eric Deschenes
+Eric Fitz
+Esben Bech
+Fangxiao Guan
+Faridun Goibov
+Francois van Niekerk
+Frank Elias
+Frederik Foglmann
+George Mkrtchyan
+HARSHAD JOSHI
+Hamidul Hassan
+Hannu Kinnunen
 Harshada Pendse
-Varinder virk
-Yuan Liu
-Mitch Stein
-Sebastian Traistaru
-Willem Uijlings
+Jacob Eriksen
+Jamie Landi
+Jeff Hayden
+John Dailey
+Jozef Grepiniak
+Kaj Birch Hansen
+Kazi Moyeen ul Huq
+Konstantinos Blazakis
+Krassimir Vlachkov
+Lew Schildkraut
+Liyao Wu
+Mahnaz N
+Marco Terruzzin
 Mark Calloway
+Mark Nelson
+Marko Okjan
+Martin G. Klein
+Mengjia Xiao
+Michael Liu
+Michael Nyce
+Michael Olsen
+Michael Reed
+Micki Djekic
+Mike Eskra
+Mitch Stein
+Mitko asenov
+Mohammed A.Yehya
+Paige Studer
+Philippe Azar
+Robert Hamlen
+Roman Minkowski
+Roman Myslikovjan
+Samir Alagic
+Santo Iaconetti
+Sebastian Traistaru
+Shawn Dorsey
+Soekhlal S
+Sonja Patterson Chartered Engineer
+Sotir Mitrikeski
+Stephen Cordova
+Sudipta Dutta
+Tony Feather
+Umed Nazarov
+Van Duc HOANG
+Varinder virk
+Victor Chong
+Willem Uijlings
+Yuan Liu
+Zafar Kamalov
+akram ayara
+gholamali shahryari
+shaikh shadab
+simone reardon

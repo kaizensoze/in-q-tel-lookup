@@ -1,109 +1,82 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Nate Byrnes
-Joe Cecin
-Jacob Goellner
-Vladimir Georgiev
 Adrian Novischi
-Hassan Green
-Frauke Stoffel
-Chris Hoyt
-Thomas Slowe
-Rajesh Balasubramanian
-Cassie Hanley
-Craig Latham
-Ryan Gentner
-Robert Robey
-Rani Zarnegar
-Jeremy Shay
-Stephanie Sall Bailey
-Giedrius Tomas Burachas
-Mark Giordano
-David Phillips
-Lauren Madar
-Moran Gil
-Lena Henderson
-Paul Gubish
-Michael Gentsch
-Jose Parreno
-Stephanie Pardi
 Ameer Waheed
+Andrea Scibetta
+Bo Liu
 Carl Neckers
-M Rust
-Diane Kisinger
-Joseph Ott
-Nate Byrnes
-Feiyang Wang
-Steven DeNies
-Michael Rupp
-Joe Cecin
-Adrian Novischi
-Qian Liu
-Joshua Cazares
-Kaviarasu Muthusamy Devi
-Holly Kelsch
-Joshua Beck-Jones
-David Warland
-Ray Cassick
-Mike Syposs
+Cassie Hanley
+Chris Hoyt
+Craig Latham
 David Phillips
+David Wahl
+David Warland
+Diane Kisinger
+Drew Little
 Ella Joseph
 Elyse Krezmien
-Craig Latham
-David Wahl
-Jake Goellner
-Rakshabandan Bandan
-Jesse Wallace
-Greg Pokriki
-Tanmay Wadhwa
-Tim Hattenberger
-Haresh Neeraj Kumar
-Drew Little
-Lanre Yusuf
-Robert Pons
-Mackenzie Harding
-William Scialdo
-Jill Surratt
-Imtiaz Khan
-Andrea Scibetta
-Patricia Nenninger
-Craig Latham
-Craig Latham
-Vladimir Georgiev
-Bo Liu
-Kevon Greenidge
-Uvun Ramachandran
-IVELINA IVANOVA
-Michael Hendel
-Ernie Boyd
-Pradeep Ravilla
 Ercole Rose
-Noel Krzesinski
-Steve Krawczyk
+Ernie Boyd
+Feiyang Wang
+Frauke Stoffel
+Giedrius Tomas Burachas
+Greg Pokriki
 Haresh Kumar
-Jayne Carter Farkas
+Haresh Neeraj Kumar
+Hassan Green
+Holly Kelsch
+IVELINA IVANOVA
 Ian Davidson
-James Sackett
-Kristiyan Georgiev
-Shirley Stolarski
+Imtiaz Khan
+Jacob Goellner
 Jaeson Rene
-Travis Preston
+Jake Goellner
+James Sackett
 Jas. Powell
+Jayne Carter Farkas
+Jeremy Shay
+Jesse Wallace
+Jill Surratt
+Joe Cecin
+Jose Parreno
+Joseph Ott
+Joshua Beck-Jones
+Joshua Cazares
+Kaviarasu Muthusamy Devi
+Kevon Greenidge
+Kristiyan Georgiev
+Lanre Yusuf
+Lauren Madar
+Lena Henderson
+M Rust
+Mackenzie Harding
+Mark Giordano
+Michael Gentsch
+Michael Hendel
+Michael Rupp
+Mike Syposs
+Moran Gil
+Nate Byrnes
+Noel Krzesinski
+Patricia Nenninger
+Paul Gubish
+Pradeep Ravilla
+Qian Liu
+Rajesh Balasubramanian
+Rakshabandan Bandan
+Rani Zarnegar
+Ray Cassick
+Robert Pons
+Robert Robey
+Ryan Gentner
+Shirley Stolarski
 Stephanie Bailey
+Stephanie Pardi
+Stephanie Sall Bailey
+Steve Krawczyk
+Steven DeNies
+Tanmay Wadhwa
+Thomas Slowe
+Tim Hattenberger
+Travis Preston
+Uvun Ramachandran
+Vladimir Georgiev
+William Scialdo

@@ -1,115 +1,94 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Fred Kost
-Harold Hinson
-Jim Gannon
-John De Santis
-Eric Chiu
-Bill Frost
-Richard Kutchai
-Tushar Tambay
-Ashwin Krishnan
-Anuja Seth
-Hemma Prafullchandra
-Renata Budko
-Romaine Adams
-Mitsu Fisher
-Ken Sigel
-Michele Borovac
-Stephanie Torres
-Jason Lackey
-Bill Aubin
-Stan Meresman
-Brian CS
-Sean Murphy
-Michael Fiore
-Laura Agarwal
-Shardul Divatia
-Patrick Conte
-Jason McLaughlin
-Tim Bradford
-Steve Pate
-Keith Cowan
-Bill Hackenberger
-Frank Arena
-Jason Mills
-Tom de Jongh
-Heberto Ferrer
-Zeno Hao
-Ed Dynis
-James Cross
-Jeff Smith
-Lucas Crawford
-Vikram Raman
-Kevin McGillycuddy
-James Arenth
-Scott Oglesby
-Bill Roche
-Jamie Boyle
-Jeremy Mattas
-Sam Skinner
-Suhas Devulapalli
-Ali Tekeoglu
-Matthew Straeb
-Brian Sander
-Joe Lareau
-Julian Sinai
-Mercy Caprara
-Kapil Raina
-Mary Kubasak
-Greg Schmidt
-Dana Ellingen
-Tom Orella
-Ken Thomas
-Ted Hengst
-Boris Grinberg
-Dan Fillingham
-Malini Kesavan
-Elsa Bignoli
-Office Manager
-Jaz Lin
-Zack Zimmerman
-Nick Efstratis
-Boris Strongin
-Michael Munemitsu
-Christopher Hill
-Grauben Guevara
-Romaine Adams
-Avaneesh Arora
-Anuja Seth
-Jack Blancaflor
-Rob Babb
-Keith Pugliese
-R Stastny
-Bruce Bannerman
-Inna Belov
-Mandar Samant
 Albert Landa
-Jason Young
-Nagaraju Boddu
-Vaishali Deshpande
-Sam Robertson
-Chiraag Prafullchandra
-Steve Laubenstein
-Tai Chau
-Victor Camacho
-Boris Belov
+Ali Tekeoglu
 Antoine Harden
+Anuja Seth
+Ashwin Krishnan
+Avaneesh Arora
+Bill Aubin
+Bill Frost
+Bill Hackenberger
+Bill Roche
+Boris Belov
+Boris Grinberg
+Boris Strongin
+Brian CS
+Brian Sander
+Bruce Bannerman
+Chiraag Prafullchandra
+Christopher Hill
+Dan Fillingham
+Dana Ellingen
+Ed Dynis
+Elsa Bignoli
+Eric Chiu
+Frank Arena
+Fred Kost
+Grauben Guevara
+Greg Schmidt
+Harold Hinson
+Heberto Ferrer
+Hemma Prafullchandra
 Iben Rodriguez
+Inna Belov
+Jack Blancaflor
+James Arenth
+James Cross
+Jamie Boyle
+Jason Lackey
+Jason McLaughlin
+Jason Mills
+Jason Young
+Jaz Lin
+Jeff Smith
+Jeremy Mattas
+Jim Gannon
+Joe Lareau
+John De Santis
+Julian Sinai
+Kapil Raina
+Keith Cowan
+Keith Pugliese
+Ken Sigel
+Ken Thomas
+Kevin McGillycuddy
+Laura Agarwal
+Lucas Crawford
+Malini Kesavan
+Mandar Samant
+Mary Kubasak
+Matthew Straeb
+Mercy Caprara
+Michael Fiore
+Michael Munemitsu
+Michele Borovac
+Mitsu Fisher
+Nagaraju Boddu
+Nick Efstratis
+Office Manager
+Patrick Conte
+R Stastny
+Renata Budko
+Richard Kutchai
+Rob Babb
+Romaine Adams
+Sam Robertson
+Sam Skinner
+Scott Oglesby
+Sean Murphy
+Shardul Divatia
+Stan Meresman
+Stephanie Torres
+Steve Laubenstein
+Steve Pate
+Suhas Devulapalli
+Tai Chau
+Ted Hengst
+Tim Bradford
+Tom Orella
+Tom de Jongh
+Tushar Tambay
+Vaishali Deshpande
+Victor Camacho
+Vikram Raman
+Zack Zimmerman
+Zeno Hao

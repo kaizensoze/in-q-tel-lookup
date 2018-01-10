@@ -1,112 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Stevan Jovanovich
-Kevin Bebak
-David King
-Bobby White
-Roger McIntosh
-David White
-Mark Agloro
-Debara Lutkenhouse-Frost
-Jim Klevenberg
-Ken Gilmore
-Mattias Luukkonen
-Andrew McAllister
-Stefanie Gangano
-Charles Troup
-Justus Wunderle
-David Smith
-Roy Swiger
-Dennis Harris
-Kaiwan Chear
-Omar El-Sissi
-Corey Smith
-Charles Park
-Stephen Williams
-Nicholas Andrews
-Arni Barican
-Florence Miaolin
-Mattias Vangbo
-Jacklyn Buscaino
-Robert Schueren
-Gina Porsee
-Ariana Ramos
-Pat Cohan
-Carman Upshaw
-Nancy Stainton
-Francesca Pearson
-Jeff Hudson
-Rick Sykes
-Trish Silva
-Sally Smith
-Bob Barrett
-Jeff Heimburger
-Grace Lee
-Jay Therrien
-James Gangwish
-Urosh Jovanovich
-Dan Murphy
-Brian Ciopyk
-John Buscaino
-Chris Church
-Neelima Mehendale
-Annette Saffeels
-Tony Tran
-John Murphy
-Lori K. Hennessy
-Jennifer Yoldi
-Nic Noome
 Alexander P. Kindwall
-Chris Contonis
-Michael Recknor
-Scott Nelson
+Andrew McAllister
+Annette Saffeels
+Ariana Ramos
+Arni Barican
+Bob Barrett
+Bobby White
 Brett Corrie
-Deborah Long
-ezra van gelder
-Robert Courter
-Dean Tsou
-Howard Goldstein
-Timothy Look
-Mehrdad Nafisi
-Rudy S. Boleslav
-Helen Franklin
-Trish Silva
-Louis Grever
-Dino Valdecanas
-Mark Keller
-James Ogg
-John Maher
-Yuan Li
-Kay Strohl
-Dieu Nguyen
-Kiptonui Chirchir
-Jim Riker
-Hilda Danvers
-Frank Lin
-Larry Kopjak
+Brian Ciopyk
 Brian Matthews
-Megan Liamos
-Robert Pringle
-Ross Guarnera
-Mimi Kent
-Iris Diaz
-Peter Ashcroft
+Carman Upshaw
+Charles Park
+Charles Troup
+Chris Church
+Chris Contonis
+Corey Smith
+Dan Murphy
 Dave Oehler
+David King
+David Smith
+David White
+Dean Tsou
+Debara Lutkenhouse-Frost
+Deborah Long
+Dennis Harris
+Dieu Nguyen
+Dino Valdecanas
+Florence Miaolin
+Francesca Pearson
+Frank Lin
+Gina Porsee
+Grace Lee
+Helen Franklin
+Hilda Danvers
+Howard Goldstein
+Iris Diaz
+Jacklyn Buscaino
+James Gangwish
+James Ogg
+Jay Therrien
+Jeff Heimburger
+Jeff Hudson
+Jennifer Yoldi
+Jim Klevenberg
+Jim Riker
+John Buscaino
+John Maher
+John Murphy
+Justus Wunderle
+Kaiwan Chear
+Kay Strohl
+Ken Gilmore
+Kevin Bebak
+Kiptonui Chirchir
+Larry Kopjak
+Lori K. Hennessy
+Louis Grever
+Mark Agloro
+Mark Keller
+Mattias Luukkonen
+Mattias Vangbo
+Megan Liamos
+Mehrdad Nafisi
+Michael Recknor
+Mimi Kent
+Nancy Stainton
+Neelima Mehendale
+Nic Noome
+Nicholas Andrews
+Omar El-Sissi
+Pat Cohan
+Peter Ashcroft
+Rick Sykes
+Robert Courter
+Robert Pringle
+Robert Schueren
+Roger McIntosh
+Ross Guarnera
+Roy Swiger
+Rudy S. Boleslav
+Sally Smith
+Scott Nelson
+Stefanie Gangano
+Stephen Williams
+Stevan Jovanovich
+Timothy Look
+Tony Tran
+Trish Silva
+Urosh Jovanovich
 Vivian Le
+Yuan Li
+ezra van gelder

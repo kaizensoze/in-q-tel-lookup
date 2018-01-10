@@ -1,114 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Richard Kurtz
-Rick Madden
-Stephen Roemer
-James Malch
-Jeff Anderson
-Steve Williamson
-Tim Bodenhamer
-DeeDee Jones
-Oleksandr Goushcha
-Mark Anderson Sr.
-Neil Moorman
+Aaron Blask
+Alan Wallenberg
+Alejandra Castillo
+Alex Escobedo
+Allison Woody
+Anne LaBruzzo
 Barry Wenzel
 Bernd Tabbert
-Jeffrey White
-Tim Strong
-Donald Pastor
-Pam Gere
-Scott Hawley
-David House
-Jay Sandler
-Karl Martinson
-Nicole Stichler
-Alex Escobedo
-Doug Herron
-Jason Ringholz
-Mike Allen
-John J. Riccardi
-james rodgers
-Dominic Schneider
-Hai Ling
-Margy Manganiello
+Bill Archambeault
+Brenda Ehrke
+Brian Spolarich
+Brock Koren
+Cameron Barbara
 Chad Niday
-George Martin
-Steve Noll
-Steve Soltwedel
-Alan Wallenberg
+Charles Forrest
 Christopher N Burgess
-Richard Selee
+Dale Messick
+Dana Sheets
 Daniel Pagan
+David House
+DeeDee Jones
+Dominic Schneider
+Donald Pastor
+Dottie Fobel
+Doug Herron
+Douglas Mohr
+Ed Coringrato
+Edward Albe
+Geoff McCarty
+George Martin
+Gregory Devane
+Hai Ling
+James Malch
+Jason Ringholz
+Jay Sandler
 Jean Decary
 Jean-Pierre Maufras
-Stewart Miller
-Rick Biggs
-Michael Hipskind
-Susan Schmidt
-Anne LaBruzzo
-Dana Sheets
-Robert Sacks
-Kristine Shen
-Aaron Blask
-Brock Koren
-Michael Terry
-Shannon Jenkins
-Kathy Ladd
-Robert Matsumoto
-John Duquette
-Allison Woody
+Jeff Anderson
+Jeffrey White
 Jenni Bennett
-Dottie Fobel
-Josephine McClelland-Yong
-Charles Forrest
-Dale Messick
-Margaret Murdock
+John Duquette
 John Galaskas
-Alejandra Castillo
-Tara Espinosa
-Olivier Dior
-Ed Coringrato
-Michael Bertan
-Rick Biggs
+John J. Riccardi
+Josephine McClelland-Yong
+Karl Martinson
+Kathy Ladd
 Kathy Velezmoro
+Ken Junkins
+Kristine Shen
+Margaret Murdock
+Margy Manganiello
+Mark Aguilar-Aasted
+Mark Anderson Sr.
+Mark Nicklas
+Merlin Pettigrew
+Michael Bertan
+Michael Hipskind
+Michael Terry
+Mike Allen
+Mohammed Ismailjee
+Myron Lindberg
+Neil Moorman
+Nicole Stichler
+Oleksandr Goushcha
+Olivier Dior
+Pam Gere
 Paul Ludwig
 Philip Greenhill
-Aaron Blask
+Richard Kurtz
+Richard Selee
+Rick Biggs
+Rick Madden
+Robert Matsumoto
+Robert Sacks
 Robin Langeveld
-Ken Junkins
-Cameron Barbara
-Edward Albe
-Brian Spolarich
+Scott Hawley
+Shannon Jenkins
+Stephen Roemer
+Steve Noll
+Steve Soltwedel
+Steve Williamson
+Stewart Miller
+Susan Schmidt
+Tara Espinosa
+Tim Bodenhamer
+Tim Strong
 Victor Gil
-Mark Aguilar-Aasted
-Myron Lindberg
-donna tamala
-Geoff McCarty
-Mohammed Ismailjee
-Brenda Ehrke
-Gregory Devane
-Doug Herron
-Bill Archambeault
-Mark Nicklas
-carole chabot
 William Bandel
 bill caparelli
-Douglas Mohr
-Merlin Pettigrew
+carole chabot
+donna tamala
+james rodgers

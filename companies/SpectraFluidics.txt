@@ -1,55 +1,26 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Phil Strong
-Craig R. Cummings
+Beau Bryant
+Brian Dunne
 Carl Meinhart
 Casey Hare
-Sean Demura
-Robert Stuart
-Matt Hendler
-Brian Dunne
-Jeffrey Flowers
-TJ Reed
-Kara Yoshihara
-Ryan Allen
-Yin Sun
-Beau Bryant
-Leslie Watson
-Sarah Heimel
-Mark Bigham
-Jeff Gilbert
-Sean Demura
-Carl Meinhart
-Kari Moran
 Claudia Davids
+Craig R. Cummings
+Gaurav Mehta
+Jane Yoon
+Jeff Gilbert
+Jeffrey Flowers
 John Day
+Kara Yoshihara
+Kari Moran
+Leslie Watson
+Maribel Espinoza
+Mark Bigham
+Matt Hendler
+Omar Younis
+Phil Strong
+Robert Stuart
+Ryan Allen
+Sarah Heimel
+Sean Demura
 SeungJoon LEE
 TJ Reed
-Omar Younis
-SeungJoon LEE
 Yin Sun
-Phil Strong
-Mark Bigham
-Robert Stuart
-SeungJoon LEE
-Maribel Espinoza
-Brian Dunne
-Jane Yoon
-Gaurav Mehta

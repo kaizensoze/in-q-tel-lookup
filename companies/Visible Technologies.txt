@@ -1,114 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Richard Pasewark
-Christopher King
-Dan Vetras
-Lucas Parker
-Kristofer Wade
-Debbie DeGabrielle
-Dean Graziano
-Becca Citron Ramble
-Steve Reeves
-Jack Denault
-Leslie Yee
-Bill Baker
-James Webber
-Mark Brandt
-Melody Jones
-Molly Ward
-Greg Singh
-Eric Berkowitz
-Reed Savory
-Mark Briggs
-Peter Granat
-Elizabeth Morgan
-Dean Graziano
 Adam Lolley
-Kelvyn Flavall
-Taylor Abrams
-Omri Duek
-Matthew Ernewein
-Shawn Rutledge
-Pete Price
-Emma Hardman
-Michelle Vangel
-Ryan Graves
-Laurie Cansler
-Sara Kim
-Dean Racovolis
-Ken Parker
-Julie Gronbach
-Caitlin Jamali
-Natasha Stevens
-Thomas Mitchell
-Cory Repp
-Gene Tapang
-Ken Giffin
-Marc Levitt
-Melissa Sheila Garcia
-Miles Ward
-Jessica Butcher
-Amy Stewart
-Tina Mainar
-Eric Forst
-Marc Levitt
-Rick Darer
-Andrew Mullen
-Dave Waggoner
-Laura van Dijken
-Chuck Vincent
-Marsha Robie
-Jamie Spafford
-Kelly Shea
-Paul Wittenberg
-Christopher Lantz
-Sharon Chen
-Geoff Farris
-Jennifer Buchanan
-Matthew Conlan
-Eric Wong
-Paul Brothers
-Michelle Holmes
-Eric Bedard
-Enrico Montana
-Casey Boos
-Roxana Andone
-Tami Borowick
-Christopher McBurney
-Rand Lutomski
-Robert Palmini
-Thu-An Bui
-Andrew Grill
-Rachael Soucie
-Jamie Serino
-Hao Xu
-Felicia Wong Varga
-Dan Collin
-Matt Jacobsen
-Jeff D. Almeida
-Sutira Phrakaysone
-Brian Farrell
-Cass Hodges
-Pamela Feller
-Jennifer Radons
-Jeff Barovich
-Nicholas Ramirez
 Allison Hopper
+Amy Stewart
+Andrew Grill
+Andrew Mullen
+Becca Citron Ramble
+Bill Baker
+Brian Farrell
+Caitlin Jamali
+Casey Boos
+Cass Hodges
+Christopher King
+Christopher Lantz
+Christopher McBurney
+Chuck Vincent
+Cory Repp
+Dan Collin
+Dan Vetras
+Dave Waggoner
 Dean Graziano
+Dean Racovolis
+Debbie DeGabrielle
+Elizabeth Morgan
+Emma Hardman
+Enrico Montana
+Eric Bedard
+Eric Berkowitz
+Eric Forst
+Eric Wong
+Felicia Wong Varga
+Gene Tapang
+Geoff Farris
+Greg Singh
+Hao Xu
+Jack Denault
+James Webber
+Jamie Serino
+Jamie Spafford
+Jeff Barovich
+Jeff D. Almeida
+Jennifer Buchanan
+Jennifer Radons
+Jessica Butcher
+Julie Gronbach
+Kelly Shea
+Kelvyn Flavall
+Ken Giffin
+Ken Parker
+Kristofer Wade
+Laura van Dijken
+Laurie Cansler
+Leslie Yee
+Lucas Parker
+Marc Levitt
+Mark Brandt
+Mark Briggs
+Marsha Robie
+Matt Jacobsen
+Matthew Conlan
+Matthew Ernewein
+Melissa Sheila Garcia
+Melody Jones
+Michelle Holmes
+Michelle Vangel
+Miles Ward
+Molly Ward
+Natasha Stevens
+Nicholas Ramirez
+Omri Duek
+Pamela Feller
+Paul Brothers
+Paul Wittenberg
+Pete Price
+Peter Granat
+Rachael Soucie
+Rand Lutomski
+Reed Savory
+Richard Pasewark
+Rick Darer
+Robert Palmini
+Roxana Andone
+Ryan Graves
+Sara Kim
+Sharon Chen
+Shawn Rutledge
+Steve Reeves
+Sutira Phrakaysone
+Tami Borowick
+Taylor Abrams
+Thomas Mitchell
+Thu-An Bui
+Tina Mainar

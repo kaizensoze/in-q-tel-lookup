@@ -1,117 +1,52 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-John Murgo
-Charles McElwain
-Henry Tumblin
-Alex Bakman
-Don Davis
-John Murgo
-Alexandra Murashova
-Alice Kougios
-Jesse Streb
-John Murgo
-Elena Eneeva
-Matthew Wong
-Chuck McElwain
-Dan Geneser
-Darleen Drown
-Sako Hananian
-Hannah Godwin
-Terrence Clark
 Kate Nikitina
-Nicholas Stamos
-Lyle Miller
-Robert Qa
-George Adams
-Vlad Weber
-Kendra Fronczak
-Lyle Miller
-Paul Waalkes
-Earle Bestick
-Patrick Mailer-Howat
-Kimberly Gurney
-Anthony Camoscio
-Anthony Diberardino
-Stephanie Dupuis
-Mario Barrenechea
-Rand Willard
-Stephen Read
-Paul Wasiga
-Ibrahim Otieno
-Sarah Carroll
-Charles McElwain
-Kishore Kethineni
-Lyle Miller
-Alex McGeorge
-Erika Briere
-Brian Kuebler
-Brandon Foster
-Raymond Obabo
-Ramesh Mane
-Victor Sharovatov
-Christian Aranda
-Nicholas Stamos
-Naveen Jain
-Jessica Smith
-Couto Coelho
-esteban edgard odriozola murgo
-Naveed Wain
-Nidhi Jayapalan
-Alexander Lapin
-Naveen Jain
-Marilyn Zayfert
-Alexandra Murashova
-Alec Belfer
-Michael Vrbanac
-Paul Gregoire
-Desmond Croan
-Naveen Jain
-Qian Wang
-Yunhong Liu
-Laura Jehl
-Milani Chatterji-Len
-Ronak Shah
-Rebecca Kennison
-Tom Moxon
-Matt Kirby
-ferdinando basile
-Nicholas Talarico
-Marie Lee
 Keith Osiewicz
-Ian Cinnamon
-Nasheman Ansari
-Victor Sharovatov
-Nora Benhabiles
-Molly Maloof MD
-Man Nguyen
-Sid Kerkar
-William Bennett
-Stephanie Diment
-Josiah Dykstra
-Mahesh Madhavan
-Matt Bonaccorso
-Alicia Yaffe
-Daniela Hernandez
-Imed Ben Dhaou
-Souchkov Vitali
-Chinmay Gore
-Josh Shinoff
+Kendra Fronczak
+Kimberly Gurney
+Kishore Kethineni
+Laura Jehl
 Lila Bailey
-Jennifer Berman
+Lyle Miller
+Mahesh Madhavan
+Man Nguyen
+Marie Lee
+Marilyn Zayfert
+Mario Barrenechea
+Matt Bonaccorso
+Matt Kirby
+Matthew Wong
+Michael Vrbanac
+Milani Chatterji-Len
+Molly Maloof MD
+Nasheman Ansari
+Naveed Wain
+Naveen Jain
+Nicholas Stamos
+Nicholas Talarico
+Nidhi Jayapalan
+Nora Benhabiles
+Patrick Mailer-Howat
+Paul Gregoire
+Paul Waalkes
+Paul Wasiga
+Qian Wang
+Ramesh Mane
+Rand Willard
+Raymond Obabo
+Rebecca Kennison
+Robert Qa
+Ronak Shah
+Sako Hananian
+Sarah Carroll
+Sid Kerkar
+Souchkov Vitali
+Stephanie Diment
+Stephanie Dupuis
+Stephen Read
+Terrence Clark
+Tom Moxon
+Victor Sharovatov
+Vlad Weber
+William Bennett
+Yunhong Liu
+esteban edgard odriozola murgo
+ferdinando basile

@@ -1,116 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Angela Kennedy
-David Oberlin
-Gary Pelton
-Paul Musselman
-James Baker
-Tasha Rohlfs
-Mosur Ravishankar
-Tom Neuendorffer
-Robert Olszewski
-Prasanna Kumar
-Tim Mulville
-Richard Stern
-Won Kyum Lee
-Udhyakumar Nallasamy
-Brett Laquercia
-Edward Lin
-Alex Rudnicky
-Bryan Holdsworth
-Chi Zhang
-Martin Loperena
-Vineet Apte
-Melanie Shivetts
-Erica Winesberry
-Erin Taylor
-Justin Chiu
-Varoozhan Harikian
-Natalie Baker-Shirer
-Ziad Al Bawab
-yun lei
-John Lucke
+Aaron Jaech
+Aasish Pappu
 Adil Majid
 Akshay Chandrashekaran
-Ben Lambert
-Nikolas Wolfe
-Robert Vickers
-Anuj Kumar
-Kim Warzinski
-Nia Peters
+Alex Rudnicky
 Alison Huettner
-Qihong Wang
-Mark Harvilla
-Shirin Saleem
-Yifang Xu
+Amir Moghimi
 Andrew Jeske
 Andrew Maas
-Chaitanya Modak
-Amir Moghimi
-Sonia Banerjee
-Chang-Qing Shu
-Jungsuk Kim
-Marsal Gavalda
+Andrew Wilkinson
+Angela Kennedy
+Ankur Gandhe
+Anuj Kumar
+Ari Klein
+Ashwini Hebbar
+Ben Lambert
+Bhiksha Raj
 Blair Rohring
-Xie Shasha
-Ian Lane
-Prachi Laud
-Daniel Annankra
+Brett Laquercia
+Bryan Holdsworth
+Chaitanya Modak
+Chang-Qing Shu
+Chi Zhang
 Chintu Parikh
-Nikita Mostovoi
+Daniel Annankra
+Daniel Galvez
+David Nadolski
+David Oberlin
+Diana Dewey Emanuele
+Edward Dryer
+Edward Lin
+Erica Winesberry
+Erin Taylor
+Gary Pelton
+Ian Lane
+James Baker
+James Lich
+James Salsman
+Jan Kaeo
+Janet Baker
+Jeremie Kim
+Jessica Sands
+John Lucke
+Joseph Bates
+Jungsuk Kim
+Justin Chiu
+Kevin Lenzo
+Kim Warzinski
+Kishore Prahallad
+Kshitiz Kumar
 Kyle Fulton
 Laura Dickey
-Kevin Lenzo
-James Salsman
-Ankur Gandhe
-Tao Yu
-Nia Peters
-Manaj Srivastava
-Xuedong Huang
-David Nadolski
-Ari Klein
-James Lich
-Daniel Galvez
-Stephen da Conceicao
-Kishore Prahallad
-Samjoo Doh
-Diana Dewey Emanuele
-Nguyen Bach
-Andrew Wilkinson
 Leanne Meyer
 Long Qin
-Joseph Bates
-Edward Dryer
-Kshitiz Kumar
+Manaj Srivastava
+Mark Harvilla
+Marsal Gavalda
+Martin Loperena
+Melanie Shivetts
 Ming Li
-Suyoun Kim
-Ashwini Hebbar
+Ming Sun
+Mohammad Gowayyed
+Mosur Ravishankar
+Natalie Baker-Shirer
+Nguyen Bach
+Nia Peters
+Nikita Mostovoi
+Nikolas Wolfe
+Paul Musselman
+Prachi Laud
+Prasanna Kumar
+Qihong Wang
+Richard Stern
 Robert Graves
-Jan Kaeo
-Aasish Pappu
-Jeremie Kim
-Bhiksha Raj
+Robert Olszewski
+Robert Vickers
+Samjoo Doh
 Seshadri Sridharan
 Seth Sherwood
-Mohammad Gowayyed
-Ming Sun
-Jessica Sands
-Janet Baker
-Aaron Jaech
+Shirin Saleem
+Sonia Banerjee
+Stephen da Conceicao
+Suyoun Kim
+Tao Yu
+Tasha Rohlfs
+Tim Mulville
+Tom Neuendorffer
+Udhyakumar Nallasamy
+Varoozhan Harikian
+Vineet Apte
+Won Kyum Lee
+Xie Shasha
+Xuedong Huang
+Yifang Xu
+Ziad Al Bawab
+yun lei

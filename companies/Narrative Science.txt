@@ -1,115 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
+Aaron Reinitz
+Abel Greenwald
 Adam Kanouse
-Stuart Frankel
-Kristian Hammond
-Andrew Paley
-Matthew Bramson
+Adrian Mui
+Alex Collins
+Alexander Sippel
 Allen Nelson
-Keelin McDonell
-Teddy Griffin
-Ryan Kurt
+Amanda Buhl
 Amelia B. Carpenter
+Amit Patel
+Andrew Adams
+Andrew Edelman
+Andrew Paley
+Andrew Woods
+Benjamin Goldberg
+Bo He
+Brian Charous
+Bridget Cassil
+Cari Caprio
+Catherine Vongsathorn
+Charles Keeney
+Chetan Ghai
+Chris Strong
+Christian Molitor
+Christopher Intagliata
+Christopher Kraft
 Craig Booth
-Nicholas Allen
+Dan Goldsmith
+Daniel Platt
+Dave Cook
+Dave Evans
+David Deutsch
+David Rosenblatt
+Diana Diaco Cervantes
+Ed Dragomer
+Elizabeth Kaydanovsky
+Eric Totten
+Erica Griffith
+Flynn Murphy
+Gabriel Altay
+Gretta Hermes
+Heather Hoeppner
+Ian Sawicki
+Jack Crowe
+James Nelson
+Jamie Lu
+Jeff Otten
+Jonathan Drake
+Jordan VanderZwaag
+Jordin Huffman
+Josh Dripps
+Joshua Smith
+Kailin Liu
 Kate Mozill
 Katie Lieber Grinberg
-Pia Opulencia
-Daniel Platt
-Nathan Nichols
-Katy De Leon
-Mauro Mujica-Parodi III
-James Nelson
-Flynn Murphy
-Jordin Huffman
-Joshua Smith
-Amit Patel
-Gretta Hermes
-Charles Keeney
-Bridget Cassil
-Benjamin Goldberg
-David Deutsch
-Scott Kohlhoff
-Aaron Reinitz
-Larry Adams
-Nick Phillips
-Zack Blois
-Matt Trahan
-Mary Grace Glascott
-Chetan Ghai
-Thulasi Kethini
-Gabriel Altay
-Andrew Adams
-Dave Evans
-Nick Beil
-Lee Hansen
-Mickey Rausch
-Jack Crowe
-Brian Charous
-Catherine Vongsathorn
-Thomas Blank
-Stefanie Mahan
-Elizabeth Kaydanovsky
-Michael Wilson
-Maia Lewis
-Jonathan Drake
-Marie Mikhail
-Santiago Santana
-Amanda Buhl
-Bo He
-Christian Molitor
-Alexander Sippel
-Ian Sawicki
-Sharon Chen
-Jeff Otten
-Spencer Zhang
-Chris Strong
-Thomas Neil
-Heather Hoeppner
-Eric Totten
-Ricardo Hinds
-Zachary Ernst
-Rory Murray
-Erica Griffith
-Nathan Krapf
-Dave Cook
-Morgan Edwards
-Alex Collins
 Katie Nunez
-Ed Dragomer
-Mike Pham
-Jamie Lu
-Jordan VanderZwaag
-Diana Diaco Cervantes
-Steve Foulkes
-Kailin Liu
-Josh Dripps
-Abel Greenwald
-Dan Goldsmith
-Andrew Edelman
-Andrew Woods
-Christopher Intagliata
-Adrian Mui
+Katy De Leon
+Keelin McDonell
+Kristian Hammond
 Kyle McNickle
-Christopher Kraft
+Larry Adams
+Lee Hansen
+Maia Lewis
+Marie Mikhail
+Mary Grace Glascott
+Matt Trahan
+Matthew Bramson
+Mauro Mujica-Parodi III
 Michael Russell
-David Rosenblatt
+Michael Wilson
+Mickey Rausch
+Mike Pham
+Morgan Edwards
 Natalie Murray
-Cari Caprio
+Nathan Krapf
+Nathan Nichols
+Nicholas Allen
+Nick Beil
+Nick Phillips
+Pia Opulencia
+Ricardo Hinds
+Rory Murray
+Ryan Kurt
+Santiago Santana
+Scott Kohlhoff
+Sharon Chen
+Spencer Zhang
+Stefanie Mahan
+Steve Foulkes
+Stuart Frankel
+Teddy Griffin
+Thomas Blank
+Thomas Neil
+Thulasi Kethini
+Zachary Ernst
+Zack Blois

@@ -1,109 +1,85 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Shawn Snyder
-Joe LeClair
-Amy Beltran
-Robert Smith
-Joe Keating
-Jennifer Rein
-Brian Duff
 Amber Spencer
-Tarun Khera
+Amber Trujillo
+Amy Beltran
+Annette Finsterbusch
+Ariel Rada
+Aymerik Renard
+Benjie J. Esquivel
+Bernd Neudecker
+Bill Brooks
+Bob Zielke
 Brian Duff
-Raymond R. Johnson
+Brian Wisdom
+Bridget Wilson
+Bruce Gittleman
+Christelle Pillay
+Cole Bendixen
+Dale Frey
+Damon Lytle
 David Kirwan
 David Squires
-Bruce Gittleman
-Jim Norrod
-lexi laguardia
+Emily Goldshteyn
+Erik Sventeckis
+Evan MacQueen
+Francis Sabalza
+Frank. Roberts
+Gerry Pagano
+Harsh Mamgain
+Hazel Gemino
 Henry Zoetewey
+Ineko Thompson
+J. Aaron Miller
+Jackie Batts
+James Smith
+Janel Marsilio
+Jeffrey Kelly
+Jeffrey Phillips
+Jennifer Rein
+Jesse Newson
+Jim Norrod
+Joe Keating
+Joe LeClair
+Kamran Khan
+Karnica Bhurjee
+Kellen Samuelson
+Ken Littleford
+Ken Namowicz
+Kevin Tracy
+Lillian Vincent
+Mainou Lee
+Matt Kish
+Matt Taylor
+Michele Klein
+Mike Roberts
+Milan Koev
+Nick Karl
+Nisha Shigvan
+Norman Lambert
+Randolph Chan
+Raphael Seeck
+Raymond R. Johnson
+Richard Percival
+Robert Smith
+Sean Sullivan
+Shane Landry
+Shawn Lane
+Shawn Snyder
+Sheila Phung
+Spencer Davis Jr.
+Stephen Brennan
+Steve Alexander
+Steve Grady
+Tarun Khera
+Taylor Fisher
+Terri Sundseth
+Timothy N. Bradow
+Tony Giannini
+Vanessa Perez
+Venugopala Rao Basava
 Wenli Yang
 William Joseph
-Richard Percival
-Bernd Neudecker
-Mainou Lee
 Yoongu Kim
-Jackie Batts
-Timothy N. Bradow
-Bill Brooks
-Dale Frey
-Mike Roberts
-Shawn Lane
-Jeffrey Phillips
-Sheila Phung
-Annette Finsterbusch
-Randolph Chan
-Tony Giannini
-Nick Karl
-Michele Klein
-Venugopala Rao Basava
-Cole Bendixen
-Damon Lytle
-Ken Littleford
-Jesse Newson
-Matt Kish
-Bridget Wilson
-Spencer Davis Jr.
-Amber Trujillo
-Bob Zielke
-Gerry Pagano
-Frank. Roberts
-Jeffrey Kelly
-Kamran Khan
-kelly Yao
-Karnica Bhurjee
-Terri Sundseth
-Ken Namowicz
-James Smith
-Evan MacQueen
-Matt Taylor
-Sean Sullivan
-Erik Sventeckis
-J. Aaron Miller
-Steve Alexander
-Shane Landry
-Brian Wisdom
-Amy Beltran
-Amy Beltran
-Ineko Thompson
-Nisha Shigvan
-Kevin Tracy
-Taylor Fisher
-Ariel Rada
-Janel Marsilio
-shraddha shigwan
-Kellen Samuelson
-Benjie J. Esquivel
-Lillian Vincent
-Joe LeClair
-Stephen Brennan
-Vanessa Perez
-Christelle Pillay
-Norman Lambert
 biswaranjan b
-Amy Beltran
-Steve Grady
-Aymerik Renard
-Emily Goldshteyn
-Francis Sabalza
-Hazel Gemino
-Milan Koev
-Raphael Seeck
-Harsh Mamgain
+kelly Yao
+lexi laguardia
+shraddha shigwan

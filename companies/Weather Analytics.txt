@@ -1,115 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Bill Pardue
-Christopher Skarinka
-Jordan Foley
-Parker Mitchell
-Tom Cecere
-Jay Rustine
-Benjamin Calder
-John L Keller
-Wallace Hogsett
-Paul Walsh
-Ellen Cousins
-Lacy Thomas
-Benjamin Williams
-Nathan Fullerton
-Kyle Anderson
-Sarah Levy
-Jeffrey Hughes
-Kevin Worley
-Krystal Repoff
-Mike Sperry
-Mark York
-Benjamin Coons
-Emmett Soldati
-Raphael Rogers
-Scott Merrick
-Daniel Febrer
-John Crowley
-Jason Levit
-Ganesh Kannan
-Beverly Parker
-Tom Aley
-Kristen Crawford
-Douglas Stolz
-Mark Dumas
-Thomas Woolston
-Liz Mason
-Sean Daigneault
-Nick Elliott
-Travis Hite
-Matthew Souders
-Stefan Cecelski
-Cyrena-Marie Arnold
-Julianna Brunini
 Adam Moyer
-James Banasik
-Bradley Sherwin
-John MacMillan
-Hannah Kent
-Domenic Venuto
-Andrew Odins
-Matthew Post
-Renny Vandewege
-John Breen
-Jeff R Noel
-Shaun Pammenter
-Leigh Munchak
-Chuck Khuen
-Andrew Larson
-Melissa Hartsock
-Rochelle Linsenbigler
-Andy Rice
-Michael Ferrari
-Shylesh Muralidharan
-Dennis Groseclose
-Gregory Scott
-Michael Reese
-George Lauro
-Phil Jung
-Olga Hogan
-Craig Mroczka
-Michael Francis
-Bryan Levenson
-Michael Peeler MS MBA
-Ben Herbert
-Tim Marquis
-Beth Kaplan
-Karen Braun
-Lynette Flinn
-Perry Rotella
-Sarah Boots
-David Gold
-Georg Isola
-Alexandra Sammon
-John Opatz
-Steve Miller
-melissa slabbert
-Paul Kesaris
-Rob Purser
-Katharine Kobylt
-Robbie Strickland
-Flor Brosnan
-Sage Hiller
-Dr. Arindam Samanta
 Alexander Engell
+Alexandra Sammon
+Andrew Larson
+Andrew Odins
+Andy Rice
 Ashlea Parrish
+Ben Herbert
+Benjamin Calder
+Benjamin Coons
+Benjamin Williams
+Beth Kaplan
+Beverly Parker
+Bill Pardue
+Bradley Sherwin
+Bryan Levenson
+Christopher Skarinka
+Chuck Khuen
+Craig Mroczka
+Cyrena-Marie Arnold
+Daniel Febrer
+David Gold
+Dennis Groseclose
+Domenic Venuto
 Don Berchoff
+Douglas Stolz
+Dr. Arindam Samanta
+Ellen Cousins
+Emmett Soldati
+Flor Brosnan
+Ganesh Kannan
+Georg Isola
+George Lauro
+Gregory Scott
+Hannah Kent
+James Banasik
+Jason Levit
+Jay Rustine
+Jeff R Noel
+Jeffrey Hughes
+John Breen
+John Crowley
+John L Keller
+John MacMillan
+John Opatz
+Jordan Foley
+Julianna Brunini
+Karen Braun
+Katharine Kobylt
+Kevin Worley
+Kristen Crawford
+Krystal Repoff
+Kyle Anderson
+Lacy Thomas
+Leigh Munchak
+Liz Mason
+Lynette Flinn
+Mark Dumas
+Mark York
+Matthew Post
+Matthew Souders
+Melissa Hartsock
+Michael Ferrari
+Michael Francis
+Michael Peeler MS MBA
+Michael Reese
+Mike Sperry
+Nathan Fullerton
+Nick Elliott
+Olga Hogan
+Parker Mitchell
+Paul Kesaris
+Paul Walsh
+Perry Rotella
+Phil Jung
+Raphael Rogers
+Renny Vandewege
+Rob Purser
+Robbie Strickland
+Rochelle Linsenbigler
+Sage Hiller
+Sarah Boots
+Sarah Levy
+Scott Merrick
+Sean Daigneault
+Shaun Pammenter
+Shylesh Muralidharan
+Stefan Cecelski
+Steve Miller
+Thomas Woolston
+Tim Marquis
+Tom Aley
+Tom Cecere
+Travis Hite
+Wallace Hogsett
+melissa slabbert

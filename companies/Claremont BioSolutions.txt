@@ -1,108 +1,80 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Mark Brown
-James Sterling
-John Maveety
-Bruce Irvine
-Anna Hickerson
-Gary Blackburn
-Ryan Talbot
-Jonathan Mak
-Paul Willett
-Bruce Irvine
-Katerina Yale
-Tanya M Ferguson
-Keith Herrington
-Jordan Magette
-Boris Gites
-John Cashion
-Ryan Bailey
-Elaine Chan
-Jenifer Krass
-Casey Fugitt
-Zander Carlson
-David Yokum
-Michael Drabinsky
-Vinh-Bao Nguyen
-Paige Irvine
-Ian McMartin
-Cloud Pharmaceuticals
-Falina Valerio
-Margaret Morgan
-Jarred Yacob
-Zachary Rockefeller-Hoffman
-Shara Ambrosecchia
-Dorene Doherty-Rignack
-Jesus Avalos
-Chris Ervin
-Philip Geurin
+Angela Aguilar
+Angela Quintana
 Angelika Niemz
+Anna Hickerson
+Arlene Tang
+Asjad Basheer
+Boris Gites
+Brandon Trinh
+Bruce Irvine
+Caitlen Corbett
+Casey Fugitt
+Cheri Alexander-Wilkerson
+Chris Ervin
+Cloud Pharmaceuticals
+Craig Eyster
+David Eichhorn
+David Yokum
+Donna Maki
+Dorene Doherty-Rignack
+Doug Page
+Ed Field
+Ed Fields
+Elaine Chan
+Falina Valerio
+Gary Blackburn
+Hrishikesh Thakur
+Ian McMartin
+Isela Mancisidor Solorzano
+Ivan Ban
+Jacqueline Ruano
 James Sterling
 Janice Lee
-Nathaniel Roybal
-Robert Doebler
-Walter Hinton
-Ross Longley
+Jarred Yacob
+Jason Alba
+Jenifer Krass
+Jeremy Anderson
+Jesus Avalos
+Jill Dawe
+Joanna Asprer
+Job De Jesus Huerta
+Joe Ouyang
+John Cashion
+John Maveety
+Jonathan Mak
+Jordan Magette
+Katerina Yale
+Keith Herrington
+Lawrence Groves
+Margaret Morgan
+Mark Brown
 Mark Marcelo
-John Cashion
-John Cashion
-Ivan Ban
-Tanya Ferguson
-Cheri Alexander-Wilkerson
-Bruce Irvine
-Steve Mattis
+Michael Drabinsky
 Micheal Read
 Nanci Cohen
-John Maveety
-Jacqueline Ruano
-Tanya Conner
-Craig Eyster
-Scott Giatpaiboon
-Robert Doubler
-Doug Page
-Jill Dawe
-Bruce Irvine
-Yutaka Tagaya
-Ed Fields
-Rochelle Carvalho
-Peter Cody Hunt
-Lawrence Groves
-Tracy Mitchell Blois
-Angela Quintana
-Arlene Tang
-Brandon Trinh
-Caitlen Corbett
-gladys cespedes
-Jason Alba
-Gary Blackburn
-Ed Field
-Job De Jesus Huerta
-Jeremy Anderson
-Joe Ouyang
-Hrishikesh Thakur
-Joanna Asprer
-Angela Aguilar
-David Eichhorn
-Bruce Irvine
+Nathaniel Roybal
 Oscar Candanoza Rios
-Donna Maki
-Isela Mancisidor Solorzano
-Asjad Basheer
+Paige Irvine
+Paul Willett
+Peter Cody Hunt
+Philip Geurin
+Robert Doebler
+Robert Doubler
+Rochelle Carvalho
+Ross Longley
+Ryan Bailey
+Ryan Talbot
+Scott Giatpaiboon
+Shara Ambrosecchia
+Steve Mattis
+Tanya Conner
+Tanya Ferguson
+Tanya M Ferguson
+Tracy Mitchell Blois
+Vinh-Bao Nguyen
+Walter Hinton
+Yutaka Tagaya
 Yvonne Klaue
+Zachary Rockefeller-Hoffman
+Zander Carlson
+gladys cespedes

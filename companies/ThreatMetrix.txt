@@ -1,112 +1,93 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-John Lindner
-Reed Taussig
-Ofer Mizrach
-Mike Cichon
-Dean Weinert
-Armen Najarian
-Dan Tauber
+Aidan Herbert
+Albert Nguyen
+Alejandra Gallastegui
+Alex Andrews
+Alex Forss
 Alisdair Faulkner
-Lizzie Clitheroe
-Pascal Podvin
 Andreas Baumhof
-Matthias Baumhof
-George Tubin
-Ted Egan
+Andy Swett
+Armen Najarian
+Ben Reback
+Bert Rankin
+Billy Ho
 Brandon Carr
+C. David Ader
+Cameron Church
+Carmen Honacker
+Chad Scott
+Chuck Buffum
+DC Cullinane
+Damien Henriksen
+Dan Rampe
+Dan Tauber
+Daniel Yorkey
 Daniel Zamani
-Tom Trembois
+Dany Kurian
+David Jones
+Dean Weinert
+Dennis Vogt
+Eamon Murphy
+Eric Negler
+Frank Erf
+Frank Teruel
+Fred Krauss
+Gagan Sekhon
+George Oberle
+George Tubin
+Himanshu Bari
+Howard Yu
 Ilan Krayn
 Jaci Robbins
-Nate Kharrl
-Eamon Murphy
-Stephanie Wehrung
-Tony Larks
-Billy Ho
-Rhonda Bunch
-Tom Ruggeri
-Larry Venter
-Dany Kurian
-Gagan Sekhon
-Rhonda MacLean
-Steve Jones
-C. David Ader
-David Jones
-Robert Birnie
-Frank Erf
-Himanshu Bari
-Patrick Chen
-Laura Kirkham
-Daniel Yorkey
-Victor Thornton
-Stephanie T. Eng
-Lyubov Molodikova
-Justin Black
-Jonathan Muise
-Frank Teruel
-Alex Andrews
-Dan Rampe
-Wesley Spowhn
-Ken Lam
-Albert Nguyen
-DC Cullinane
-Vince Lau
-Nick Blievers
-George Oberle
-Aidan Herbert
-Marc Lee
-Robert Pistor
-Howard Yu
 Jean-Bernard Dumerc
-Jun Zhang
-May Calceta
-Zach Watkins
-Kevin Watkins
-Michael Lee
 Jim Seymour
-Chuck Buffum
 Jody Freedman
 John B. Marra
+John Lindner
+Jonathan Muise
+Jun Zhang
+Justin Black
 Katherine Decina
+Ken Lam
+Kevin Watkins
 Kyle Rohrs
-Sean-Michael Holman
-Nick Maggipinto
-Cameron Church
-Richard Dobber
-Damien Henriksen
-Carmen Honacker
-Ben Reback
-Alejandra Gallastegui
-Chad Scott
-Fred Krauss
-Eric Negler
-Andy Swett
+Larry Venter
+Laura Kirkham
 Lenny Winsel
-Rosalina Liszikam
+Lizzie Clitheroe
+Lyubov Molodikova
+Marc Lee
 Maria Louca
-Rob J. Dorney
-Tracy Hsu
-Alex Forss
+Matthias Baumhof
 Max Hufft
-Dennis Vogt
-alan yin
+May Calceta
+Michael Lee
+Mike Cichon
+Nate Kharrl
+Nick Blievers
+Nick Maggipinto
+Ofer Mizrach
+Pascal Podvin
+Patrick Chen
+Reed Taussig
+Rhonda Bunch
+Rhonda MacLean
+Richard Dobber
+Rob J. Dorney
+Robert Birnie
+Robert Pistor
+Rosalina Liszikam
 Samira Kerdoun
-Bert Rankin
+Sean-Michael Holman
+Stephanie T. Eng
+Stephanie Wehrung
+Steve Jones
+Ted Egan
+Tom Ruggeri
+Tom Trembois
+Tony Larks
+Tracy Hsu
+Victor Thornton
+Vince Lau
+Wesley Spowhn
+Zach Watkins
+alan yin

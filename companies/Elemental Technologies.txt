@@ -1,117 +1,98 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jesse Rosenzweig
-Keith Wymbs
-Sam Blackman
-Steven Swanson
-Christine James
-Tom Gilman
-Laura Barber
-Lisa Epstein
-Joey North
-Lionel Bringuier
-Liz Scott
+Abbas NEMR
+Adam Hill
+Alan Spain
+Alicia Hunt
 Alyson Beck
-Emily Barrett
-Kevin Moore
-Greg Truax
-Dan Wardle
-Sara Felsenthal
-Eli Blackman
-Dustin Encelewski
-Greg Zwart
-Brandon Zupancic
-Andy Bell
-Paula Taylor
-Brooke Bano
-David Montgomery
-Sabina Andersson
-Benjamin Ferrentino
-Aslam Khader
-Kathy Thielen
 Amanda Marion Shore
+Andy Bell
+Angela Wigmore
+Aslam Khader
+Barry Lauer
+Ben Black
+Benjamin Defnet
+Benjamin Ferrentino
+Bert Mecham
 Brandon Kahler
-Olaf Nielsen
-Varad Joshi
-Dan Gaur
+Brandon Zupancic
 Brian Enigma
+Brian Flynn
+Brooke Bano
+Bud Hann
+Caleb Stelle
+Christine James
+Dan Gaur
+Dan Marshall
+Dan Wardle
+David Miller
+David Montgomery
+David Rubin
 Denise Veilleux
 Devon Lee
-Alicia Hunt
-Gil McIntire
-Keith Hogan
-David Miller
-Lyn Pangares
-Mark Horchler
-Mark Cousins
-James Murphy
-Manuel De Pena
-Mike Schlesier
-Todd Hinders
-Michelle Winnett
-Bud Hann
-Khawaja Shams
-Nathan ODonnell
-Barry Lauer
-Mike Kale
-Robin Allbritton
-Lindy Anderson
-Kristen Gallagher
-Jon-Erik Svenson
+Dustin Encelewski
 Dwayne Brady
-Caleb Stelle
-Alan Spain
-Bert Mecham
-Leila Hrycyszyn
-Roy Wyss
-Ray Meyers
-Lyman Potts
-Benjamin Defnet
-Shaun Lile
-John Nemeth
-Garrett Sparks
-Steve Crowder
-Adam Hill
-Erik Unverdruss
 Eddie Goynes
-Henry Canizares
-Dan Marshall
+Eli Blackman
+Emily Barrett
+Erik Unverdruss
 Evan Statton
-Heidi Schulman Greenwald
-Lorne Vaught
-Scott Brisko
-David Rubin
-Ben Black
-Michael Powell
-Sally Kuhl
-Pete Simons
-Tom Quick
+Garrett Sparks
+Gil McIntire
 Greg Baumhover
+Greg Truax
+Greg Zwart
+Heidi Schulman Greenwald
+Henry Canizares
 Holly Farmer
-Brian Flynn
-Angela Wigmore
-Jonathan Moore
-Zao Naegele
+James Murphy
 Jason Ackman
-Shannon N. Heim
-Matt Buk
+Jesse Rosenzweig
+Joey North
+John Nemeth
 John Saxton
-Abbas NEMR
+Jon-Erik Svenson
+Jonathan Moore
+Kathy Thielen
+Keith Hogan
+Keith Wymbs
+Kevin Moore
+Khawaja Shams
+Kristen Gallagher
+Laura Barber
+Leila Hrycyszyn
+Lindy Anderson
+Lionel Bringuier
+Lisa Epstein
+Liz Scott
+Lorne Vaught
+Lyman Potts
+Lyn Pangares
+Manuel De Pena
+Mark Cousins
+Mark Horchler
+Matt Buk
+Michael Powell
 Michele Harman
+Michelle Winnett
+Mike Kale
+Mike Schlesier
+Nathan ODonnell
+Olaf Nielsen
+Paula Taylor
+Pete Simons
+Ray Meyers
+Robin Allbritton
+Roy Wyss
+Sabina Andersson
+Sally Kuhl
+Sam Blackman
+Sara Felsenthal
+Scott Brisko
+Shannon N. Heim
+Shaun Lile
+Steve Crowder
+Steven Swanson
+Todd Hinders
+Tom Gilman
+Tom Quick
+Varad Joshi
+Zao Naegele

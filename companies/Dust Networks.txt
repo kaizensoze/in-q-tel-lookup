@@ -1,116 +1,89 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Rob Conant
-Yuri Zats
-Thomas Watteyne
-Steven Toteda
-Andrey Bondarev
-Jeff Fitch
-Henry Lieu
-Laura Abram
-Dave Lerner
-Frank Ye
-Conrad Nguyen
-David Cohen
-Jess Valdez
-Saeid Moshkelani
-J Jobin
-Kenneth Chum
-An Liu
+Aarash Bordbar
+Adrian Fettes
+Ahmed Medhioub
+Alex Yunerman
+Alisa Yaghubyan
 Ammar Khan
-Saranya Chundi
-Stark Pister
-Robert Shear
-Richard Leath
-Sergey Zolotarev
-Sam Ye
+An Liu
+Andreas Raptopoulos
+Andrey Bondarev
+Ardeshir Bordbar
+Ashwini Raman
+Ben Cheng
+Brandon Warneke
+Conrad Nguyen
+Dana Manalang
+Dave Lerner
+David Amusin
+David Cohen
+Erin Collopy
+Fadi Abourjeily
+Flavio Rump
+Francis Rabuck
+Frank Ye
+Frederick Enns
+Gerard Velcelean
+Henry Lieu
+J Jobin
+Jamie Brodie
+Jan Erik Ramstad
+Jay Werb
+Jeff Fitch
+Jenny Miller
+Jess Valdez
+Jonathan Simon
+Justin Dustzadeh
+Kenneth Chum
+Kurt Ottaway
+Laura Abram
+Lena Blok
+Lisa Henry
+Mark Mah
 Matt Hoover
 Meg Godfrey
-Henry Lieu
-Ben Cheng
-Rahul Balani
-james thomos
-Ardeshir Bordbar
-Pamela Lindsay
-Phoebus Chen
-Soren Curry
-Pawel mak
-Tad Dreier
-Jenny Miller
-Alex Yunerman
-Lena Blok
-Walter Abbott
-Sharon Kuhn
-Michael Umansky
-Nathan Ota
-Sharon Kuhn
-Aarash Bordbar
-Philip Alex
-Ray Tsai
-Henry Lieu
-Mike Klein
-Warren Verbanec
-Ric Peregrino
-Ahmed Medhioub
-Fadi Abourjeily
-Valerie Nono
-Steven Rosenau
-Stephan Tiriac
-Justin Dustzadeh
-Miguel Camacho
-Frederick Enns
-Saeid Pourroostaei Ardakani
-Alisa Yaghubyan
 Michael J. Anzalone
-Rakshith Jagannath
-Jan Erik Ramstad
-Ashwini Raman
-Jamie Brodie
-Ted Wood
-Mark Mah
-Jay Werb
-Andreas Raptopoulos
-Paul Sereiko
-Flavio Rump
-Ashwini Raman
-Gerard Velcelean
-Noah Treuhaft
-Francis Rabuck
-Conrad Nguyen
-Lisa Henry
-Robert Shear
-Tim Smith
-Brandon Warneke
-Nicola Bergamin
-Subasree Venkatesan
-Adrian Fettes
-Molly Sun
-Erin Collopy
-Andreas Raptopoulos
-Tom Fox
-Fadi Abourjeily
+Michael Umansky
+Miguel Camacho
+Mike Klein
 Mohamad Saad
-lulu cody
-Kurt Ottaway
-auzie morgan
-Dana Manalang
+Molly Sun
+Nathan Ota
+Nicola Bergamin
+Noah Treuhaft
+Pamela Lindsay
+Paul Sereiko
+Pawel mak
+Philip Alex
+Phoebus Chen
+Rahul Balani
+Rakshith Jagannath
+Ray Tsai
+Ric Peregrino
+Richard Leath
+Rob Conant
+Robert Shear
+Saeid Moshkelani
+Saeid Pourroostaei Ardakani
+Sam Ye
+Saranya Chundi
+Sergey Zolotarev
+Sharon Kuhn
+Soren Curry
+Stark Pister
+Stephan Tiriac
+Steven Rosenau
+Steven Toteda
+Subasree Venkatesan
+Tad Dreier
+Ted Wood
+Thomas Watteyne
+Tim Smith
+Tom Fox
 Trevor Kavanaugh
-Jonathan Simon
-David Amusin
+Valerie Nono
+Walter Abbott
+Warren Verbanec
+Yuri Zats
+auzie morgan
+james thomos
+lulu cody

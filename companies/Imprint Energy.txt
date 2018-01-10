@@ -1,114 +1,87 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Christine Ho
-Brooks Kincaid
-Devin MacKenzie
-Darren Chambers
-Washington Reeder
-Steve Weiss
-Jesse Pineda
-Kourosh Bakhtvar
-Dr. Dirk Dreissig
-David Eagleson
-Morgan Monroe
-Ameer Ellaboudy
-Mike Coleman
-Jim Paradise
-Heather Bowerman
-Alex Papavasiliou
-Chaojun Shi
-Michael Allen
-Susan Donadio
-Jesse Smithyman
-Gigi Lin
-Farzad Nazem
-Christine Ho
-Yuichi Katoh
-Qichao Hu
-Brooks Kincaid
-Sam Jaffe
-Alexander A. Teran
-Krutarth Rami
-Karthik Yogeeswaran
-Lu Chen
-Alvis Chew
-Nicholas Perkins
-Ari Roisman
-Lior Susan
-Dirk Dreissig
-Kaede Yoshioka
-Arunkumar Tiruvannamalai
-Yoongu Kim
-Kendra Kuhl
-Todd Peters
-PEIYI YE
-Yang Tang
-Brian Schutter
-Darren Chambers
-ahmed shalaby
-xiaobo li
-Bryan Han
-George Burkhard
-Millicent Firestone
-Selin Kanyas
-Peter Kelly
-Amine Oueslati
-Venetia Espinoza
-Bob Powell
-Yancheng Zhang
-Yury Matulevich
-Caleb Ogier
-Emil Annevelink
-Kelly Flaherty
-Alexander Taussig
-Armen Vardanian
-Steven Coomer
-Federica Belli
-Xinrong Lin
 ATuan TT
+Alex Papavasiliou
+Alexander A. Teran
+Alexander Taussig
+Alvis Chew
+Ameer Ellaboudy
+Amine Oueslati
 Anaba Anani
-Jody Klaassen
+Ari Roisman
+Armen Vardanian
+Arunkumar Tiruvannamalai
+Benjamin Jenkins
+Bob Powell
+Brent Bursey
+Brian Schutter
+Brooks Kincaid
+Bryan Han
+Caleb Ogier
+Chaojun Shi
 Christine Ho
+Christine Hopman
+Cliften Beer
 Dan Davids
 Darren Chambers
-Christine Ho
-Thomas Dusek
-Stacia Skinner-Wells
-QIANG ZHENG
-Cliften Beer
-Keith Lewis
-Xiaorui Chen
-Kevin Esvelt
 David Eagleson
-Yongbong Han
+Devin MacKenzie
+Dirk Dreissig
+Dr. Dirk Dreissig
+Emil Annevelink
+Farzad Nazem
+Federica Belli
+George Burkhard
+Gigi Lin
+Heather Bowerman
+Jesse Pineda
+Jesse Smithyman
+Jim Paradise
+Jody Klaassen
 Jos Campbell
-Brent Bursey
+Kaede Yoshioka
+Karthik Yogeeswaran
+Keith Lewis
+Kelly Flaherty
+Kendra Kuhl
+Kevin Esvelt
 Kjell Schroder
-Benjamin Jenkins
-Wilson Wang
-Christine Hopman
-Yufei Wang
-Stephen Schwartz
-Rohan Gosalia
-David Eagleson
-Roger Roisen
-Peggy Hightower
-Neil Kreitman
+Kourosh Bakhtvar
+Krutarth Rami
+Lior Susan
+Lu Chen
+Michael Allen
+Mike Coleman
 Mike Koplow
+Millicent Firestone
+Morgan Monroe
+Neil Kreitman
+Nicholas Perkins
+PEIYI YE
+Peggy Hightower
+Peter Kelly
+QIANG ZHENG
+Qichao Hu
+Roger Roisen
+Rohan Gosalia
+Sam Jaffe
+Selin Kanyas
+Stacia Skinner-Wells
+Stephen Schwartz
+Steve Weiss
+Steven Coomer
+Susan Donadio
+Thomas Dusek
+Todd Peters
+Venetia Espinoza
+Washington Reeder
+Wilson Wang
+Xiaorui Chen
+Xinrong Lin
+Yancheng Zhang
+Yang Tang
+Yongbong Han
+Yoongu Kim
+Yufei Wang
+Yuichi Katoh
+Yury Matulevich
+ahmed shalaby
+xiaobo li

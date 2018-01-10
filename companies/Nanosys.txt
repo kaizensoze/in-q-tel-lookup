@@ -1,110 +1,91 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Andrew Filler
-Jason Hartlove
-Charlie Hotz
-Jeff Yurek
-Jared Lynch
-William Freeman
-Steve Gensler
-Jonathan Truskier
-Oleg Grachev
-Jian Chen
-Qing Song
-Daniel Barry
-Paul Altamirano
-Bob Busse
-Zhongsheng Luo
-Austin Smith
 Aaron Baird
-Amanda Carpenter
-Xiaofeng Zhang
-Nancy Raab
-Ashley Tantiwong
-Hugh Daniels
-Shihai Kan
-Mara Brewer
-Veeral Hardev
-Ophelia Skiver
-Michael Dooley
-David Pekarsky
-Martin Devenney
-Jay Yamanaga
-Michael Niemeyer
-Regis McKenna
 Adrienne van Haeften
-Bruce Berkoff
-Chris Alexander
-Tim Slugocki
-Christian Ippen
-Noland Granberry
-Christopher Sunderland
-Eileen Yi
-Jim Hildebrand
-Duyen Vu
-John Curley
-Anh Duong
-Ravisubhash Tangirala
-Cheri Pereira
-David Olmeijer
-Joshua Simmons
-Yan Li
-Heejae Kim
-Russell Kempt
-Madhuri Nallabolu
-Bob Dubrow
-Raj Khatri
-Tina Arruabarrena
-Kyle Shank
-Eric Wiggins
-Brian Yap
-Baixin Qian
-Juergen Hoefler
-Annie Chow
-Wally Parce
-Rose Beeler
-Stacey Chan
-Yimin Zhu
-Samuel Yeung
+Amanda Carpenter
 Andrea Gonzales
-Steve Burton
+Andrew Filler
+Anh Duong
+Annie Chow
+Ashley Tantiwong
+Austin Smith
+Baixin Qian
 Benjamin Swain
-Jun Kang
-Erik Freer
-Donald Zehnder
-Jesse Manders
-Natalie Phanstiel
-Majid Ghafghaichi
-Matt Espinoza
-James Read
-Si Huynh
+Bob Busse
+Bob Dubrow
+Brian Yap
+Bruce Berkoff
+Charlie Hotz
+Cheri Pereira
+Chris Alexander
+Christian Ippen
+Christopher Sunderland
+Chunsheng Du
 Dalena Tran
-Michael Pachos
-Esther Li
-Victor Hsia
+Daniel Barry
 Dave Stumbo
+David Olmeijer
+David Pekarsky
+Donald Zehnder
+Duyen Vu
+Eileen Yi
+Emma Tardiff
+Eric Wiggins
+Erik Freer
+Esther Li
+Heejae Kim
+Hugh Daniels
 Jacob Heaps
 Jagraj Singh
-Chunsheng Du
+James Read
+Jared Lynch
+Jason Hartlove
+Jay Yamanaga
+Jeff Yurek
+Jesse Manders
+Jian Chen
+Jim Hildebrand
+John Curley
 John Fowler
+Jonathan Truskier
+Joshua Simmons
+Juergen Hoefler
+Jun Kang
 Kao Saechao
+Kyle Shank
+Madhuri Nallabolu
+Majid Ghafghaichi
+Mara Brewer
+Martin Devenney
+Matt Espinoza
+Michael Dooley
+Michael Niemeyer
+Michael Pachos
 Mona Perez
-Emma Tardiff
+Nancy Raab
+Natalie Phanstiel
+Noland Granberry
+Oleg Grachev
+Ophelia Skiver
+Paul Altamirano
+Qing Song
+Raj Khatri
+Ravisubhash Tangirala
+Regis McKenna
+Rose Beeler
+Russell Kempt
+Samuel Yeung
+Shihai Kan
+Si Huynh
 Srikanth Ranganathan
+Stacey Chan
+Steve Burton
+Steve Gensler
+Tim Slugocki
+Tina Arruabarrena
+Veeral Hardev
+Victor Hsia
+Wally Parce
+William Freeman
+Xiaofeng Zhang
+Yan Li
+Yimin Zhu
+Zhongsheng Luo

@@ -1,116 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Patrick Gilligan
-Richard Tibbetts
-Eddie Galvez
-Steven Yang
-Chris Risley
-Jim Campbell
-Nathaniel Mishkin
-James Tomkinson
-Mark Baltier
-John Partridge
+Alan L. Kosow
 Alan Sutherland
-Jonny Orton
-Matt Fowles
-Emily Pan
-Jim Mulcahey
-Justin Weir
-Barton Wright
-Mark Palmer
-Mark Bannon
-Terrence Kim
-Rick Tacelli
-Steve Barber
-John Deaver
-Joan Friedman
-Beth Lipsius
-Naomi Seyfer
-Mike Kong
-John Giffin
 Alex Henson
-oliver schultz
-Paul Harmon
+Alexander Taussig
+Alia Murphy
+Barton Wright
+Beth Lipsius
+Bill Hobbib
+Chris Risley
+Christine Johnson
+Darach Ennis
+Darryn Ross
+David Rydzewski
+Deborah Tristao
+Denis Urusov
+Disha Juriasinghani
 Donald Carney
-Paul Laight
+Donna Parent
+Dr. Michael Waclawiczek
+Duncan C McCallum
+Eddie Galvez
+Elizabeth Lipsius
+Elizabeth Mishkin
+Emily Pan
+Eric Garcia
+Erik Currin
+Fiona Dossin
+Geoffrey Dutton
+Giuseppe Incitti
 Heather St.Peter
-Katherine Nelson
+Ian Yates
+Ian Ynda-Hummel
+Jacek Ambroziak
+Jacob Frank
+James Tomkinson
+Jeff Laretto
 Jeffrey Goodwin
 Jeffrey Paul Themanis
-Darryn Ross
-Deborah Tristao
-Michael Benjamin
+Jim Campbell
+Jim Mulcahey
+Jim Speredelozzi
+Joan Friedman
 Johannes Gehrke
-Ruei-Hsin Hsiao
-Donna Parent
-David Rydzewski
-Alexander Taussig
-Bill Hobbib
-Mark Karuzis
-Alan L. Kosow
-Jeff Laretto
-Mark Bannon
+John Deaver
+John Giffin
+John Gray
+John Partridge
+John Paul Jones
+John Smart
+Jonny Orton
+Joseph Sokol-Margolis
+Justin Weir
+Katherine Nelson
+Kelly Adams
+Ken Marshall
 Kevin Riggle
-Terry Halloran
-Man-Ung Yi
 Lakshmi Sadasiv
 Lauren Ames
-Ian Ynda-Hummel
-Kelly Adams
-Jacek Ambroziak
-Erik Currin
-Eddie Galvez
-Vladimir Gusev
-John Gray
-Darach Ennis
-Nicholas Brown
-Giuseppe Incitti
-Elizabeth Mishkin
-Barton Wright
-Jim Speredelozzi
-Denis Urusov
-Dr. Michael Waclawiczek
+Man-Ung Yi
+Mark Baltier
+Mark Bannon
+Mark Karuzis
+Mark Palmer
+Mark Simons
+Matt Fowles
 Max Leonard
-John Smart
-Duncan C McCallum
-Alia Murphy
-Oliver Schultz
-Joseph Sokol-Margolis
-Tracy Williams
-Christine Johnson
-Alexander Taussig
-Geoffrey Dutton
-Scott Stickel
-Paulo Sousa
-Disha Juriasinghani
-Fiona Dossin
-Eric Garcia
-Mark Simons
-Simon Keen
-John Paul Jones
-Rich Wilkins
-Ian Yates
-Ken Marshall
-Mark Simons
-Elizabeth Lipsius
-Jacob Frank
-Wenbin Xiao
+Michael Benjamin
 Michal Msciwujewski
+Mike Kong
+Naomi Seyfer
+Nathaniel Mishkin
+Nicholas Brown
+Oliver Schultz
+Patrick Gilligan
+Paul Harmon
+Paul Laight
+Paulo Sousa
+Rich Wilkins
+Richard Tibbetts
+Rick Tacelli
+Ruei-Hsin Hsiao
+Scott Stickel
+Simon Keen
+Steve Barber
 Steven Warwick
+Steven Yang
+Terrence Kim
+Terry Halloran
+Tracy Williams
+Vladimir Gusev
+Wenbin Xiao
+oliver schultz

@@ -1,111 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Julie Cullivan
-Ashar Aziz
-Zheng Bu
-Barbara Massa
-Bret Brasso
-John McGee
-Vitor Souza
+Aaron Cherrington
+Adam Palmer
+Alan Sanderson
+Alex Lanstein
+Alex Lawrence
 Alexa King
-Manish Gupta
-Kevin Mandia
-Jason Martin
-Grady Summers
-Bryce Boland
-Richard Bejtlich
-Jeff Williams
-Mike Berry
-Ken Gonzalez
-Shweetha Krishna
-Shane McGee
-Dave DeWalt
-Joshua Goldfarb
-Rajiv Raghunarayan
-Michael Huynh
-Dave Merkel
-Will Green
-Kara Wilson
-Tony Cole
+Ali Islam Khan
+Ali Mesdaq
+Amitha Alva
+Arvind Ahuja
+Ashar Aziz
 Ashley Murdock
-Vijaya Kaza
-Ryan Brichant
-Tony Lee
-Richard Turner
+Barbara Massa
+Berlyann Paz
+Bobby Guttikonda
+Bret Brasso
+Bryce Boland
+Christina Foley
+Christopher Lehman
 Christopher Porter
+Chul Yim
+Craig Rosen
+Dan Cottrell
+Dan Wire
+Darien Kindlund
+Darshna Kamani
+Dave DeWalt
+Dave Merkel
+Eric Hoh
+Frank Verdecanna
+Gary Ross
+Gauri Nigam
+Grady Summers
+Helene Vieyra
+Holly Rollo
+James Bennett
+Jason Martin
+Jason Meller
+Jeff Williams
+Jen Weedon
+Jim Lawrence
+Jimmy Su
+John Chase
+John McGee
+John Quinn
+Joshua Goldfarb
+Julie Cullivan
+Kara Wilson
+Kate Patterson
 Kaushal Dalal
 Kelly Cody
-Berlyann Paz
-Craig Rosen
-Dan Wire
-Jim Lawrence
-Christopher Lehman
-Nhien Le
-Darshna Kamani
-Chul Yim
-Jen Weedon
-Eric Hoh
-Marissa Arruda
-John Chase
-Sarah Woods
-Amitha Alva
-Travis Reese
-Paul Canty
-Laura Galante
-Krista Gray
-Holly Rollo
-Adam Palmer
-John Quinn
-Helene Vieyra
-Dan Cottrell
-Frank Verdecanna
-Nart Villeneuve
-Aaron Cherrington
-Alex Lawrence
-Michael Smith
-Neeraj Kulkarni
-Morgan Kyauk
-Christina Foley
-Alex Lanstein
-Jimmy Su
-Rudolph Araujo
-Ali Mesdaq
-Alan Sanderson
-Arvind Ahuja
-Therese Coutermarsh
-Michael Montoya
-Steve Harris
-Bobby Guttikonda
+Ken Gonzalez
 Kevin Bordlemay
-Varun Jain
+Kevin Mandia
+Krista Gray
+Laura Galante
+Manish Gupta
 Mansi Singh
+Marissa Arruda
+Michael Huynh
+Michael Montoya
+Michael Smith
+Mike Berry
+Morgan Kyauk
+Nart Villeneuve
+Neeraj Kulkarni
+Nhien Le
 Nik Churchley
-Jason Meller
-James Bennett
-Ramya Parashar
-Ruby Sharma
-Swarup Selvaraman
-Gauri Nigam
-Kate Patterson
+Paul Canty
 Paul Milton
-Gary Ross
-Darien Kindlund
+Rajiv Raghunarayan
+Ramya Parashar
+Richard Bejtlich
+Richard Turner
+Ruby Sharma
+Rudolph Araujo
+Ryan Brichant
+Sarah Woods
+Shane McGee
+Shweetha Krishna
 Stephanie Boo
-Ali Islam Khan
+Steve Harris
+Swarup Selvaraman
+Therese Coutermarsh
+Tony Cole
+Tony Lee
+Travis Reese
+Varun Jain
+Vijaya Kaza
+Vitor Souza
+Will Green
+Zheng Bu

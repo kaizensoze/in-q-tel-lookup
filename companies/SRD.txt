@@ -1,75 +1,55 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Gercho Atanasov
-Andy Slocombe
-Derek Williams
-Jifu Tan
-Mariam Klait
-Dejan Krstevski
-Jay Kee
-Emilie Chevrier
-Ray Bettiss
-sara ryan duffy
-firoz tennali
-Hester Blaauw-van Lingen
 Andy Robertson
-Justin Day
-Scott Dickson
-Paul Rico
-Jiten Saikia
-Mark Jeske
-Sanjay Dwivedi
-David Daines
-Sarah Anud
-Richard Leach
-Lewis Joyce
-Jim Cudahy
-Greg Campbell
-Kim Schweibinz
-Sayed-Amr El-Hamamsy
-Stephen R. Dyer
-Dejan Krstevski
-Lisa Copland
-JAMES SHEEDY
-Dangielo Evangelista
-antoine teiten
-Malcolm Washbourne
-Mark H Whitnall
-Shaunak Dalal
+Andy Slocombe
 Barry Levinson
-Erwin Eichmann
-Suzie Scanlon
 Carlos Vigil
-Jake D. Mason
-Saxon Sitka
-Martina Petkovska Kuzmanoska
-Seth Davis
-Rosario Sorce
-Jeanne Snodgrass
 Christopher Shannon
-Spencer Davis
-Raj Bharya
-Peter Spevak
-James Larsen
-Elodie Le Paih
+Dangielo Evangelista
 Danny M. Goldberg
-Stuart Roberts
+David Daines
+Dejan Krstevski
+Derek Williams
+Elodie Le Paih
+Emilie Chevrier
+Erwin Eichmann
+Gercho Atanasov
+Greg Campbell
+Hester Blaauw-van Lingen
+JAMES SHEEDY
+Jake D. Mason
+James Larsen
+Jay Kee
+Jeanne Snodgrass
+Jifu Tan
+Jim Cudahy
+Jiten Saikia
+Justin Day
+Kim Schweibinz
+Lewis Joyce
+Lisa Copland
+Malcolm Washbourne
+Mariam Klait
+Mark H Whitnall
+Mark Jeske
+Martina Petkovska Kuzmanoska
+Paul Rico
+Peter Spevak
+Raj Bharya
 Rajesh Ragi
+Ray Bettiss
+Richard Leach
+Rosario Sorce
+Sanjay Dwivedi
+Sarah Anud
+Saxon Sitka
+Sayed-Amr El-Hamamsy
+Scott Dickson
+Seth Davis
+Shaunak Dalal
+Spencer Davis
+Stephen R. Dyer
 Steve Dumper
+Stuart Roberts
+Suzie Scanlon
+antoine teiten
+firoz tennali
+sara ryan duffy

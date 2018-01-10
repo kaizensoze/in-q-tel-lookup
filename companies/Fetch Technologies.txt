@@ -1,108 +1,89 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Greg Barish
-John Seyfert
-Yigal Arens
-Tyler Breisacher
-Michael Walker
-Mike Horowitz
-Rick Parker
-Sorin Ticrea
-Anthony Mancinelli
-Komal Wazir
-Timo Kissel
-Jeffrey Hoffer
-Bernadette Minton
-Tom Williams
-Steve Minton
-Zachary Miller
-Daniel Franco
-Bryan Pelz
-Martha Pease
-Robert Landes
-James Choi
-Jerry Thurber
-Scott Allison
-Jon Simmons
-Jenson Crawford
-Neha Kansal
-Ryan Mulholland
-Nave Koren
-Daniel W. Goldberg
-Crosby Steiner
-Gary Hirschhorn
 Ali Bandukwalla
-Ken Hanscom
-Jim Marczyk
-Michelle Kowalski
-Shivanand Kini
-Prabakaran Murugaiah
-Robert Sansom
-Craig Burns
-Heidi Wagner
-Jennifer Beach
-Audrey McCarthy
-Debra A. Hunter
-Gabriela LuGrain-Gray
-Dave Adam
-Gordon Myers
-Sangeetha Raman
-Nils Vinje
 Andrew Walker
-Jake Roach
-William Chen
-Craig Knoblock
-Gary MacKinnon
-Phouthon Siharat
-Joshua Lovett
-Pui Gazen
-John McGee
-Seema Tailor
-Melonee Wise
-David Refsland
+Anthony Mancinelli
 Aubrey Nash
-Griswald Brooks
-Olena Hozdetska
-Kate Becker
-Scott Vanek
+Audrey McCarthy
+Bernadette Minton
+Bryan Pelz
 Cenk Gazen
-Grace Lin
-Sean M. Hawver
-Madhura Deshmukh
-Jeeva Ratnathicam
-Dan Davidow
-Elizabeth James
-Tyler Heinzelmann
+Craig Burns
+Craig Knoblock
+Crosby Steiner
 Dae Hee Hwang
-Grant Koeneke
-m.Michelle Mesh
-Jarad Medbery
-Muneeb Bokhari
-Greg Hamilton
+Dan Davidow
+Daniel Franco
+Daniel W. Goldberg
+Dave Adam
+David Refsland
+Debra A. Hunter
+Elizabeth James
 Eric Odland
+Gabriela LuGrain-Gray
+Gary Hirschhorn
+Gary MacKinnon
+Gordon Myers
+Grace Lin
+Grant Koeneke
+Greg Barish
+Greg Hamilton
+Griswald Brooks
+Heidi Wagner
+Jake Roach
+James Choi
+Jarad Medbery
+Jay Cowan
+Jean Oh
+Jeeva Ratnathicam
+Jeffrey Hoffer
+Jennifer Beach
+Jenson Crawford
+Jerry Thurber
+Jim Marczyk
+John McGee
+John Seyfert
+Jon Simmons
+Joshua Lovett
+Kate Becker
+Ken Hanscom
+Komal Wazir
 Luke Fenstermacher
 Madeleine Pincu
-Shannon Foster
-Mila Piedra
+Madhura Deshmukh
+Martha Pease
+Melonee Wise
+Michael Walker
+Michelle Kowalski
+Mike Horowitz
 Miki Kim
-Will Fike
+Mila Piedra
+Muneeb Bokhari
 Muneeb Wasti
-Jean Oh
-Jay Cowan
+Nave Koren
+Neha Kansal
+Nils Vinje
+Olena Hozdetska
+Phouthon Siharat
+Prabakaran Murugaiah
+Pui Gazen
+Rick Parker
+Robert Landes
+Robert Sansom
+Ryan Mulholland
+Sangeetha Raman
+Scott Allison
+Scott Vanek
+Sean M. Hawver
+Seema Tailor
+Shannon Foster
+Shivanand Kini
+Sorin Ticrea
+Steve Minton
+Timo Kissel
+Tom Williams
+Tyler Breisacher
+Tyler Heinzelmann
+Will Fike
+William Chen
+Yigal Arens
+Zachary Miller
+m.Michelle Mesh

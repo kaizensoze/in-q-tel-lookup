@@ -1,113 +1,88 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Bhana Grover
-Raj Haldar
-Alexander Gizis
-Damion Waltermeyer
-Brian Prodoehl
-Frank Pollard
-Kevin McCarthy
-Nathan Gilbert
-David McCallister
-Tiani Jones
-Michael Kane
-Jenny Marder
-Tushar Soni
-Andrew Lakata
-Samir Grover
-Cristian Miculi-Pop
-Scott Perkins
-Ryan Van Dongen
-Morgan Churchman
-Scott Ackerman
-Linda Pollard
-Demetrius Parker
-Darielle Brown-Davis
-Deep Shah
-Filip Larsson
-William McPherson
-Santosh Reddy
-Irish McIntyre
-Tiani Jones
-Gaurav Sakhuja
-Ruud van Eck
-Mathias P. H. Christensen
-Abhishek Gupta
-Morgan Churchman
-Mark Tippin
-Raj Haldar
-Ken Kim
-Marygrace Blum
-Christopher Krook
-Pouguinipo Daniel WOAGOU
-Andrew Lakata
-Marcia Thompson-Preston
-Anurag Icici
-Dr. Henry Cole
+AMOUZOU Kodjovi Mawuli
 Abdul Aziz Alim
-Irene Fridman
-David Lewanda
-Yendou-Palu Kossi Lene
-Kenneth Bectell
-Yazmintile Totalmobile
-James Smith
-Rusty Roberts
-Demetrius Parker
+Abhishek Gupta
+Agbessi Koshigan
+Ahmed Al-Badran
+Alexander Gizis
+Andrew Lakata
+Anurag Icici
+Ariadna Martinescu
+Ashwin Manikandan
+Bhana Grover
+Brian Prodoehl
+Charise Green
+Christopher Krook
+Cristian Miculi-Pop
+Damion Waltermeyer
 Daniel Pouguinipo WOAGOU
-Hanumant Ausare
+Darielle Brown-Davis
+David Lewanda
+David McCallister
+Deep Shah
+Demetrius Parker
 Dhaval Damniwala
-Steven Partenio
-Michael Quatrani
-Pattawong Pansodtee
-Kapil Singh
-zakia sorgo
+Douglas Herman
+Dr. Henry Cole
+Faran Shah
+Filip Larsson
+Francis McInerney
+Frank Pollard
+Gaurav Sakhuja
+Hanumant Ausare
+Irene Fridman
+Irish McIntyre
 James Harker-Syren
+James Smith
+James Tabb
+Jenny Marder
+John Alessi
 Johnni Nikolajsen
+Joshua H. Coyne
+Kapil Singh
+Karim Hermes Ismael nguema adehan
+Ken Kim
+Kenneth Bectell
+Kevin McCarthy
+Kimesh Gupta
+Kristian Miculi
+Lesley Safer
+Linda Pollard
+Luisa Contreiras
+Maquanda Davis
+Marcia Thompson-Preston
+Mark Tippin
+Marygrace Blum
+Mathias P. H. Christensen
+Melissa Gallo
+Michael Kane
+Michael Quatrani
+Morgan Churchman
+Mukhlis Zolkipli
+Nathan Gilbert
+Pattawong Pansodtee
+Petraq Koka
+Pouguinipo Daniel WOAGOU
+Raj Haldar
+Rusty Roberts
+Ruud van Eck
+Ryan Van Dongen
+Samir Grover
+Sanjul Singh
+Santosh Reddy
+Scott Ackerman
+Scott Perkins
+Serge BISSARI
+Stacy Kaczorowski
+Steven Partenio
+Tiani Jones
+Tomas Rodriguez
+Tushar Soni
+UMACHI ADIGHIBE
+Usman Ahmed
+William McPherson
+Yazmintile Totalmobile
+Yendou-Palu Kossi Lene
 Yichi Li
 Yoga Loft
-Karim Hermes Ismael nguema adehan
-Agbessi Koshigan
-Linda Pollard
-Serge BISSARI
-AMOUZOU Kodjovi Mawuli
-John Alessi
-Ashwin Manikandan
-Sanjul Singh
-Petraq Koka
-Luisa Contreiras
-Kimesh Gupta
-Ahmed Al-Badran
-Kristian Miculi
-Charise Green
-Mukhlis Zolkipli
-Joshua H. Coyne
-Ariadna Martinescu
-Melissa Gallo
-Tomas Rodriguez
-UMACHI ADIGHIBE
-Douglas Herman
-James Tabb
 yunhui wang
-Usman Ahmed
-Lesley Safer
-Stacy Kaczorowski
-Maquanda Davis
-Francis McInerney
-Faran Shah
+zakia sorgo

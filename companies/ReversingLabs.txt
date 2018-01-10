@@ -1,94 +1,71 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Igor Lasic
-Petar Dudukovski
-Joshua Mahoney
-Juraj Gospodaric
-David Fair
-John Hanratty
+Aaron Eppert
 Borko Jandras
-Mario Suvajac
-Vinko Buble
-Robert Anderson
-Mario Vuksan
-Katja Pericin
-Jan Bzik
-Goran Medic
-Nikola Ravnjak
-Bruno Soldo
-Lovro Prepolec
-Drago Crnjac
-Hrvoje Zeba
-Marina Bedran
-Maarten Boot
-Devin Andrews
-Kresimir Skvorc
+Borna Skukan
+Bozidar Benko
 Bruno Humic
+Bruno Ratkaj
+Bruno Soldo
+Damir Palinic
+Daniel LaVoie
+Danny Lavoie
+David Fair
+Devin Andrews
+Drago Crnjac
+Filip Borovec
+Goran Cvijanovic
+Goran Medic
+Hrvoje Zeba
+Igor Lasic
+Igor Novkovic
+Ivan Saskor
+Jack Martin
+Jan Bzik
+Joe Sarkar
+John Hanratty
+John Murgo
+Joseph Tufo
+Joshua Mahoney
+Josip Medic
+Juraj Gospodaric
+Juric Luka
+Katja Malvoni
+Katja Pericin
+Kresimir Skvorc
+Kristijan Novak
+Kuzman Vuksan
+Lana Krnic
+Linso van der Burg
+Lovro Prepolec
+Maarten Boot
+Marc Heberley
+Marija Kalebota
+Marijana Domazet
+Marin Smoljanic
+Marina Bedran
+Mario Suvajac
+Mario Volf
+Mario Vuksan
+Marko Bacic
+Marko Bekavac
+Marko Bilic
+Marko Pletikosa
+Matej Filkovic
+Matija Herceg
+Matt Clarke-Lauer
+Nikola Ravnjak
+Petar Dudukovski
+Ray Grauer
+Rishabh Munde
+Robert Anderson
+Tanvi Gour
+Thomas Aidan Curran
+Tomislav Maricevic
+Vedran Novoselac
+Vedran Sajko
 Vedran Vukelic
 Viktor Kvaternjak
-Lana Krnic
-Daniel LaVoie
-Marko Pletikosa
-Linso van der Burg
-Marko Bekavac
-Josip Medic
-Vedran Sajko
-Kuzman Vuksan
-Zarko Ivic
-Matija Herceg
-Ray Grauer
-Igor Novkovic
-Jack Martin
-Vedran Novoselac
-Marko Bilic
-Katja Malvoni
-John Murgo
-Mario Suvajac
-Marijana Domazet
-Borna Skukan
-Goran Cvijanovic
-Ivan Saskor
+Vinko Buble
 Vinko Kodzoman
-Kresimir Skvorc
-Kresimir Skvorc
+Zarko Ivic
 Zoran Kristo
-Marina Bedran
-Kristijan Novak
-Matt Clarke-Lauer
-Tomislav Maricevic
-Damir Palinic
-Bozidar Benko
-Juric Luka
-Matej Filkovic
-Filip Borovec
-Tanvi Gour
-Marin Smoljanic
-Bruno Ratkaj
-Marko Bacic
-Danny Lavoie
-Thomas Aidan Curran
-Aaron Eppert
-Marija Kalebota
-Marc Heberley
-Mario Volf
 sasa arezina
-Joseph Tufo
-Rishabh Munde
-Joe Sarkar

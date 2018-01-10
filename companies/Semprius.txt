@@ -1,114 +1,89 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Russell Kanjorski
-Helena Yee
-Steven Seel
-Brent Fisher
-Kanchan Ghosal
-Jim Carter
-Greg Jones
-Brian Cox
-Scott Burroughs
-Chris Bower
-John Wilson
-John Dick
-Jack Barry
-Earl Collins
-Miroslav Samarskiy
-Richard McNeill
-Carl Prevatte
-Jean Boisvert
-Justin Brown
-Matthew Meitl
-Rudy Bukovnik
-John Regan
-John Dick
-Doug Lilly
-Neil Robertson
-Nicole Gordon
-Kate He
-Greg Wolf
-rajendra reddy Narala
-Tom Glass
-Shannon Gamber
-Ling Cheng
-Cynthia Patterson
-Matthew Monroe
-Mark Ray
-prince Alexandre NSABIMANA
-Michael Whitehead
-Sean Connor
-Jeremia Thibeault
-Ivan Bukovnik
-Deborah Slagle
-Baron Kendrick
-Noah Hyte
-Etienne Menard
-Dave Halter
-Brian Cox
-Sylvain Tourangeau
-Misty Caffey
-Ming Gao
-Jacquelyn Parker
-Allen Gray
-Steven Seel
-John Gabriel
-Arnie Figueroa
-Kevin Lucht
-Jeff VanGeest
-Timothy Ellerbe
-Eric Blalock
-Vishal Gupta
-Neil Kane
-Hila Wright
-Keith Mojarro
-Marco Hsu
-Kanchan Ghosal
-Wolfgang Wagner
 Adria E. Brooks
-Ranjani Subramanian
+Allen Gray
+Anthony Lochtefeld
+Arnie Figueroa
+Baron Kendrick
+Bob Zimmer
+Brad Ives
+Brent Fisher
+Brian Cox
+Carl Prevatte
+Chris Bower
+Craig Merrigan
+Cynthia Patterson
+Daniel Portales
+Dave Halter
+David Gomez
+Deborah Slagle
+Donna Hansborough
+Doug Lilly
+Doug Recher
+Earl Collins
+Eric Blalock
+Etienne Menard
+Greg Jones
+Greg Wolf
+Helena Yee
+Hila Wright
+Hoon Kim
+Howard Yu
+Ivan Bukovnik
+Jack Barry
+Jacquelyn Parker
+Jean Boisvert
+Jeff VanGeest
+Jeremia Thibeault
+Jim Carter
+John Dick
+John Gabriel
+John Regan
+John Wilson
+Justin Brown
+Kanchan Ghosal
+Karina Krawczyk
+Kate He
+Keith Mojarro
+Kevin Lucht
+Kevin S Schneider
+Lane Wenner
+Ling Cheng
+Marco Hsu
 Mark Panarusky
 Mark Perkins
-Karina Krawczyk
-David Gomez
-Tiffany Weeks
-Daniel Portales
-Sandeep Kumar
-Lane Wenner
-Seabury Thorp
-Doug Recher
-Kevin S Schneider
-Timothy Canavan
-Doug Lilly
-Howard Yu
+Mark Ray
+Matthew Meitl
+Matthew Monroe
+Michael Whitehead
+Ming Gao
+Miroslav Samarskiy
+Misty Caffey
 Muhammad Anwar Ul Haq - ERP
-Craig Merrigan
-Anthony Lochtefeld
-Brad Ives
-Hoon Kim
 Nathan Jenness
-Stewart Dickinson CEcD
+Neil Kane
+Neil Robertson
+Nicole Gordon
+Noah Hyte
 Pascal Barth
-Donna Hansborough
 RICHARD THOMPSON
-Bob Zimmer
-julie byczynski
+Ranjani Subramanian
+Richard McNeill
+Rudy Bukovnik
+Russell Kanjorski
+Sandeep Kumar
+Scott Burroughs
+Seabury Thorp
+Sean Connor
+Shannon Gamber
 Steven Seel
+Stewart Dickinson CEcD
+Sylvain Tourangeau
 Syreeta Thomas
+Tiffany Weeks
+Timothy Canavan
+Timothy Ellerbe
+Tom Glass
+Vishal Gupta
+Wolfgang Wagner
+julie byczynski
+prince Alexandre NSABIMANA
+rajendra reddy Narala

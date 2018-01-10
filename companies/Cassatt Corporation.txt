@@ -1,112 +1,87 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Craig Vosburgh
-Steve Oberlin
-Brian Berliner
-Kristi Kilpatrick
-Matt Green
-Bill Coleman
-Glenn Myers
-George Chintala
-Rich Green
-Chris Duffy
-Gamiel Gran
-Bob Hendrich
-Colin Holm
-Don Berryman
-Basat Tayfun
-Heidi Larsen
-John Mattson
-Martha Dumler
-Tom Shem
-Brian Kelly
-Mark Emeis
-Joe Glynn
-Janet Lafleur
-Bryan Hooker
-Gloria Vallejo
-Jane Runyon
-Jim Engquist
-Cynthia Hulton
-Gina Douglas
-Robin Royle
-Lynn Still
-Elvira Vital-Bondoc
-Kathy Ury
-Steve Bolster
-Geraldine Airato
-Michael Bernstein
-Ivan Bishop Ph.D.
-Jo Pelkey
-Brian Forney
-upinder sujlana
-Theresa Gurney
-Linda Baldwin
-Mark Sargent
-Donna Goles
-Chris Gennaula
-Jeremy Swift
-Jefferson Frantz
-Michael Enescu
-janet Lafleur
-Russell Pavlicek
-Matt Kowalczyk
-Jeff Cook
-Kevin Werner
-Mark Forman
-Scott Lowrey
-Janet Lafleur
-MaryAnn Patel
-Beth DeLaHunt
-Jane Runyon
-Basat Tayfun
-Joe Healy
-Ken Wallich
-Steve Wilson
 Ankur Patwa
-Rita Carroll
+Aravind Sivanesan
+Ariel Ismach
+Barbara K McKercher
+Basat Tayfun
+Beth DeLaHunt
+Bill Coleman
+Bob Hendrich
+Brett Witterstaetter
+Brian Berliner
+Brian Forney
+Brian Kelly
+Bryan Hooker
+Chris Duffy
+Chris Elmquist
+Chris Gennaula
+Christine Bachy
+Christopher Palmer
+Colin Holm
+Craig Vosburgh
+Cynthia Hulton
+Dave Sweeney
+Don Berryman
 Donna Goles
+Elvira Vital-Bondoc
+Gamiel Gran
+George Chintala
+Geraldine Airato
+Gina Douglas
+Glenn Myers
+Gloria Vallejo
+Heidi Larsen
+Ivan Bishop Ph.D.
+James Woolridge
+Jane Runyon
+Janet LaFleur
+Janet Lafleur
+Jeff Cook
+Jefferson Frantz
 Jeffrey Harig
 Jena Chafin
-Karen L. Johnson
-Dave Sweeney
-Brett Witterstaetter
-Tania Pannabecker
-Janet LaFleur
-Kip Davidson
-Donna Goles
-Aravind Sivanesan
-James Woolridge
-fay linton
-Ariel Ismach
-Rita Joseph
-Christopher Palmer
-Keith Lambert
-Karen Johnson
-Sunir Kapoor
-Gina Douglas
-Tom Craver
-Linda Berry
-Christine Bachy
-Robin Kirchenbauer
+Jeremy Swift
+Jim Engquist
+Jo Pelkey
+Joe Glynn
+Joe Healy
 John Cordova
-Barbara K McKercher
+John Mattson
+Karen Johnson
+Karen L. Johnson
+Kathy Ury
+Keith Lambert
+Ken Wallich
+Kevin Werner
+Kip Davidson
+Kristi Kilpatrick
+Linda Baldwin
+Linda Berry
+Lynn Still
+Mark Emeis
+Mark Forman
+Mark Sargent
+Martha Dumler
+MaryAnn Patel
+Matt Green
+Matt Kowalczyk
+Michael Bernstein
+Michael Enescu
+Rich Green
+Rita Carroll
+Rita Joseph
+Robin Kirchenbauer
+Robin Royle
+Russell Pavlicek
+Scott Lowrey
+Steve Bolster
+Steve Oberlin
+Steve Wilson
+Sunir Kapoor
+Tania Pannabecker
+Theresa Gurney
 Tom Alesi
-Chris Elmquist
+Tom Craver
+Tom Shem
+fay linton
+janet Lafleur
+upinder sujlana

@@ -1,112 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Stephen Russell
-Loretta Pendenza
-Masayuki Karahashi
-Joshua West
-Erica Terrell Hernandez
-Uma Welingkar
-Jeff Karnes
-Chris Wyller
-Valerie Wehler
-Derrick Low
-Kevin Mundy
-Diane Cannon
-ravi punati
-Chris Allocco
-Jithendra Paruchuri
-Mark Wicinski
-Jim Underwood
-Yogendra Ghatpande
-Ryane Burke
-Albert Liu
-Gion Whitcomb
-Rick Spillane
-An Mai
-Rob Brooks
-Gary Kallman
-Nola Logan
-Vaishali Gangadhara
-Adam Johnson
-John Lopez
-Bryan Shen
-Bruce Nisbet
-Charlie Ryan
-Mark Bactol
-Eric Vorbeck
-Zorah Mardesich
-Narasimha Paila
-Baohua Shan
-Gordon Haupt
-Al Shipp
-Parker Brooks
-Marc Bergeron
-Patrick Romo
-Brian Lane
-Russell Wellmon
-Ankur Garg
-Janice Lerit
-Richelle Milton
-Jackie Andersen
-Richard Gardner
-Sara Poquet
-Jon Delago
-Astrid Ho
-A.r. Johnson
-Juan-Carlos Pimentel
-Bo liu
-Nick Wooler
-Dale Small
-Marius Matioc
-Paige Dillon
-Jonathan Scoles
-Aleksey Shrayber
-Jeff Hwang
-Mark Wollen
-Colvin Pitts
-John Honovich
-Susanna Morin
-Deborah Stephens
-Anne Merkert
-Darren Ruger
-Tom Sinciro
-Mike Maelzer
-Tham Hua Sheng
-Christine Englund
-Mark Bactol
-Dousty Rojas
-Raymond Fong
-Vlad Itsekson
-Pooja Malakar
-Pat Aiello
-Ian Swinson
 A. R. Johnson
-Kate Rushton
-Jeffrey Monroe
-Paul Marinko
-Michael Wells
-Jason King
-Sonja Perkins
-Michelle Morgan Bullwinkle
+A.r. Johnson
 Aaron Pollock
-Ray Prieto
-michael markwood
-Whitney Glockner Black
+Adam Johnson
+Al Shipp
+Albert Liu
+Aleksey Shrayber
+An Mai
+Ankur Garg
+Anne Merkert
+Astrid Ho
+Baohua Shan
+Bo liu
+Brian Lane
+Bruce Nisbet
+Bryan Shen
+Charlie Ryan
+Chris Allocco
+Chris Wyller
+Christine Englund
+Colvin Pitts
+Dale Small
+Darren Ruger
+Deborah Stephens
+Derrick Low
+Diane Cannon
 Diego Simkin
+Dousty Rojas
+Eric Vorbeck
+Erica Terrell Hernandez
+Gary Kallman
+Gion Whitcomb
+Gordon Haupt
+Ian Swinson
+Jackie Andersen
+Janice Lerit
+Jason King
+Jeff Hwang
+Jeff Karnes
+Jeffrey Monroe
+Jim Underwood
+Jithendra Paruchuri
+John Honovich
+John Lopez
+Jon Delago
+Jonathan Scoles
+Joshua West
+Juan-Carlos Pimentel
+Kate Rushton
+Kevin Mundy
+Loretta Pendenza
+Marc Bergeron
+Marius Matioc
+Mark Bactol
+Mark Wicinski
+Mark Wollen
+Masayuki Karahashi
+Michael Wells
+Michelle Morgan Bullwinkle
+Mike Maelzer
+Narasimha Paila
+Nick Wooler
+Nola Logan
+Paige Dillon
+Parker Brooks
+Pat Aiello
+Patrick Romo
+Paul Marinko
+Pooja Malakar
+Ray Prieto
+Raymond Fong
+Richard Gardner
+Richelle Milton
+Rick Spillane
+Rob Brooks
+Russell Wellmon
+Ryane Burke
+Sara Poquet
+Sonja Perkins
+Stephen Russell
+Susanna Morin
+Tham Hua Sheng
+Tom Sinciro
+Uma Welingkar
+Vaishali Gangadhara
+Valerie Wehler
+Vlad Itsekson
+Whitney Glockner Black
+Yogendra Ghatpande
+Zorah Mardesich
+michael markwood
+ravi punati

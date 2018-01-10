@@ -1,111 +1,88 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jon Watte
-Michael Macedonia
-Tony Pelham
-Val Hopkins
-Laura Kusumoto
-Todd Griffith
-David Shorrock
-Victor Penman
-James Dedmon
-Willy Chua
-Gary Arnold
-Joshua Panton
-Jim Anderson
-Ray Giroux
 Amit Joshi
 Andrew de Laix
-Eric Hohenstein
+Anne Derryberry
+Barry Bauer
 Ben Chess
-Seiji Powell
-Solomon Norman
-Keelan Stuart
-Gregory Gosnell
+Brad Hunemuller
+Brian Anderson
+Cathy Slay
+Charles Rivera
+Charles Ward
+Chee Siong Chiu
 Colin Gunn
-Mike Ziegenhagen
+Dave Rolston
+David Shorrock
+Donna Goldberg
+Doug Cooper
+Ed Coccari
+Edward Sexe
+Eric Hohenstein
+Erica Driver
+Gary Arnold
+George Rawlins
+Gregory Gosnell
+Heidi Poulin
+Ian Lahaye
+James Dedmon
+Jana Shook
+Jason Duncan
+Jason Norgaar
+Jeff Killin
+Jill Scheffer
+Jim Anderson
+Jim White
+Jody duRand
+Joe Straitiff
+Joel Fink
+John Dodson
+Jon Watte
+Joseph Knight
+Joshua Panton
+Juli Walwyn
 Justin Handville
 Justin Hang
-Michael Sivret
-Nassar Stoertz
-Sabine Wallis
-Travis Miller
-Jason Norgaar
-Matthew Wilson
-Wade Spires
-Laurie Coppersmith
-Kura Shepard
-Noel E. Esporo
-Matt Kaufman
-Heidi Poulin
-Kirby Zhang
-Kira Snyder
-William Harmsworth Bodt
-Victor Penman
-George Rawlins
-Cathy Slay
-Jason Duncan
-Numan Hammoudeh
-Barry Bauer
-Mamatha Pooskur
-Donna Goldberg
-Juli Walwyn
-Ian Lahaye
-Brian Anderson
-Dave Rolston
-Peter Kapoor
-Satyen Sheth
-Chee Siong Chiu
-fred Larson
-Joe Straitiff
-Teddy Renkiewicz
-Edward Sexe
-Erica Driver
-Jana Shook
-Anne Derryberry
-Thomas Aschenbrenner
-Joseph Knight
-vamshi singam
-Zach Kent
-Mimi Matossian
-Jill Scheffer
-Jim White
-Laura Kusumoto
-Charles Ward
-Doug Cooper
-Scott Manor
-John Dodson
-Joel Fink
-Randy Nelson
-Sunil Dudi
-Marvin Tellez
-Jody duRand
-Lukas Salyer
-Brad Hunemuller
-Charles Rivera
-Nathaniel Castor - Full Stack Web Developer
-Udi Lazimy
 Kassie Coverdale
+Keelan Stuart
+Kira Snyder
+Kirby Zhang
+Kura Shepard
+Laura Kusumoto
+Laurie Coppersmith
+Lukas Salyer
+Mamatha Pooskur
+Marvin Tellez
+Matt Kaufman
+Matthew Wilson
+Michael Macedonia
+Michael Sivret
+Mike Ziegenhagen
+Mimi Matossian
+Nassar Stoertz
+Nathaniel Castor - Full Stack Web Developer
+Noel E. Esporo
+Numan Hammoudeh
+Peter Kapoor
+Randy Nelson
 Randy Wilson
-Jeff Killin
+Ray Giroux
+Sabine Wallis
+Satyen Sheth
+Scott Manor
+Seiji Powell
+Solomon Norman
+Sunil Dudi
+Teddy Renkiewicz
+Thomas Aschenbrenner
+Todd Griffith
+Tony Pelham
 Travis Miller
-Justin Handville
+Udi Lazimy
+Val Hopkins
+Victor Penman
+Wade Spires
+William Harmsworth Bodt
 William Harris
-Ed Coccari
+Willy Chua
+Zach Kent
+fred Larson
+vamshi singam

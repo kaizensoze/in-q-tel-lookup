@@ -1,97 +1,78 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-John Quarles
-Andy McLoughlin
-Alastair Mitchell
-Craig Turman
-Kunal Contractor
-Dave Roberts
-Joey Thacker
-Alison Glenn Delaney
-Michael Abt
-Jennifer Spinelli
-John Vaughn
-James Pipe
-Brian Kendrick
-Katherine Malloy
-Amy Blume
-Jessica Ray
-Stuart Cochran
-Adam Rhodes
-Ahmad Bassouni
-Christina Chambers
-Tamika Stewart
-Neil Ryland
-Melissa Weir
-Beckett Gue
-Jeff Sommer
-Shailendra Gupta
-Petrina Cruz
-B.J. Pilling
-Jared Thompson
-Michelle Dailey
-Raj Agarwal
-Swetha Amruthur
-Christianne Gonzalez
-Melissa Rothring
-Jeff L. Cook
-Peter Golaszewski
-Tom Cossuto
-Alex Gue
-Andrea Baranowski
-Corey Ballard
-Nathan Ballard
-Cassidy Ford
-Tyrone Counts
-Troy Tracy
-Michael Daubert
-Adam Fentress
-Tim Deluca-Smith
 Aaron Morse
+Adam Fentress
+Adam Rhodes
 Adrian Dragomir
-Thomas Wood
-Gregg Hansen
-Andrew Trimble
-Matthew Leonard
-Danielle Radu
-Rick Barnard
-Edward Saavedra
-R. Matthew Loovis
-Derek Paganini
-Melina Murray
-Wilson Ly
+Ahmad Bassouni
+Alastair Mitchell
+Alex Gue
+Alison Glenn Delaney
 Alissa Hawkins
-Phil Mullan
-Marina Vernik
-Joy Clevenger
-Jessica Martin
-Edward Gairdner
-Paul Siegel
-Ben Howell
-Steven Obergan
-Jason Morgan
-Jenn Townsend
-Taneli Potticary
-Charles McGregor
-Jon Landau
-Cam Incoll
+Amy Blume
+Andrea Baranowski
+Andrew Trimble
+Andy McLoughlin
 Ann-Marie Cooper
+B.J. Pilling
+Beckett Gue
+Ben Howell
+Brian Kendrick
+Cam Incoll
+Cassidy Ford
+Charles McGregor
+Christianne Gonzalez
+Christina Chambers
+Corey Ballard
+Craig Turman
+Danielle Radu
+Dave Roberts
+Derek Paganini
+Edward Gairdner
+Edward Saavedra
+Gregg Hansen
+James Pipe
+Jared Thompson
+Jason Morgan
+Jeff L. Cook
+Jeff Sommer
+Jenn Townsend
+Jennifer Spinelli
+Jessica Martin
+Jessica Ray
+Joey Thacker
+John Quarles
+John Vaughn
+Jon Landau
+Joy Clevenger
+Katherine Malloy
+Kunal Contractor
+Marina Vernik
+Matthew Leonard
+Melina Murray
+Melissa Rothring
+Melissa Weir
+Michael Abt
+Michael Daubert
+Michelle Dailey
 Michelle Flynn
+Nathan Ballard
+Neil Ryland
+Paul Siegel
+Peter Golaszewski
+Petrina Cruz
+Phil Mullan
+R. Matthew Loovis
+Raj Agarwal
 Rawan Hantash
+Rick Barnard
+Shailendra Gupta
+Steven Obergan
+Stuart Cochran
+Swetha Amruthur
+Tamika Stewart
+Taneli Potticary
+Thomas Wood
+Tim Deluca-Smith
+Tom Cossuto
+Troy Tracy
+Tyrone Counts
+Wilson Ly

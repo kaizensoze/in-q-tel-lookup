@@ -1,94 +1,67 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Natalie Glance
-Mike Nazzaro
-Brian Schlessinger
-Jeff Busdieker
-Kurt Riegger
-Jay Stockwell
-Jay Rampuria
-Robyn Dow
+Adam Roddy
+Amanda Stastny
 Andrew Ferrigno
+Antony Seppi
+Becky Hudepohl
+Beth Mullett
+Bill Miller
+Bill Wilder
+Brandon Applegate
+Brian Schlessinger
+Cecilly Sears
+Chuck Grayer
+David Miller
+David Porter
+David Silver
+David Turnbull
+DeWitt Cook
+Deborah Lieske
+Doug Pierce
+Douglas Widmann
+Ed Walton
+Eric Tey
+Frank Hufnagel
+Fred Held
+Frederick Potetz
+Greg Bishop
+Gregory Mcintyre
+Harpreet Chopra
+Howard Singer
+Jay Rampuria
+Jay Stockwell
+Jeff Busdieker
+Jeremy Pepper
+Jim Richards
 Jim Savage
+Joe Connolly
+John Cunningham
+Kevin Parker
+Kim Busdieker
+Kim Starks
+Knic Ebel
+Kurt Riegger
+Leonard Lee
+Mandy Silverman
+Mark Bunney
+Michael Young
+Mihai Moga
+Mike Nazzaro
+Natalie Glance
+Neil Chestnutt
+Pete Blackshaw
+Phil Freund
+Rich Nelson
+Robert Zielinski
+Robyn Dow
+Rosalee Rester
+Sara Bedinghaus
+Sue MacDonald
+Sujay V
+Tad Schweikert
+Tim Boemker
+Tim Thompson
+Todd Garvin
+Todd Shafer
+Treenah Kight
 Vaidhyanathan Venkiteswaran
 itzhak fisher
-Becky Hudepohl
-David Silver
-Kim Starks
-Amanda Stastny
-Bill Miller
-Sue MacDonald
-Greg Bishop
-Harpreet Chopra
-Tad Schweikert
-Leonard Lee
-Brandon Applegate
-Frank Hufnagel
-Kurt Riegger
-Jim Richards
-Cecilly Sears
-David Porter
-Chuck Grayer
-Kevin Parker
-Douglas Widmann
-Adam Roddy
-Sara Bedinghaus
-David Miller
-Pete Blackshaw
-Rosalee Rester
-Doug Pierce
-Deborah Lieske
-Treenah Kight
-Tim Thompson
-David Turnbull
-Robert Zielinski
-Deborah Lieske
-Rich Nelson
-Kim Busdieker
-Jeremy Pepper
-Pete Blackshaw
-Ed Walton
-Antony Seppi
-Eric Tey
-Todd Shafer
-John Cunningham
-Gregory Mcintyre
-DeWitt Cook
-David Miller
-Howard Singer
-Sue MacDonald
-Neil Chestnutt
-Phil Freund
-Bill Wilder
-Vaidhyanathan Venkiteswaran
-Mark Bunney
-Mandy Silverman
-Joe Connolly
-Michael Young
-Beth Mullett
-Mihai Moga
-Tim Boemker
-Todd Shafer
-Frederick Potetz
-Fred Held
-Sujay V
-Knic Ebel
-David Silver
-Todd Garvin

@@ -1,114 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Siva G. Narendra
-Prabhakar Tadepalli
-Pranitha Penmetsa
-Ulhas Anand
 Ainiya Sundus
-Yogesh Joshi
-Daniel Rawlings
-Nizar Jamal
-Brianna Pafford
-Tom Spitzer
-Drew Thomas
-Jim Bray
-Sagar Wanojwar
-Arun kumar Gopalakrishnan
-Rithesh Swamy
-Arpita Shukla Dubey
-Tod Cordill
-Stephen Wilcox
-Anushree Gupta
-Naveen Jamal
-Sam Wu
-Vinu Thomas
-Lyman Potts
-Saumya Tayal
-Jason Johnson
-Mohammed Tarique
-Dr. Saurav Chakraborty
-Todd Nuzum
-Kishan Saralaya
-Dana LeMoine
-Rakesh Kumar Koppisetti
-Sherine Christopher
-Tulasinadh V
-Nagesh D
-Ashwin Kamath
-Ananth Hegde
-Bobbish Cherian
-Vinay Bhatt
-Aparna Battula
-Preetam Ghosh
-Ritesh Matte
-Rob Thomason
-Pradeep H R
-Lorraine Shaw
-Mark Miyamoto
-Ankit Bharadwaj
-Mohammed Asif
-Shilpashree V
-Ketki Vahalia
-Suresh Babu
-Sreelekshmi V H
-Rehman Ashraf
-Rajesh K
-Deepesh Shrestha
-Mahendran Kathiresan
-Keith Wheeler
-Carol Grunberg
-CA.Narayan Hegde
-Jay Carrigan
-Nishanth Shetty
-Narasimha K S
-Arun Gopalakrishnan
-Todd Nuzum
-Sumanth B C
-Vandana Jagannathan
-Seetharam Rao
-Ranjini Hk
 Amit Jain
-Sandhya Muddu
-Mandava Rahul
-Bhardwaj Ramkumar
-kratika kesharwani
-Rob Thomason
-Karthik M N
-Thomas Spitzer
-venkata hema
+Ananth Hegde
+Ankit Bharadwaj
+Anushree Gupta
+Aparna Battula
+Arpita Shukla Dubey
+Arun Gopalakrishnan
+Arun kumar Gopalakrishnan
 Ashley Spitzer Petersen
-Jim Reavis
-Manoj Chandrasekhar
-Leelavathi R
-Pankaj Kumar Agrawal
-Ganesh Patil
-Jay Carrigan
-Rajkumar Srinivasan
-Sumitha Scaria
-Siddharth Pratap Shinde
-Meghashree M Ramachandra
-Christopher Tomczak
-Saraswathi Pulluru
+Ashwin Kamath
 Asoke Talukder
-SuryaPrakash Karuturi
+Bhardwaj Ramkumar
+Bobbish Cherian
+Brianna Pafford
 Bryce Bloodworth
-sowmya garisa
-anish chaube
+CA.Narayan Hegde
+Carol Grunberg
+Christopher Tomczak
+Dana LeMoine
+Daniel Rawlings
+Deepesh Shrestha
+Dr. Saurav Chakraborty
+Drew Thomas
+Ganesh Patil
+Jason Johnson
+Jay Carrigan
+Jim Bray
+Jim Reavis
+Karthik M N
+Keith Wheeler
+Ketki Vahalia
+Kishan Saralaya
+Leelavathi R
+Lorraine Shaw
+Lyman Potts
+Mahendran Kathiresan
+Mandava Rahul
+Manoj Chandrasekhar
+Mark Miyamoto
+Meghashree M Ramachandra
+Mohammed Asif
+Mohammed Tarique
+Nagesh D
+Narasimha K S
+Naveen Jamal
+Nishanth Shetty
+Nizar Jamal
+Pankaj Kumar Agrawal
+Prabhakar Tadepalli
+Pradeep H R
+Pranitha Penmetsa
+Preetam Ghosh
+Rajesh K
+Rajkumar Srinivasan
+Rakesh Kumar Koppisetti
+Ranjini Hk
+Rehman Ashraf
+Ritesh Matte
+Rithesh Swamy
+Rob Thomason
+Sagar Wanojwar
+Sam Wu
+Sandhya Muddu
+Saraswathi Pulluru
+Saumya Tayal
+Seetharam Rao
+Sherine Christopher
+Shilpashree V
+Siddharth Pratap Shinde
+Siva G. Narendra
+Sreelekshmi V H
+Stephen Wilcox
+Sumanth B C
+Sumitha Scaria
+Suresh Babu
+SuryaPrakash Karuturi
+Thomas Spitzer
+Tod Cordill
+Todd Nuzum
+Tom Spitzer
+Tulasinadh V
+Ulhas Anand
+Vandana Jagannathan
 Venkat Rao Veginati
+Vinay Bhatt
+Vinu Thomas
+Yogesh Joshi
+anish chaube
+kratika kesharwani
+sowmya garisa
+venkata hema

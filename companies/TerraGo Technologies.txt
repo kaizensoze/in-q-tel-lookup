@@ -1,115 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-George Demmy
-David Stokely
-John Timar
-Michael Gundling
-Jason Schloer
-Scott Lee
-Michael Bufkin
-Megan McCarthy
-Bryan Burns
-Lance Wright
+Abby Fuller
+Adam Estrada
 Alan Stewart
-Nathan Jones
-Joshua Gunter
-Rick Drexel
-Dave Gura
-Ryan Borland
-Lorna Reddicks
-Felix Warren
-Renee Wagner
-Jessie Vangrofsky-Hillenbrand
-Tommy Lin
-Patrick Graves
-Lee Leonard
-Jason Chen
-Stacey Holleran
-Jason Sams
-Greg Hebron
-Daniel Watkins
-John Pollard
-Phil Lee
-Dwain Ruckel
-Mimi Vold
-Chris Watson
-Telli Bryan
-Eric Fan
-Ash Dupree
-Lon Cornell
-John Mueller
-Stewart Brooks
-Jeff Young
-Jason Frye
-Stuart Miller
+Aleksey Vitebskiy
+Andrew L. Jackson
+Andrew Mounib
+Anna Pierpoint
 Anne Hale Miglarese
-Jim Sheen
-Jimmy Fields
-Mary Miller
-Dave Maney
-Jaime Davenport
-John Wolfe
-Peter Herbert
-Matthew Bueno
-Chris Drake
+Ash Dupree
 Austin Logie
 Bill Timmins
-Janis Meyer
-Gregory Taft
-Julie Haddon-Cook
-Joe White
-Andrew L. Jackson
-Kim Waas
-Dave Stokely
-Nathan Roberson
-Daniel VanBrunt
-Cyrus Shahabi
-John Parrell
-Michael Axelrod
-Patrick Kitchens
-Anna Pierpoint
-Latonya Deloach
-Jim Youker
-Jonathan Heinsius
-Richard McKay
-Andrew Mounib
-Staley Floyd
-Lars Osmerg
-Mary Warmkessel
-Nakesha Smith
-Abby Fuller
 Brian Buterbaugh
-Janet Johnson
-Samuel Eberly
-Tom Windle
-Ian McNay
-Neil Quinn
-Greg Brooks
-Adam Estrada
+Bryan Burns
+Chris Drake
+Chris Watson
+Cyrus Shahabi
+Daniel VanBrunt
+Daniel Watkins
+Dave Gura
+Dave Maney
+Dave Stokely
+David Stokely
 David Wilson
-Ryan Kirsh
+Dwain Ruckel
+Eric Fan
+Felix Warren
+George Demmy
+Greg Brooks
+Greg Hebron
+Gregory Taft
+Ian McNay
 Jacob Hut
+Jaime Davenport
 James Sanovia
+Janet Johnson
+Janis Meyer
+Jason Chen
+Jason Frye
+Jason Sams
+Jason Schloer
+Jeff Young
 Jessica Kirk
-Aleksey Vitebskiy
-Matt Irwin
-Ricky Manriquez
-Nikita Proskourine
+Jessie Vangrofsky-Hillenbrand
+Jim Sheen
+Jim Youker
+Jimmy Fields
+Joe White
+John Mueller
+John Parrell
+John Pollard
+John Timar
+John Wolfe
+Jonathan Heinsius
+Joshua Gunter
+Julie Haddon-Cook
+Kim Waas
+Lance Wright
+Lars Osmerg
+Latonya Deloach
+Lee Leonard
+Lon Cornell
+Lorna Reddicks
+Mary Miller
+Mary Warmkessel
 Matt Falter
+Matt Irwin
+Matthew Bueno
+Megan McCarthy
+Michael Axelrod
+Michael Bufkin
+Michael Gundling
+Mimi Vold
+Nakesha Smith
+Nathan Jones
+Nathan Roberson
+Neil Quinn
+Nikita Proskourine
+Patrick Graves
+Patrick Kitchens
+Peter Herbert
+Phil Lee
+Renee Wagner
+Richard McKay
+Rick Drexel
+Ricky Manriquez
+Ryan Borland
+Ryan Kirsh
+Samuel Eberly
+Scott Lee
+Stacey Holleran
+Staley Floyd
+Stewart Brooks
+Stuart Miller
+Telli Bryan
+Tom Windle
+Tommy Lin

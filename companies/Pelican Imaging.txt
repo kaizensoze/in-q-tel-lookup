@@ -1,114 +1,91 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Kartik Venkataraman
-Jacques Duparre
-Atif Sarwari
-Christopher Pickett
-Ankit Jain
-Florian Ciurea
-Yusong Huang
-Xiaolin Chen
-Priyam Chatterjee
-Robert Mullis
-Aman Jabbi
-Dan Lelescu
-Purnam Sheth
-Gary Gitelson
-Jared Smith
-Mark Rodda
-Andrew McMahon
-Jeff Mitchell
-Jaeryon Lee
-Nageswara Rao Gunupudi
-Pradeep Bardia
-Lisa Garvey
-Ali Ahmed
-Manohar Srikanth
-Sylvia Peterson
-Salil Tambe
-Karen Herigstad
-Patrick Suel
-Gabriel Molina
-Rebecca Chang
-Ravindra Viswanath
-Jay Brown
-Igor Sinyak
-Semyon Nisenzon
-Michael Angel
-Rohan Chitnis
-Juha Christensen
-Samuel J. Yang
-Greg Weinstein
-Matt Rodda
-Aneesh Bhansali
-Thang Duong
-Gijesh Varghese
-Nicholas Bendler
-Rick Koenig
-Larry Bank
-Andy Goldfarb
-Sarek Sotelo Jimenez
-Jagadevi Santhosh kumar
-Gareth Keane
-Yushin Cho
-Chester Chan
-Alan Commike
-Kartik Venkataraman
-Oliver Gunasekara
-Jonathan Bedard
-Xi Mark Ling
-Greg Fay
-Ira Nydick
-Vanessa Tomasello
-Gokhan Sisli
-Victor Oliveira
-Sean Moran
-Shaju Mathew
-Chris McClanahan
-Jancy George
-afshaan hashim
-Rhys Mulryan
-Alex DeBoni
-Brandon Smith
-Peter Malkin
-Allison Hampel
-Seema Desai
-Erika MacDonald
-Yimin Li
-Vinit Modi
-amna zeeshan
-Jono Schaferkotter
-Sarah Dayus
-Chris Gronowski
-Tim Pettitt
-Conny Barton
-Ray Lyman
-Dan Lelescu
-Karishma Dhruv
-Rachita Patil
-Gabriel Molina
-Kathy Duncan
-Xiaolin Chen
-Shakil Kahn
-tahmid ahmed
-Neil McLaughlin
-Erika Macdonald
-Kristen Curry
 ALEXANDRU GEORGESCU
+Alan Commike
+Alex DeBoni
+Ali Ahmed
+Allison Hampel
+Aman Jabbi
+Andrew McMahon
+Andy Goldfarb
+Aneesh Bhansali
+Ankit Jain
+Atif Sarwari
+Brandon Smith
+Chester Chan
+Chris Gronowski
+Chris McClanahan
+Christopher Pickett
+Conny Barton
+Dan Lelescu
+Erika MacDonald
+Erika Macdonald
+Florian Ciurea
+Gabriel Molina
+Gareth Keane
+Gary Gitelson
+Gijesh Varghese
+Gokhan Sisli
+Greg Fay
+Greg Weinstein
+Igor Sinyak
+Ira Nydick
+Jacques Duparre
+Jaeryon Lee
+Jagadevi Santhosh kumar
+Jancy George
+Jared Smith
+Jay Brown
+Jeff Mitchell
+Jonathan Bedard
+Jono Schaferkotter
+Juha Christensen
+Karen Herigstad
+Karishma Dhruv
+Kartik Venkataraman
+Kathy Duncan
+Kristen Curry
+Larry Bank
+Lisa Garvey
+Manohar Srikanth
+Mark Rodda
+Matt Rodda
+Michael Angel
+Nageswara Rao Gunupudi
+Neil McLaughlin
+Nicholas Bendler
+Oliver Gunasekara
+Patrick Suel
+Peter Malkin
+Pradeep Bardia
+Priyam Chatterjee
+Purnam Sheth
+Rachita Patil
+Ravindra Viswanath
+Ray Lyman
+Rebecca Chang
+Rhys Mulryan
+Rick Koenig
+Robert Mullis
+Rohan Chitnis
+Salil Tambe
+Samuel J. Yang
+Sarah Dayus
+Sarek Sotelo Jimenez
+Sean Moran
+Seema Desai
+Semyon Nisenzon
+Shaju Mathew
+Shakil Kahn
+Sylvia Peterson
+Thang Duong
+Tim Pettitt
+Vanessa Tomasello
+Victor Oliveira
+Vinit Modi
+Xi Mark Ling
+Xiaolin Chen
+Yimin Li
+Yushin Cho
+Yusong Huang
+afshaan hashim
+amna zeeshan
+tahmid ahmed

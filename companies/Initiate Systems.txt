@@ -1,115 +1,93 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Bill Conroy
-Angela Losacco
-Sean Cassidy
-Scott Schumacher
-Brad Jacobs
-Scott Ellard
-Michael Competiello
-ronald galowich
-Jean Smith
-Mike Robertson
-Vivek Kumar
-Jacqueline Davis
-Edward Esteva
-Ajay Pattni
-Kiran Darla
-Kc Rainbird
-Gordon Bockus
-Radhika Khanna
-Elias Avila
-Aldo Davidson
-Norman Adams
-Michael Previti
-Rehan Haque
-Clarissa Cerda
-Monte Wilson
-Michael Competiello
-Mary H. Kelly
-Tony Chambrovich
-Tim Kelley
-Deanna Matrecito
-Vineet Malik
-Elaine Hardie
-Chad Jones
-Jason Bihun
-Richard Clements
-Todd Wiese
-Jenny Luk
-Emily Garnell Lawson
-Will Johnson
-Pinkesh Kumar
-Christopher Bishop
-Michael Leslie
-Mike Pav
-Ron Weinstein
-Ron Galowich
-Peter McCormick
-Brett Norris
-Jonathan Spiggle
-Linda Dorrel
-Eric Raymer
-Chad Cosper
-Sam Domingo
-Jacinto Maquera
 Aaron Zornes
-Priya Krishnan
-Meg Cook
-Marcin Konefal
-Nikhil Dhokale
-Raymond Chiang
-James Wilkinson
-Khurram Bhatty
-Mel Haynes
-Corey Williams
-Irene Nathan
-Gary Midgley
-Eunsin Kim
-Bill Klaver
-Rajan Kanitkar
-Jeff Galowich
-Ken Im
-Hulda Hime
-Christopher Bishop
-Bill Liu
-Deanna Nole
-John Dorney
-Chris Buehrle
-Jessica Dunn
-John Hassing
-Billie Sudbrack
-Anthony Greenman
-Susan Grills
-Preston Gregg
-Becky Szefc
 Adrian Mitchell
-Brian Crooke
+Ajay Pattni
 Al Amyot
-Sidd Jagadish
-Ryan Hutton
-Clarissa Cerda
-John Wenzel
-Cherie Kennedy
-Erhard Fleischer
-Tony Crescenzo
-Odilio Abreu
+Aldo Davidson
+Angela Losacco
+Anthony Greenman
 Arti Pandit
+Becky Szefc
+Bill Conroy
+Bill Klaver
+Bill Liu
+Billie Sudbrack
+Brad Jacobs
+Brett Norris
+Brian Crooke
+Chad Cosper
+Chad Jones
+Cherie Kennedy
+Chris Buehrle
+Christopher Bishop
+Clarissa Cerda
+Corey Williams
+Deanna Matrecito
+Deanna Nole
+Edward Esteva
+Elaine Hardie
+Elias Avila
+Emily Garnell Lawson
+Erhard Fleischer
+Eric Raymer
+Eunsin Kim
+Gary Midgley
+Gordon Bockus
+Hulda Hime
+Irene Nathan
+Jacinto Maquera
+Jacqueline Davis
+James Wilkinson
+Jason Bihun
+Jean Smith
+Jeff Galowich
+Jenny Luk
+Jessica Dunn
 Jody Linick
+John Dorney
+John Hassing
+John Wenzel
+Jonathan Spiggle
+Kc Rainbird
+Ken Im
+Khurram Bhatty
+Kiran Darla
+Linda Dorrel
+Marcin Konefal
+Mary H. Kelly
+Meg Cook
+Mel Haynes
+Michael Competiello
+Michael Leslie
+Michael Previti
+Mike Pav
+Mike Robertson
+Monte Wilson
+Nikhil Dhokale
+Norman Adams
+Odilio Abreu
+Peter McCormick
+Pinkesh Kumar
+Preston Gregg
+Priya Krishnan
+Radhika Khanna
+Rajan Kanitkar
+Raymond Chiang
+Rehan Haque
+Richard Clements
+Ron Galowich
+Ron Weinstein
+Ryan Hutton
+Sam Domingo
+Scott Ellard
+Scott Schumacher
+Sean Cassidy
+Sidd Jagadish
+Susan Grills
+Tim Kelley
+Todd Wiese
+Tony Chambrovich
+Tony Crescenzo
+Vineet Malik
+Vivek Kumar
+Will Johnson
+ronald galowich

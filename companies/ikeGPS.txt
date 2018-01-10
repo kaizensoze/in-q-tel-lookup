@@ -1,114 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Jeff Ross
-Glenn Milnes
-Richard Mander
-Yanping H. Wolfe
-Mike McGill
-Amanda McGrory-Dixon
-Vanessa Bagnato
-Fred Lax
-Garreth Morgan
-Wesley Amescua
-James Pardue
-Chris Lasonde
-Derek Jensen
-Corey Crawford
-Jeremy Gold
-Jason Bathrick
-Ben Snider
-Ron Elsis
-Gael Hargreaves
-James Preddey
-Peter Shaw
-Dennis Bencala
-Brian Soliday
-Shannon Caldwell
-James Cole
-Denise Potgieter
-Jason Stephens
-Bradley Edelson
-Alison Walls
-David McKelvie
-James McCann
-Geoff McIver
-Dan Mcgrady
-Kevin Faus
-Luke Stanford
-Mark Ariel Sabac
-Brian Deem
-Wiebe John Baron
-Matthew Worster
-Rick Sawaya
-Amanda Walter
-Sathya Kumar Barathan
-Rene Filardo
-Ben Goebel
-Blayne Chard
-Trey Giffin
-Shawn Faus
-Ilia Kopylov
-Michael Tandecki
-Michael Baumberger
-Ruth Keiry
-Alvin Ma
 Aengus Jankowsky
-Don Mawson
-Michael Arthur
-Matthew Epp
-Daniel Wallace
-Leon Toorenburg
-Yuechuan Yang
-Jason Xia
-Jeff Ross
-Sara Marks
+Alex Fitch
+Alison Walls
+Allan Francani
+Alvin Ma
+Amanda McGrory-Dixon
+Amanda Walter
+Andrew Ang
 Andrew Boone
+Ben Goebel
+Ben Snider
+Blake Collins
+Blayne Chard
+Bradley Edelson
+Bret Simons
+Brian Deem
+Brian Soliday
+Bruce Maddock
+Camille Dodson
+Catriona McKnight
+Chris Bruniges
+Chris Gillies
+Chris Lasonde
+Corey Crawford
+Dan Mcgrady
+Daniel Mortara
+Daniel Wallace
+David McKelvie
+Denise Potgieter
+Dennis Bencala
+Derek Jensen
+Don Mawson
 Dong Lin
 Eric Hansen
-Alex Fitch
-Sebastian Tomaszewski
-Hema Jayaraman
-Blake Collins
-Punch Moulton
-Allan Francani
-Chris Bruniges
-Daniel Mortara
-jeremy jones
-Camille Dodson
 Fahmi Abdulhamid
-Jay Boone
-Blayne Chard
-Kalyani Wevita
-Chris Gillies
-Andrew Ang
-Kalyani Wevita
-Michelle Pendrous
-Bret Simons
 Fanny Toorenburg
-Catriona McKnight
-Tony Afendoulis
-Pablo Grigolatto
-Bruce Maddock
-Tim Clark
-Whit Adams
+Fred Lax
+Gael Hargreaves
+Garreth Morgan
+Geoff McIver
+Glenn Milnes
+Hema Jayaraman
+Ilia Kopylov
 Jack Ewing
+James Cole
+James McCann
+James Pardue
+James Preddey
+Jason Bathrick
+Jason Stephens
+Jason Xia
+Jay Boone
+Jeff Ross
+Jeremy Gold
 Jim Donovan
-Tony Merlo
 Justin Crawshay
+Kalyani Wevita
+Kevin Faus
+Leon Toorenburg
+Luke Stanford
+Mark Ariel Sabac
+Matthew Epp
+Matthew Worster
+Michael Arthur
+Michael Baumberger
+Michael Tandecki
+Michelle Pendrous
+Mike McGill
+Pablo Grigolatto
+Peter Shaw
+Punch Moulton
+Rene Filardo
+Richard Mander
+Rick Sawaya
+Ron Elsis
+Ruth Keiry
+Sara Marks
+Sathya Kumar Barathan
+Sebastian Tomaszewski
+Shannon Caldwell
+Shawn Faus
+Tim Clark
+Tony Afendoulis
+Tony Merlo
+Trey Giffin
+Vanessa Bagnato
+Wesley Amescua
+Whit Adams
+Wiebe John Baron
+Yanping H. Wolfe
+Yuechuan Yang
+jeremy jones

@@ -1,108 +1,89 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Heather Kelez
-Danielle Forsyth
-Michael Fawver
-Derek Blum
-Maarika Krumhansl
-Thomas Marsh
-Alex McNiven
-Pete Ficht
-Roy Hall
-Lauren Yeiser
-Karvari Ellingson
-Sierra Payne
-Benjamin Herson
-Stephen King
-Lara Karbiner
-Jason Stafford
-Kevin Sullivan
-Dennis McMillan
-Cole Harper
-Jeremy Saylor
-Marijane White
-Damon Jansen
-Matthew Warkentin
-Alice Martin
-Laura Cecil
-Pharoah Bolding
-Kelvin Lee
-Celene Robert
-Sheila Boman
-Chris Mason
-Laura Pelofske
-Loren Sanz
-Stephanie Peterson
-Nick Deyoung
-Ryan Miller
-Matthew Cockcroft
-Jeena Huneidi
-jay higgs
-Steve Loch
-Mutlu Isik
-Haydn Strauss
-Sam Alpher
-Ryan Goodpasture
-David Walker
-Don Campbell
 Adrienne Kenny
-Ben Kulp
-Colin McWrightman
-Christopher Langstaff
+Alex McNiven
+Alice Martin
 Alison Stump
-Aubri Sandlin
-Iris Blackburn
-Perry Besore
-Philip Pridmore-Brown
-Sean Penrith
-Jason Hannan
-Joel Griffith
-Erskine Williams
-Eric Douglass
-Deah Paulson
-Gregg Abbott
-Rupa Karnan Devadoss
+Amreen Ukani
 Amy Pombo
 Anna Valkov
+Aubri Sandlin
+Ben Kulp
+Benjamin Herson
 Cary Young
-Sam Jackson
-Eduardo Perez
-Esha Peddireddy
-Troy Foster
-Scott Seely
-Peter Boekelheide
-Loreen Rowe
-Daniel Pool
-Jacob Lashley
-Rebecca Davies
-Greg Buehler
-Joshua E. Burley
-Chris Marchbanks
-Greg Preston
-Simran Gleason
-Keelan Holman
+Celene Robert
 Chris Loeper
-Steve Watson
+Chris Marchbanks
+Chris Mason
+Christopher Langstaff
+Cole Harper
+Colin McWrightman
+Damon Jansen
+Daniel Pool
+Danielle Forsyth
+David Walker
+Deah Paulson
+Dennis McMillan
+Derek Blum
+Don Campbell
+Eduardo Perez
+Eric Douglass
+Erskine Williams
+Esha Peddireddy
+Greg Buehler
+Greg Preston
+Gregg Abbott
+Haydn Strauss
+Heather Kelez
 Henry Shapiro
-Paul Zallar
-Jason Hall
-Justin Bradley
+Iris Blackburn
+Jacob Lashley
 James Kellerman
-Amreen Ukani
+Jason Hall
+Jason Hannan
+Jason Stafford
+Jeena Huneidi
+Jeremy Saylor
+Joel Griffith
+Joshua E. Burley
+Justin Bradley
+Karvari Ellingson
+Keelan Holman
+Kelvin Lee
+Kevin Sullivan
+Lara Karbiner
+Laura Cecil
+Laura Pelofske
+Lauren Yeiser
+Loreen Rowe
+Loren Sanz
+Maarika Krumhansl
+Marijane White
+Matthew Cockcroft
+Matthew Warkentin
+Michael Fawver
+Mutlu Isik
+Nick Deyoung
+Paul Zallar
+Perry Besore
+Pete Ficht
+Peter Boekelheide
+Pharoah Bolding
+Philip Pridmore-Brown
+Rebecca Davies
+Roy Hall
+Rupa Karnan Devadoss
+Ryan Goodpasture
+Ryan Miller
+Sam Alpher
+Sam Jackson
+Scott Seely
+Sean Penrith
+Sheila Boman
+Sierra Payne
+Simran Gleason
+Stephanie Peterson
+Stephen King
+Steve Loch
+Steve Watson
+Thomas Marsh
+Troy Foster
+jay higgs

@@ -1,81 +1,62 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Ken Osborne
-Benjamin Huckabee
-Chukwudera Okafor
-Bob Brencic
-Edward Marvin
-Chandra Prasad
-Lenny Bonsall
-Glenn Yu
-Nipen Mody
+AJ Joe
 Adam Barak
-larry breed
-Ryan Herbst
-Nicolas Philip
-Tuan Nguyen
-Louis Caldera
+Alok Swain
+Ashish Shah
+Ashwinkumar Patil
+Austra Kausiniece
+Benjamin Huckabee
+Benta zen
+Bianca Mihaela Muresan
+Bill Evans
+Bob Brencic
+Chandra Prasad
 Chris Sorrows
-James Apolis
+Chukwudera Okafor
 Cornel Neagu
+Cristin Nita
+Daniel Lord
+David Mendez
+Dr.patricia yang MD
+Duabari Aziaka
 Duke Lambert
-Volahasina RAKOTONDRAMANANA
-Milan Chutake
+Ed Zschau
+Edward Marvin
+Elizabeth Seperack
+Glenn Sager
+Glenn Yu
+Hue T. Tran
+Ilze Cilinska
+Jacqueline Lleverino
+James Apolis
+Jason Emmel
+Jim Cihla
+Joany Draeger
+Kathy Nguyen
+Ken Osborne
+Larry Breed
+Lenny Bonsall
+Louis Caldera
+Louise Fusfeld
 Mark Davis
+Mayank Vasa
+Milan Chutake
+Nadezhda Kunicina
+Neaga Septimiu
+Nicolas Philip
+Nipen Mody
+Norbert Nopper
+Parag Shah
+Patti Dierks
 Rob Seim
 Robert Robbins
-Joany Draeger
-Glenn Sager
-Troy Eberlein
-Austra Kausiniece
-AJ Joe
-Daniel Lord
-Hue T. Tran
-Ashish Shah
-Jim Cihla
-Bill Evans
-Victor Chu
-Ed Zschau
-Kathy Nguyen
+Ryan Herbst
 Shreyas Gandhi
-Torio Creatives
-Patti Dierks
-Norbert Nopper
 Stephen Terlizzi
-Benta zen
-Larry Breed
-Mayank Vasa
-Elizabeth Seperack
-Jacqueline Lleverino
-Jason Emmel
-Ashwinkumar Patil
-Bianca Mihaela Muresan
-Ilze Cilinska
 Steve Thesing
 Taylor Kennedy
-Alok Swain
-David Mendez
-Duabari Aziaka
-Nadezhda Kunicina
-Parag Shah
-Louise Fusfeld
-Dr.patricia yang MD
-Neaga Septimiu
-Cristin Nita
+Torio Creatives
+Troy Eberlein
+Tuan Nguyen
+Victor Chu
+Volahasina RAKOTONDRAMANANA
+larry breed

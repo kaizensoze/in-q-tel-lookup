@@ -1,57 +1,38 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
+Ajay Singh
+Ann Borja
+Bar de Cru
+Bob Wood
+Brian McNamara
+Carl Wright
+Christine Harrison
+Dylan Cruse
+Elio Gerardi
+Greg Collins
+Henk Jan Spanjaard
+Jennifer Davis
+Jim Cosby
+John Tecchio
 Josh Silberman
 Kevin Brown
-Bob Wood
-Robert Sussland
-Carl Wright
 Mangala Shivakumar
-Wednesday Bogel
-Neal Murphy
-Ajay Singh
-Ziv Navoth
-Warren Fay
-John Tecchio
-Greg Collins
-Elio Gerardi
-Jennifer Davis
-Todd Sommers
-Reema Sharma
-Vinay Kaval
-Mohit Kumar
-Stephen Scott
-Shawna Meyer-Ravelli
-Robert Coish
-Marc Fishbein
-Henk Jan Spanjaard
-Mike Wong
-Jim Cosby
 Manoj Kumar
+Marc Fishbein
+Michele Borovac
+Mike Wong
+Mohit Kumar
+Neal Murphy
+Nitin Nagpal
+Rajamohan Gandhasri
+Reema Sharma
+Robert Coish
+Robert Sussland
+Sanjay Jagad
+Shawna Meyer-Ravelli
+Stephen Scott
+Todd Sommers
+Vinay Kaval
+Warren Fay
+Wednesday Bogel
+Ziv Navoth
 anu praveen
 rik remmery
-Bar de Cru
-Rajamohan Gandhasri
-Ann Borja
-Dylan Cruse
-Sanjay Jagad
-Nitin Nagpal
-Christine Harrison
-Michele Borovac
-Brian McNamara

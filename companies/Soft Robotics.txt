@@ -1,116 +1,60 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Mark Chiappetta
-Dan Harburg
-Carl Vause
-Joshua Lessing
-Geoff Lewis
-Ryan Knopf
-Robert Katzschmann
-Luis Valle
-Vinayak Soni
-Thomas Womersley
-Siddharth Sanan
-Matthew Borgatti
-Peter Biro
-Ming Luo
-Jacob Reese
-Nadia Cheng
-Sarv Parteek Singh
-Allen Jiang
-Feng Ni
-Kari Love
-Kevin Low
-Michael Rosenstein
-John Morrow
-Simone Braunstein
-Vishesh Vikas
-Christopher Szleszynski
-Wanfang Wu
-Marielena Velasco Enriquez
-Sina Sareh
-Hong Kai Yap
-Niko Kastor
-Kevin Alcedo
-Yu She
-Thrishantha Nanayakkara
-Paxton Maeder-York
-Tommaso Ranzani
-Johannes T. B. Overvelde
-Annan Mozeika
-Andrew Sevy
-Wenbin Hong
-Conor Walsh
-Nick Corson
-Gihan Hewage
-Charbel Dalely Tawk
-john ronczka
-Anand Ramakrishnan
-Steven Lessard
-Nick Nieminen
-Laura Margheri
-Derek Cheng
-Javad Taghia
-Zakai Olsen
-Tommaso Ranzani
-Alexander Kernbaum
-Dario Floreano
-Ajinkya Bhat
-Caleb Fuller
-Aditya Kapoor
-Jeffrey Blum
-Jun Wai Kow
-Navid Kazem
-Dylan Drotman
-Carolyn Strock
-Preston Ohta
-Carina Fish
-Brian Williams
-David Askey
-Mitch Kosowski
-Nadia Zalika
-Ignacio Galiana
-Ali Alazmani
 Grant Allen
-Yashraj Narang
-Michele Xiloyannis
-Marietta Bolding
-Alexandra Cohen
+Hong Kai Yap
+Ignacio Galiana
 Isuru Godage
-Deepak Shimpi
-Adam Sharkawy
-Erik Steltz
-Benjamin Shih
-Ramzi Majit
-Agostino Stilli
-Wut Yee Oo
-Eunjeong Lee
-Daniel Fitzgerald
+Jacob Reese
+Javad Taghia
+Jeffrey Blum
+Johannes T. B. Overvelde
+John Morrow
+Joshua Lessing
+Jun Wai Kow
 Junius Santoso
-William Bennett
-Colette Abah
-Andrew Horchler
+Kari Love
+Kevin Alcedo
+Kevin Low
 Kimly Do
-Xu Sun
-Sarah Bergbreiter
 Kyle Lafontant
-Anthony Scibelli
+Laura Margheri
+Luis Valle
+Marielena Velasco Enriquez
+Marietta Bolding
+Mark Chiappetta
+Matthew Borgatti
+Michael Rosenstein
+Michele Xiloyannis
+Ming Luo
+Mitch Kosowski
+Nadia Cheng
+Nadia Zalika
+Navid Kazem
+Nick Corson
+Nick Nieminen
+Niko Kastor
+Paxton Maeder-York
+Peter Biro
+Preston Ohta
+Ramzi Majit
+Robert Katzschmann
+Ryan Knopf
+Sarah Bergbreiter
+Sarv Parteek Singh
+Siddharth Sanan
+Simone Braunstein
+Sina Sareh
+Steven Lessard
 Steven Rich
-Dean Keithly
+Thomas Womersley
+Thrishantha Nanayakkara
+Tommaso Ranzani
+Vinayak Soni
+Vishesh Vikas
+Wanfang Wu
+Wenbin Hong
+William Bennett
+Wut Yee Oo
+Xu Sun
+Yashraj Narang
+Yu She
+Zakai Olsen
+john ronczka

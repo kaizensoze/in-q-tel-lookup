@@ -1,109 +1,82 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Sean Varah
+Abby Huenemeyer
+Aleksandar Vucetic
+Aleksandra Stojnev
+Alemayehu Meharie
+Ana Miltojevic
+Ankur Chattopadhyay
+April Dewart
 Austin Dillman
+Benjamin Solhjem
+Bill Majors
+Bill Veteto
+Bojana Karnik
+Brian Crowley
+Burkay Orten
+Candace Capella
+Chonghyuk Kwon
 Chris DeMarche
-Zoran Cirkovic
+Danijel Dankovic
+Darko Ilic
+Dave Eliot
+David Eliot
+David Jovanovic
+Dejan Savic
 Derek Watanabe
 Donna Lekosky
-Nicholas Hayward
-Nenad Mancevic
-Nikola Bozinovic
-Nemanja Grujic
-Dave Eliot
-Dustin Puerto
-Candace Capella
-Ryan Sowma
-Benjamin Solhjem
-Sasa Andjelkovic
-William Smith
-John Zechlin
-Milan Markovic
-Aleksandra Stojnev
-Peyman Milanfar
-Sasa Kostadinovic
-Jason Trinidad
-Nebojsa Andjelkovic
-April Dewart
-Ivan Vuckovic
-Mark Varah
-Rob Perez
-Bill Majors
-Drew Gilliam
-Dejan Savic
-Goran Kamenov
-Milos Mitrovic
-Nemanja Savic
-Sadie Bell
-Darko Ilic
-Kelly Brieger
-Nebojsa Jotovic
-Shondal Groom
-Milan Mihajlovic
-Nemanja Grujic
-Nebojsa Jogric
-Ankur Chattopadhyay
-Aleksandar Vucetic
-Murat Ugljanin
-Jelena Petrovic
-Dejan Savic
-Sasa Andjelkovic
-Linda Qualley
-Zoran Cirkovic
-Donna Lekosky
-Nenad Simic
-David Jovanovic
-Igor Mihajlovic
-Brian Crowley
-Melvin Cordova
-Ivan Stoskovic
-Burkay Orten
-Koichiro Kanda
-William Smith
-Sasa Nedeljkovic
-Alemayehu Meharie
-Richard Bell
-Bojana Karnik
 Donna McNeill
-Bill Veteto
-Marisa Saunders
-Tamika Thompson-Burke
-Ana Miltojevic
-David Eliot
-Danijel Dankovic
-Maja Milosevic
-Marko Pecic
-Milan Mitrovic
-Lejla Kadusic
-sydney kase
-Jeremy Middleton
-Dusan Maksovic
-Dejan Savic
 Dragana Gasevic
-Nela Vuckovic
-Nebojsa Jogric
-Radivoj Gudovic
-Ivan Velickovic
-Abby Huenemeyer
-Chonghyuk Kwon
+Drew Gilliam
 Drew Poling
-Robert Sanderson
+Dusan Maksovic
+Dustin Puerto
 Erik Swanson
+Goran Kamenov
+Igor Mihajlovic
+Ivan Stoskovic
+Ivan Velickovic
+Ivan Vuckovic
+Jason Trinidad
+Jelena Petrovic
+Jeremy Middleton
+John Zechlin
+Kelly Brieger
+Koichiro Kanda
+Lejla Kadusic
+Linda Qualley
+Maja Milosevic
+Marisa Saunders
+Mark Varah
+Marko Pecic
+Melvin Cordova
+Milan Markovic
+Milan Mihajlovic
+Milan Mitrovic
+Milos Mitrovic
+Murat Ugljanin
+Nebojsa Andjelkovic
+Nebojsa Jogric
+Nebojsa Jotovic
+Nela Vuckovic
+Nemanja Grujic
+Nemanja Savic
+Nenad Mancevic
+Nenad Simic
+Nicholas Hayward
+Nikola Bozinovic
+Peyman Milanfar
+Radivoj Gudovic
+Richard Bell
+Rob Perez
+Robert Sanderson
+Ryan Sowma
+Sadie Bell
+Sasa Andjelkovic
+Sasa Kostadinovic
+Sasa Nedeljkovic
+Sean Varah
+Shondal Groom
+Tamika Thompson-Burke
 Wendy Dopp
+William Smith
+Zoran Cirkovic
+sydney kase

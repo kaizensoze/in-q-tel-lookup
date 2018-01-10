@@ -1,108 +1,84 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-John LeMoncheck
-Justin Li
-Paul Mansky
-Mike Spaid
+Agustin Vega
+Alan Wu
+Barbara Lerner
+Barry Marks
+Benny Wee
+Christine Flynn
+Connie Hunter
+Cynthia Evans
+David Jones
+David Yao
+Debbie Finney
+Derek Tuttle
+Dong-Su Kim
+Doug Hodder
 Elliott Hinds
 Eric Terbeek
-Sean Sharif
-David Jones
-Haixia Dai
-David Yao
-Rahul Gupta
-Lisa Roslund
-Florian Pschenitzka
-Vinod Mahendroo
-Trung Nguyen
-Frank Wallace
-Jeff Wolk
-Liz Richardson CPIM
-Michael Spaid
-Jorge Colonia
-Ian Moody
-Doug Hodder
-Agustin Vega
-Ralene Trant
-Feng Liu
-Lily Pay
-Sriram Peruvemba
-Jorge Colonia Navarrete
-Derek Tuttle
+Erik Rutten
 Fariba Bagheri
-Debbie Finney
-Pierre-Marc Allemand
-Mike Tanaka
-Michelle Chan
-Alan Wu
-Cynthia Evans
-Hemali Davande
-Norbert Fronczak
-Rimple Bhatia
-Nayyreh Atabakhsh
-Teresa Ramos
-Michael Montplaisir
-Sina Loghavi
-Larry Bock
-Hash Pakbaz
-Dong-Su Kim
-Keith Killpack
-Jeff Ong
-MAURICE TERRY
-Michael Knapp
-Lance Harrison
-Barry Marks
-Barbara Lerner
-Missy Bindseil
-Samuel Robillos
-Trang Le
-HUONG LAI
-Jelena Sepa
-Leslie Clavin
-Jagadish Kumaran
+Feng Liu
+Florian Pschenitzka
+Frank Wallace
+Gary King
 Gene Banucci
-Pam Simao
-Roy Maydan
-Raymond Woodd
+HUONG LAI
+Haixia Dai
+Hash Pakbaz
+Hemali Davande
+Ian Moody
+Jagadish Kumaran
+Jeff Ong
+Jeff Wolk
+Jelena Sepa
+Jerry Wang
+John LeMoncheck
+Jorge Colonia
+Jorge Colonia Navarrete
+Justin Li
+Karl Pichler
+Keith Killpack
+Lance Harrison
+Larry Bock
+Lee Warren Pacis
+Leslie Clavin
+Lily Pay
+Lisa Roslund
+Liz Richardson CPIM
+MAURICE TERRY
 Marcy Borg
 Max Torke
-Rommel Bernardez
-Derek Tuttle
-Connie Hunter
-Karl Pichler
-Hash Pakbaz
-Suzanne Ii
+Mehari Stifanos
+Michael Knapp
+Michael Montplaisir
 Michael Pachos
+Michael Spaid
+Michelle Chan
+Mike Spaid
+Mike Tanaka
+Missy Bindseil
+Nayyreh Atabakhsh
+Norbert Fronczak
+Pam Simao
+Paul Mansky
+Pierre-Marc Allemand
+Pin Chen
+Rahul Gupta
+Ralene Trant
+Raymond Woodd
+Rimple Bhatia
+Rommel Bernardez
+Roy Maydan
+Samuel Robillos
+Sandra Rolston
+Sean Sharif
+Sina Loghavi
+Sriram Peruvemba
+Susan Smirnes
+Suzanne Ii
+Teresa Ramos
+Trang Le
+Trung Nguyen
+Vinod Mahendroo
+Xi Xin Deng
 Xina Quan
 chris huynh
-Jerry Wang
-Lee Warren Pacis
-Pin Chen
-Jorge Colonia
-Benny Wee
-Susan Smirnes
-Sandra Rolston
-Gary King
-Christine Flynn
-Jagadish Kumaran
-Xi Xin Deng
-Mehari Stifanos
-Pin Chen
-Erik Rutten

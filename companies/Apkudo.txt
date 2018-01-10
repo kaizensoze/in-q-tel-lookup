@@ -1,113 +1,42 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Josh Matthews
-Manoj Sabhnani
-Asa Gismervik
-Shelly Roache
-Stan Scheufler
-Jim Huang
-Rebecca Wright
-Kevin T. King
-Daniel Joyce
-Alex Bannerjee
-Anna Finke
-David Perenic
-Asudani Yogesh
-Wyatt Kund
-Jay Macor
-Benjamin Tseng
-Harold Bratcher
-Benno Leslie
-Ronak Shah
-Christopher Cole
-Yvonne Reid
-Kate Lyons
-Aron Beierschmitt
-Cara Lipshie
-Eric W. Bernard
-David Teitelbaum
-Mike Spotten
-Cecil Talbott
-Manoj Sabhnani
-Marissa Albarran
-Rick Welsch
-Umit Baysugurova
-Manoj Sabhnani
-Daniel Oh
-Harold Bratcher
-Justin Green
-Tim Gurto
-SUNGLIN WANG
-Harold Bratcher
-Megan Stasio
-Zachary Dale
-Josh Matthews
-John Wong
-William Briere
-Ashwinkumar Ganesan
-Jarmo Alm
-Benno Leslie
-Burton Ng
-Josh Matthews
-Shelly Roache
+Jonathan Fenton
 Josh Matthews
 Joshua Matthews
 Judee Kleinman
-Jack White
-Mack Perkins
-Jim Huang
-Joshua Matthews
-Russell Lipinski
-Fatin Hameed
-Jonathan Fenton
-harold bratcher
-Linda Canto
-Joshua Matthews
-Weijia Wang
-Anna Finke
-Joshua Matthews
-toral patel
-Anam Malik
-Kristin Ching
-Yvonne Reid
-Corky Cruickshank
-Charles Hoke
-Simant Tare
-Melissa Owens-Juenke
-Brandon Sherman
-Jon Rosburg
+Justin Green
+Kate Lyons
 Kevin Moss
-Tom Atkinson
-Steven L. Sperry
+Kevin T. King
+Kristin Ching
+Linda Canto
+Mack Perkins
+Manoj Sabhnani
+Marissa Albarran
+Megan Stasio
+Melissa Owens-Juenke
+Mike Spotten
+Natalie Lapointe
+Nicoline Smits
+Rebecca Wright
+Rene Villaruel
+Rick Welsch
+Ronak Shah
+Russell Lipinski
+SUNGLIN WANG
 Shanna Shropshire
 Sharon Sullivan
-Bill Powell
-Gary Bailey
-Bridget Huang
-Rene Villaruel
-Anna Finke
-Christiana Atuboyedia
-Nicoline Smits
-Natalie Lapointe
-Arpit Mehta
+Shelly Roache
+Simant Tare
+Stan Scheufler
+Steven L. Sperry
+Tim Gurto
+Tom Atkinson
+Umit Baysugurova
+Weijia Wang
+William Briere
 William Renkart
-Chris Beiser
+Wyatt Kund
+Yvonne Reid
+Zachary Dale
 Zlatko Jovicic
-Andi Marchel Andreas Kahiking
+harold bratcher
+toral patel

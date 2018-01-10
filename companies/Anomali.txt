@@ -1,107 +1,51 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Colby DeRodeff
-Dan Barahona
-Danielle Scharf
-Nick Vann
-Matt Chisam
-Todd Helfrich
-Sesha Narahari
-Kristopher Palmer
-Angela Nichols
-Mathew McCulloch
+Jarrad Chorney
+Jason Burosh
 Jason Trost
-Troy Pearson
-Hugh Njemanze
+Jay Dack
 Johanna Zaragoza
-Gabriel Martinez
-Aaron Shelmire
+John Craig
+Jonathan Crawford
+Jonathan Martin
+Jonathan Sinclair
+Jorge Alzati
 Josh Fu
-Trish Cagliostro
-Asad Baheri
-Jamie Stone
+Julia LeNeau
 Julia Stoltenberg
+Justin Rowland
+Kamron Sherkat
+Karen Wang
+Kristopher Palmer
+Lucas Davis
+Malik S. Anwar
+Mark Reedy
+Mark Seward
+Masaki Utsumiya
+Mathew McCulloch
+Matt Chisam
+Matt Foster
+Matthew Mokry
+Michael Forgione
 Nate Hammond
+Niall MacLeod
+Nick Vann
+Pallavi Satpute-Gandhi
+Paul Rogers
+Peter McMullen
+Rich Scott
+Richard Betts
+Rick Wescott
+Ryan Clough
+Ryo Saputra Limijaya
+Scott Pachuta
+Sean Ribisi
+Sesha Narahari
+Steve Kent
+Susan Li
+Teddy Powers
+Thomas Chen
+Todd Helfrich
+Trevor Welsh
+Trish Cagliostro
+Troy Pearson
 Wei Huang
 Wes Wharton
-Jonathan Martin
-Andrea Dazols
-Mark Seward
-Mark Reedy
-Lucas Davis
-Adam Fenech
-Trevor Welsh
-Peter McMullen
-Thomas Chen
-Justin Rowland
-Ashley Seiler
-Haylee Hewlett
-Niall MacLeod
-Ryo Saputra Limijaya
-John Craig
-Declan Wilson
-Jonathan Sinclair
-Darren DelSignore
-Sean Ribisi
-Harrison Parker
-Rich Scott
-Paul Rogers
-Julia LeNeau
-Charlie McKenna
-Teddy Powers
-Susan Li
-Geoff Noble
-Ryan Clough
-Jay Dack
-Scott Pachuta
-Malik S. Anwar
-Steve Kent
-Matthew Mokry
-Eric Krzeminski
-Bryan Geraldo
-Evan Wright
-Janet Marchell
-Eric Chen
-Karen Wang
-Jason Burosh
-Daniel Katz
-Dianne Lee
-David Empringham
-Darian Woodford
-Pallavi Satpute-Gandhi
-Matt Foster
-Kamron Sherkat
-Jagdeep Chhabra
-Doug Lehr
-Jorge Alzati
-Anthony Aragues
-Ibari Fafunwa
-Alan Pye
-George Nicol
-Daniel Kelley
-Masaki Utsumiya
-Jonathan Crawford
-Trevor Welsh
-Michael Forgione
-Richard Betts
-Irvan Helmi
-Akshay Kumar
-Rick Wescott
-Jarrad Chorney

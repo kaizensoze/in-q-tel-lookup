@@ -1,77 +1,57 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Nancy Briefs
-Bill Swavely
-Philip Leone
-Anna McNamara
-Michael Fahey
-Bill McGrail
-David Haggerty
-Matthew King
-Vivien Heiner
-Chris Strasinski
-Ravi Kuppuraj
-Sherry Terry
-Samuel Geller
-Emily Meyer
-Hamid Tabatabaie
-Janka Hatvani
-Rambha Kumari
-Prasanna Desikan
-Peter van der Sluis
-Laszlo Dobson
-Csilla Homonnay
-Alexandra Danyi
-Katherine Briefs
-Kalyan Beemanapalli
-Shirley Gee
-Shirley Gee
 Al Wiegman
-Gabriella Bencsik
-Jeff Mikalson
-Steven Wasserman
-Norbert Majubu
-Bence Szita
-Monika Hujter
-Helga Feiszthuber
-Attila Schulc
-Erik Tennant
-Yash Shah
-Eszter Lakatos
+Alexandra Danyi
 Andrew Glosick
-Yashesh Rawal
-Mustafa Sagiroglu
-Michaela Horn
-Flora Zieger
-Nikita Gajbhiye
-Bonnie Fendrock
-Nora Markia
-Ann Sweeney
-Katalin Garics
-Kevin Bernier
-Chris Meloche
-Stephen R. Wasserman
-Brandy Thill
-Robert Nagy
 Ankit Jain
-Hai Wang
+Ann Sweeney
+Anna McNamara
+Attila Schulc
 Balazs Csigi
-Jonathan Doucette
+Bence Szita
+Bill McGrail
+Bill Swavely
+Bonnie Fendrock
+Brandy Thill
 Brian Fina
+Chris Meloche
+Chris Strasinski
+Csilla Homonnay
+David Haggerty
+Emily Meyer
+Erik Tennant
+Eszter Lakatos
+Flora Zieger
+Gabriella Bencsik
+Hai Wang
+Hamid Tabatabaie
+Helga Feiszthuber
+Janka Hatvani
+Jeff Mikalson
+Jonathan Doucette
+Kalyan Beemanapalli
+Katalin Garics
+Katherine Briefs
+Kevin Bernier
+Laszlo Dobson
+Matthew King
+Michael Fahey
+Michaela Horn
+Monika Hujter
+Mustafa Sagiroglu
+Nancy Briefs
+Nikita Gajbhiye
+Nora Markia
+Norbert Majubu
+Peter van der Sluis
+Philip Leone
+Prasanna Desikan
+Rambha Kumari
+Ravi Kuppuraj
+Robert Nagy
+Samuel Geller
+Sherry Terry
+Shirley Gee
+Stephen R. Wasserman
+Steven Wasserman
+Vivien Heiner
+Yash Shah
+Yashesh Rawal

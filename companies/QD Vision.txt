@@ -1,113 +1,93 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Karthik Venkataraman
-John Ho
-Chad Annable
-Wenhao Liu
-Richard Colby
-Chad Denton
-Mike Endyke
-Sridhar Sadasivan
+Abhishek Gupta
+Arun Thamban
+Bijhan Kalhori
+Bob Woodbury
+Brandon MacDonald
+Brett Guralnick
+Brian Gaulin
+Brian Pretti
 Budhadipta Dan
+CHRISTINE ANDERSON
+Cassandra Zentner
+Chad Annable
+Chad Denton
+Charles Hall
+Charlie Dennison
+Cheryl Kennedy-Hepburn
+Christopher Neville
+Cindy Martin
+Clay Primrose
+Craig Breen
+Daniel Cole
+Daniel Harris
+Frank Hillery
+Frank Ignazzitto
+Gagan Mahan
+George Minott
+Gongli Duan
+Greg Moeller
+Heather Lanman
+Heather Tanashian
+Inja Song
+Jack Burroughs
+Jack Dinon
+James Cascarano
+James Doherty
+James Mariani
+Jason Carlson
+Jean-Michel CARUGE
+Jesse Keenan
+Jesse Mitchell
+Jingqun Xi
+John Ho
+John Ritter
+John Volkmann
+Jonathan Keyes
+Justin Larson
+Karen Twietmeyer
+Karthik Venkataraman
+Keeve Gurkin
+Kirk Hutchinson
+Kyle Pereira
+Larry Biggs
+LeRoy Vargas
+Mark Dudziak
+Martha Finnegan
 Matthew Mallory
 Matthew Stevenson
-John Volkmann
-Bob Woodbury
-Jesse Keenan
-Richard Hiscock
-Daniel Harris
-John Ritter
-Steven Corliss
-Peter Kazlas
-Charles Hall
-Martha Finnegan
-Jack Burroughs
-Keeve Gurkin
-Mark Dudziak
-Greg Moeller
-Steve Ward
-Y. Joon Lee
-James Cascarano
-Seth L. Reinhardt
-William Trinh
-Robert Pratt
-Ryan Josselyn
-Jason Carlson
-Kyle Pereira
-Brandon MacDonald
-Peter Allen
-CHRISTINE ANDERSON
-Larry Biggs
-Inja Song
-Victoria Hinchey
-Michael N. Sehnert
-Charlie Dennison
-Justin Larson
-Craig Breen
-Steve Battista
-Christopher Neville
-Rachel Alfie
-Karen Twietmeyer
-Suzanne Manha
-Kirk Hutchinson
-Norm Jessiman
-Cindy Martin
-Jesse Mitchell
-Abhishek Gupta
-Heather Tanashian
-Brian Gaulin
-Daniel Cole
-Stephen Bullock
-Yvonne Sun
-William Clay
-LeRoy Vargas
-Jean-Michel CARUGE
-Gongli Duan
-Arun Thamban
-Tim Fleck
-James Doherty
-Gagan Mahan
-Todd Richardson
-Clay Primrose
-Bijhan Kalhori
-Whitney Miller
-Brian Pretti
-Nancy Lane
-Frank Ignazzitto
-Jonathan Keyes
-Cassandra Zentner
-Peter Palomaki
-James Mariani
-Brett Guralnick
-Cheryl Kennedy-Hepburn
-Zhaoqun Zhou
-Jack Dinon
-Robert Zygiel
-Peijiao Wang
-Nicholas Chiccarelli
-Jingqun Xi
-George Minott
-Valerie Berman
-Martha Finnegan
 Michael Goddard
+Michael N. Sehnert
+Mike Endyke
+Nancy Lane
+Nicholas Chiccarelli
+Norm Jessiman
+Peijiao Wang
+Peter Allen
+Peter Kazlas
+Peter Palomaki
+Rachel Alfie
+Richard Colby
+Richard Hiscock
 Robert Nick
-Heather Lanman
-Frank Hillery
+Robert Pratt
+Robert Zygiel
+Ryan Josselyn
+Seth L. Reinhardt
+Sridhar Sadasivan
+Stephen Bullock
+Steve Battista
+Steve Ward
+Steven Corliss
 Suchit Shah
+Suzanne Manha
+Tim Fleck
+Todd Richardson
+Valerie Berman
+Victoria Hinchey
+Wenhao Liu
+Whitney Miller
+William Clay
+William Trinh
+Y. Joon Lee
+Yvonne Sun
+Zhaoqun Zhou

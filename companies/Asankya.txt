@@ -1,62 +1,35 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Scott Ryan
-Yijun Lu
-Trey Duskin
-Norman Henderson
-Karen Hazzah
-Sandeep Kakumanu
-Utsav Kanani
-Joubert Berger
-Baihan Liang
-Tracy Hernandez
-Bill Rosenbluth
-David Hu
-Eric Champlin
-Khiem Lam
-Pooja Vijayakumar
-Cody Garvin
-Tabetha Motes
-Martin Taylor
-Yijun Lu
 Adam Bane
-Subbarayudu Talluri
-vishal neel
+Amy Derbyshire
+Anessia Foley
+Baihan Liang
+Bill Rosenbluth
+Cheng-Lin Tsao
+Cody Garvin
+Curtis Jordan
+David B. Haines
+David Hu
+Doryne Daihatsura
+Eric Champlin
+Eric Fritzges
 Jay Robertson
+Jorge Sierra
+Joubert Berger
+Joviano Dias
+Karen Hazzah
+Khiem Lam
+Martin Taylor
+Norman Henderson
+Pooja Vijayakumar
+Sandeep Kakumanu
+Scott Ryan
 Shruti Sanadhya
 Stephen Fleming
-Joviano Dias
-Jorge Sierra
+Subbarayudu Talluri
+Tabetha Motes
 Tracy Hernandez
-Anessia Foley
+Trey Duskin
+Utsav Kanani
 William Rosenbluth
-Cheng-Lin Tsao
-David B. Haines
-Joviano Dias
-Curtis Jordan
+Yijun Lu
 amit dange
-Tabetha Motes
-Eric Fritzges
-Curtis Jordan
-Doryne Daihatsura
-Jorge Sierra
-Tabetha Motes
-William Rosenbluth
-Amy Derbyshire
+vishal neel

@@ -1,111 +1,46 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-James Crawford
-A.J. DeRosa
-Ben Rudin
-Connor Brooks
-Robert Morse
-Boris Babenko
-Shwetank Kumar
-Hadley Johnson Ph.D.
 Jason Lohn
-Ralph Lafferty
-Soohyun Yang
-Glenn Sterenborg
-Steven Bickerton
-Mike Kim
-Adam Kraft
-Javier Barreiro
-Alexander Avtanski
-Patrick Brodie
-Michael Baxter
-Riffat Jaffer
-Steven Watson
-Andrew Ward
-Eric Heien
-Tom Swartz
-Abheek Basu
-David J. La Placa
-Shiyu Zhang
-Gustavo Pires de Oliveira Dias
-Jerome Ku
-Christopher Mosch
-Jennifer Rhee
-Matthew Granade
-Anthony Fandrianto
-Chi Yuan
-Manav Kataria
-Mark Tamming
-Laura B. Childs
-Jed Kolko
-Frank Jing
-Zaza Kabayadondo
-Ralph Lafferty
-Georgia Benjamin
-Michael Costuros
-Bilal Zuberi
-James Crawford
-Morgan Polotan
-Jeff Stein
-Daniel Sammons
-Emma Knoesen
-Aj Derosa
 Jasper Lin
+Javier Barreiro
+Jed Kolko
+Jeff Stein
+Jennifer Rhee
+Jerome Ku
 Jongmin Baek
-James Kermes
-Bryan Neuberg
-Karl Freund
-Victoria Tang
-Rean Park
-Dmytro Kozhevin
-Buddy Folk
-Mike Yakima
-Colleen Avey
-Prisdha Dharma
 Joyce Millet
-David J. La Placa
+Karl Freund
+Konstantin Selivanov
+Laura B. Childs
+Lyudmyla Chuba
+Manav Kataria
+Manoj Boolani
+Mark Tamming
+Matthew Granade
+Michael Baxter
+Michael Costuros
+Michael Cutter
+Michael Sklar
 Mike Ellis
 Mike Kim
-Michael Sklar
-Manoj Boolani
-Jason Gore
-Eric Zimmerman
+Mike Yakima
+Morgan Polotan
+Patrick Brodie
+Prisdha Dharma
+Ralph Lafferty
+Rean Park
+Riffat Jaffer
+Robert Morse
+Rodger Yahman
 Serge Belongie
+Shiyu Zhang
+Shwetank Kumar
+Soohyun Yang
+Steven Bickerton
+Steven Watson
 Sudha Gandikota
 Tobias Baumgartner
-Michael Cutter
-mike kim
-Andrew Grauberg
-Jeff Stein
-Jacque Patterson
-Robert Morse
-Jasper Lin
-Alex Ortiz
-Connor Brooks
-Vahid Kazemi
-Konstantin Selivanov
-Carmel Adelberg Johnson
-Rodger Yahman
+Tom Swartz
 Tresina Lockhart
-Lyudmyla Chuba
-Jennifer Rhee
-Ed Campana
-Alex Hunter
-Mike Kim
+Vahid Kazemi
+Victoria Tang
+Zaza Kabayadondo
+mike kim

@@ -1,115 +1,93 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Chris Petty
 Alyssa Ludvino
-Gary Paul
-Cicely George
-Joe Griffith
-Scott Mellors
-Trey Sieger
-Brendan Powers
-W Craig Wall
-Kevin J. Knopp
-Glenn A. Harris
-Steve Araiza
-Christopher Brown
-Kevin McCallion
-John W. Kenneweg
-Kerin Gregory
+Andrew Browning
+Andrew Hampton
+Angela Bubier
+Aura Ammenhauser
+Becky Verryt
 Bob Green
-Scott Miller
-Michael Jobin
-Mark Norman
-Patrick Farrell
-Kevin Chaves
+Bob Risse
+Brendan Powers
+Carol Faiola
+Chris Carpita
+Chris Petty
+Chris Udall
+Christina Karapataki
+Christopher Brown
+Cicely George
+Colin Delorme
+Cory Steffek
+Craig Cavanaugh
+Dave Massingham
+Davor Dvanajscak
+Devin Walker
+Drew Blouch
 Erin Finelli
-Stephen Mills
-Michael Goodwin
-Kevin Schultze
-Gwen Bone
-Sean Vote
-Matt Aernecke
-J. Michael Ramsey
-Kenion Blakeman
-Tony Liepert
-Kevin Keen
-Shirley Hoenigman
-Graham Shelver
 Erin Redman
 Evgeny Krylov
-Phil Gardella
-Nick Randall
-Chris Carpita
-Nicholas Setzer
-John Ranson
-Robert Kukla
-Carol Faiola
-Dave Massingham
-Kelly Haley
-Luc Davidson
-Rith Prum
-John Czajkowski
-Ji Young Anderson
-Drew Blouch
-Lorenzo Grasso
-Peter Sullivan
-Joshua Guerrette
-Hendrick Melo
-Devin Walker
-Kevin Hrusovsky
-Ken Junkins
-Mahdi Abdullahi
-Mitch Gallerstein
-Serena Dao
-Aura Ammenhauser
-Nancy Corbett
-Angela Bubier
-Tom Goodson
-Andrew Browning
-Mark Spoto
-Steven Pomerantz
-Haley Foster
-James Roush
-Colin Delorme
-Napassorn Lerdsudwichai
-Cory Steffek
-Peter Swett
-Chris Udall
-Bob Risse
 Gary Paul
-Christina Karapataki
-Mark Whitney
-Rick Clermont
-Kevin J. Knopp
-Becky Verryt
-Yuliya Cherapukha
-Davor Dvanajscak
-Mitchell Gallerstein
-Juliana Rubinova
-Joseph Mayr
-Craig Cavanaugh
-Andrew Hampton
-Laurent Menard
-trey steiger
-Chris Petty
-Julia Ravalski
+Glenn A. Harris
+Graham Shelver
+Gwen Bone
+Haley Foster
+Hendrick Melo
 Hiva Hosseini
+J. Michael Ramsey
+James Roush
+Ji Young Anderson
+Joe Griffith
+John Czajkowski
 John Perry
+John Ranson
+John W. Kenneweg
+Joseph Mayr
+Joshua Guerrette
+Julia Ravalski
+Juliana Rubinova
+Kelly Haley
+Ken Junkins
+Kenion Blakeman
+Kerin Gregory
+Kevin Chaves
+Kevin Hrusovsky
+Kevin J. Knopp
+Kevin Keen
+Kevin McCallion
+Kevin Schultze
+Laurent Menard
+Lorenzo Grasso
+Luc Davidson
+Mahdi Abdullahi
+Mark Norman
+Mark Spoto
+Mark Whitney
+Matt Aernecke
+Michael Goodwin
+Michael Jobin
 Michael Tolocka
+Mitch Gallerstein
+Mitchell Gallerstein
+Nancy Corbett
+Napassorn Lerdsudwichai
+Nicholas Setzer
+Nick Randall
+Patrick Farrell
+Peter Sullivan
+Peter Swett
+Phil Gardella
+Rick Clermont
+Rith Prum
+Robert Kukla
+Scott Mellors
+Scott Miller
+Sean Vote
+Serena Dao
+Shirley Hoenigman
+Stephen Mills
+Steve Araiza
+Steven Pomerantz
+Tom Goodson
+Tony Liepert
+Trey Sieger
+W Craig Wall
+Yuliya Cherapukha
+trey steiger

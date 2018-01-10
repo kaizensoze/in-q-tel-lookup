@@ -1,115 +1,90 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Martin Pralle
-James Carey
-Jutao Jiang
-stephen saylor
-Homayoon Haddad
-Drake Miller
-Chris Vineis
-Ren Earl
-Keith Donaldson
-Pam Alman
-Debbie Zygmuntowicz
-len forbes
-Rick Snyder
-Stephen Noble
-Michael Hawley
-Hannah Taleu
-Allen K. Lam
-Anderson Tsai
-Jeff McKee
-Chintamani Palsule
-Debbie Zygmuntowicz
-Michael Johnson
-Neal Kurfiss
-Greg Rogers
-Sean Stein
-Ren Earl
-Fredda Bauer
-Gary Custozzo
-Susan Alie
-Stephen Hansen
-Nathaniel McCaffrey
-sahib fred
-Jeannine Sargent
-Meena Sequeira-Tapsall
-Jill Watz
-Moran Levy-Finklshtein
-fred sahebi
-Prabhu Adepu
-Ryan Bonaparte
-Eric Mazur
-Richard Johnson
-Greg Dudgeon
 AMIR DORAGHI NEJAD
-Tommie Rae Mills
-Nina Wang
-James Beach
-zachariah jarvis
-M.Joseph Wahnish
-Hartley Murray
-Andrew Lunnen
+Abu Md. Zafar Sadeque
 Acropa Support
-Susan Nalls
-Jason Sickler
-Hugh Owens
-Rob Jones
-jay nalley
-Tom Malcolm
-Linda Beidelschies
-Jennifer Dortch
-Larry Sevilla
-Fatemeh Vaghef
-Shujia Xie
-Osman Ghandour
-Aron Holterman ten Hove
-hojat habibi
-stephen saylor
-Sam McAnulty
-Brett Todd
-Debbie Zygmuntowicz
-Moran Levy-Finklshtein
-T David Marro
-Ronald Hamlin
-Shen Wang
-Dee Connolly
 Adam Ball
 Adam Saxler
-Clement Gaidon
-kuai yin
-Rick Snyder
-Christian Boemler
-Steven Chick
-Patti Harris
-Cristian Tivarus
-Matt Hausfeld
-Jay Burnham
-Matthew Corbett
+Allen K. Lam
+Anderson Tsai
+Andrew Lunnen
+Aron Holterman ten Hove
 Bob Ellis
-David M. Walsh
-Joanne Forziati
-Dora Butko
-Louis Garcia
-Thomas Yu
-Florian Fischl
-Abu Md. Zafar Sadeque
-Julia Strasser
+Brett Todd
+Chintamani Palsule
+Chris Vineis
+Christian Boemler
 Claudia Stepputat
+Clement Gaidon
+Cristian Tivarus
+David M. Walsh
+Debbie Zygmuntowicz
+Dee Connolly
+Dora Butko
+Drake Miller
+Eric Mazur
+Fatemeh Vaghef
+Florian Fischl
+Fredda Bauer
+Gary Custozzo
+Greg Dudgeon
+Greg Rogers
+Hannah Taleu
+Hartley Murray
+Homayoon Haddad
+Hugh Owens
+James Beach
+James Carey
+Jason Sickler
+Jay Burnham
+Jeannine Sargent
+Jeff McKee
+Jennifer Dortch
+Jill Watz
+Joanne Forziati
+Julia Strasser
+Jutao Jiang
+Keith Donaldson
+Larry Sevilla
+Linda Beidelschies
+Louis Garcia
+M.Joseph Wahnish
+Martin Pralle
+Matt Hausfeld
+Matthew Corbett
+Meena Sequeira-Tapsall
+Michael Hawley
+Michael Johnson
+Moran Levy-Finklshtein
+Nathaniel McCaffrey
+Neal Kurfiss
+Nina Wang
+Osman Ghandour
+Pam Alman
+Patti Harris
+Prabhu Adepu
+Ren Earl
+Richard Johnson
+Rick Snyder
+Rob Jones
+Ronald Hamlin
+Ryan Bonaparte
+Sam McAnulty
+Sean Stein
+Shen Wang
+Shujia Xie
+Stephen Hansen
+Stephen Noble
+Steven Chick
+Susan Alie
+Susan Nalls
+T David Marro
+Thomas Yu
+Tom Malcolm
+Tommie Rae Mills
+fred sahebi
+hojat habibi
+jay nalley
+kuai yin
+len forbes
+sahib fred
+stephen saylor
+zachariah jarvis

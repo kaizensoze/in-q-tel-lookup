@@ -1,101 +1,82 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-John Bacus
-Jody Gates
-Bryce Stout
-Tyler Miller
-John Lema
-Himagiri Mukkamala
-David DeRam
-Anthony Duca
 Aidan Chopra
-James Ogston
-Mickey Carr
-Krishna Raman
-Jesse Devitte
-Salvatore Calvo
-Anthony Karcz
-Ryan Bott
-Juan Meza
-Denise Hulce Franklin
-Jim Beattie
-Steven Guggenheimer
-Millard McQuaid
-Mark Headd
-Rob Painter
-Mark Carvalho
-Ken Fanaro
-David Fowler
-Nina Aptekman
-Zach Boerger
-Julie Koehler Howe
-Dana Gardner
-Ronald D. Gordon
-Sam Santhosh
-David Smiley
-Marik Marshak
-Wynette Wiles
-John McIntyre
-Cheryl Roubian
-Paul Pardi
-Gabriel Burt
-Damian Poznanski
-James Thompson
-Anil Chitreddy
-David Hoff
-Hasan Rizvi
-Prasanna Subash
-Barbra Gago
-Chavdar Trendafilov
-Vasile Foca
-Sergey Morozov
-Brandon Lewis
 Akanksha jain
-Niharika Bandla
-James Foy
-Joel Murner
-Rajeev Agarwal
-Robin Purohit
-Scott Aziz
-Mona Doucet
-Arun Batchu
-Deidre Paknad
-David Aronchick
-Yegor Bugayenko
 Alan Messer Ph.D.
-Kristin Ellison
-Federico Calzi
-Christopher Cronin
-Chris Harvey
+Anil Chitreddy
+Anthony Duca
+Anthony Karcz
+Arun Batchu
+Barbra Gago
 Barnaby Cole
-John Bendever
-Sergio Alejandro Luna Vazquez
-Kavin Pandey
-Tim Kelly
-Robin Carley
-Carl Fitch
-Soni Jiandani
-David Linthicum
-Justin Myles
 Boonchanh Oupaxay
-Otik Zefas
+Brandon Lewis
+Bryce Stout
+Carl Fitch
+Chavdar Trendafilov
+Cheryl Roubian
+Chris Harvey
+Christopher Cronin
+Damian Poznanski
+Dana Gardner
+David Aronchick
+David DeRam
+David Fowler
+David Hoff
+David Linthicum
+David Smiley
+Deidre Paknad
+Denise Hulce Franklin
+Federico Calzi
+Gabriel Burt
+Hasan Rizvi
+Himagiri Mukkamala
+James Foy
+James Ogston
+James Thompson
+Jesse Devitte
+Jim Beattie
+Jody Gates
+Joel Murner
+John Bacus
+John Bendever
+John Lema
+John McIntyre
+Juan Meza
+Julie Koehler Howe
+Justin Myles
+Kavin Pandey
+Ken Fanaro
+Krishna Raman
+Kristin Ellison
+Marik Marshak
+Mark Carvalho
 Mark Davies
+Mark Headd
 Michael Whitfield
+Mickey Carr
 Mikhail Larionov
+Millard McQuaid
+Mona Doucet
+Niharika Bandla
+Nina Aptekman
+Otik Zefas
+Paul Pardi
+Prasanna Subash
+Rajeev Agarwal
+Rob Painter
+Robin Carley
+Robin Purohit
+Ronald D. Gordon
+Ryan Bott
+Salvatore Calvo
+Sam Santhosh
+Scott Aziz
+Sergey Morozov
+Sergio Alejandro Luna Vazquez
+Soni Jiandani
+Steven Guggenheimer
+Tim Kelly
+Tyler Miller
+Vasile Foca
+Wynette Wiles
+Yegor Bugayenko
+Zach Boerger

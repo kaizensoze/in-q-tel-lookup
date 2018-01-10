@@ -1,111 +1,78 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Matthew P. Turk
-William Milroy
-Greg Otto
-Rich Noroski
-Avery Quil
-Dan Inlow
-Darin Anderson
-Eric Liu
-Douglas Gleichman
-Michael Burke
-Jonathan Itow
+Aaron Burke
 Alan Lemons
-Ryan Kuehne
-Ramon Pradera
-Jason Woolman
-Ian McClelland
-Shannon Bankhead
-Mark Silk
-Karina Rodriguez
-Uncle Jerry Frey
-Don Lafferty
-Taylor Campbell
-Jonathan Lee
-Eddie Kwan
-Lauren Wendlberger
-Katherine Huynh
-Jorge Raphael
-Denny Lynch
-Eugene Yum
+Allan Bushman
+Amy Evans
+Anthony Stoffel
+Avery Quil
 Brian Hester
+Chadi Mnaimne
+Charles Watson
+Cheryl Hyland
+Chimdi Azubuike
+Christopher Lim
+Dan Inlow
 Dana Hamilton
-Misti Harper
-Robert Rice
+Darin Anderson
+Dave Lusher
+Davis Cooke
+Dennis Kim
+Denny Lynch
+Dick Vogels
+Don Lafferty
+Doug Klebe
+Douglas Gleichman
+Ed Takacs
+Eddie Kwan
+Eric Liu
+Eugene Yum
+Frank Suffoletta
+Greg Otto
+Hong Chen
+Ian McClelland
+James Sor
+James Treinen
+Jason Woolman
 John Vinke
+Jon Sala
+Jonathan Itow
+Jonathan Lee
+Jonathan Turcios
+Jorge Raphael
+Karina Rodriguez
+Katherine Huynh
+Keith Horn
+Keith Ramsay
+Khai Tran
+Lauren Wendlberger
+Mark Larsen
+Mark Silk
+Massoud Mobarga
+Matthew P. Turk
+Matthew Turk
+Michael Burke
+Michael Mobarga
+Misti Harper
+Murat Sahin
+Nadieh Bremer
+Ramon Pradera
+Rich Noroski
+Robert Rice
+Roger Boeke
+Ruben Baltazar
+Ryan Kuehne
+Shahrokh Hashemi-Yeganeh
+Shannon Bankhead
+Sherwood Brown
 Stefan Lukanov
 Stephen Chow
-Dennis Kim
-James Treinen
-Anthony Stoffel
-Jonathan Turcios
-Michael Mobarga
-Massoud Mobarga
-Charles Watson
-Stuart Coppedge
-Doug Klebe
-Frank Suffoletta
-Ulysses Lizarraga
 Steve Robinson
-Roger Boeke
-Shahrokh Hashemi-Yeganeh
-steven drost
-Dave Lusher
-Greg Otto
-Dan Inlow
-Allan Bushman
-Shannon Bankhead
-Hong Chen
-Dana Hamilton
-bria byrd
-Denny Lynch
-Cheryl Hyland
-Mark Larsen
-Matthew Turk
 Steve Schiller
-Travis Tonder
-Jon Sala
-Keith Horn
-James Sor
-Khai Tran
-Avery Quil
-Don Lafferty
-Keith Ramsay
-Ruben Baltazar
-Eric Liu
-Davis Cooke
-Michael Burke
-Christopher Lim
-Darin Anderson
-Ed Takacs
-Amy Evans
-Sherwood Brown
-Chimdi Azubuike
-Nadieh Bremer
-John Vinke
-Ramon Pradera
-Chadi Mnaimne
-Murat Sahin
-Darin Anderson
+Stuart Coppedge
 Tanya Liu
-Eugene Yum
-Aaron Burke
-Dick Vogels
+Taylor Campbell
+Travis Tonder
+Ulysses Lizarraga
+Uncle Jerry Frey
+William Milroy
+bria byrd
+steven drost

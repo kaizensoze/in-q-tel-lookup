@@ -1,116 +1,87 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Kenneth Schneider
-Ted Gauld
-Jeremy Knudson
-Jon Baugher
-Michael Corrigan
-Scott Lind
-Sarah Robertson
-Phil Reyna
-Earl Robinson
-Philipp Schmid
-Robertson Taylor
-Steffy McGee
-Sean Johnson
-Bill Winter
-Chris Weber
-Jason Simonds
-Paulo Barthelmess
-Ephy Kileen
-Bill Timmins
-Annette Giarde
-Mike Stewart
-Steffy McGee
-Ira Smith
-Michael Ham
-Paul Estridge
-Kurt Bunselmeyer
-Andy Quinn
-Timothy Meese
-Brian Turley
-Robert Waldrup
-Paul Estridge
-Ken Schneider
-Mark Shapland
-David McGee
-Michael Robin
-Dave Swensen
-Nate Brown
-Robert Carlson
-Steven Weber
-Marc Pierre
-Phil Cohen
-Edward Kaiser
-Rob Patrick
-Mike Hayes
-Bingbing Wu
-Derek Neth
-Phil Cohen
-Kelly Mills
-Ben McAllister
-Colin Swindells
-Sabra Goldick
-Ira Smith
-Jeremy Knudson
-David Scott
-Sumithra Bhakthavatsalam
-Timothy Meese
-Sam Brenner
-Charles Roper
 Alex Arthur
+Andy Quinn
+Annette Giarde
+Arden Gudger
+Ashleigh Early
+Barry Kliff
+Ben McAllister
+Bill Timmins
+Bill Winter
+Bingbing Wu
+Brian Turley
+Candice Erdmann
+Charles Roper
+Chris Weber
+Christina Opalka
+Colin Swindells
+Daniel Shue
+Dave Swensen
+David Dammann
+David McGee
+David Scott
+Derek Neth
+Earl Robinson
+Edward Kaiser
+Ellen Wang
+Ephy Kileen
+Erik Erikson
+Guy Holliday
+Ira Smith
+Jada Wendt
+James Dahlman
 Jason Frye
+Jason Simonds
+Jeremy Knudson
+John Daniel
+Jon Baugher
+Julienne Franco
+Katie Parrish
+Kelly Mills
+Ken Schneider
+Ken Webb
+Kenneth Schneider
+Kevin Faus
+Kevin Moseley
+Kurt Bunselmeyer
 LaDonna Kearney
+Luka Sherman
 M. Cecelia Buchanan
+Marc Pierre
+Mark Shapland
+Michael Corrigan
+Michael Ham
+Michael Robin
+Michele Mehl
+Mike Hayes
+Mike Stewart
+Moiz Nizamuddin
+Nate Brown
+Paul Estridge
+Paulo Barthelmess
+Pen Interact
+Phil Cohen
+Phil Reyna
+Philipp Schmid
 Rajah Annamalai Subramanian
+Rob Patrick
+Robert Carlson
 Robert Waldrup
-Sammamish High School Alumni
+Robertson Taylor
 Ronald Melendez
+Sabra Goldick
+Sam Brenner
+Sammamish High School Alumni
+Sarah Robertson
+Scott Lind
+Sean Johnson
+Steffy McGee
+Steve Weil
+Steven Weber
+Sumithra Bhakthavatsalam
+Ted Gauld
+Tiffany Liu
+Timothy Meese
+Tod Kellen
+William Lundberg
 Xiao Huang
 Zach Munroe
-Jada Wendt
-Ken Webb
-Paul Estridge
-Ashleigh Early
-Guy Holliday
-Daniel Shue
-Candice Erdmann
-Steve Weil
-Luka Sherman
-Arden Gudger
-William Lundberg
-Erik Erikson
-Katie Parrish
-Ellen Wang
-James Dahlman
-David Dammann
-John Daniel
-Kevin Moseley
-Michele Mehl
-Pen Interact
-Tiffany Liu
-Kevin Faus
-Paul Estridge
-Tod Kellen
-Barry Kliff
-Moiz Nizamuddin
-Christina Opalka
-Kenneth Schneider
-Julienne Franco

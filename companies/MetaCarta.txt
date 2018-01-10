@@ -1,114 +1,90 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Brion Johnson
-Xavid Pretzer
-Keith Baker
-Steve Egan
-Rax Dillon
-Grace Lang
-Geof Milstein
-Jeremy Greene
-Areth Foster-Webster
-Brian Major
-Lonny Bedard
-Don Zereski
-Ron Matros
-Lawrence Bedard
-John Donnelly III
-Andrew Conacher
-Mark Eichin
-Roy Marvin
-Ron Matros
-Claudine Bianchi
-Joseph Malicki
-Robert Southard
-Frank Pacione
-Steve Zeoli
-Roy Marvin
-Christopher Schmidt
-David Rolanti
-Perry Stokes
-Neil Cahillane
-Todd Dixon
-Rick Hutton
-Jim Goodwin
-Kay Sutter
-Beth Morrow
-Samuel Freilich
-David Baron
-Sreekrishnan Ramachandran
-John Gunshenan
-Chad Wagner
-Andrew Obermayer
-Steve Egan
-Houssem Eddine Bensalah
-Aseel Alber
-Mark Pagels
-Marc Meadows
-William Fisher
-Gregory A. Hulecki
-Josiah Strandberg
-Heidi Fox
-Schuyler Erle
-Darren Cinti
-Mikel Maron
-Karl Wright
-George Keith
-Seth Gordon
-Mallory Nomack
-Keith Costorf
-Michael Itz
-Jess Kozman
-Morgan Craft
-Ilya Sitnikov
-Payam Payandeh
 Andres Plaza
-Kirk Lepke
-Nisha Bhatt
-Kevin Jacques
-Joe Lind
-Rand Dusing
-Joe Turner
-Madeleine Thompson
-Winnie Henchey
-Greg Harris
-Preston Werntz
-Jen Selby
-Grace Lang
-Nicholas Pinney
-Zia Zaman
-Jay Eward
-Brian Snell
-Grace Lang
-Karl Ramm
-Xavier Xia
-Jose Luis Serrano Castillejo
-Scott Stroud
-Robbie Traube
-Kati Molnar
-Martin Luelmo
+Andrew Conacher
+Andrew Obermayer
+Areth Foster-Webster
+Aseel Alber
+Beth Morrow
 Bill Rimmer
-Stephan Stipdonk
-Kali Pratt
-erik uzureau
-James Maupin
-Malima Wolf
-Rana Sherif
+Brian Major
+Brian Snell
+Brion Johnson
+Chad Wagner
+Christopher Schmidt
+Claudine Bianchi
+Darren Cinti
 Dave Cook
+David Baron
+David Rolanti
+Don Zereski
+Frank Pacione
+Geof Milstein
+George Keith
+Grace Lang
+Greg Harris
+Gregory A. Hulecki
+Heidi Fox
+Houssem Eddine Bensalah
+Ilya Sitnikov
+James Maupin
+Jay Eward
+Jen Selby
+Jeremy Greene
+Jess Kozman
+Jim Goodwin
+Joe Lind
+Joe Turner
+John Donnelly III
+John Gunshenan
+Jose Luis Serrano Castillejo
+Joseph Malicki
+Josiah Strandberg
+Kali Pratt
+Karl Ramm
+Karl Wright
+Kati Molnar
+Kay Sutter
+Keith Baker
+Keith Costorf
+Kevin Jacques
+Kirk Lepke
+Lawrence Bedard
+Lonny Bedard
+Madeleine Thompson
+Malima Wolf
+Mallory Nomack
+Marc Meadows
+Mark Eichin
+Mark Pagels
+Martin Luelmo
+Michael Itz
+Mikel Maron
+Morgan Craft
+Neil Cahillane
+Nicholas Pinney
+Nisha Bhatt
+Payam Payandeh
+Perry Stokes
+Preston Werntz
+Rana Sherif
+Rand Dusing
+Rax Dillon
+Rick Hutton
+Robbie Traube
+Robert Southard
+Ron Matros
+Roy Marvin
+Samuel Freilich
+Schuyler Erle
+Scott Stroud
+Seth Gordon
+Sreekrishnan Ramachandran
+Stephan Stipdonk
+Steve Egan
+Steve Zeoli
+Todd Dixon
+William Fisher
+Winnie Henchey
+Xavid Pretzer
+Xavier Xia
+Zia Zaman
+erik uzureau

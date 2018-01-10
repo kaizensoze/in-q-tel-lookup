@@ -1,115 +1,46 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Michael Bell
-Daniel Oliver
-Karl D.D. Willis
-Jack Minardi
-Sarah Spear
-Avin Dhoble
-Fernando Nunez
-Carmen Graves
-Travis Busbee
-Scott Janousek
-Stephanie Marzen
-Phil Inagaki
-Kasey Smart
-Juan Carlos Noguera
-Drew Marschner
-Jennifer Lewis
-Kyle Dumont
-John Kawola
-Daniel Thompson
-Justin Vega
-Sarah Ackley
-Owen McCarthy
-Kevin Murphy
-Max Eskin
-Andrew Mooney
-Kevin Nayer
-Nicholas Holmes
-Ariel Kule
-Ian Gillerman
-Richard Rininger
-Michael Alexander Perrone
-Robert Weeks
-Andrew DeGonge
-Ryan Pembroke
 Jiaan Hyland
-Elliott Garlock
-Elizabeth Suitor
-Steve Kelly
-Scott Janousek
-David Hedin
-Amanda Biliskis
-Sean Troiano
-Nick Martin
-Charlotte Zhu
-Iain McDonald
-Emily TenCate
-weston Beecroft
-Mingnan Xu
+John Kawola
 Jonathan Oster
-Daniel Oliver
-Gabriel Entov
-Anjali Krishnamachar
-Noah Collins
-Max Eskin
-Kasey Smart
-Scott Janousek
-Morris Vanegas
-Taran Ravindran
-Gurshan Deol
-Dave Herman
-Don Tappan
-Nicholas Herbert
-Daniel Oliver
-Ziwen Jiang
-Andrew Mooney
-Juan Carlos Noguera
-Jordan Birkland
-Ariel Kule
-Michael Holachek
-Anuj Pasricha
-Matthew Spaziani
-Jake Fisher
-Michelle Chao
-Elliott Garlock
-Alex Valentine
-Maxwell Zegans
-Avin Dhoble
-JJ Hernandez
-Bonnie Cheung
-Reed Horton
-Tal Ziv
-Jeannie Nguyen
-Yifei Li
-Chika-Dike Nwokike
-Eric Chan
 Jonathan Tran
-Travis Busbee
-S Brett Walker
+Jordan Birkland
 Joseline Morales
-Gavin Richards
-Ashley Pelzel
+Juan Carlos Noguera
+Justin Vega
+Karl D.D. Willis
+Kasey Smart
+Kevin Murphy
+Kevin Nayer
+Kyle Dumont
+Matthew Spaziani
+Max Eskin
+Maxwell Zegans
+Michael Alexander Perrone
+Michael Bell
+Michael Holachek
+Michelle Chao
+Mingnan Xu
+Morris Vanegas
+Nicholas Herbert
+Nicholas Holmes
+Nick Martin
+Noah Collins
+Owen McCarthy
+Phil Inagaki
+Reed Horton
+Richard Rininger
 Ritambhara Kumar
-Christina Wang
+Robert Weeks
+Ryan Pembroke
+S Brett Walker
+Sarah Ackley
+Sarah Spear
+Scott Janousek
+Sean Troiano
+Stephanie Marzen
+Steve Kelly
+Tal Ziv
+Taran Ravindran
+Travis Busbee
+Yifei Li
+Ziwen Jiang
 weston Beecroft
-Ivan Atochin
-Charlotte Zhu

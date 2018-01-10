@@ -1,111 +1,55 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Dale Cieslak
-Paul Jordan
-Larry Orlando
-Derrick Donnelly
-Laurel Gardner
-Austin Colby
-Alyxandria Duran
-Ryan Chapin
-Chelsea Bailey-Sumlin
-Ben Charnota
-Don Brister
-Joe Sylve
-Bob Petrachek
-Mike Bailey
-Jeremy Treichelt
-Valerie Hartness
-Drew Fahey
-Vico Marziale
-Tim Thorne
-William Armour
-Madysen Gardner
-Brittany Colby
-Susan Gardner
-Stuart Hutchinson
-Tony Nguyen
-Bruce Maxwell
-Jessica DeSantiago
-Mark McLaughlin
-Ryan Deivert
-Bryce Blair
-Francis Harley
-Ryan Kubasiak
-Billy To
-Marc Freeman
-Robert Magzanyan
-Susan Broad
-Sam Keller
-Roger Martin
-Joshua Barone
-Clare Bagley
-Christopher J. McClure
-Dan Noriega
-CodyAllan Ferguson
-Jesse Tamburino
-yunee cho
-Trey Amick
-H Harris
-Robin Zonic
-Nathan Hazelhurst EnCE CFCE CEH
-Dan Graver
-Alex Evangelides
-Robert Smith
-Danny Spangler
-Ken Shibata
-Leanna John
-Jessica DeSantiago
-Jon Gorenflo
-Luz Chin
-Teresa Castaneda
-Liam Chasteen
-Rick Baca
-David Domyancic
-Mark Wootton
-Kurt Anderson
-Franklin Stevens
-Farid Semmahi
-Fanny Williams
-Dave Proulx
-Michael Yasumoto
-Steven Alexander
-Phillip Stoner
-Chad Rager
-Mark Roberts MSc
-Frank Visser
-Bob White
 Hugo Velis
-Matthew Belesiu
-Christian Ivanoski-Nichol
-Will Armour
-Diana Hellickson
-Eric Moore
-ted reed
-Vladimir Svidesskis
 James J. Kitt
+Jeremy Treichelt
+Jesse Tamburino
+Jessica DeSantiago
 Jessica Loza
-Miji Pitts
-Shaun Robbins
-Athena Rose Mendoza
-Richard Seweryniak
+Joe Sylve
+Jon Gorenflo
+Joshua Barone
 Karen Leung-Noda
-David Cummings
-Bruce Hunter
+Ken Shibata
+Kurt Anderson
+Larry Orlando
+Laurel Gardner
+Leanna John
+Liam Chasteen
+Luz Chin
+Madysen Gardner
+Marc Freeman
+Mark McLaughlin
+Mark Roberts MSc
+Mark Wootton
+Matthew Belesiu
+Michael Yasumoto
+Miji Pitts
+Mike Bailey
+Nathan Hazelhurst EnCE CFCE CEH
+Paul Jordan
+Phillip Stoner
+Richard Seweryniak
+Rick Baca
+Robert Magzanyan
+Robert Smith
+Robin Zonic
+Roger Martin
+Ryan Chapin
+Ryan Deivert
+Ryan Kubasiak
+Sam Keller
+Shaun Robbins
+Steven Alexander
+Stuart Hutchinson
+Susan Broad
+Susan Gardner
+Teresa Castaneda
+Tim Thorne
+Tony Nguyen
+Trey Amick
+Valerie Hartness
+Vico Marziale
+Vladimir Svidesskis
+Will Armour
+William Armour
+ted reed
+yunee cho

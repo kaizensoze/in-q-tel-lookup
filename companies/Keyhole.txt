@@ -1,111 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Saif Ajani
-Hannah White
-Lauren Fournier
-David Pitt
-Inderpaul Birdi
-Greg Greer
-Chris DeSalvo
-Minaz Abdulla
-W. Leon Smith
-James Bradley
-Zach Gardner
-Greg Yotz
-Andy Wilson
-James Kopec
-Ewan Neal
-Brian McClendon
-Tina Hsu
-Sandy McLeod
-Rebecca Taylor
-Eliot Gregory
-Vitaly McLain
-Jeff Haller
-Dave Lorenzini
-clement Tsang
-Luke Coleman
-Robert Jeans
-Chris Galbraith
-Amy Mansfield
-John Holland
-Mike Wakefield
-Dallas Monson
-Chris Bristow
-Matthew Brown
-Brad Cundy
-Chris Bradley
-John Boardman
-Maria del Carmen Carbi
-Ryan LaRue
-Michael Jones
-Kay Deane
-James Dinopoulos
-Nii Adjeidu Armar
-Masiyang Luo
-Thomas Kendall
-Brandon Klimek
-DR LENIN BABURAJAN
-Jeff Turner
-DR JOSEPH SHOHMELIAN
-Samuel HECQUET
-Mark Cropley
-Bruno Bowden
 Alexander Dowie
-Laurie Jarvis
-Meriel Beale
-Parth Desai
-Ron Moddesette
-Sergey Romanov
-David Langlois
-Marc Brenner
-Jan Cundy
-Brice McIver
-Heather Sultz
-Mostafa Saadat
-Emily Johnson
-Martin Knight
-ken wong
-Kazi Hussain
-Guide-A-Key Ltd
-Mark Adelsberger
-Arron Ferster
-Chase Aucoin
-Russell Raethka
-Wayne Thai
-Billy Korando
-Christos Erics
-Richard Scarborough
-Jordan Allerton
-Richard Slater
-Cynthia Rozell
-Neil Spruce
-Luke Patterson
-Craig Dowie
-Sujit Jos
-Jim King
-Dr Manju Dagar
-Deborah Klezmer
-Kevin Kinsella
-Jason McCreanney
-Chantelle Chambers MARLA CeMAP
+Amy Mansfield
+Andy Wilson
 Arjun Athmaram
-Lou Mauget
+Arron Ferster
+Billy Korando
+Brad Cundy
+Brandon Klimek
+Brian McClendon
+Brice McIver
+Bruno Bowden
 Chad Cundy
+Chantelle Chambers MARLA CeMAP
+Chase Aucoin
+Chris Bradley
+Chris Bristow
+Chris DeSalvo
+Chris Galbraith
+Christos Erics
+Craig Dowie
+Cynthia Rozell
+DR JOSEPH SHOHMELIAN
+DR LENIN BABURAJAN
+Dallas Monson
+Dave Lorenzini
+David Langlois
+David Pitt
+Deborah Klezmer
+Dr Manju Dagar
+Eliot Gregory
+Emily Johnson
+Ewan Neal
+Greg Greer
+Greg Yotz
+Guide-A-Key Ltd
+Hannah White
+Heather Sultz
+Inderpaul Birdi
+James Bradley
+James Dinopoulos
+James Kopec
+Jan Cundy
+Jason McCreanney
+Jeff Haller
+Jeff Turner
+Jim King
+John Boardman
+John Holland
+Jordan Allerton
+Kay Deane
+Kazi Hussain
+Kevin Kinsella
+Lauren Fournier
+Laurie Jarvis
+Lou Mauget
+Luke Coleman
+Luke Patterson
+Marc Brenner
+Maria del Carmen Carbi
+Mark Adelsberger
+Mark Cropley
+Martin Knight
+Masiyang Luo
+Matthew Brown
+Meriel Beale
+Michael Jones
+Mike Wakefield
+Minaz Abdulla
+Mostafa Saadat
+Neil Spruce
+Nii Adjeidu Armar
+Parth Desai
+Rebecca Taylor
+Richard Scarborough
+Richard Slater
+Robert Jeans
+Ron Moddesette
+Russell Raethka
+Ryan LaRue
+Saif Ajani
+Samuel HECQUET
+Sandy McLeod
+Sergey Romanov
+Sujit Jos
+Thomas Kendall
+Tina Hsu
+Vitaly McLain
+W. Leon Smith
+Wayne Thai
+Zach Gardner
+clement Tsang
+ken wong

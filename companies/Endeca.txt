@@ -1,116 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Ravi Honakamble
-Mayank Batra
-Ravi Honakamble
-Ajay Agrawal
-Mandar Shinde
-Pradeep Pathak
-Philip Wickline
-Ramprabhu Arumugam
-Steve Papa
-Keith Johnson
-Jim Baum
 Adam Ferrari
-Annappa Rangappa
-Richard Tomlinson
-Mihyun An
-Alex Lokshin
-Chris Lynskey
-Daniel Demmer
-Suresh Kumar
-Rick Umali
-Srinivasan R
-Timothy Fredette
 Adarsh Verma
-Subanitha Kuppusamy
-Pavlos Krontiras
-Jeff Reid
-Richard Ching
-Priyadarshini Balachandran
-Krishna Kumar
-Lokesh Kumar
-Pramod Salian
-Rahul Kumar
-Greg Eschbacher
-Fritz Knabe
-Matt Brandwein
-Muthu Vairam M S
-Rishab Srivastava
-Anup Darekar
-Andy Moore
-Henry Arockiaraj Panneer Selvam
-Khurshid Hameed
-Richard Stendardo
-Erick Smith
-Soren Lloyd
+Ajay Agrawal
+Alex Lokshin
 Andrew Oh
-Marylee Rosenwald
-Gobinath Anbazhagan
-Manpreet Singh
-Vinay Upadhyay
-Christian Force
-Joshua Kapell
-Dan Andersson
-Michael Peel
-Ziavudeen Karim Saifu
-Rob Swint
-Jack Walter
-Jill Shapiro
-Padmanabhan V
-Shea Nolan
-Paul Sonderegger
-Sugun Boddula
-Sidhanta Kumar Muduli
-Phil Franklin
 Andy Kojs
-Jeremy Redburn
+Andy Moore
+Annappa Rangappa
+Anshu Raj
+Anup Darekar
 BHAVIN RUKHANA
 Bhaskar Dhawan
-Anshu Raj
-Jigar Shah
-Peter Smith
-Scott Stuart
-Olga Krivchenko
-Daniel Tunkelang
-Uma Kamakshi Varahabhotla
-Fran Rivera
-Dave Clark
-Sunil Sampat
-Venkatesh Kannan
 Binish Pillai
-Gautam Malhotra
-Joseph Guster
-Jeff Murphy
-Luc Bard
-Subrata Ghosh
-Senthilvel Sundarapandian
-Umesh Kumar Lokaiyan
-Pravin Chikhale
 Chip Trowbridge
-Vishnu Ramalingam
-Mukesh Kumar
+Chris Lynskey
+Christian Force
+Dan Andersson
+Daniel Demmer
+Daniel Tunkelang
+Dave Clark
 Deepthi Venna
-Tara Scheidell
-Jayaraj Ponnuswamy
-Neeti Khatri
+Erick Smith
+Fran Rivera
+Fritz Knabe
+Gautam Malhotra
+Gobinath Anbazhagan
+Greg Eschbacher
 HarishKumar K T
-Vinodkannan Gopu
+Henry Arockiaraj Panneer Selvam
+Jack Walter
+Jayaraj Ponnuswamy
+Jeff Murphy
+Jeff Reid
+Jeremy Redburn
+Jigar Shah
+Jill Shapiro
+Jim Baum
+Joseph Guster
+Joshua Kapell
+Keith Johnson
+Khurshid Hameed
+Krishna Kumar
+Lokesh Kumar
+Luc Bard
+Mandar Shinde
+Manpreet Singh
+Marylee Rosenwald
+Matt Brandwein
+Mayank Batra
+Michael Peel
+Mihyun An
+Mukesh Kumar
+Muthu Vairam M S
+Neeti Khatri
+Olga Krivchenko
+Padmanabhan V
+Paul Sonderegger
+Pavlos Krontiras
+Peter Smith
 Peter Soung
+Phil Franklin
+Philip Wickline
+Pradeep Pathak
+Pramod Salian
+Pravin Chikhale
+Priyadarshini Balachandran
+Rahul Kumar
+Ramprabhu Arumugam
+Ravi Honakamble
+Richard Ching
+Richard Stendardo
+Richard Tomlinson
+Rick Umali
+Rishab Srivastava
+Rob Swint
+Scott Stuart
+Senthilvel Sundarapandian
+Shea Nolan
+Sidhanta Kumar Muduli
+Soren Lloyd
+Srinivasan R
+Steve Papa
+Subanitha Kuppusamy
+Subrata Ghosh
+Sugun Boddula
+Sunil Sampat
+Suresh Kumar
+Tara Scheidell
+Timothy Fredette
+Uma Kamakshi Varahabhotla
+Umesh Kumar Lokaiyan
+Venkatesh Kannan
+Vinay Upadhyay
+Vinodkannan Gopu
+Vishnu Ramalingam
+Ziavudeen Karim Saifu

@@ -1,116 +1,61 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Duane Lawrence
-Jeremy Tanner
-Casey Clements
-Christine Doig Cardet
-Peter Wang
-Lila Hickey
-Doug Pennock
-Michele Chambers
-Kristopher Overholt
-T.J. Alumbaugh
 James Bednar
-Matt Harward
-Daniel Rodriguez
-Michael Grant
-Adam Weber
-Jon Shepherd
-Matthew Thornell
-Payal Patel Cudia
-Atish Singh
-Travis Oliphant
-Derek Orgeron
-Nils Anderson
-Reed Youngblood
-Stanley Seibert
-Troy Powell
-Tony Fast
-Chris Colbert
-Matthew Gratt
-Richard Postelnik
-Jeff Reback
-Kale Franz
-Lance Ransom
-Mike Droettboom
-Stephen Kearns
-Jessica Baron
-Brendan Collins
-Ian Stokes-Rees
-Ian W Lindsey
-Sarah Bird
-Richard Grochmal
-Janice Zhang
-Brittain Hard
-Eric Levy
-Aron Ahmadia
-Ilan Schnell
-Lindsay Tylutki
-Greg Brener
-Matthew Rocklin
 James McCarthy
-Kurt Smith
-Brooke Candelaria
-Martin Durant
-Wesley Emeneker
-Jacob Lyons
-Bradley Kreider
+Janice Zhang
 Jasmine Sandhu
-Crystal Soja
-Maggie Mari
-Dhavide Aruliah
-Michael Sarahan
-Albert DeFusco
-Dan Lovell
-Zachary Carwile
-Donald Fischer
-Andy Terrel
-Pete Cesarini
-Sean Ross-Ross
-Ian Bacon
-Melissa Crijns
-Bryan Van de Ven
-Peter Steinberg
-Will Warner
-Jeremy Enns
-Hugo Shi
-Siu Kwan Lam
-Ryan Renfrow
-Havoc Pennington
-Rafael Barros
-Hunt Sparra
-Jason Vestuto
-Theofanis Lekkas
-Mike Masters
-Susan Price
-Jay Bourque
-Yves Hilpisch
-Randy Russell
-Benjamin Zaitlen
-Marcos Alejandro Vanetta
-Kerry Watson
-Fabio Pliger
-Jerry Amaral
 Jason Marcil
-David Mertz
-Mary Leonard
-Elizabeth Albin
+Jason Vestuto
+Jay Bourque
+Jeff Reback
+Jeremy Enns
+Jeremy Tanner
+Jerry Amaral
+Jessica Baron
+Jon Shepherd
 Jonathan Riehl
-Amenity Applewhite
+Kale Franz
+Kerry Watson
+Kristopher Overholt
+Kurt Smith
+Lance Ransom
+Lila Hickey
+Lindsay Tylutki
+Maggie Mari
+Marcos Alejandro Vanetta
+Martin Durant
+Mary Leonard
+Matt Harward
+Matthew Gratt
+Matthew Rocklin
+Matthew Thornell
+Melissa Crijns
+Michael Grant
+Michael Sarahan
+Michele Chambers
+Mike Droettboom
+Mike Masters
+Nils Anderson
+Payal Patel Cudia
+Pete Cesarini
+Peter Steinberg
+Peter Wang
+Rafael Barros
+Randy Russell
+Reed Youngblood
+Richard Grochmal
+Richard Postelnik
+Ryan Renfrow
+Sarah Bird
+Sean Ross-Ross
+Siu Kwan Lam
+Stanley Seibert
+Stephen Kearns
+Susan Price
+T.J. Alumbaugh
+Theofanis Lekkas
+Tony Fast
+Travis Oliphant
+Troy Powell
+Wesley Emeneker
+Will Warner
+Yves Hilpisch
+Zachary Carwile

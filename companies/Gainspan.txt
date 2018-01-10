@@ -1,113 +1,92 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Greg Winner
-Brent Little
-Lew Adams
-Bernard Aboussouan
-Patty Kamysz
-Mike Hutchinson
-Rob Mack
-Kiran Koshy
-David Casey
-Ravi Subramanian
-Philip Alex
-David DW Wu
-Richard Najarian
 A. Young
-Bob Twomey
-Adrian Gradinaru
-Philip Alex
-Wesley Hicks
-Hyunjoon Kim
-Hayagreev Pattabhiraman
-Dennis Wittman
-SHENG-MOU YU
-Ganesh K R
-Abitzen Xavier
-Bhuvaneshwari Rao
-Madan Udaykumar
-Alan Herring
-Ian Swan
-Michele Yano
-Sharath Chandra
-Aravind Chittapur
-Rahul Gupta
-Vijay Parmar
-Pankaj Vyas
-Hari Prasad
-Clement Lee
-Jim Black
-S.K. Sharma
-Ly Dinh
-Rohit Bhola
-Teley Yu
-Phillip Doan
-John Roeser
-Ravi Subramanian
-Pranay Anand
-ravi vaishnav
-sibasis purohit
-Catherine Xu
-Qiang Lin
-Prashant Viswanathan
-Ramakrishna Dhamarsingh
-Anal Bhattacharya
-Sherin Joseph
-Swaroop Sambu
-Sundeep Kancherla
-yaseen mohd
-Ravitej Tanneru
-Bryan Hung
-Balasubrahmanya Kurdekar
-Ganesh Kr
-Ashutosh Srivastava
-Saurabh Jain
-Jeffrey Prakash
-Liju John
-Ajay Keshri
-haiming xu
-Ratheesh C
-Ashish Verma
-Michael Hadley
-Divya Naveenan
-Kiran Venkatakirann
-Vikas Kumar
-Dushyanth Simha
-Blessy Mathew
-Vishal Batra
-DINESH NAYAK
-Prashanth Reddy
-JAIRAJ S
-bhaskar Naik
-Yang Yu
-Lisa Liotta-Valine
-Amarjeet Kumar
 ARAVINDA REDDY
-Pandi Vijayaraj
-richa sharma
+Abitzen Xavier
+Adrian Gradinaru
+Ajay Keshri
+Alan Herring
+Amarjeet Kumar
+Anal Bhattacharya
+Aravind Chittapur
+Ashish Verma
+Ashutosh Srivastava
+Balasubrahmanya Kurdekar
+Bernard Aboussouan
+Bhuvaneshwari Rao
+Blessy Mathew
+Bob Twomey
+Brent Little
+Bryan Hung
+Catherine Xu
+Clement Lee
+DINESH NAYAK
+David Casey
+David DW Wu
 David Parlour
-Haike Dong
-Faisal Khan
 David Smith
-kruthik kumar
-Sukarna K
-Yaseen Mohammad
+Dennis Wittman
+Divya Naveenan
+Dushyanth Simha
 Eric Taborek
+Faisal Khan
+Ganesh K R
+Ganesh Kr
+Greg Winner
+Haike Dong
+Hari Prasad
+Hayagreev Pattabhiraman
+Hyunjoon Kim
+Ian Swan
+JAIRAJ S
+Jeffrey Prakash
+Jim Black
+John Roeser
+Kiran Koshy
+Kiran Venkatakirann
+Lew Adams
+Liju John
+Lisa Liotta-Valine
+Ly Dinh
+Madan Udaykumar
+Michael Hadley
+Michele Yano
+Mike Hutchinson
 Oshin Bhatia
+Pandi Vijayaraj
+Pankaj Vyas
+Patty Kamysz
+Philip Alex
+Phillip Doan
+Pranay Anand
+Prashant Viswanathan
+Prashanth Reddy
+Qiang Lin
+Rahul Gupta
+Ramakrishna Dhamarsingh
+Ratheesh C
+Ravi Subramanian
+Ravitej Tanneru
+Richard Najarian
+Rob Mack
+Rohit Bhola
+S.K. Sharma
+SHENG-MOU YU
+Saurabh Jain
+Sharath Chandra
+Sherin Joseph
+Sukarna K
+Sundeep Kancherla
+Swaroop Sambu
+Teley Yu
+Vijay Parmar
+Vikas Kumar
+Vishal Batra
+Wesley Hicks
+Yang Yu
+Yaseen Mohammad
+bhaskar Naik
+haiming xu
+kruthik kumar
+ravi vaishnav
+richa sharma
+sibasis purohit
+yaseen mohd

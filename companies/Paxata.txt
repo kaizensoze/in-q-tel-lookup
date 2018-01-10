@@ -1,115 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Prakash Nanduri
 Aaron Hayos
-Nenshad Bardoliwalla
-Cari Jaquet
-William Stephens
-Shankar Ganapathy
-William Chan
-Manan Goel
-Eric Barre
-Rik Tamm-Daniels
-Christopher Maddox
-Chris Clarke
-Jane Pilewskie
-Wayne Like
-Dave Brewster
-Chris Fowler
-Victor Tso
-Mike White
-Callum Finlayson
-Kumar Jayaram
-Kasey Dixon
-Lilia Gutnik
-Tricia Lee McNabb
-Ashok Patil
-Whitman Kwok
-Franklin McKenzie
-Jay Lillie
-Rishikesh Tirumala
-Shantanu Srivastava
-Bob Welshmer
-Katherine Lynn
-Scott Stanley
-Neha Sharma
-Travis Jenkins
-Jeetendra Kukreja
-Jeff Almstedt
+Andy Black
 Ashley Jin
-Dan Pan
-Rebecca Wong
-Chris Garner
-Gauri Deshpande
+Ashok Patil
+Benjamin Becker
 Bion Chung
+Bob Welshmer
+Brent Litwak
+Callum Finlayson
+Cari Jaquet
+Chris Clarke
+Chris Fowler
+Chris Garner
+Chris Latko
+Christopher Maddox
+Chuck Cogar
+Dan Howell
+Dan Pan
+Daniel Xi
+Dave Brewster
+David Levinger
+David Salinger
+Dinesh Katiyar
+Eileen Diehl
+Elizabeth Walther
+Eric Barre
+Eric Sickert
+Franklin McKenzie
+Gauri Deshpande
+Grant Liu
+Hester Chan
+Ian Timourian
+Igor Taber
+Jane Pilewskie
+Jay Lillie
+Jeetendra Kukreja
+Jeetu Kukreja
+Jeff Almstedt
+Jeff Hunt
+Jeff Jinhua Xi
+Jing Gu
 John Botros
+Johnny Botes
+Kasey Dixon
+Katherine Lynn
+Kelvin Teo
 Kent Rubin
 Krupa Natarajan
-Palmer Huang
-Jing Gu
-Chuck Cogar
-Rona Meleanek Watson
-Matt Savage
-Michael Matthews
-Rebecca Glenn
-Meg Mansfield
-Michele Goetz
-David Levinger
-Philip Fried
-Grant Liu
-Brent Litwak
-Melanie Fawcett
-Martha Parsons Miller
-Ian Timourian
-Jeff Hunt
-Michael Ruppe
-Makrand Kalyankar
-Elizabeth Walther
-Sam Yoo
-Tirumala Rishi
-Quan Ta
-Chris Latko
-Hester Chan
-Lakshman Sankar
-Igor Taber
-Jeetu Kukreja
-Vitaliy Lobanov
-Scott Cappiello
-Pakshi Rajan
-David Salinger
-Daniel Xi
-Dan Howell
-Tse-Wen Tom Wang
-Andy Black
-Rory Flukes
-Dinesh Katiyar
-Kelvin Teo
+Kumar Jayaram
 LAWRENCE LOW
-Rona Watson
-Benjamin Becker
-Timur Hindanov
-Mel Condos
-jerome levadoux
+Lakshman Sankar
+Lilia Gutnik
 Luke Gallagher
-Johnny Botes
-Eileen Diehl
+Makrand Kalyankar
+Manan Goel
+Martha Parsons Miller
+Matt Savage
+Meg Mansfield
+Mel Condos
+Melanie Fawcett
+Michael Matthews
+Michael Ruppe
+Michele Goetz
+Mike White
+Neha Sharma
+Nenshad Bardoliwalla
+Pakshi Rajan
+Palmer Huang
+Philip Fried
+Prakash Nanduri
+Quan Ta
+Rebecca Glenn
+Rebecca Wong
+Rik Tamm-Daniels
+Rishikesh Tirumala
+Rona Meleanek Watson
+Rona Watson
+Rory Flukes
+Sam Yoo
+Scott Cappiello
+Scott Stanley
+Shankar Ganapathy
+Shantanu Srivastava
 Steve Lum
-Eric Sickert
-Jeff Jinhua Xi
+Timur Hindanov
+Tirumala Rishi
+Travis Jenkins
+Tricia Lee McNabb
+Tse-Wen Tom Wang
+Victor Tso
+Vitaliy Lobanov
+Wayne Like
+Whitman Kwok
+William Chan
+William Stephens
+jerome levadoux

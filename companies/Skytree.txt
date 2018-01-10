@@ -1,112 +1,90 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Alexander Gray
-Nitesh Kumar
-Arik Pelkey
-Peter Hoopes
-Ray Villeneuve
-Alison Arnott
-Dylan Steeg
-Nick Ball
-Terison Gregory
-Bradley Simmons
-Arkadas Ozakin
-Sergey Kirshner
-Silver Yu
-Yong Kim
-Robert Dutcher
-Abhishek Gupta
-G. Ryan Fawcett
-Sanjay Mehta
-Bardia Alaee
-Alexander Gunkel
-Max Beaumont
-Parikshit Ram
-Ryan Riegel
-Chris Wilson
-Vineet Rawat
-Mike Szelong
-Colin Blower
-Amit Rawlani
-Bi No
-Kenna McKenzie
-Nick Pendar
 Abhimanyu Aditya
-Carlos Diaz
-Benjamin Byington
-Amey Chaugule
-Andrey Asadchev
-Chris Nelson
-Martin Hack
-Yi Yang
-Chris Luebcke
-Lawrence Kite
-Mark Sawrey
-Hong Tho Nguyen
-Andrew Wilson
-Matthew Neely
-Vlad Rodeski
-Satish kumar
-Brett Olmstead
-Karl A. Kolterman
-Eric Balis
-brittany partridge
-Ming Jia
-Prasad Nirantar
-Phil Bonin
-Evan Snyder
-Leland Wilkinson
+Abhishek Gupta
 Adrianus Tirta
-Troy Caldwell
-Arvinda Tripradopo
-Peter Tattersfield
-Dinar Dalvi
-Diaa Marey
-Jin Kim
-Dmitry Perkin
-David Steinberg
-Brian Cobarrubia
-GK Reddy
-Richard Garris
-Paul Salazar
-Dave Toth
-Jay Pranavamurthi
-Shelly Balbuena
-Rohit Bodas
+Alexander Gray
+Alexander Gunkel
+Alison Arnott
+Amey Chaugule
+Amit Rawlani
+Andrew Wilson
+Andrey Asadchev
+Arik Pelkey
+Arkadas Ozakin
 Arno Candel
-Darrick Cole
-Daniel Acutt
-Blue Benton
+Arvinda Tripradopo
 Bardia Alaee
-Jihong Kim
-Roy Ballard
-Craig Morrall
+Benjamin Byington
 Benjamin Sawyer
-Penny Pang
-Luke K. Stanton
-Sunny Chan
-Darrick Cole
-Shelly Balbuena
-Kim Salkind
-Raytheon Lui
-Thomas Newberry
-Michael Dijkstra Taurel
+Bi No
+Blue Benton
+Bradley Simmons
+Brett Olmstead
+Brian Cobarrubia
+Carlos Diaz
+Chris Luebcke
+Chris Nelson
+Chris Wilson
 Christine Evans
+Colin Blower
+Craig Morrall
+Daniel Acutt
+Darrick Cole
+Dave Toth
+David Steinberg
+Diaa Marey
+Dinar Dalvi
+Dmitry Perkin
+Dylan Steeg
+Eric Balis
+Evan Snyder
+G. Ryan Fawcett
+GK Reddy
+Hong Tho Nguyen
+Jay Pranavamurthi
+Jihong Kim
+Jin Kim
+Karl A. Kolterman
+Kenna McKenzie
+Kim Salkind
+Lawrence Kite
+Leland Wilkinson
+Luke K. Stanton
+Mark Sawrey
+Martin Hack
+Matthew Neely
+Max Beaumont
+Michael Dijkstra Taurel
+Mike Szelong
+Ming Jia
+Nick Ball
+Nick Pendar
+Nitesh Kumar
+Parikshit Ram
+Paul Salazar
+Penny Pang
+Peter Hoopes
+Peter Tattersfield
+Phil Bonin
 Pranav Ladkat
+Prasad Nirantar
+Ray Villeneuve
+Raytheon Lui
+Richard Garris
+Robert Dutcher
+Rohit Bodas
+Roy Ballard
+Ryan Riegel
+Sanjay Mehta
+Satish kumar
+Sergey Kirshner
+Shelly Balbuena
+Silver Yu
+Sunny Chan
+Terison Gregory
+Thomas Newberry
+Troy Caldwell
+Vineet Rawat
+Vlad Rodeski
+Yi Yang
+Yong Kim
+brittany partridge

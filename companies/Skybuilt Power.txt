@@ -1,59 +1,35 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Sara Zulkosky
-Carter Lavin
 Adam Gutman
-Jim Treptow
-Sean Finnegan
+CTC-Al Glickman
+Carter Lavin
+Clare Fancourt
+Clifford Trood
+David Kruczynski
 Dimitri Alexopoulos
-Jeanine Andricosky
-Nancy Etkin
-Nancy Etkin
-Marie Russell
-James Treptow
+Earl Curtis
+Elizabeth Heintz
+Francisco Flores
+Gary Pate
+JAMES TREPTOW
 James Marshall
-amir ejbar
+James Smith
+James Treptow
+Jeanine Andricosky
+Jim Treptow
+Jona Bergeson
+Joni Miller
+Lee Abbott
+Marie Russell
+Mary McManmon
 Matthew Carls
 Michael Gayle
-Jona Bergeson
-Susan Morris
-Sarah Bever
-James Smith
-Mary McManmon
-CTC-Al Glickman
-Gary Pate
-David Kruczynski
-Francisco Flores
-JAMES TREPTOW
 Nancy Etkin
-Jim Treptow
-James Treptow
 Prem Vijay
-augustin oguere
+Sara Zulkosky
+Sarah Bever
+Sean Finnegan
+Susan Morris
 Virender Chaudan
-Elizabeth Heintz
-Joni Miller
-Earl Curtis
-Lee Abbott
 Yulya Jacky
+amir ejbar
+augustin oguere
 roberto salbego
-Michael Gayle
-Clifford Trood
-Clare Fancourt

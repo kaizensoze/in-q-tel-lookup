@@ -1,77 +1,55 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Sean Gorman
-Andrew Turner
-Andrei Taraschuk
-Gabor Kakonyi
-Matt Madigan
-Frank Moyer
-Zachary Johnson
-Andrew Turner
-Bob Smith
-Bill Greer
-Peter Batty
-Rajesh Rai
-Laura M. Lai
-Jeffrey Harris
-Ian Brinksman
-Brendan Heberton
-Jeff Cummings
-Lisa Taber
-Geraldine Sarmiento
+AKIYU HIDAYAT
 Alyssa Caster-Reynolds
-Kyle Henderson
-Nikki Snyder
-Matt Dew
-John Meyer
-Mike Paradis
-Tracy Sislen
-Shawn Pen
-Thi Do
-Karl Burchianti
-Cherie Kotter
+Andrei Taraschuk
+Andrew Turner
+Ashley Kingsley
+Bill Greer
+Bob Smith
+Brendan Heberton
 Brendan M. Foo
+Cherie Kotter
+Chiara Tomasi
 Christopher Helm
-Genevieve Larose
-Kittera Delaney
-Thai Le
-Michael Frankel
-Diane Vest
-Sande Hayes
-Thomas Clever
 Cindy Grande
-Yasser Dawaba
-Tim Waters
+Dariusz Krasinski
+Diane Vest
+Frank Moyer
+Gabor Kakonyi
+Genevieve Larose
+Geraldine Sarmiento
+Ian Brinksman
+Jamil Omar Falconi Aguirre
+Jeff Cummings
+Jeffrey Harris
+John Meyer
+Karl Burchianti
+Kittera Delaney
+Kyle Henderson
 Laura M. Lai
-Ronald Byrne
+Lisa Taber
+Mark Kassteen
+Matt Dew
+Matt Madigan
 Megha Ramananda
 Melykuti Gabor
-Dariusz Krasinski
-Reza Ahmed
-Ashley Kingsley
-Jamil Omar Falconi Aguirre
-robert kakonji
-Mark Kassteen
-Andrei Taraschuk
-Prajczer Tamas
-Chiara Tomasi
-Zsolt Katona
+Michael Frankel
+Mike Paradis
 Niek Schaap
-AKIYU HIDAYAT
+Nikki Snyder
+Peter Batty
+Prajczer Tamas
+Rajesh Rai
+Reza Ahmed
+Ronald Byrne
+Sande Hayes
+Sean Gorman
+Shawn Pen
+Thai Le
+Thi Do
+Thomas Clever
+Tim Waters
+Tracy Sislen
+Yasser Dawaba
+Zachary Johnson
+Zsolt Katona
+robert kakonji

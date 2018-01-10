@@ -1,118 +1,99 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Juhi Heda
-Shyam Sankar
-Matt Long
-William Ross Macrae
-Jonty Kelt
-Ankit Buddhiraju
-James Atkin
-Craig Saperstein
-Luong Hoang
-Eli Bingham
-Sean Stenstrom
-William Barley
-Zack Sampson
-Peter Wilczynski
-Chip Emanuel
-Michael Winlo
-Jesse Grodman
-Alex Smaliy
-Elena Cooper
-Spencer Rivette
-John Wright
-Myles Recny
-David Glazer
-Ryan Taylor
-Michael Reilly
-Bonnie McLindon
-Gautier Cloix
-Emanuel Ferm
-Lawrence Jesper
-Evan Kelly
-Pedro Sanzovo
-Kristi Radzieta
-Emily Muhl
-Vincent Bannister
-Colleen E. Crawford
-Jana Flannery
-Ryan Xie
-Travis Flittner
-Samuel Fendell
-Dan Moulton
-Bijan Moallemi
+ALEXANDER KARP
+Abby Lukacs
 Adam Frank
-Derek Cicerone
-Winson Duong
-Robert Imig
-Josh Harris
+Aditya Kumar
+Adrienne Murphy
+Akash Jain
+Akshay Krishnaswamy
+Alex Smaliy
+Alexis McEvoy
+Amy Cheung
+Andrew Higgins
+Andrew Lampert
 Andy Huang
-Kevin Kawasaki
-Shilpa Balaji
-Naytri Shroff
-Elaine Veksler
-Daniel Puller
-Matthew Steckman
-Karin Veltman Knox
+Ankit Buddhiraju
+Antoine Llorca
+Arda Kara
+Ben Thomas
+Bijan Moallemi
+Bonnie McLindon
 Burak Bekdemir
-Shreya Murthy
-Michele Closs
+Callie Warren
+Chip Emanuel
+Clare Tully
+Colleen E. Crawford
+Corey Callahan
+Craig Saperstein
+Dan Moulton
+Daniel Puller
+Daniel Slate
+David Glazer
+David Grimaldi
+Derek Cicerone
+Elaine Veksler
+Elena Cooper
+Eli Bingham
+Emanuel Ferm
+Emily Muhl
+Eric Rosenblum
+Evan Kelly
+Gautier Cloix
+Gerard McAtamney  
+Gokul Subramanian
+Jacob Albertson
+Jake W.
+James Atkin
+Jana Flannery
 Jason Kim
+Jesse Grodman
+Jessica Whitaker
+John Chakerian
+John Wright
+Jonty Kelt
+Josh Harris
+Juhi Heda
+Karin Veltman Knox
+Kevin Kawasaki
+Kristi Radzieta
+Laura Personick
+Lawrence Jesper
+Lily Sheung
+Lisa Brogan
+Logan McClure
+Luong Hoang
+Margaret A. York
+Matt Long
+Matthew Fedderly
+Matthew Steckman
+Michael Reilly
+Michael Winlo
+Michele Closs
+Myles Recny
+Naytri Shroff
+Nicole La Terza
+Paul Thoren
+Pedro Sanzovo
+Peter Maag
+Peter Wilczynski
+Raymond Brusca
+Robert Imig
+Ron Highet
+Ryan Taylor
+Ryan Xie
+Saad Abdali
+Samuel Fendell
+Sean Stenstrom
+Shilpa Balaji
+Shreya Murthy
+Shyam Sankar
+Spencer Rivette
+Steven Plunkett
 Teng Fei Liao
 Thomas Bosco
-Gerard McAtamney  
-Arda Kara
-Adrienne Murphy
-Akshay Krishnaswamy
-Steven Plunkett
-Laura Personick
-Daniel Slate
-Nicole La Terza
-Corey Callahan
-Jacob Albertson
+Travis Flittner
 Van Le
-Abby Lukacs
-Andrew Lampert
-Lisa Brogan
-Ben Thomas
-Logan McClure
-Aditya Kumar
-Antoine Llorca
-Paul Thoren
-Amy Cheung
-John Chakerian
-Jake W.
-David Grimaldi
-Jessica Whitaker
-Gokul Subramanian
-Eric Rosenblum
-Matthew Fedderly
-Margaret A. York
-Clare Tully
-Saad Abdali
-Callie Warren
-Andrew Higgins
-Raymond Brusca
-Akash Jain
-Alexis McEvoy
-ALEXANDER KARP
-Lily Sheung
-Peter Maag
-Ron Highet
+Vincent Bannister
+William Barley
+William Ross Macrae
+Winson Duong
+Zack Sampson

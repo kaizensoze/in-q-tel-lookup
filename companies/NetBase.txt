@@ -1,114 +1,95 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Hope Nguyen
-Nani Saffer
-Christopher Leet
-Kevin K. Lau
-Mark Bowles
-Ranjeet Bhatia
-Todd Giuntini
-Steve Winters
-Paige R Leidig
-Kelly Smith
-Dave Cohen
-Melissa King
-Carolyn Trawinski
-Scott Cohen
-David Pefley
+Alexander Nikolov
+Amy Shen
 Andrew Johnson
-Emma Rae Ritter
-Bob Pape
-Tim Beagen
-Erin Broday
-Bob Ciccone
-Kasie Kap
-Peter Caswell
+Anna Startseva
+Anne Poindexter
+Arianna Bastianini
 Ashley Nelson
-Robyn Medlin Lindars
-John Kelly
+Bob Ciccone
+Bob Pape
+Carol Feigenbaum
+Carolyn Trawinski
+Cassie S Clayton
+Chris Parsons
+Christopher Leet
+Christopher McBurney
+Cody Diefenderfer
+Congmin Min
+Cynthia Connors
+Cynthia Lopreto
+Darlene Dami
+Dave Cohen
+David Aikman
+David Chaitt
+David Ko
+David Pefley
+Deanna Leedberg
+Dennis Rollinson
+Edward M. Lazzarin
+Emma Rae Ritter
+Erik Tropple
+Erin Broday
+Eve Osborne
+Garrett Albanesius
+George Erskine
+Gretchen Hoffman
+Hope Nguyen
 Jami Blackburn
 Jean Nicole Guerrero
-Cody Diefenderfer
-Pat Williams
-Pernille Bruun-Jensen
-Sean Chinski
-Kelsee Wilson
+Jennifer Dambek
+Jens Tellefsen
 Jessica Moore
-Leigh Nichols
-Erik Tropple
-Matthew Pierson
-Wei Li
-Anna Startseva
-Cassie S Clayton
-Justin Harvey
-Lei Li
-Cynthia Lopreto
-David Chaitt
-Mitchell DoQui
-David Aikman
 Jill Melin
-David Ko
+John Kelly
+John McMahon
+John Tyrrell
+Joseph Williams
+Julien Reutin
+Justin Harvey
+Kalyn Soenksen
+Karen Wade Allen
+Kasie Kap
+Kathy Villalobos
+Kelly Smith
+Kelsee Wilson
+Ken Holmes
+Kevin K. Lau
 Kimberly Surico
+Kristina Du
 Laura Kegley
 Leatrice Walker
-Karen Wade Allen
-Joseph Williams
-Ken Holmes
-Darlene Dami
-Eve Osborne
-Sean Chauhan
-Congmin Min
-Michael Baglietto
-Arianna Bastianini
-John Tyrrell
-Cynthia Connors
-Scott Wolk
-Stan Bashmashnikov
-Garrett Albanesius
-John McMahon
-Dennis Rollinson
-Deanna Leedberg
-George Erskine
-William Yu
-Carol Feigenbaum
-Edward M. Lazzarin
-Ryan Taketa
-Alexander Nikolov
-Jens Tellefsen
-Michael Higashi
-Neil Versen
-Kalyn Soenksen
-Kathy Villalobos
-Sean Wong
-Patty Lomeli
-Jennifer Dambek
-Gretchen Hoffman
-TuAnh Do
-Chris Parsons
-Anne Poindexter
+Lei Li
+Leigh Nichols
 Lorraine Rodvold
-Robert Pugh
-Christopher McBurney
-Julien Reutin
-Philip Berliner
+Mark Bowles
+Matthew Pierson
+Melissa King
+Michael Baglietto
+Michael Higashi
 Michael Osofsky
-Kristina Du
-Amy Shen
+Mitchell DoQui
+Nani Saffer
+Neil Versen
+Paige R Leidig
+Pat Williams
+Patty Lomeli
+Pernille Bruun-Jensen
+Peter Caswell
+Philip Berliner
+Ranjeet Bhatia
+Robert Pugh
+Robyn Medlin Lindars
 Ryan Rasmussen
+Ryan Taketa
+Scott Cohen
+Scott Wolk
+Sean Chauhan
+Sean Chinski
+Sean Wong
+Stan Bashmashnikov
+Steve Winters
+Tim Beagen
+Todd Giuntini
+TuAnh Do
+Wei Li
+William Yu

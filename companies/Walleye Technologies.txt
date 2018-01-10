@@ -1,115 +1,87 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-david holbrook
-Chris Adams
-David Couto
-Gary Zart
-Ed Brooks
-Todd Nemanich
-Tony Jenkins
-Chris Jensen
-Rick Couto
-George Bolton
-Billy Lewis
-Backcountry Consulting LLC
-Keith Vaillancourt
-Whitney Weller
-Amanda Judd
-Eric Rose
-Kevin L. Wright
-Chris Jensen
-Brett Gillow
-Amrut Chaudhari
+Aaron Sorenson
 Adriana Escobar
-Chris Jensen
-Ruvin M. Spivak
-Whitney Weller
-David Couto
-Rick Couto
-Tom Hafemann
-Jeff Bacon
-David Couto
-Jeffrey Barsness
-Mike Bush
-Dwight Clifford
-david holbrook
-Ezekiel Smigel
-Kyle Upchurch
+Amanda Judd
+Amrut Chaudhari
 Ashley LeMay
-Gregory Fish
-John Manzoian
-Chris Mercadante
-Will Backes
-Jim Carhart
-Hao Fu
-Troy Krause
-Jesse Ness
+Backcountry Consulting LLC
+Bill Miller
+Billy Lewis
+Brett Gillow
 Brian Plecas
-Willie Witten
-Jim Rauser
-Corey Gruenhagen
-Vincent Aubrun
-Curtis Vincent
-Jennifer Peng
-Jeff Taft
-Gregg Tushaus
-Kensheen Chen
-Wes Borchardt
 Brian Ries
-Dean Bouta
-John Hynes
-Scott Dupriest
-Kate Barr
 Brittany Dilworth
 Chet Williams
-Victor Petzall
-Joe Henry
-Ryan Flanigan
-Michelle Stewart
-Jarrad Fluekiger
-Jordan Lutz
-Tony Klein
-Perry Dreyer
-Gord Schultz
-Lorrie Yeschick
-Greg Guetschoff
+Chris Adams
 Chris Jensen
-Dennis Clark
-Janelle Sloychuk
-Michael Putzier
-Tony Andrews
-Jade Ohlund
-Michael Panos
-Nicholas Rolls
-Aaron Sorenson
-Mike Bosman
-Zach Hinson
-Bill Miller
-Kevin Luksik
+Chris Mercadante
+Corey Gruenhagen
 Corey Martell
-Jeff Bacon
-Gregory Zukowski
-William Caban
-brandon stanton
-Dave Cribb
-Travis frink
-Shawn Sitar
-Nick Burgard
 Craig Carmichael
+Curtis Vincent
+Dave Cribb
+David Couto
+Dean Bouta
+Dennis Clark
+Dwight Clifford
+Ed Brooks
+Eric Rose
+Ezekiel Smigel
+Gary Zart
+George Bolton
+Gord Schultz
+Greg Guetschoff
+Gregg Tushaus
+Gregory Fish
+Gregory Zukowski
+Hao Fu
+Jade Ohlund
+Janelle Sloychuk
+Jarrad Fluekiger
+Jeff Bacon
+Jeff Taft
+Jeffrey Barsness
+Jennifer Peng
+Jesse Ness
+Jim Carhart
+Jim Rauser
+Joe Henry
+John Hynes
+John Manzoian
+Jordan Lutz
+Kate Barr
+Keith Vaillancourt
+Kensheen Chen
+Kevin L. Wright
+Kevin Luksik
+Kyle Upchurch
+Lorrie Yeschick
+Michael Panos
+Michael Putzier
+Michelle Stewart
+Mike Bosman
+Mike Bush
+Nicholas Rolls
+Nick Burgard
+Perry Dreyer
+Rick Couto
+Ruvin M. Spivak
+Ryan Flanigan
+Scott Dupriest
+Shawn Sitar
+Todd Nemanich
+Tom Hafemann
+Tony Andrews
+Tony Jenkins
+Tony Klein
+Travis frink
+Troy Krause
+Victor Petzall
+Vincent Aubrun
+Wes Borchardt
+Whitney Weller
+Will Backes
+William Caban
+Willie Witten
+Zach Hinson
+brandon stanton
+david holbrook

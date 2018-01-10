@@ -1,98 +1,70 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Alain Villeneuve
-Bryan Burgoyne
-Antoine Kasprzak
-Joseph Salhany
-Francis Marcogliese
-Rim Hfaiedh
-Mathieu Giguere
-Dominique Lemieux
-Alain Villeneuve
-christophe Christ.Jan
-Denis Ricard
-Maxime Joanis
-benoit lorrain
-Youngjae Kim
-Tullio Panarello
-Alexandre Dupuis
-richard langdeau
-Sina Naderi Shahi
-Vincent Rheaume
-Herve Lavoie
-Andre Archambault
-Guilmot Ernotte
-Jean-Francois Gagnon
-Arthur Plez
-Liah Fereydoonzad
-Rajeev Yadav
-rim hfaiedh
-Vinh N. Dang
-Maxime Duong
-Hadi Pouransari
-Brian Bourgoyne
-Eric Geoffrion
-OM MANI SINGH
-Sami Younes
-Yves Genereux
-Danny Gnocchi
-Antoine Ramier
-Jeffrey Drummond
-Alain Lavallee
-Eugene Shklovsky
-Gianna Cupido
-Frederic Doulcet
-Dinesh Uniyal
-Vincent Mercier
-Matt McMurter
 Ahmad MOHADDES POUR
-Francois Gonthier
-Laurence Duhaime-Gosselin
-Benoit Lorrain
-Antoine Kasprzak
-Sami Younes
 Alain Lavallee
+Alain Villeneuve
+Alexandre Dupuis
+Andre Archambault
+Antoine Kasprzak
+Antoine Ramier
+Arnaud Marchese
+Arthur Plez
+Benoit Lorrain
+Brian Bourgoyne
+Bryan Burgoyne
+Christian Michaud
+Daniel Potter
+Danny Gnocchi
+Denis Ricard
+Dinesh Uniyal
 Dominique Lemieux
-sami younes
-Patrick Mascoe
-Joseph Salhany
-Fai Lin Lam
-Steve Horne
 Eric Cloutier
+Eric Geoffrion
+Eros Roncaia
+Eugene Shklovsky
+Fai Lin Lam
+Francis Marcogliese
+Francois Gonthier
+Frederic Doulcet
+Gianna Cupido
+Guilmot Ernotte
+Hadi Pouransari
+Herve Lavoie
+Jean-Francois Gagnon
+Jeff Arnold
+Jeffrey Drummond
+John Bainbridge
+Joseph Salhany
+Keith Hoege
 Kelly Yan
+Laurence Duhaime-Gosselin
+Liah Fereydoonzad
+Mathieu Giguere
+Matt McMurter
 Matthew Slater
+Maxime Duong
+Maxime Joanis
+Mike McDermott
+OM MANI SINGH
+Olivier Daigle
+Patrick Mascoe
+Paul-Henri Rouleau
+Rajeev Yadav
+Rim Hfaiedh
 Rishee Behl
 Sami Younes
-Mathieu Giguere
-John Bainbridge
-Olivier Daigle
-lorraine benoit
-Eros Roncaia
-Arnaud Marchese
-Mike McDermott
-Jeff Arnold
-Youngjae Kim
-Paul-Henri Rouleau
-Sylvain Gilbert
-Daniel Potter
-Keith Hoege
-Serge Forest
-Christian Michaud
 Scott Vincent
+Serge Forest
+Sina Naderi Shahi
+Steve Horne
+Sylvain Gilbert
+Tullio Panarello
+Vincent Mercier
+Vincent Rheaume
+Vinh N. Dang
+Youngjae Kim
+Yves Genereux
+benoit lorrain
+christophe Christ.Jan
+lorraine benoit
+richard langdeau
+rim hfaiedh
+sami younes

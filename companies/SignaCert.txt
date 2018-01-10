@@ -1,115 +1,88 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Toney Jennings
-Greg Valentine
-Brian Davis
-Jake Westerfeld
-JT Keating
-John Murgo
-Bart Lauwers
-Bob Glowienke
-Josh Tippett
-Gerry Kelley
-Mike LaPeters
-Paul Nadeau
-Jeff McMahon
-Gene Spafford
-Joey Rousseau
-Mark Allers
-Patrick Woodworth
-Sol Cates
-Susanne Byram
-Milt Smith
-Ramesh Nagul
-Stephen Maysonave
-Drew R.
-Kim Bailey
-Wyatt Starnes
-Alan Forsythe
-David Bleckmann
-Bart Lauwers
-Bob Glowienke
-Ken Gengler
-Hugh Mackworth
-Marshall Cowden
-Ryan McMahon
-Kristin McKinney
-Chris Lawless
-Geary Mclaughlin
-Chris Schilling
-Jim Belton
-Josh Tippett
-Pat Woodworth
-Fit Mom Diet
-Jessica Barth
-Patrick Woodworth
-Wally Giernoth
-Joe Mama
-Patrick Woodworth
-stayce cavanaugh
-Joshua Tippett
-Drew R.
-Doug White
 Adam Fischer
-Marta Betts
-Nanci Del Pico
+Alan Forsythe
+Andre Limarenko
+Bart Lauwers
+Bob Glowienke
+Brad Andersen
+Brian Davis
+Brian Machen
+Chris Lawless
+Chris Schilling
+Daniel Teal
+Dave Shields
+David Bleckmann
 Debbie Brailsford
 Doug Fitts
-Matthew Tycksen
-danielle cartright
-Robert Ochoa
-Newton Hamlin
+Doug White
+Drew R.
+Fit Mom Diet
+Geary Mclaughlin
+Gene Spafford
+Gerry Kelley
+Greg Valentine
+Hugh Mackworth
 Irene Voskamp
-Stan Burnett
-Brad Andersen
-Kevin Burke
-Brian Machen
-Dave Shields
-Jana Connolly
-Lindsay Nelson
-Rob Coles
-Nancy Mandl
-Sean Hallahan
-Paul Maddaluno
-Joseph Rousseau
+JT Keating
+Jake Westerfeld
 James Petillo
-Mike Pierce
-Andre Limarenko
-L Mario Mascioli
-Peter Cowan
-Steve Allegretti
-Michael Mayer
-Jill Cheilik
-Patrick Woodworth
-Wade LaForce
-Tim Schafer
-John Koenig
-Michael Scarpato
-Slavisa Danilovic
-Khasai Ramsey
-Mike Bellows
-Michael Thomas
+Jana Connolly
+Jeff McMahon
 Jerry Dearing
-Rob Verboon
-Josh Tippett
-Pat Bitton
-Daniel Teal
-Tim Sherburne
+Jessica Barth
+Jill Cheilik
+Jim Belton
+Joe Mama
+Joey Rousseau
+John Koenig
+John Murgo
 Joseph Miksch
+Joseph Rousseau
+Josh Tippett
+Joshua Tippett
+Ken Gengler
+Kevin Burke
+Khasai Ramsey
+Kim Bailey
+Kristin McKinney
+L Mario Mascioli
+Lindsay Nelson
+Mark Allers
+Marshall Cowden
+Marta Betts
+Matthew Tycksen
+Michael Mayer
+Michael Scarpato
+Michael Thomas
+Mike Bellows
+Mike LaPeters
+Mike Pierce
+Milt Smith
+Nanci Del Pico
+Nancy Mandl
+Newton Hamlin
+Pat Bitton
+Pat Woodworth
+Patrick Woodworth
+Paul Maddaluno
+Paul Nadeau
+Peter Cowan
+Ramesh Nagul
+Rob Coles
+Rob Verboon
+Robert Ochoa
+Ryan McMahon
+Sean Hallahan
+Slavisa Danilovic
+Sol Cates
+Stan Burnett
+Stephen Maysonave
+Steve Allegretti
+Susanne Byram
+Tim Schafer
+Tim Sherburne
+Toney Jennings
+Wade LaForce
+Wally Giernoth
+Wyatt Starnes
+danielle cartright
+stayce cavanaugh

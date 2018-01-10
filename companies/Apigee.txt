@@ -1,118 +1,98 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Eric Cross
-Eric Cross
-Chet Kapoor
-Ed Anuff
-Stacey Giamalis
-Denise Persson
-Anurag Wadehra
-Steve Rowland
-Anant Jhingran
-Dino Chiesa
 Alan Ho
-Scott Regan
-Paul E. DuCharme
-Bryan Kirschner
-Jordan Wyatt
-Shankar Ramaswamy
-Chris von See
-Shubhra Sinha
-Brian Mulloy
-Gregory Brail
-Srinivasa Gandhi Sampath
-Chris Arisian
-David Allen
-Sanjeev Srivastav
-Shailaja Pittie
-Barry Lieberman
-Rob Taylor
-Bala Kasiviswanathan
-Ashley Phan
-Sarthak Gangopadhyay
-Sriram Padmanabhan
-Martin Nally
-Shreya Krishnan
-Chris Latimer
-Sandeep Murusupalli
-Maruti Chowdavarapu
-Brian Coulter
-Pooja Jain
-Prithpal Bhogill
-Eszter Szikora
-Anil Sagar
-Don Dixon
-Prabhat Jha
-Martha Jager
-Joshua Norrid
-Bob Glass
-Angel Oberoi
-Steve Richardson
+Alan Languirand
 Alex White
-Hansel Miranda
-Ricardo de Andrade
-Reet Mand
-Sam Ramji
-Martin Borowsky
-Helen Whelan
-Konrad App
-Ashley Austin
-Peter Cutler
-Pranav Parekh
-Erin Parker
-David Andrzejek
-Layne Bro
-Joy Thomas
-Michael Leppitsch
-Brinda Lovely
+Anant Jhingran
+Angel Oberoi
+Anil Sagar
+Anurag Wadehra
 Arun Kumar
-Maudrit Martinez
-Sanjoy Bose
-Marc Schreuder
-Diego Zuluaga
-Harsh Chevuru
-Pablo Kenney
-Waqar Hasan
-Oscar Ponce
+Ashley Austin
+Ashley Phan
+Bala Kasiviswanathan
+Barry Lieberman
+Bob Glass
+Brian Coulter
+Brian McNamara
+Brian Mulloy
+Brian Pagano
+Brinda Lovely
+Bryan Kirschner
+Cass Obregon
+Chet Kapoor
+Chris Arisian
+Chris Latimer
 Chris Novak
 Chris Vogel
-Karthik Nair
-Marsh Gardiner
-Kurt Kanaskie
-Rajesh Jadhav
-Denis Dorval
-Dino Petrakis
-Brian Pagano
+Chris von See
+Dave Hurlbrink
 Dave Roberts
-Sri Vidya Annapragada
-Matthew Dobson
+David Allen
+David Andrzejek
+David MacDonald
+Denis Dorval
+Denise Persson
+Diego Zuluaga
+Dino Chiesa
+Dino Petrakis
+Don Dixon
+Ed Anuff
+Eric Cross
+Erin Parker
+Eszter Szikora
+Gregory Brail
+Hansel Miranda
+Harsh Chevuru
+Helen Whelan
+Jeremy Anticouni
 Joe Black
 John Rethans
-Brian McNamara
-Morgan Hall
-Alan Languirand
-Scott Saxon
+Jordan Wyatt
+Joshua Norrid
+Joy Thomas
+Karthik Nair
+Konrad App
+Kurt Kanaskie
+Layne Bro
 Leanne Moir
-Jeremy Anticouni
-Rajesh Bhargava
-David MacDonald
-Dave Hurlbrink
-Cass Obregon
+Marc Schreuder
+Marsh Gardiner
+Martha Jager
+Martin Borowsky
+Martin Nally
+Maruti Chowdavarapu
+Matthew Dobson
+Maudrit Martinez
+Michael Leppitsch
+Morgan Hall
 Olaf de Senerpont Domis
+Oscar Ponce
+Pablo Kenney
+Paul E. DuCharme
+Peter Cutler
+Pooja Jain
+Prabhat Jha
+Pranav Parekh
+Prithpal Bhogill
+Rajesh Bhargava
+Rajesh Jadhav
+Reet Mand
+Ricardo de Andrade
+Rob Taylor
+Sam Ramji
+Sandeep Murusupalli
+Sanjeev Srivastav
+Sanjoy Bose
+Sarthak Gangopadhyay
+Scott Regan
+Scott Saxon
+Shailaja Pittie
+Shankar Ramaswamy
+Shreya Krishnan
+Shubhra Sinha
+Sri Vidya Annapragada
+Srinivasa Gandhi Sampath
+Sriram Padmanabhan
+Stacey Giamalis
+Steve Richardson
+Steve Rowland
+Waqar Hasan

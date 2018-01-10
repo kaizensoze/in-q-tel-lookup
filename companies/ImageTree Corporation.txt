@@ -1,114 +1,85 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Chuck Anderson
-Kurt Muller
-Douglas Larmour
-Steven Schreiber
-Wendy Silvers
-Dan Servian
-Bob Pliszka
-Kelly Barkhurst
-Matthew Seese
-Jay Watrous
-Ryan Shenk
-Mark Hockley
 Aaron Barkhurst
+Adam Diminic
+Aimee Dupuis
+Andy Zalay
 Barry DeBoard
+Bob Pliszka
+Brandon Bolarinho
+Brandon Johnson
 Brian Hamilton
-Jeff Simcoe
-Robert Garland
-Michelle LaRue
-Micah Fisher
-Jessica Miller
-Rajvi Shah
+Brian Lapin
+Brittany Dennison
+Cassidi Young
+Chad Prescher
+Charlotte Tucker
+Christie Zimmer
+Chuck Anderson
+Claire Smith
 Conrad Melanson
+Cory Campbell
+Craig Chiswell
+Dan Servian
+Darren Speedie
+David Gabriel
+Deborah Coter-Emmanuel
+Devon Veillette
+Douglas Larmour
+Eileen Dibartolo
+Erin Davis
+Floris Scheplitz
+George Fulton
+Gustaw Laskowicz
+Hannan Mian
+Hayward Singletary
+Heidi Suri
+Jay Watrous
 Jeff Kowell
+Jeff Simcoe
+Jeffrey Labonski
+Jennifer Connolly
+Jessica Miller
+John Grant
+Jon Darling
+Jones Sharon
+Kelly Barkhurst
+Kermie S. Bledsoe
+Kurt Muller
+Kyna Moser
+Lake Kowell
+Larry Fuller
+Laurie Eldridge-Shanaman
+Marie Brown
+Mark Hockley
+Matthew Seese
+Micah Fisher
+Michel Gamache
+Michelle LaRue
+Mike McGowan
+Paul Smyth
+Philip Spangler
+Raj Vasisht
+Rajvi Shah
+Renata Del Luongo
+Rob Miller
+Robert Garland
+Ryan Shenk
+Sara Marsden
+Sara Marsden-Shreeve
+Sara Shreeve
+Scott Nissenbaum
+Seb Chiffers
+Shelley Heinrich
+Sonnet Jones
+Stephen Placial
+Stephen Truchan
+Steven Schreiber
+Stuart McKay
+Sumit Chakravarty
+Sumita Balhara
+Tamara Pettypiece
+Ted Boone
+Tony Flood
+Victoria Evans
 Wendy Silvers
 christina hammond
-Larry Fuller
-Brandon Johnson
-George Fulton
-Sumita Balhara
 sumit chakravarty
-Philip Spangler
-Micah Fisher
-Jeffrey Labonski
-Deborah Coter-Emmanuel
-John Grant
-Eileen Dibartolo
-Sara Marsden-Shreeve
-Rob Miller
-Lake Kowell
-Jon Darling
-Ted Boone
-Scott Nissenbaum
-Brittany Dennison
-Jeff Kowell
-Darren Speedie
-Jeff Kowell
-Paul Smyth
-Chad Prescher
-Brandon Bolarinho
-Sonnet Jones
-Floris Scheplitz
-Jones Sharon
-Hayward Singletary
-Sumit Chakravarty
-Jon Darling
-Gustaw Laskowicz
-Cassidi Young
-Laurie Eldridge-Shanaman
-Jennifer Connolly
-Stephen Placial
-Aimee Dupuis
-Erin Davis
-Heidi Suri
-Cory Campbell
-Kermie S. Bledsoe
-Craig Chiswell
-Raj Vasisht
-Laurie Eldridge-Shanaman
-Stephen Truchan
-Tamara Pettypiece
-Sara Shreeve
-Hannan Mian
-Sumit Chakravarty
-Shelley Heinrich
-Andy Zalay
-Mike McGowan
-Jon Darling
-Michel Gamache
-Christie Zimmer
-Victoria Evans
-Robert Garland
-Marie Brown
-Devon Veillette
-sumit chakravarty
-Kyna Moser
-David Gabriel
-Renata Del Luongo
-Brian Lapin
-Tony Flood
-Claire Smith
-Sara Marsden
-Seb Chiffers
-Stuart McKay
-Charlotte Tucker
-Adam Diminic

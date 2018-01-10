@@ -1,114 +1,89 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Kristi Hill
-Charles Erwin
-Roy Priest
-Victor Vega
-Larry Lowe
-Jack Arnold
-Craig Wysock
-Daniel Noland
-Cody Parker
-Jason Bridges
-Ryan Pierce
-Chris Smith
-Dean Hudson
-Thomas Honeycutt
-Josh Kerley
-Garrett Gammon
-Scott Borchers
-Justin Stiles
-Lindsey Hornbacher
-Chris Baldridge
-Dean Hudson
-David Hoffman
-Rick Driesbach
-Don Nalley
-Janette Rawls
-Cyrus Wilson
-John Quintana
-Stephanie Berryman Rauseo
-Geno Pinczewski
-Thomas Brandon
-Travis Large
-John L. Burger
-Michael Holt
-Rosemary Bridges
-Michael Yi
-Dennis Grantham
-Daniel Dye
-Lisa Brunegraff
-Nicolino Parisi
-Karen Sanders
-Shayna Lewis
-Matthew Macon
-Rosemary Kramer
-Boag Joice
-Robin Blackmon
-Ty King
-Naven Knutson
-DeMond Dearing Sr.
-Logan Cook
-Cindy Tokash
-Angie Angie McMunn
-Shawn Anderson
-Leigh Anne Parcus
-Jackson Lamar
-Martha Miller
-Zeb Fisk
-Will Culpepper
-Heidi Olson
-Thomas Honeycutt
-Brian Packard
-Gary Narmore
-Kendrick Rogers
-John Hagan
-Thomas Honeycutt
-Taylor Larsen
-Sharon Ortiz
-Tom Gadomski
-Keri Echols
-Cyrus Wilson
-Michael Ott
-Linda Morard
-Steven Sweeney
-Alan Stewart
-Hugh Clapp
-Rocky Collins
-Mike Gregg
-Allen Rawlings
-Laura Gordon
-Christina Ninh
-Kevin Flinn
-Jack Arnold
-Melanie Craddock
-Tc Miller
-Roy Priest
-Melissa Natividad
-PRAVEENA KOMMIDI
-Lori McCleskey
-Rebekah Thatcher
-Ingrid Esser
-Matt Morman
 Adam Bilyeu
-Michelle A. Passarell
+Alan Stewart
+Allen Rawlings
+Angie Angie McMunn
+Boag Joice
+Brian Packard
+Charles Erwin
+Chris Baldridge
+Chris Smith
+Christina Ninh
+Cindy Tokash
+Cody Parker
+Craig Wysock
+Cyrus Wilson
+Daniel Dye
+Daniel Noland
+David Hoffman
+DeMond Dearing Sr.
+Dean Hudson
+Dennis Grantham
+Don Nalley
+Garrett Gammon
+Gary Narmore
+Geno Pinczewski
+Heidi Olson
+Hugh Clapp
+Ingrid Esser
+Jack Arnold
+Jackson Lamar
+Janette Rawls
+Jason Bridges
+John Hagan
+John L. Burger
+John Quintana
 Jordan Forness
+Josh Kerley
+Justin Stiles
+Karen Sanders
+Kendrick Rogers
+Keri Echols
+Kevin Flinn
 Kevin McGough
+Kristi Hill
+Larry Lowe
+Laura Gordon
+Leigh Anne Parcus
+Linda Morard
+Lindsey Hornbacher
+Lisa Brunegraff
+Logan Cook
+Lori McCleskey
 Mark Terseck
+Martha Miller
+Matt Morman
+Matthew Macon
+Melanie Craddock
+Melissa Natividad
+Michael Holt
+Michael Ott
+Michael Yi
+Michelle A. Passarell
+Mike Gregg
+Naven Knutson
+Nicolino Parisi
+PRAVEENA KOMMIDI
+Rebekah Thatcher
+Rick Driesbach
+Robin Blackmon
+Rocky Collins
+Rosemary Bridges
+Rosemary Kramer
+Roy Priest
+Ryan Pierce
+Scott Borchers
+Sharon Ortiz
+Shawn Anderson
+Shayna Lewis
+Stephanie Berryman Rauseo
+Steven Sweeney
+Taylor Larsen
+Tc Miller
+Thomas Brandon
+Thomas Honeycutt
+Tom Gadomski
+Travis Large
+Ty King
+Victor Vega
+Will Culpepper
+Zeb Fisk

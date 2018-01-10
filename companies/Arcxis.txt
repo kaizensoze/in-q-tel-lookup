@@ -1,92 +1,62 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Andrew Thorsett
-Trong Le
-John Jansen
-Howard Goldstein
-Steve Nelson
-Kristin Barron
-Luc Stevens
-Mike DeRenzi
-Kyle Hukari
-Rupanshu Verma
-Brent Satterfield
-Jay West
-Andrew Thorsett
-Gwen Garvy-Lucero
-Seth Stern
-Tom Stadfelt
-Michael Shultz
-Pallavi Shah
-Jesse Thompson
-Michael Ruvolo
 Alex Hutcheson
-Fabian Van de Graaf
-Wendy Luo
-Lee Langelli
-Matt Bartosiewicz
-Michelle Hixon
-Jody Taylor
-Igor Sterenzat
-Tamara Cushway
-Shawana Green
-Amy Rule
-Fabian van de Graaf
-Dane Nelson
-Tina Legler
-Jeff Monroy
-Robert Sanford
-Ira Peezick
-Robert Sanford
-gilles selasme
-Candice Dunham
-Janelle Beuley
-Darius Mostowfi
-Jia Guo
-Tamara Cushway
-Richard Milson
-Luc Stevens
-Susan Baez
-Paul Sprinkle
-Luc Stevens
-luc stevens
-Luc Stevens
-Luc Poron
-LUC STEVENS
-Christof Corten
-Frank Selleslagh
-Mike Vanduffel
-Luc Stevens
-gwendolyn lucero
-Luc STEVENS
 Allen Rentz
-Jesse Thompson
-Michael Raia
-Brant Hendrickson
-Mark S Roberts
-Bradley Oswald
-ezra van gelder
-Lourdes Osaba
-Luc Stevens
-William Gear
-Tinne Bosch
+Amy Rule
 Andrew Thorsett
-Jesse Thompson
+Bradley Oswald
+Brant Hendrickson
+Brent Satterfield
+Candice Dunham
+Christof Corten
+Dane Nelson
+Darius Mostowfi
+Fabian Van de Graaf
+Fabian van de Graaf
 Femke van Riel
+Frank Selleslagh
+Gwen Garvy-Lucero
+Howard Goldstein
+Igor Sterenzat
+Ira Peezick
+Janelle Beuley
+Jay West
+Jeff Monroy
+Jesse Thompson
+Jia Guo
+Jody Taylor
+John Jansen
+Kristin Barron
+Kyle Hukari
+LUC STEVENS
+Lee Langelli
+Lourdes Osaba
+Luc Poron
+Luc STEVENS
+Luc Stevens
+Mark S Roberts
+Matt Bartosiewicz
+Michael Raia
+Michael Ruvolo
+Michael Shultz
+Michelle Hixon
+Mike DeRenzi
+Mike Vanduffel
+Pallavi Shah
+Paul Sprinkle
+Richard Milson
+Robert Sanford
+Rupanshu Verma
+Seth Stern
+Shawana Green
+Steve Nelson
+Susan Baez
+Tamara Cushway
+Tina Legler
+Tinne Bosch
+Tom Stadfelt
+Trong Le
+Wendy Luo
+William Gear
+ezra van gelder
+gilles selasme
+gwendolyn lucero
+luc stevens

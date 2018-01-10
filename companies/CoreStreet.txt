@@ -1,103 +1,82 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Emerick Rogul
-Phil Libin
-Leon Wilde
-Jason Terk
-Karl Weintz
-Dave Engberg
-John Brennan
-Marina Teper
+Aaron Bender Ph.D.
 Andrew McGeachie
-Todd Freyman
-Bob Dulude
-Jim Gennari
-Russ Freely
-Scott Arthur
-Andrew Sinkov
-Sang-Ah Kim
-Paul Ohrenberger
-Jon Shamah
-Steve Kruse
-Norman Schibuk
-William Hartwell
-David Belchick
-Eric Rixon
-STEVEN CHERDIEL
-Robin Hartwell
-simona pilotto
-Nadeem Vellore
-Megan Assarrane
-Riccardo Baron
-Phil Libin
-Paul DeCrisantis
-Ben Erwin
-Jeffrey Seifer
-Valentina Speranzini
-Stefano DAmico
-Mira Alden
-Heather Wilde
-Nizam Ali
 Andrew Modzelewski
-Maren Perry
+Andrew Sinkov
 Andy LeClair
-Chris Dahl
-Slava Zatuchny
-Pathway to Potential
-Lynn Chien
-James Ward
-Marcello Tortorici
-Isaac Nichelson
-Ghanshyam Upadhyay
-Nathalie McKean
-James Robertson
+Avierinos Jean-Robert
+Beatrice Dautriche
+Ben Erwin
 Bill Markel
 Birpal Virdee
-John Bys
-Elesha Santos
-Edward McLaughlin
-Rob Cryan
-Sven Rajala
-Keith Patterson
-Simona Rosu
-Harry Delon
-Paul Siegel
-Robert Werner
-Ernesto Mislej
-Beatrice Dautriche
-Peter Mulligan
-peg feldt
-Emma Polini
-Kiyota Sage
-Fanuel T Hagos
-Avierinos Jean-Robert
-Leonard Goldstein
-Siarra T. Mong
-Marie DeLorenzo
-Julie Mather
-Jesse Zhang
-Sophie Laguesse
+Bob Dulude
 Brenda Curtis
-Emily Lucas
-Krishna Zivraj
-Chris Dahl
-Aaron Bender Ph.D.
 Chase Dafnis
+Chris Dahl
+Dave Engberg
+David Belchick
+Edward McLaughlin
+Elesha Santos
+Emerick Rogul
+Emily Lucas
+Emma Polini
+Eric Rixon
+Ernesto Mislej
+Fanuel T Hagos
+Ghanshyam Upadhyay
+Harry Delon
+Heather Wilde
+Isaac Nichelson
+James Robertson
+James Ward
+Jason Terk
+Jeffrey Seifer
+Jesse Zhang
+Jim Gennari
+John Brennan
+John Bys
+Jon Shamah
+Julie Mather
+Karl Weintz
+Keith Patterson
+Kiyota Sage
+Krishna Zivraj
 Lara Dildy
+Leon Wilde
+Leonard Goldstein
+Lynn Chien
+Marcello Tortorici
+Maren Perry
+Marie DeLorenzo
+Marina Teper
+Megan Assarrane
+Mira Alden
+Nadeem Vellore
+Nathalie McKean
+Nizam Ali
+Norman Schibuk
+Pathway to Potential
+Paul DeCrisantis
+Paul Ohrenberger
+Paul Siegel
+Peter Mulligan
+Phil Libin
+Riccardo Baron
+Rob Cryan
+Robert Werner
+Robin Hartwell
+Russ Freely
+STEVEN CHERDIEL
+Sang-Ah Kim
+Scott Arthur
+Siarra T. Mong
+Simona Rosu
+Slava Zatuchny
+Sophie Laguesse
+Stefano DAmico
+Steve Kruse
+Sven Rajala
+Todd Freyman
+Valentina Speranzini
+William Hartwell
+peg feldt
+simona pilotto

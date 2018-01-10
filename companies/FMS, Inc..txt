@@ -1,114 +1,94 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Luke Chung
-Nicole Lake
-Dennis Hammarquist
-Paul Rongey
-Dan Wasser
-Tracy Brown
-John Smith
-Terry White
-Michael Casady
-Forrest Towry
-Jim Ferguson
-Elizabeth Cruse
-Lisa Gillilan
+Adam Pollard
 Andrew Dykman
-Mark Gourley
-John Litchfield
-Harmony Mallory
-David Matherly
-Butch Mcbride
-Michele Evangelista-Lehnus
-James Lawson
-Christine Hill
-Ron Fredericks
-Nicole Hardee
-Matt Lapin
-Ric Burns
-Karrie Rainey-Fisher
+Anthony Reyes
 Beth Gomez
-Creston Harris
-Chris Svenson
-Gary Winner
-Daniel Doiron
-Steve Blumin
-Jaison Lecount
-Nick Moore
-Trissy Evangelista
-Mitchell Tsai
-Frank Strasek
 Bob Graybill
-Michael Wolfer
-Jason Hogg
 Brad Stevens
-Jeremy Blumin
-Matthew Crow
-Julia Williams
-Fun Magic Style
-alfredo ibarra
-Jeff Gillian
-meosha sheppard
-Hamid Shirkhan
+Brenda Fanguy Sonier
+Brendan Burk
+Butch Mcbride
+Chris Svenson
+Christine Hill
+Christopher Buckley
+Creston Harris
+Dan Haught
+Dan Wasser
+Dana Bradd
+Daniel Doiron
+David Matherly
+Dennis Hammarquist
+Don Helms
+Elizabeth Cruse
+Eric Doig
+Forrest Towry
 Fran Moran
 Frank Rizzo
-Anthony Reyes
-Maurice Heilberg
-Jorge Vazquez
-Robert Pigozzi
-Keenan Colquitt
-Eric Doig
-Jerry Kelly
-Brenda Fanguy Sonier
-Dana Bradd
-Traci Forrester
-Adam Pollard
-Michael Luft
-Kate Matties
-Lance Margolin
-Vernon Nelson
-Jessica Blackburn
-Ramesh Shrivastav
-William C. Wyatt
-Laura-Bozhydara Farrell
-Therese Watson
-Sam Hadad
-Ray Pecor
-Myriam Stunkard
-Don Helms
-Victor Batchelor
-Kathryn L. Martin
-Dan Haught
-Brendan Burk
-Tonya Maupin
-Michelle Parker
-Madan Achuri
-Tony Damalas
+Frank Strasek
+Fun Magic Style
+Gary Winner
+Hamid Shirkhan
+Harmony Mallory
 Harold Cameron
-Nickolas Narczewski
-Michael Phillips
+Jaison Lecount
+James Lawson
+Jason Hogg
+Jeff Gillian
 Jenny Boone Sappington
-Tom Hall
-Mellenie Runion
-Tripp Davenport
+Jeremy Blumin
+Jerry Kelly
+Jessica Blackburn
+Jim Ferguson
+John Litchfield
+John Smith
+Jorge Vazquez
+Julia Williams
 Karen Benoit
+Karrie Rainey-Fisher
+Kate Matties
+Kathryn L. Martin
+Keenan Colquitt
+Lance Margolin
+Laura-Bozhydara Farrell
+Lisa Gillilan
+Luke Chung
+Madan Achuri
+Mark Gourley
+Matt Lapin
+Matthew Crow
+Maurice Heilberg
+Mellenie Runion
+Michael Casady
+Michael Luft
+Michael Phillips
+Michael Wolfer
+Michele Evangelista-Lehnus
+Michelle Parker
+Mitchell Tsai
+Myriam Stunkard
+Nick Moore
+Nickolas Narczewski
+Nicole Hardee
+Nicole Lake
+Paul Rongey
 Philip Germansderfer
-Christopher Buckley
-Dan Wasser
+Ramesh Shrivastav
+Ray Pecor
+Ric Burns
+Robert Pigozzi
+Ron Fredericks
+Sam Hadad
+Steve Blumin
+Terry White
+Therese Watson
+Tom Hall
+Tony Damalas
+Tonya Maupin
+Traci Forrester
+Tracy Brown
+Tripp Davenport
+Trissy Evangelista
+Vernon Nelson
+Victor Batchelor
+William C. Wyatt
+alfredo ibarra
+meosha sheppard

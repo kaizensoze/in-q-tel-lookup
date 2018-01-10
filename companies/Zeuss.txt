@@ -1,78 +1,55 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Brandon White
-Steven Kaufman
-Dan Reed
+Adrian Ho
+Alisa Noreyan
+Amanda Zweerink
+Ashwin Singh
+Barbara Brown
 Barrett Mattison
-Steve Hoffman
-Chris Howard
-Reinier Knijff
-Francisco Toro Uribe
-Maja Szymanska
-Dan Cardin
-Melvin Cordova
-Doug Madgic
-Doug Hill
-Gia Beverati
-JORGE CALDERON
-John Higgins
-Thomas Dann
-Somel Thakkar
-andi lala
-dylan freshwater
-David Naylor
-Rob White
+Becky Lang
+Brad Surcey
+Brandon White
 Catalina Florez
+Chris Howard
+Christian Erickson
+Dale Wilson
+Dan Cardin
+Dan Reed
+David Annis
+David Naylor
+Doug Hill
+Doug Madgic
+Ellen Schneider
+Eric Frost
+Eric Tao
 Eva Wiese
+Francisco Toro Uribe
+Gabriel Correa
+Gerrit van Zyl
+Gia Beverati
+Issam Nouiri
+JORGE CALDERON
+Jibri Nuriddin
+John Higgins
+Keith Van Erdewyk
+Maja Szymanska
+Martha Loeffler
+Mary Pollock
+Melvin Cordova
+Nelson Naranjo G.
+Noralba Gaviria
+Phil Jung
+Reinier Knijff
+Richard Cooke
+Rob White
+Ross Jack Ranby
 Ryan J Downey
 Seth Shuldiner
-Mary Pollock
-Dale Wilson
-Ross Jack Ranby
-Martha Loeffler
-julio cordoba diaz
-Phil Jung
-Adrian Ho
-Wes Schumann
-Brandon White
-David Annis
-Noralba Gaviria
-Ashwin Singh
-Gerrit van Zyl
-Christian Erickson
-Brandon White
-Brandon White
-Ellen Schneider
-Vadim Israilevich
+Somel Thakkar
+Steve Hoffman
+Steven Kaufman
 Theodoros Fotiadis
-Richard Cooke
-Nelson Naranjo G.
-Jibri Nuriddin
-Eric Tao
-Becky Lang
-Gabriel Correa
-Eric Frost
-Dan Cardin
-Amanda Zweerink
-Barbara Brown
-Keith Van Erdewyk
-Issam Nouiri
-Brad Surcey
-Alisa Noreyan
+Thomas Dann
+Vadim Israilevich
+Wes Schumann
+andi lala
+dylan freshwater
+julio cordoba diaz

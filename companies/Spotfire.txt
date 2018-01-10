@@ -1,116 +1,96 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Patrick Mulholland
-Catalina Herrera
+Abhijit Dengale
+Adam Wojciechowski
 Aditya Singh
-Brad Hopper
-Patrick Mulholland
-Pavan Lingam
-Tulsi Vuppu
-Jose Leviaguirre
-Peter Shaw
-Thomas Siering
-Stephen Leung
-Hector Martinez
-Ian Cook
-Siva Gudipati
-Timothy Alexander
-Pankaj Jain
-Julie Schellberg
-Prafulla Kharwadey
-Ashwini Kumar
-Sean Riley
-Christopher Disdero
-Natalia Ferezin
-David Moore
+Amit Sharma
 Andreas Laestadius
 Andrew Farrell
-Laura Dye
-Lou Bajuk
-Sandra Wentworth Oral
-Craig Hattabaugh
+Andrew Schwarz
+Anil Ponnapalli
+Ankit Thakkar
+Anna Maria Nowakowska
+Arnaud Simon
+Ashwini Kumar
+Babitha Bobba
+Bob Moore
+Brad Hopper
 Brian Prather
-Natasha Di Cocco
-Ryan Elizabeth Anson
-John Hand
-Paul Basile
-Tiru M
-Amit Sharma
-Mahesh Konduru
-Tobias Lehtipalo
-Sandhya Prusty
-Sridhar Kantamani
-Kaushal Pathak
+Bruce Windoffer
 Cam Schriefer
-Sanjiva Reddy
-Saritta H
-Michael Kalada
+Catalina Herrera
+Chandrashekar MC
+Chris Dugas
+Christopher Disdero
+Craig Hattabaugh
+Darlington Ugboaja
+Dave Athey
+David Moore
 David Mosenkis
+David Richardson
 Erin McHugh Saif
-Vidya Sagar Malla
+Gunnar Wolff
+Hector Martinez
+Ian Cook
 Jessica Cornell
 John Buckley
-Zakari Smith
-Dave Athey
-Bruce Windoffer
-Mike Wilhelm
-Uday Hejmadi
-Vishnu vivek Subramaniam
-Knut Makowski
-Stephen Kirk
-Swathi Lakshmi Rangudu
-Steve Piper
-Chandrashekar MC
-Sid Matta
-Stuart Blair
-Abhijit Dengale
-Shamel Shukoor
-Ankit Thakkar
-Andrew Schwarz
-Gunnar Wolff
-Tom Hurley
-Ryan Keel
-David Richardson
-Robert Odegard
-Darlington Ugboaja
-Vasu Chinthoti
-Luca de Falco
-sai ram
-Adam Wojciechowski
-Rupesh Kamma
-Chris Dugas
 John Dinning
-Anil Ponnapalli
-Varun Varghese
-Shakeel Muhajir
-Sanjay Roy
-Raghav Kondapalli
-Babitha Bobba
-Pritam Karmakar
-Pratik Goyal
-Arnaud Simon
-Mithun Mathews
-Anna Maria Nowakowska
-Matthew Phoenix
-Kevin J. Willoe
-Syed Zaidi
-Yiqun Zhao
+John Hand
+Jose Leviaguirre
+Julie Schellberg
+Kaushal Pathak
 Ken Kane
-Bob Moore
+Kevin J. Willoe
+Knut Makowski
+Laura Dye
+Lou Bajuk
+Luca de Falco
+Mahesh Konduru
+Matthew Phoenix
+Michael Kalada
+Mike Wilhelm
+Mithun Mathews
+Natalia Ferezin
+Natasha Di Cocco
+Pankaj Jain
+Patrick Mulholland
+Paul Basile
+Pavan Lingam
+Peter Shaw
+Prafulla Kharwadey
+Pratik Goyal
+Pritam Karmakar
+Raghav Kondapalli
+Robert Odegard
+Rupesh Kamma
+Ryan Elizabeth Anson
+Ryan Keel
+Sandhya Prusty
+Sandra Wentworth Oral
+Sanjay Roy
+Sanjiva Reddy
+Saritta H
+Sean Riley
+Shakeel Muhajir
+Shamel Shukoor
+Sid Matta
+Siva Gudipati
+Sridhar Kantamani
+Stephen Kirk
+Stephen Leung
+Steve Piper
+Stuart Blair
+Swathi Lakshmi Rangudu
+Syed Zaidi
+Thomas Siering
+Timothy Alexander
+Tiru M
+Tobias Lehtipalo
+Tom Hurley
+Tulsi Vuppu
+Uday Hejmadi
+Varun Varghese
+Vasu Chinthoti
+Vidya Sagar Malla
+Vishnu vivek Subramaniam
+Yiqun Zhao
+Zakari Smith
+sai ram

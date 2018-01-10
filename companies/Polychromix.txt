@@ -1,69 +1,39 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Dan Klevisha
-Stephen Senturia
-David Day
-Richard Crocombe
-Igor Nazarov
+Abraham McAllister
 Ashley Gelineau
+Bernd Guggolz
+Brian Doherty
+CHAD WEBER
+Chandra Mouli Ramani
+Chet Som
+Christine Tong
+Dan Klevisha
+Dan Youngner
+David Day
+David Enright
+Diego Henao
 Duane Sword
+Eric Jahn
+Frederick Haibach
+Grant Pritchard
+Igor Nazarov
+James Smith
+Jeff Christian
+Jim Knowles
+Jon Tibbetts
+Julie Dimakou
+Ken Nightingale nightingale
+Kristin Alexander
+Lily Kim
+Luke McCaffrey
+Malcolm Smith
+Martha Schermer
+Nancy Fauci
+Peter Mottla
+Richard Crocombe
+Simon Watson
+Stephen Senturia
+Suzanne Schreyer
+Todd Rose
+Tracy Wang
 brian mitchell
 dan klevisha
-Frederick Haibach
-Chandra Mouli Ramani
-Dan Youngner
-Peter Mottla
-Suzanne Schreyer
-Igor Nazarov
-Suzanne Schreyer
-Peter Mottla
-Eric Jahn
-Bernd Guggolz
-Lily Kim
-Abraham McAllister
-Jim Knowles
-Malcolm Smith
-Jon Tibbetts
-Martha Schermer
-Brian Doherty
-Kristin Alexander
-Grant Pritchard
-Jeff Christian
-Christine Tong
-brian mitchell
-brian mitchell
-Luke McCaffrey
-Simon Watson
-Ken Nightingale nightingale
-James Smith
-David Enright
-Igor Nazarov
-CHAD WEBER
-Todd Rose
-Nancy Fauci
-Tracy Wang
-Igor Nazarov
-Julie Dimakou
-Abraham McAllister
-Chet Som
-Diego Henao
-Igor Nazarov
-Todd Rose
-Peter Mottla

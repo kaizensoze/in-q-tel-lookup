@@ -1,103 +1,80 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Vadim Sapiro
-Kevin Krenitsky M.D.
+Albert Risdorfer
+Alex Saeed
+Amanda Eiche
+Amy Edwards
+Azzouz Bencheikh
+Bin Zhu
+Bob McKiel
+Brad Packard
 Brandon Pindulic
-Michael Farmer
-Trevor Wagner
-Terry Walker
+Brian Murray
+Buffy Stahl
 Charles Thornton
-Tim Dec
+Chris Carlin
 Chris Sullivan
+Christine Newton
+Christy Cole
 Clayton Collier
 David Hoekzema
-Fran Astore - Shay
-Tim Howe
-Evan Jones
 Doug White
-Chris Carlin
-Mary Jane Vaswani
-Rossio Kersey
-Tony Rockweiler
-Eric Winzer
-Timothy Thornton
-Albert Risdorfer
-Richard Moore
-Kathleen Wager
-John Henkhaus
-Amanda Eiche
-Noel Doheny
-Joe Shaw
-Brian Murray
-Jess Tucker
-Steven Easley
-Luke Benko
-Louis Gardner
-Julia Quan
-Kelly Frye
-Larry Wellman
-Mary Ann Allen
-Alex Saeed
-Stephen Higgins
-Bin Zhu
-Jason Troxell
-Wenlong Jiang
-Valerie Darling
-Noel Doheny
-Joy Sheng
-Ken Pachkowsky
-Erin Sobanski
-Steve Summers
-Richard Tsai
-Matt Lewis
-Emily Zentz
-Dr. Uma Ananth
-giorgi kintsurashvili
-Weizhong Chang
-Mike Fitzpatrick
-Tom Ross
-Judy Macemon
-Ryan N. Ptashkin
-Kelly Frye
-Mary Ann Heinzeroth-Mongo
-Jo Resnick
-Brad Packard
-Joseph Shaw
-Erin Newburn
-Mark Puopolo
-Jonathan Hufton
-Azzouz Bencheikh
-Russell Leask
-Bob McKiel
-Christy Cole
-Randy Dorning
-Steve Eicher
-Ronald Burggrave
-Ric Galle
-Joy Sheng
-Nikhil Toraskar
-Irene Khan
-Joy Sheng
-Buffy Stahl
-Amy Edwards
-Christine Newton
-Janet Lee
 Douglas Toal
+Dr. Uma Ananth
+Emily Zentz
+Eric Winzer
+Erin Newburn
+Erin Sobanski
+Evan Jones
+Fran Astore - Shay
+Irene Khan
+Janet Lee
+Jason Troxell
+Jess Tucker
+Jo Resnick
+Joe Shaw
+John Henkhaus
+Jonathan Hufton
+Joseph Shaw
+Joy Sheng
+Judy Macemon
+Julia Quan
+Kathleen Wager
+Kelly Frye
+Ken Pachkowsky
+Kevin Krenitsky M.D.
+Larry Wellman
+Louis Gardner
+Luke Benko
+Mark Puopolo
+Mary Ann Allen
+Mary Ann Heinzeroth-Mongo
+Mary Jane Vaswani
+Matt Lewis
+Michael Farmer
+Mike Fitzpatrick
+Nikhil Toraskar
+Noel Doheny
+Randy Dorning
+Ric Galle
+Richard Moore
+Richard Tsai
+Ronald Burggrave
+Rossio Kersey
+Russell Leask
+Ryan N. Ptashkin
 Shiguo Zhou
+Stephen Higgins
+Steve Eicher
+Steve Summers
+Steven Easley
+Terry Walker
+Tim Dec
+Tim Howe
+Timothy Thornton
+Tom Ross
+Tony Rockweiler
+Trevor Wagner
+Vadim Sapiro
+Valerie Darling
+Weizhong Chang
+Wenlong Jiang
+giorgi kintsurashvili

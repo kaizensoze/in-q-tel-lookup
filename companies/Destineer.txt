@@ -1,115 +1,94 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Peter Tamte
-Chris Lundeen
-Bryan Anderson
-Greg Grimes
-Toto Sugiarto
-Matthew Haglund
-John Brooks
-Jamie Cooper
-Jeremy Bryant
-Preston Palmer
+Adam Burback
 Al Schilling
-Justin Holman
-Jim Wroblewski
-Leo Bartkus
-Paul Murphy
-Steven D. Ellis
-Tyler Hay
-David Rogers
-Jason Gott
-Kirk Young
-Jon Hawkins
-Mariette Du Toit-Helmbold
-Jackson Tomlinson
-Phil Abbott
-Jason Schneider
-Brandon BeCraft
-Tobias Karlsson
-James Robrahn
-Marc Jensen
-David Kuykendall
+Andrew Conroy
+Bo Wilson
 Bob Strenger
-John Peacock
-Nick Heikkila
-Michael Sacco
-Susan Richards
+Brandon BeCraft
+Brandon Dilmore
+Bryan Anderson
+Ced Funches
+Chris Lundeen
 Chris Reeves
-Scott Atkins
-Dave Krocak
-Jack Wilcox
-Ken Cockerham
-Thomas Whitener
-Clark Crawford
 Christian Countryman
-John Ullrich
-Preston Palmer
+Christine Neville
+Clark Crawford
+Danny Angelo Carminati Grein
+Darrin Pepe
+Dave Krocak
+David Kuykendall
+David Rogers
+David Stengel
 David Wessman
 Duane Myers
-Jason Waldron
-Kevin Sizer
-Evan Jones
-Jeff Rehbein
-Andrew Conroy
-Gary Oliverio
-Patrick Jannette
-Eric Tiedeken
-Tim Moravec
-Samantha Mitchell
-Reuben Thompson
-Jacob Scheve
-Nicole Snell
-Danny Angelo Carminati Grein
-Paul Graber
-Reed Stoven
-David Stengel
-Adam Burback
-Brandon Dilmore
-Robin Mead
 Dustin Schwartz
-Matthew Doyle
-Michael J. Dickheiser
-Sam Armstrong
-Lisa Mason
-John T. Farnsworth
-Jason Ingram
-Lucius Dillon
-Bo Wilson
-Darrin Pepe
-Namit Lavekar
 Ed Magnin
-Matt Raithel
-Juan Benito
-Nathan Cheever
-Patrick Sebring
-Lauren Flach Battistini
-Nate Birkholz
-Christine Neville
-Terry Pounds
-Neil Bartkus
-Ziv Wong
-Ced Funches
+Eric Tiedeken
+Evan Jones
+Gary Oliverio
 Gino Fratto
-Kirk Sumner
-Sonya Schoeman
+Greg Grimes
+Jack Wilcox
+Jackson Tomlinson
+Jacob Scheve
+James Robrahn
+Jamie Cooper
+Jason Gott
+Jason Ingram
+Jason Schneider
+Jason Waldron
+Jeff Rehbein
+Jeremy Bryant
+Jim Wroblewski
 Jiovani Medina
-David Rogers
+John Brooks
+John Peacock
+John T. Farnsworth
+John Ullrich
+Jon Hawkins
+Juan Benito
+Justin Holman
+Ken Cockerham
+Kevin Sizer
+Kirk Sumner
+Kirk Young
+Lauren Flach Battistini
+Leo Bartkus
+Lisa Mason
+Lucius Dillon
+Marc Jensen
+Mariette Du Toit-Helmbold
+Matt Raithel
+Matthew Doyle
+Matthew Haglund
+Michael J. Dickheiser
+Michael Sacco
+Namit Lavekar
+Nate Birkholz
+Nathan Cheever
+Neil Bartkus
+Nick Heikkila
+Nicole Snell
+Patrick Jannette
+Patrick Sebring
+Paul Graber
+Paul Murphy
+Peter Tamte
+Phil Abbott
+Preston Palmer
+Reed Stoven
+Reuben Thompson
+Robin Mead
+Sam Armstrong
+Samantha Mitchell
 Scott Addyman
+Scott Atkins
+Sonya Schoeman
+Steven D. Ellis
+Susan Richards
+Terry Pounds
+Thomas Whitener
+Tim Moravec
+Tobias Karlsson
+Toto Sugiarto
+Tyler Hay
+Ziv Wong

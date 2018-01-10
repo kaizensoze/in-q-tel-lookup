@@ -1,112 +1,56 @@
-
-*******************************************************************
-*                                                                 *
-* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
-* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
-* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
-*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
-*                                                                 *
-* TheHarvester Ver. 2.7                                           *
-* Coded by Christian Martorella                                   *
-* Edge-Security Research                                          *
-* cmartorella@edge-security.com                                   *
-*******************************************************************
-
-
-[-] Searching in Linkedin..
-	Searching 100 results..
-Users from Linkedin:
-====================
-Kevin Ames
-Ellie Van Dyke
-Michael Monaghan
-Chris Jones
-Robert Keith
-Ryan Jordan
-Jefferson Jones
-Sten Anderson
-Carl Palmer
-Jim McGee
+Greg Pace
+Gregg Peterson
+Gregory Burden
 Gregory Pupo
 Ian Burke
-Cody Sauer
-Susan George
-Andrew Wade
-Cynthia Liu
-Gregg Peterson
-Wally Lannen
-Ian Burke
-Amy Mack
-Katie Olson
-Nick Reed
-Matt Wynthein
-Glenn Adams
-Katie Nordstrom
-Erik Williams
-Amanda Reineke
-Robert Lubnau
-Cristina Forcina Westermann
-Eric Harlow
+Isadora Jade Smith
+J. Christian Degele
+Jayce Rudig Leathers
+Jeff Ewelt
+Jeff Prather
+Jefferson Jones
+Jen Hamilton
+Jennifer Gonzales
+Jennifer Parsley
 Jessica Fink
-Peck Richard
+Jim McGee
+Joel Kelm
+Julie Smith
+Justin Hogan
+Katie Nordstrom
+Katie Olson
+Kelly Beevers
+Kevin Ames
+Kevin Farrell Jensen
+Lauren Cummings
+Leslie Bachmann
+Lisa Claus
+Matt Wynthein
+Melissa Heuer
+Michael Monaghan
+Mike Booth
+Mike Mansfield
+Nick Reed
+Olly Altendorf
 Pam Streitmatter
 Patrick Parker
-David Kallenbach
-Cynthia Christman
-Jennifer Parsley
-Steve Joliat
-Jayce Rudig Leathers
-Sheri Nicholson
-Justin Hogan
-Lauren Cummings
-Brenda Sweeney
-Danielle Donkin
-Bradley Ball
-Doug Bailey
-Mike Booth
-Ryan Smith
-Greg Pace
-Ed Stubbings
-Gregory Burden
-Kelly Beevers
-Curt Kelley
+Peck Richard
 Preston Lees
-Kevin Farrell Jensen
-CJ Heiny
+Robert Keith
+Robert Lubnau
+Ryan Jordan
+Ryan Smith
 Sara Urbanik
-Crystal Major
-Earl Atwood
-Julie Smith
-Tim Sheehy
-Brian Fennern
-Gordon Sexton
-David Atherton
-Mike Mansfield
-Varun Chandra Reddy
-Jeff Prather
-Tim Cashman
-Carrie Dietz
-Lisa Claus
-Jen Hamilton
-Leslie Bachmann
-Warren Barnard
-Melissa Heuer
-J. Christian Degele
-Bob Townsley
-Craig Adams
-Barry Usher
-Daniel Ritsema
-Isadora Jade Smith
-Jeff Ewelt
-Gary Weadock
-Olly Altendorf
 Shawn Halvorsen
+Sheri Nicholson
+Sten Anderson
+Steve Joliat
+Susan George
 Thomas Gutches
-Joel Kelm
-Bruce Rex
-Derek Stiegemeier
-ronnie wheeler
-Brooke Boone
-Andrew Fojanesi
-Jennifer Gonzales
+Tim Cashman
+Tim Sheehy
 Vance Law
+Varun Chandra Reddy
+Wally Lannen
+Warren Barnard
+ronnie wheeler
