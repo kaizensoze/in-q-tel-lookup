@@ -6,7 +6,7 @@ use warnings;
 # backup source:  https://en.wikipedia.org/wiki/In-Q-Tel
 
 my $url = 'https://www.iqt.org/portfolio/';
-my $contents=`curl -L -s -k $url`;  # site is insecure; k flag required
+my $contents=`curl -L -s $url`;
 
 my @matches = $contents =~ /\<a class=".*esgbox" href=".*?" lgtitle="(.*?)"\>Read More\<\/a\>/g;
 my $i = 0;
